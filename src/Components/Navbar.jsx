@@ -60,7 +60,7 @@ function Navbar() {
       <div className="font-medium text-gray_c text-primary bg-white shadow-md">
 
         <div className="flex items-center py-3 md:py-4 lg:py-0 justify-between w-[100%] lg:w-[100%] xl:w-11/12 mx-auto relative z-[60] bg-white">
-          <div className="flex-shrink-0 lg:basis-1/5 xl:basis-3/12">
+          <div className="flex-shrink-0 lg:basis-1/5 xl:basis-2/12">
             <Link href="/">
               <img className="w-[140px] md:w-[150px] lg:w-[190px] xl:w-[230px]" src="/logo.png" alt="logo" />
             </Link>
