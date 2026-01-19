@@ -1,0 +1,41 @@
+.gallery_intro .swiper-pagination {
+  padding-top: 0;
+  width: max-content;
+  display: block;
+  margin: auto;
+  padding: 0;
+  border-radius: 10px;
+  left: 0;
+  right: 0;
+}
+
+
+.gallery_intro .swiper-pagination-bullet {
+  width: 26px;
+  height: 6px;
+
+  background: #E3E3E3;
+  opacity: 1;
+  border-radius: 0px;
+}
+
+.gallery_intro .swiper-pagination-bullet-active {
+  width: 36px;
+  height: 6px;
+  background-color: #FBCA05;
+  border-radius: 0px;
+  /* Makes the div circular */
+  position: relative;
+
+  opacity: 1;
+}
+
+
+
+
+@media screen and (max-width: 768px) {
+  .gallery_intro .swiper-pagination {
+display: none;
+  }
+
+}

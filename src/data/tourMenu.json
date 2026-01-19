@@ -1,0 +1,527 @@
+{
+  "bharat-dekho": {
+    "regions": [
+      {
+        "name": "North India",
+        "sections": [
+          {
+            "heading": "Himachal Pradesh",
+            "link": "/bharat-dekho/himachal-tour-package", 
+            "links": [
+              { "name": "Shimla", "link": "/bharat-dekho/himachal-tour-package" },
+              { "name": "Manali", "link": "/bharat-dekho/himachal-tour-package" },
+              { "name": "Kufri", "link": "/bharat-dekho/himachal-tour-package" },
+               { "name": "Kullu Valley", "link": "/bharat-dekho/himachal-tour-package" },
+               { "name": "Pandoh Dam", "link": "/bharat-dekho/himachal-tour-package" },
+                 { "name": "Solang Valley", "link": "/bharat-dekho/himachal-tour-package" }
+            ]
+          },
+
+          {
+            "heading": "Varanasi - Spiritual Heritage",
+                 "link": "/bharat-dekho/varanasi-tour-package", 
+            "links": [
+              { "name": "Varanas", "link": "/bharat-dekho/varanasi-tour-package" },
+              { "name": "Ayodhya", "link": "/bharat-dekho/varanasi-tour-package" },
+                  { "name": "Prayagraj", "link": "/bharat-dekho/varanasi-tour-package" }
+            
+            ]
+          },
+           {
+            "heading": "Rajasthan",
+                      "link": "/bharat-dekho/best-rajasthan-tour-package", 
+            "links": [
+              { "name": "Laxminarayan Temple", "link": "/bharat-dekho/best-rajasthan-tour-package" },
+              { "name": "Jal Mahal", "link": "/bharat-dekho/best-rajasthan-tour-package" },
+              { "name": "Ajmer Eklinji", "link": "/bharat-dekho/best-rajasthan-tour-package" },
+                { "name": " Fateh Sagar", "link": "/bharat-dekho/best-rajasthan-tour-package" },
+                   { "name": " Jaipur", "link": "/bharat-dekho/best-rajasthan-tour-package" },
+                       { "name": " Ajmer", "link": "/bharat-dekho/best-rajasthan-tour-package" },
+                         { "name": " Pushkar", "link": "/bharat-dekho/best-rajasthan-tour-package" },
+                          { "name": " Jodhpur Mount Abu", "link": "/bharat-dekho/best-rajasthan-tour-package" },
+                             { "name": " Udaipur", "link": "/bharat-dekho/best-rajasthan-tour-package" }
+            ]
+          },
+          {
+            "heading": "Golden Triangle",
+             "link": "/bharat-dekho/golden-triangle-5n-6d", 
+            "links": [
+              { "name": "Ancient Monuments", "link": "/bharat-dekho/golden-triangle-5n-6d" },
+              { "name": "Lush Gardens", "link": "/bharat-dekho/golden-triangle-5n-6d" },
+              { "name": "Jama Masjid", "link": "/bharat-dekho/golden-triangle-5n-6d" },
+                { "name": "Mughal's Architectural", "link": "/bharat-dekho/golden-triangle-5n-6d" },
+                 { "name": "Amer Fort", "link": "/bharat-dekho/golden-triangle-5n-6d" }
+            ]
+          },
+            {
+            "heading": "Madhya Pradesh",
+                  "link": "/bharat-dekho/madhya-pradesh-pilgrimage-tour", 
+            "links": [
+              { "name": "Drive to Ujjain", "link": "/bharat-dekho/madhya-pradesh-pilgrimage-tour" },
+              { "name": "Omkareshwar", "link": "/bharat-dekho/madhya-pradesh-pilgrimage-tour" },
+              { "name": "Maheshwar Indore Sightseeing", "link": "/bharat-dekho/madhya-pradesh-pilgrimage-tour" },
+                { "name": "Mughal's Architectural", "link": "/bharat-dekho/madhya-pradesh-pilgrimage-tour" },
+                 { "name": "Amer Fort", "link": "/bharat-dekho/madhya-pradesh-pilgrimage-tour" }
+            ]
+          },
+          {
+            "heading": "Amritsar",
+              "link": "/bharat-dekho/amritsar-golden-city-tour-package",
+            "links": [
+              { "name": "Golden Temple", "link": "/bharat-dekho/amritsar-golden-city-tour-package" },
+              { "name": "Jallianwala Bagh", "link": "/bharat-dekho/amritsar-golden-city-tour-package" },
+              { "name": "Shri Durgiana Mandir", "link": "/bharat-dekho/amritsar-golden-city-tour-package" }
+            ]
+          },
+          {
+            "heading": "Kashmir Delight",
+                "link": "/bharat-dekho/kashmir-delight-tour-package",
+            "links": [
+              { "name": "Srinagar", "link": "/bharat-dekho/kashmir-delight-tour-package" },
+              { "name": "Gulmarg", "link": "/bharat-dekho/kashmir-delight-tour-package" },
+              { "name": "Pahalgam", "link": "/bharat-dekho/kashmir-delight-tour-package" },
+                { "name": "Sonmarg", "link": "/bharat-dekho/kashmir-delight-tour-package" }
+            ]
+          },
+          {
+            "heading": " Ladakh",
+               "link": "/bharat-dekho/hidden-gem-of-leh-ladakh",
+            "links": [
+              { "name": "Excursion to Sham Valley", "link": "/bharat-dekho/hidden-gem-of-leh-ladakh" },
+              { "name": "In Nubra Pangong Lake", "link": "/bharat-dekho/hidden-gem-of-leh-ladakh" },
+              { "name": "Leh Via Changla", "link": "/bharat-dekho/hidden-gem-of-leh-ladakh" }
+            ]
+          },
+          {
+            "heading": "Mussoorie, Nainital & Corbett",
+                 "link": "/bharat-dekho/musoori-nainital-corbett-tour-package",
+            "links": [
+              { "name": "Queen Of Hill Stations", "link": "/bharat-dekho/musoori-nainital-corbett-tour-package" },
+              { "name": "Nag Devta Temple Corbett National Park", "link": "/bharat-dekho/musoori-nainital-corbett-tour-package" },
+              { "name": "Wildlife Adventure", "link": "/bharat-dekho/musoori-nainital-corbett-tour-package" }
+            ]
+          },
+          {
+            "heading": "Chardham",
+              "link": "/bharat-dekho/chardham-pilgrimage-uttarakhand",
+            "links": [
+              { "name": "Haridwar to Barko", "link": "/bharat-dekho/chardham-pilgrimage-uttarakhand" },
+              { "name": "Yamunotri Pilgrimage Uttarkash", "link": "/bharat-dekho/chardham-pilgrimage-uttarakhand" },
+              { "name": "Gangotri", "link": "/bharat-dekho/chardham-pilgrimage-uttarakhand" },
+              { "name": "Kedarnath", "link": "/bharat-dekho/chardham-pilgrimage-uttarakhand" },
+               { "name": "Sitapur", "link": "/bharat-dekho/chardham-pilgrimage-uttarakhand" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "South India",
+        "sections": [
+          {
+            "heading": "Kerala",
+               "link": "/bharat-dekho/kerala-tour-package",
+            "links": [
+              { "name": "Cochin", "link": "/bharat-dekho/kerala-tour-package" },
+              { "name": "Munnar", "link": "/bharat-dekho/kerala-tour-package" },
+              { "name": "Thekkady", "link": "/bharat-dekho/kerala-tour-package" },
+                { "name": "Alleppey", "link": "/bharat-dekho/kerala-tour-package" },
+                { "name": "Alleppey Houseboat Kovalam", "link": "/bharat-dekho/kerala-tour-package" }
+            ]
+          },
+          {
+            "heading": "Mysore & Ooty",
+                 "link": "/bharat-dekho/mysore-ooty-tour-package",
+            "links": [
+              { "name": "Chamundi Hills", "link": "/bharat-dekho/mysore-ooty-tour-package" },
+              { "name": "Semme Ooty Lake", "link": "/bharat-dekho/mysore-ooty-tour-package" },
+              { "name": "Doddabetta Peak", "link": "/bharat-dekho/mysore-ooty-tour-package" },
+                  { "name": "Quaint Streets", "link": "/bharat-dekho/mysore-ooty-tour-package" }
+            ]
+          },
+          {
+            "heading": "Coorg & Kabini",
+            "link": "/bharat-dekho/coorg-kabini-getaway-package",
+            "links": [
+              { "name": "Golden Temple", "link": "/bharat-dekho/coorg-kabini-getaway-package" },
+              { "name": "Talacauvery", "link": "/bharat-dekho/coorg-kabini-getaway-package" },
+              { "name": "Dubare Elephant Camp Waterfalls", "link": "/bharat-dekho/coorg-kabini-getaway-package" },
+               { "name": "Kabini River", "link": "/bharat-dekho/coorg-kabini-getaway-package" }
+            ]
+          },
+       
+          {
+            "heading": "Pondicherry & Chennai",
+               "link": "/bharat-dekho/pondicherry-chennai-tour-package",
+            "links": [
+              { "name": "Aurobindo Ashram", "link": "/bharat-dekho/pondicherry-chennai-tour-package" },
+              { "name": "Marina Beach", "link": "/bharat-dekho/pondicherry-chennai-tour-package" },
+              { "name": "Kapaleeshwarar Temple", "link": "/bharat-dekho/pondicherry-chennai-tour-package" },
+               { "name": "Botanical Garden", "link": "/bharat-dekho/pondicherry-chennai-tour-package" }
+            ]
+          },
+          {
+            "heading": "Andaman",
+               "link": "/bharat-dekho/andaman-tour-package",
+            "links": [
+              { "name": "Port Blair", "link": "/bharat-dekho/andaman-tour-package" },
+              { "name": "Corbyn's Cove Beach", "link": "/bharat-dekho/andaman-tour-package" },
+              { "name": "Light & Sound Show", "link": "/bharat-dekho/andaman-tour-package" },
+              { "name": "Cellular Jail", "link": "/bharat-dekho/andaman-tour-package" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "West India",
+        "sections": [
+          {
+            "heading": "Goa",
+              "link": "/bharat-dekho/goa-getaway-package",
+            "links": [
+              { "name": "Candolim", "link": "/bharat-dekho/goa-getaway-package" },
+              { "name": "Calangute", "link": "/bharat-dekho/goa-getaway-package" },
+              { "name": "Baga Shree", "link": "/bharat-dekho/goa-getaway-package" },
+              { "name": "Mangueshi Temple", "link": "/bharat-dekho/goa-getaway-package" },
+               { "name": "Old Goa Churches", "link": "/bharat-dekho/goa-getaway-package" }
+            ]
+          },
+          {
+            "heading": "Gujarat",
+               "link": "/bharat-dekho/glorious-gujarat-10n-11d",
+            "links": [
+              { "name": "Bhuj", "link": "/bharat-dekho/glorious-gujarat-10n-11d" },
+              { "name": "White Rann Of Kutch", "link": "/bharat-dekho/glorious-gujarat-10n-11d" },
+              { "name": "Jamnagar", "link": "/bharat-dekho/glorious-gujarat-10n-11d" },
+               { "name": "Dwarka Porbandar", "link": "/bharat-dekho/glorious-gujarat-10n-11d" },
+                       { "name": "Diu- Bhavnagar", "link": "/bharat-dekho/glorious-gujarat-10n-11d" },
+                                   { "name": "Bhavnagar - Vadodara", "link": "/bharat-dekho/glorious-gujarat-10n-11d" }
+            ]
+          },
+          {
+            "heading": "Mumbai",
+              "link": "/bharat-dekho/mumbai-tour-package",
+            "links": [
+              { "name": "Mumbai City Tour", "link": "/bharat-dekho/mumbai-tour-package" },
+              { "name": "Iscon Temple", "link": "/bharat-dekho/mumbai-tour-package" },
+              { "name": "Elephanta Caves", "link": "/bharat-dekho/mumbai-tour-package" },
+               { "name": " Wales Museum", "link": "/bharat-dekho/mumbai-tour-package" }
+            ]
+          },
+          {
+            "heading": "Shirdi Darshan",
+               "link": "/bharat-dekho/shirdi-darshan-3-day-experience",
+            "links": [
+              { "name": "Nashik", "link": "/bharat-dekho/shirdi-darshan-3-day-experience" },
+              { "name": "Shani Shingnapur", "link": "/bharat-dekho/shirdi-darshan-3-day-experience" },
+              { "name": "Lord Shani temple", "link": "/bharat-dekho/shirdi-darshan-3-day-experience" }
+            ]
+          },
+           {
+            "heading": "Divine Maharashtra",
+               "link": "/bharat-dekho/divine-maharashtra-5-jyotirlingas-shirdi-tour",
+            "links": [
+              { "name": "Bhimashankar", "link": "/bharat-dekho/divine-maharashtra-5-jyotirlingas-shirdi-tour" },
+              { "name": "Parali Vaijnath", "link": "/bharat-dekho/divine-maharashtra-5-jyotirlingas-shirdi-tour" },
+              { "name": "Parbhani Stay", "link": "/bharat-dekho/divine-maharashtra-5-jyotirlingas-shirdi-tour" },
+               { "name": "Aundha Naganath", "link": "/bharat-dekho/divine-maharashtra-5-jyotirlingas-shirdi-tour" },
+                   { "name": "Nashik", "link": "/bharat-dekho/divine-maharashtra-5-jyotirlingas-shirdi-tour" }
+            ]
+          },
+           {
+            "heading": "Mahabaleshwar",
+               "link": "/bharat-dekho/hill-station-delight-mahabaleshwar-3n-tour",
+            "links": [
+              { "name": "Lord Shiva Temple", "link": "/bharat-dekho/hill-station-delight-mahabaleshwar-3n-tour" },
+              { "name": "Arthur's Seat Point Pratapgarh Fort", "link": "/bharat-dekho/hill-station-delight-mahabaleshwar-3n-tour" },
+              { "name": "Sydney Point", "link": "/bharat-dekho/hill-station-delight-mahabaleshwar-3n-tour" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "East India",
+        "sections": [
+          {
+            "heading": "Sikkim & Darjeeling",
+              "link": "/bharat-dekho/sikkim-darjeeling-tour-package",
+            "links": [
+              { "name": "Darjeeling", "link": "/bharat-dekho/sikkim-darjeeling-tour-package" },
+              { "name": "Zoological Park", "link": "/bharat-dekho/sikkim-darjeeling-tour-package" },
+              { "name": " Kalimpong Lava And Loleygaon", "link": "/bharat-dekho/sikkim-darjeeling-tour-package" },
+                 { "name": " Kalimpong Lava And Loleygaon", "link": "/bharat-dekho/sikkim-darjeeling-tour-package" },
+              { "name": " Tsomgo Lake", "link": "/bharat-dekho/sikkim-darjeeling-tour-package" }
+            ]
+          },
+           {
+            "heading": "Odisha",
+               "link": "/bharat-dekho/odisha-tour-package",
+            "links": [
+              { "name": "Puri’s Spiritual", "link": "/bharat-dekho/odisha-tour-package" },
+              { "name": " Konark", "link": "/bharat-dekho/odisha-tour-package" },
+              { "name": " Bhubaneshwar Natural Wonders", "link": "/bharat-dekho/odisha-tour-package" },
+                 { "name": " Kalimpong Lava And Loleygaon", "link": "/bharat-dekho/odisha-tour-package" }
+             
+            ]
+          },
+            {
+            "heading": "Darjeeling & Gangtok",
+               "link": "/bharat-dekho/darjeeling-gangtok-tour-package",
+            "links": [
+              { "name": "Darjeeling", "link": "/bharat-dekho/darjeeling-gangtok-tour-package" },
+              { "name": "Local Sightseeing", "link": "/bharat-dekho/darjeeling-gangtok-tour-package" },
+              { "name": " Temples Gangtok Monasteries & Nature Views", "link": "/bharat-dekho/darjeeling-gangtok-tour-package" },
+                 { "name": " Kalimpong Lava And Loleygaon", "link": "bharat-dekho/darjeeling-gangtok-tour-package" }
+             
+            ]
+          },
+         
+          {
+            "heading": "North East",
+              "link": "/bharat-dekho/northeast-india-tour",
+            "links": [
+              { "name": "Shillong", "link": "/bharat-dekho/northeast-india-tour" },
+              { "name": "City Tour", "link": "/bharat-dekho/northeast-india-tour" },
+              { "name": "Cherrapunjee Adventure Guwahati Visit", "link": "/bharat-dekho/northeast-india-tour" }
+
+            ]
+          }
+        ]
+      },
+
+        {
+        "name": "North-East India",
+        "sections": [
+          {
+            "heading": "Meghalaya's Hills",
+                   "link": "/bharat-dekho/meghalaya-hills-tour-package",
+            "links": [
+              { "name": "Shillong", "link": "/bharat-dekho/meghalaya-hills-tour-package" },
+              { "name": " Cherrapunjee", "link": "/bharat-dekho/meghalaya-hills-tour-package" },
+              { "name": "Dawki", "link": "/bharat-dekho/meghalaya-hills-tour-package" },
+              { "name": "Mawlynnong Village", "link": "/bharat-dekho/meghalaya-hills-tour-package" }
+            
+            ]
+          },
+          {
+            "heading": "Sikkim Splendor",
+             "link": "/bharat-dekho/sikkim-splendor-tour-package",
+            "links": [
+              { "name": "Darjeeling", "link": "/bharat-dekho/sikkim-splendor-tour-package" },
+              { "name": " Kalimpong", "link": "/bharat-dekho/sikkim-splendor-tour-package" },
+              { "name": "Lava and Loleygaon", "link": "/bharat-dekho/sikkim-splendor-tour-package" },
+              { "name": "Gangtok", "link": "/bharat-dekho/sikkim-splendor-tour-package" },
+              { "name": "Baba Mandir", "link": "/bharat-dekho/sikkim-splendor-tour-package" }
+            
+            ]
+          }
+        ]
+      },
+      
+      {
+        "name": "Other",
+        "sections": [
+          {
+            "heading": "Nepal",
+              "link": "/bharat-dekho/mountain-magic-nepal-6n-7d",
+            "links": [
+              { "name": "Kathmandu", "link": "/bharat-dekho/mountain-magic-nepal-6n-7d" },
+              { "name": "Pokhara", "link": "/bharat-dekho/mountain-magic-nepal-6n-7d" },
+              { "name": "Lumbini", "link": "/bharat-dekho/mountain-magic-nepal-6n-7d" }
+            ]
+          },
+          {
+            "heading": "Lakshwadeep",
+              "link": "/bharat-dekho/mountain-magic-nepal-6n-7d",
+            
+            "links": [
+              { "name": "Bangaram Island", "link": "/bharat/lakshwadeep/bangaram" },
+              { "name": "Agatti Island", "link": "/bharat/lakshwadeep/agatti" },
+              { "name": "Kavaratti Island", "link": "/bharat/lakshwadeep/kavaratti" }
+            ]
+          },
+          {
+            "heading": "Orissa",
+            "links": [
+              { "name": "Puri", "link": "/bharat/orissa/puri" },
+              { "name": "Konark Sun Temple", "link": "/bharat/orissa/konark" },
+              { "name": "Chilika Lake", "link": "/bharat/orissa/chilika-lake" }
+            ]
+          },
+          {
+            "heading": "Jyotirlinga",
+            "links": [
+              { "name": "Somnath", "link": "/bharat/jyotirlinga/somnath" },
+              { "name": "Mahakaleshwar", "link": "/bharat/jyotirlinga/mahakaleshwar" },
+              { "name": "Omkareshwar", "link": "/bharat/jyotirlinga/omkareshwar" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+ "duniya-dekho": {
+  "regions": [
+    {
+      "name": "Africa",
+      
+      "sections": [
+        {
+          "heading": "South Africa",
+              "link": "/duniya-dekho/south-africa-tour-package", 
+          "links": [
+            { "name": "South Africa", "link": "/duniya-dekho/south-africa-tour-package" },
+            { "name": "Egypt", "link": "/duniya-dekho/egypt-tour-package" },
+            { "name": "Kenya with Victoria Falls", "link": "/duniya-dekho/kenya-victoria-falls-tour-package" },
+            { "name": "Tanzania", "link": "/duniya-dekho/tanzania-tour-package" }
+          ]
+        }
+      ]
+    },
+  {
+  "name": "America",
+  "sections": [
+    {
+      "heading": "USA & Americas",
+      "link": "/duniya-dekho/usa-east-west-tour-package",
+      "links": [
+        { "name": "USA – East & West", "link": "/duniya-dekho/usa-east-west-tour-package" },
+        { "name": "USA – West Coast", "link": "/duniya-dekho/usa-west-coast-tour-package" },
+        { "name": "USA – East Coast", "link": "/duniya-dekho/usa-east-coast-tour-package" },
+        { "name": "South America", "link": "/duniya-dekho/south-america-tour-package" },
+        { "name": "Canada", "link": "/duniya-dekho/canada-tour-package" }
+      ]
+    }
+  ]
+},
+
+    {
+  "name": "Aus & Newz",
+  "sections": [
+    {
+      "heading": "Australia & New Zealand",
+     
+      "links": [
+        { "name": "Australia", "link": "/duniya-dekho/australia-tour-package" },
+        { "name": "New Zealand", "link": "/duniya-dekho/new-zealand-tour-package" }
+      ]
+    }
+  ]
+},
+    {
+  "name": "Europe",
+  "sections": [
+    {
+      "heading": "Europe Tours",
+     
+      "links": [
+        { "name": "Best of Europe", "link": "/duniya-dekho/best-of-europe-tour-package" },
+        { "name": "Turkey", "link": "/duniya-dekho/turkey-tour-package" },
+        { "name": "Swiss & Paris", "link": "/duniya-dekho/swiss-paris-tour-package" },
+        { "name": "England, Scotland & Ireland", "link": "/duniya-dekho/england-scotland-ireland-tour-package" },
+        { "name": "Austria, Swiss & Paris", "link": "/duniya-dekho/austria-swiss-paris-tour-package" },
+        { "name": "Italy, Swiss & Paris", "link": "/duniya-dekho/italy-swiss-paris-tour-package" },
+        { "name": "Spain & Portugal", "link": "/duniya-dekho/spain-portugal-tour-package" },
+        { "name": "Scandinavia", "link": "/duniya-dekho/scandinavia-tour-package" },
+        { "name": "Greece", "link": "/duniya-dekho/greece-tour-package" },
+        { "name": "Northern Lights", "link": "/duniya-dekho/northern-lights-tour-package" },
+        { "name": "Iceland", "link": "/duniya-dekho/iceland-tour-package" },
+        { "name": "East Europe", "link": "/duniya-dekho/east-europe-tour-package" }
+      ]
+    }
+  ]
+},
+
+    {
+  "name": "Japan & South Korea",
+  "sections": [
+    {
+      "heading": "South Korea",
+      "link": "/duniya-dekho/south-korea",
+      "links": [
+        { "name": "South Korea", "link": "/duniya-dekho/south-korea-tour-package" }
+      ]
+    },
+    {
+      "heading": "Japan",
+      "link": "/duniya-dekho/japan",
+      "links": [
+        { "name": "Japan", "link": "/duniya-dekho/japan-tour-package" }
+      ]
+    }
+  ]
+},
+
+    {
+  "name": "Dubai & Middle East",
+  "sections": [
+    {
+      "heading": "Middle East",
+  
+      "links": [
+        { "name": "Oman", "link": "/duniya-dekho/oman-tour-package" },
+        { "name": "Saudi Arabia", "link": "/duniya-dekho/saudi-arabia-tour-package" },
+        { "name": "Dubai", "link": "/duniya-dekho/dubai-tour-package" }
+      ]
+    }
+  ]
+},
+
+    {
+  "name": "South East Asia",
+  "sections": [
+    {
+      "heading": "South East Asia",
+     
+      "links": [
+        { "name": "Singapore, Malaysia & Thailand", "link": "/duniya-dekho/singapore-malaysia-thailand-tour-package" },
+        { "name": "Singapore & Malaysia", "link": "/duniya-dekho/singapore-malaysia-tour-package" },
+        { "name": "Thailand", "link": "/duniya-dekho/thailand-tour-package" },
+        { "name": "Vietnam & Cambodia", "link": "/duniya-dekho/vietnam-cambodia-tour-package" },
+        { "name": "Phuket & Krabi", "link": "/duniya-dekho/phuket-krabi-tour-package" },
+        { "name": "Hong Kong & Macau", "link": "/duniya-dekho/hong-kong-macau-tour-package" },
+        { "name": "Bali", "link": "/duniya-dekho/bali-tour-package" },
+        { "name": "Taiwan", "link": "/duniya-dekho/taiwan-tour-package" },
+        { "name": "Philippines", "link": "/duniya-dekho/philippines-tour-package" }
+      ]
+    }
+  ]
+},
+{
+      "name": "Malaysia ",
+      "sections": [
+        {
+          "heading": "Island & Special Tours",
+          "links": [
+            { "name": "Kuala lumbpur & Langkawi ", "link": "/duniya-dekho/kuala-lumpur-langkawi-tour-package" },
+            { "name": "Kuala lumbpur ", "link": "/duniya-dekho/kuala-lumpur-tour-package" },
+            { "name": "Paris to Vienna ", "link": "/duniya-dekho/paris-to-vienna-tour-package" },
+            { "name": "Singapore", "link": "/duniya-dekho/singapore-tour-package" },
+            { "name": "Vietnam ", "link": "/duniya-dekho/vietnam-tour-package" }
+          
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Other Countries",
+      "sections": [
+        {
+          "heading": "Island & Special Tours",
+          "links": [
+            { "name": "Bhutan", "link": "/duniya-dekho/bhutan-tour-package" },
+            { "name": "China", "link": "/duniya-dekho/duniya/kuala-lumpur-langkawi-tour-package" },
+            { "name": "Mauritius", "link": "/duniya-dekho/mauritius-tour-package" },
+            { "name": "Maldives", "link": "/duniya-dekho/maldives-tour-package" },
+            { "name": "Seychelles", "link": "/duniya-dekho/seychelles-tour-package" },
+            { "name": "Sri Lanka", "link": "/duniya-dekho/sri-lanka-tour-package" }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
+
+}

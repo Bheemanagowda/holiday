@@ -1,0 +1,58 @@
+[
+  {
+    "intro": "Explore",
+    "name": "Kashmir Delight",
+    "duration": "05 Nights  06 Days",
+    "price": 59400,
+    "description": ["Srinagar, Gulmarg, Pahalgam, Sonmarg"],
+    "image": "/images/small/kashmir_delight.webp",
+
+    "slug": "/bharat-dekho/kashmir-delight-tour-package"
+  },
+  {
+    "intro": "Heritage Hue",
+    "name": "Rajasthan",
+    "duration": "5 Night  6 Days",
+    "description": [
+      "Laxminarayan Temple, Jal Mahal,",
+      "Ajmer Eklinji, Fateh Sagar"
+    ],
+    "image": "/images/small/rajasthan.webp",
+    "price": 86400,
+    "slug": "/bharat-dekho/best-rajasthan-tour-package"
+  },
+  {
+    "intro": "Temple Trails",
+    "name": "Darjeeling & Gangtok",
+    "duration": "06 Nights  07 Days",
+    "price": 49990,
+    "description": [
+      "Darjeeling, Local Sightseeing, Temples",
+      "Gangtok Monasteries & Nature Views"
+    ],
+    "image": "/images/small/darjeeling_gangtok.webp",
+    "slug": "/bharat-dekho/darjeeling-gangtok-tour-package"
+  },
+  {
+    "intro": "Manali Magic",
+    "name": "Himachal",
+    "duration": "6 Night  7 Days",
+    "description": [
+      "Shimla, Manali, Kufri, Kullu Valley",
+      "Pandoh Dam, Solang Valley"
+    ],
+    "image": "/images/small/himachal.webp",
+    "price": 54000,
+    "slug": "/bharat-dekho/himachal-tour-package"
+  },
+  {
+    "intro": "God's Own Country",
+    "name": "Kerala",
+    "duration": "05 Nights  06 Days",
+    "price": 31000,
+    "description": ["Cochin, Munnar, Thekkady, Alleppey Houseboat Kovalam"],
+    "image": "/images/small/kerala.webp",
+
+    "slug": "/bharat-dekho/kerala-tour-package"
+  }
+]

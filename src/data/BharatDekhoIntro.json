@@ -1,0 +1,352 @@
+[
+  {
+    "intro": "Discover The Beauty",
+    "name": "Pondicherry & Chennai",
+    "duration": "3 Night | 4 Days",
+    "description": [
+      "Aurobindo Ashram, Marina Beach,",
+      "Kapaleeshwarar Temple, Botanical Garden"
+    ],
+    "image": "/images/small/pondicherry_chennai.webp",
+    "price": 19800,
+    "slug": "/bharat-dekho/pondicherry-chennai-tour-package"
+  },
+  {
+    "intro": "Celebrate Vibes",
+    "name": "Goa",
+    "duration": "4 Night | 5 Days",
+    "description": [
+      "Candolim, Calangute, Baga Shree",
+      "Mangueshi Temple, Old Goa Churches"
+    ],
+    "image": "/images/small/goa.webp",
+    "price": 15300,
+    "slug": "/bharat-dekho/goa-getaway-package"
+  },
+  {
+    "intro": "Manali Magic",
+    "name": "Himachal",
+    "duration": "6 Night | 7 Days",
+    "description": [
+      "Shimla, Manali, Kufri, Kullu Valley",
+      "Pandoh Dam, Solang Valley"
+    ],
+    "image": "/images/small/himachal.webp",
+    "price": 54000,
+    "slug": "/bharat-dekho/himachal-tour-package"
+  },
+  {
+    "intro": "Heritage Hue",
+    "name": "Rajasthan",
+    "duration": "5 Night | 6 Days",
+    "description": [
+      "Laxminarayan Temple, Jal Mahal,",
+      "Ajmer Eklinji, Fateh Sagar"
+    ],
+    "image": "/images/small/rajasthan.webp",
+    "price": 86400,
+    "slug": "/bharat-dekho/best-rajasthan-tour-package"
+  },
+  {
+    "intro": "Misty Escape",
+    "name": "Mysore & Ooty",
+    "duration": "5 Night | 6 Days",
+    "description": [
+      "Chamundi Hills, Semme Ooty Lake",
+      "Dodabetta Peak, Quaint Streets"
+    ],
+    "image": "/images/small/mysuru_ooty.webp",
+    "price": 26100,
+    "slug": "/bharat-dekho/mysore-ooty-tour-package"
+  },
+  {
+    "intro": "Jungle Bliss",
+    "name": "Coorg & Kabini",
+    "duration": "05 Nights / 06 Days",
+    "description": [
+      "Golden Temple, Talacauvery, Dubare",
+      "Elephant Camp Waterfalls, Kabini River"
+    ],
+    "image": "/images/small/coorg_kabini.webp",
+    "price": 41400,
+    "slug": "/bharat-dekho/coorg-kabini-getaway-package"
+  },
+  {
+    "intro": "Hill Paradise",
+    "name": "Mahabaleshwar",
+    "duration": "03 Nights / 04 Days",
+    "description": [
+      "Lord Shiva Temple, Arthur's Seat Point",
+      "Pratapgarh Fort, Sydney Point"
+    ],
+    "image": "/images/small/mahabelshwar.webp",
+    "price": 19800,
+    "slug": "/bharat-dekho/hill-station-delight-mahabaleshwar-3n-tour"
+  },
+  {
+    "intro": "Mountain Magic",
+    "name": "Ladakh",
+    "duration": "06 Nights / 07 Days",
+    "price": 46800,
+    "description": [
+      "Excursion to Sham Valley, In Nubra",
+      "Pangong Lake, Leh Via Changla"
+    ],
+    "image": "/images/small/ladkha.webp",
+
+    "slug": "/bharat-dekho/hidden-gem-of-leh-ladakh"
+  },
+  {
+    "intro": "Heritage Trail",
+    "name": "Golden Triangle",
+    "duration": "05 Nights / 06 Days",
+    "price": 29700,
+    "description": [
+      "Ancient Monuments, Lush Gardens, Jama",
+      "Masjid, Mughal's Architectural, Amer Fort"
+    ],
+    "image": "/images/small/golden_triangle.webp",
+
+    "slug": "/bharat-dekho/golden-triangle-5n-6d"
+  },
+   {
+    "intro": "Golden City",
+    "name": "Amritsar",
+    "duration": "02 Nights / 03 Days",
+    "price": 11700,
+    "description": [
+      "Golden Temple,  Jallianwala Bagh, Shri",
+      "Durgiana Mandir"
+    ],
+    "image": "/images/small/amritsar.webp",
+
+  "slug": "/bharat-dekho/amritsar-golden-city-tour-package"
+  },
+  {
+    "intro": "Mountain Magic",
+    "name": "Nepal",
+    "duration": "06 Nights / 07 Days",
+    "price": 46800,
+    "description": ["Kathmandu, Pokhara, Chitwan"],
+    "image": "/images/small/nepal.webp",
+
+    "slug": "/bharat-dekho/mountain-magic-nepal-6n-7d"
+  },
+  {
+    "intro": "Explore",
+    "name": "Kashmir Delight",
+    "duration": "05 Nights – 06 Days",
+    "price": 59400,
+    "description": ["Srinagar, Gulmarg, Pahalgam, Sonmarg"],
+    "image": "/images/small/kashmir_delight.webp",
+
+    "slug": "/bharat-dekho/kashmir-delight-tour-package"
+  },
+  {
+    "intro": "Divine Haven",
+    "name": "Gujarat",
+    "duration": "10 Nights / 11 Days",
+    "price": 51300,
+    "description": [
+      "Bhuj, White Rann Of Kutch, Jamnagar, Dwarka",
+      "Porbandar, Diu- Bhavnagar, Bhavnagar - Vadodara"
+    ],
+    "image": "/images/small/gujarat.webp",
+
+    "slug": "/bharat-dekho/glorious-gujarat-10n-11d"
+  },
+  {
+    "intro": "God's Own Country",
+    "name": "Kerala",
+    "duration": "05 Nights / 06 Days",
+    "price": 31000,
+    "description": ["Cochin, Munnar, Thekkady, Alleppey Houseboat Kovalam"],
+    "image": "/images/small/kerala.webp",
+
+    "slug": "/bharat-dekho/kerala-tour-package"
+  },
+  {
+    "intro": "Hidden Paradise",
+    "name": "North East",
+    "duration": "04 Nights / 05 Days",
+    "price": 30600,
+    "description": [
+      "Shillong, City Tour, Cherrapunjee Adventure",
+      "Guwahati Visit"
+    ],
+    "image": "/images/small/north_east.webp",
+
+    "slug": "/bharat-dekho/northeast-india-tour"
+  },
+  {
+    "intro": "Forest Trails",
+    "name": "Musoori, Nainital & Corbett",
+    "duration": "05 Nights / 06 Days",
+    "price": 36000,
+    "description": [
+      "Queen Of Hill Stations, Nag Devta Temple",
+      "Corbett National Park, Wildlife Adventure"
+    ],
+    "image": "/images/small/musoori_nainital_corbett.webp",
+
+    "slug": "/bharat-dekho/musoori-nainital-corbett-tour-package"
+  },
+  {
+    "intro": "Divine Journey",
+    "name": "Chardham",
+    "duration": "09 Nights / 10 Days",
+    "price": 50400,
+    "description": [
+      "Haridwar to Barkot, Yamunotri Pilgrimage",
+      "Uttarkash, Gangotri, Kedarnath,Sitapur"
+    ],
+    "image": "/images/small/chardham.webp",
+    "slug": "/bharat-dekho/chardham-pilgrimage-uttarakhand"
+  },
+
+  {
+    "intro": "Nature’s Haven",
+    "name": "Madhya Pradesh",
+    "duration": "04 Nights / 05 Days",
+    "price": 18900,
+    "description": [
+      "Drive to Ujjain, Omkareshwar, Maheshwar",
+      "Indore Sightseeing"
+    ],
+    "image": "/images/small/madhya_pradesh.webp",
+    "slug": "/bharat-dekho/madhya-pradesh-pilgrimage-tour"
+  },
+  {
+    "intro": "Mountain Bliss",
+    "name": "Sikkim & Darjeeling",
+    "duration": "06 Nights / 07 Days",
+    "price": 45000,
+    "description": [
+      "Darjeeling, Zoological Park, Kalimpong",
+      "Lava And Loleygaon, Gangtok, Tsomgo Lake"
+    ],
+    "image": "/images/small/sikkim_darjalling.webp",
+    "slug": "/bharat-dekho/sikkim-darjeeling-tour-package"
+  },
+  {
+    "intro": "Temple Trails",
+    "name": "Odisha",
+    "duration": "03 Nights / 04 Days",
+    "price": 21600,
+    "description": [
+      "Puri’s Spiritual, Konark, Bhubaneshwar",
+      "Natural Wonders"
+    ],
+    "image": "/images/small/odisha.webp",
+    "slug": "/bharat-dekho/odisha-tour-package"
+  },
+    {
+    "intro": "Divine Ghats",
+    "name": "Varanasi - Spiritual Heritage",
+    "duration": "04 Nights / 05 Days",
+    "price": 20000,
+    "description": [
+      "Varanasi, Ayodhya, Prayagraj"
+      
+    ],
+    "image": "/images/small/varanasi.webp",
+    "slug": "/bharat-dekho/varanasi-tour-package"
+  },
+      {
+    "intro": "Experience the Unspoiled",
+    "name": "Andaman",
+    "duration": "05 Nights / 06 Days",
+    "price": 37800,
+    "description": [
+      "Port Blair, Corbyn's Cove Beach,",
+      "Light & Sound Show, Cellular Jail"
+      
+    ],
+    "image": "/images/small/andaman.webp",
+    "slug": "/bharat-dekho/andaman-tour-package"
+  },
+      {
+    "intro": "Bollywood Capital",
+    "name": "Mumbai",
+    "duration": "02 Nights / 03 Days",
+    "price": 14400,
+    "description": [
+      "Mumbai City Tour, ISKCON ,",
+      "Temple,Elephanta Caves,  Wales Museum"
+      
+    ],
+    "image": "/images/small/mumbai.webp",
+    "slug": "/bharat-dekho/mumbai-tour-package"
+  },
+  {
+    "intro": "Temple Trails",
+    "name": "Darjeeling & Gangtok",
+    "duration": "06 Nights / 07 Days",
+    "price": 49990,
+    "description": [
+      "Darjeeling, Local Sightseeing, Temples",
+      "Gangtok Monasteries & Nature Views"
+    ],
+    "image": "/images/small/darjeeling_gangtok.webp",
+    "slug": "/bharat-dekho/darjeeling-gangtok-tour-package"
+  },
+    {
+    "intro": "Divine Blessings",
+    "name": "Shirdi Darshan",
+    "duration": "02 Nights / 03 Days",
+    "price": 12600,
+    "description": [
+      "Nashik, Shani Shingnapur,",
+      "Lord Shani temple"
+    ],
+    "image": "/images/small/shirdi_darshan.webp",
+    "slug": "/bharat-dekho/shirdi-darshan-3-day-experience"
+  },
+    {
+    "intro": "Divine Blessings",
+    "name": "Divine Maharashtra",
+    "duration": "04 Nights / 05 Days",
+    "price": 19900,
+    "description": [
+      "Bhimashankar, Parali Vaijnath, Parbhani",
+      "Stay, Aundha Naganath, Nashik"
+    ],
+    "image": "/images/small/divine_maharashtra.webp",
+    "slug": "/bharat-dekho/divine-maharashtra-5-jyotirlingas-shirdi-tour"
+  },
+   {
+    "intro": "Valleys  of  Wonder",
+    "name": "Meghalaya's Hills",
+    "duration": "04 Nights / 05 Days",
+    "price": 26100,
+    "description": [
+      "Shillong, Cherrapunjee, Dawki",
+      "Mawlynnong Village"
+    ],
+    "image": "/images/small/meghalaya.webp",
+    "slug": "/bharat-dekho/meghalaya-hills-tour-package"
+  }
+  ,
+   {
+    "intro": "Discover the Magic of Sikkim",
+    "name": "Sikkim Splendor",
+    "duration": "06 Nights / 07 Days",
+    "price": 41400,
+    "description": [
+      "Darjeeling, Kalimpong, Lava and Loleygaon, Gangtok,Baba Mandir"
+    ],
+    "image": "/images/small/sikkim_splendor.webp",
+    "slug": "/bharat-dekho/sikkim-splendor-tour-package"
+  },
+   {
+    "intro": "Royal Rajasthan Awaits",
+    "name": "Royal Rajasthan",
+    "duration": "08 Nights / 09 Days",
+    "price": 86400,
+    "description": [
+      "Jaipur, Ajmer, Pushkar, Jodhpur Mount Abu,Udaipur"
+    ],
+    "image": "/images/small/royal_rajasthan.webp",
+    "slug": "/bharat-dekho/royal-rajasthan-tour-package"
+  }
+]

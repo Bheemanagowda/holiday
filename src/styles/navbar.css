@@ -1,0 +1,32 @@
+
+
+.different:hover {
+  color: #028680;
+}
+
+
+.active .different{
+  color: #028680;
+}
+
+.navitem:hover > .dropdown {
+  display: block;
+}
+
+@media screen and (min-width:1024px) {
+  .dropdown::before{
+    content: "";
+    position: absolute;
+    /* background-image: url('https://pngbong.com/wp-content/uploads/2023/03/Arrow-Transparent.png');
+    background-size: 40px 40px; */
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-bottom: 20px solid white;
+
+    height: 40px;
+    width: 40px;
+    left:40px;
+    top: -30px;
+  
+  }
+}

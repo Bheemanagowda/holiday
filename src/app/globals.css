@@ -1,0 +1,150 @@
+@import "tailwindcss";
+
+
+
+
+@theme inline {
+  --font-primary_font: var(--font-primary);
+  --font-secondary_font: var(--font-secondary);
+  --color-glassEffect_c: rgba(255, 255, 255, 0.2);
+    --color-blue_c: #028680;
+    --color-orange_c: #EB662B;
+    --color-light_gray: #E9E9E9;
+    --color-deep_gray: #797676;
+    --color-black_c: #000000;
+    --color-deep_green: #388C21;
+    --color-light_green: #DEF2D9;
+    --color-metalic_bronze: #A56C44;
+    --color-yellow_c: #FBCA05;
+    --color-light_black_c: #3D3D3D;
+    --color-bg_c: #F5F5F5;
+    
+}
+
+
+
+
+
+
+
+
+#meeting_heading {
+  background: #055F90;
+}
+
+#incentives_heading {
+  background-color: #078B37;
+}
+
+#conferences_heading {
+  background-color: #B10121;
+}
+
+#exhibitions_heading {
+  background-color: #FF6102;
+}
+
+.miceHeading {
+  width: max-content;
+  height: 40px;
+  position: relative;
+}
+
+.miceHeading::after {
+  content: "";
+  position: absolute;
+  right: -1px;
+  bottom: 0;
+  width: 0;
+  height: 0;
+  border-right: 20px solid #f5f5f5;
+  border-top: 20px solid transparent;
+  border-bottom: 20px solid transparent;
+}
+
+.miceHeading:before {
+  content: "";
+  position: absolute;
+  left: -1px;
+  top: -5px;
+  bottom: -5px;
+  width: 5px;
+}
+
+#meeting_heading:before {
+  background-color: #2C90CF;
+}
+
+#incentives_heading::before {
+  background-color: #1BA940;
+}
+
+#conferences_heading::before {
+  background-color: #C8044A;
+}
+
+#exhibitions_heading::before {
+  background-color: #FFA21E;
+}
+
+
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+.disble_select {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.explore_line::after {
+  content: "";
+  border-left: 2px dashed #eb662b;
+  position: absolute;
+  top: 45px;
+  bottom: -5px;
+  left: 15px;
+}
+
+
+/* Gallery pages mansory design css */
+
+.my-masonry-grid {
+  display: flex;
+  margin-left: -10px;
+}
+
+.my-masonry-grid_column {
+  padding-left: 7px;
+  background-clip: padding-box;
+}
+
+.gallery-item {
+  margin-bottom: 7px;
+  overflow: hidden;
+  border-radius: 5px;
+}
+
+.gallery-item img {
+  width: 100%;
+  height: auto;
+  min-height: 30vh;
+  max-height: 60vh;
+  object-fit: cover;
+  display: block;
+}
+
+.gallery-item img:hover {
+  scale: 1.2;
+  transition: all 0.3s ease-in-out;
+}
+
+@media screen and (max-width: 600px) {
+  .gallery-item img {
+    min-height: 150px;
+    max-height: 300px;
+  }
+}
