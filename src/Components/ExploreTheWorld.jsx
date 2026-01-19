@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "next/image";
 
 function ExploreTheWorld() {
   return (
@@ -13,11 +14,15 @@ function ExploreTheWorld() {
             {" "}
             WE MAKE YOUR TRAVEL MORE ENJOYABLE
           </h1>
-          <img
-            src="/images/brush.webp"
-            className="w-20 lg:w-28 mt-2 mb-6"
-            alt="intro"
-          />
+           <div className="mt-2 mb-6 w-20 lg:w-28 relative h-6 lg:h-7">
+            <Image
+              src="/images/brush.webp"
+              alt="intro"
+              fill
+              style={{ objectFit: "contain" }}
+              priority
+            />
+          </div>
           <div>
             <div className="relative flex items-start break-words">
               <div className="explore_line  w-[100px] md:w-[50px] lg:w-[78px] xl:w-[55px]">
