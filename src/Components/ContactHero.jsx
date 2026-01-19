@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "next/image";
 import CommonHeading from "./ReuseComponent/CommonHeading";
 import { v4 as uuidv4 } from "uuid";
 function ContactHero() {
@@ -56,7 +57,12 @@ function ContactHero() {
             className="bg-white rounded-2xl px-8 py-6 shadow-xl"
           >
             <div className="flex items-center gap-4  justify-center">
-              <img src={item.icon} alt={item.heading}  />
+              <Image
+                src={item.icon}
+                alt={item.heading}
+               
+                priority={true} // optional: load icons immediately
+              />
               <div className="">
                 <h4 className="text-black font-medium uppercase text-base">
                   {" "}
