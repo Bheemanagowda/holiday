@@ -1,131 +1,163 @@
 [
-   {
-    "name": "South Africa Highlights",
-    "slug": "south-africa-tour-package",
-    "metaTitle": "South Africa Tour Package | Cape Town & Safari with Duniya Dekho",
-    "metaDescription": "Explore South Africa with Duniya Dekho. Visit Cape Town, Table Mountain, Cape of Good Hope, and experience a thrilling safari at Kruger National Park.",
-
-    "bannerImages": [
-      "/images/banners/south-africa/blyde-river-canyon.webp",
-      "/images/banners/south-africa/cape-town.webp",
-      "/images/banners/south-africa/durban.webp",
-      "/images/banners/south-africa/garden-route.webp",
-        "/images/banners/south-africa/johannesburg.webp",
-      "/images/banners/south-africa/kruger-national-park.webp",
-        "/images/banners/south-africa/robben-island.webp",
-         "/images/banners/south-africa/stellenbosch-&-winelands.webp"
-    ],
-    "bannerLgImages": [
-      "/images/banners/south-africa/blyde-river-canyon.webp",
-      "/images/banners/south-africa/cape-town.webp",
-      "/images/banners/south-africa/durban.webp",
-      "/images/banners/south-africa/garden-route.webp",
-        "/images/banners/south-africa/johannesburg.webp",
-      "/images/banners/south-africa/kruger-national-park.webp",
-        "/images/banners/south-africa/robben-island.webp",
-         "/images/banners/south-africa/stellenbosch-&-winelands.webp"
-    ],
-    "duration": "03 Nights  I  04 Days",
-    "price": 19800,
-    "description": [
-      "Embark on a captivating journey through the spiritual and cultural hubs of South India! Experience the enchanting charm of Pondicherry with a 2-night stay, where you'll explore the picturesque French Quarter, the philosophical haven of Auroville, and unwind on its serene beaches.",
-      "Then, head to Chennai, India's vibrant southern metropolis, for a 1-night stay, where you'll discover its rich cultural heritage, stroll along the iconic Marina Beach, and uncover historic landmarks like Fort St. George, immersing yourself in the city's unique blend of tradition and modernity."
-    ],
-    "additionalInfo": [
-      {
-        "name": "Geography and Climate",
-        "description": "Pondicherry and Chennai, located on the Coromandel Coast of the Bay of Bengal in southern India, share a similar geography and climate. Both experience a tropical climate with high temperatures and humidity, featuring distinct wet and dry seasons, with significant rainfall during the northeast monsoon."
-      }
-    ],
-    "itinerary": [
-      {
-        "day": "Day 01 :",
-        "title": "Arrival in Pondicherry",
-        "description": "Arrive at Chennai Airport/Railway Station and proceed to Pondicherry. Check-in to your hotel and spend the rest of the day at leisure, exploring the local surroundings or simply relaxing.",
-        "additionalInfo": ["Overnight stay in Pondicherry hotel"]
-      },
-      {
-        "day": "Day 02 :",
-        "title": "Exploring Pondicherry",
-        "description": "After breakfast, embark on a full-day sightseeing tour of Pondicherry, visiting iconic spots like Aurobindo Ashram, Manakkula Vinayagar Temple, Botanical Garden, Pondicherry Museum, Pondicherry Beach, and Nehru Street. Soak in the city's spiritual and cultural atmosphere.",
-        "additionalInfo": ["Overnight stay in Pondicherry hotel"]
-      },
-      {
-        "day": "Day 03 :",
-        "title": "Chennai Getaway",
-        "description": "After breakfast, drive to Chennai and check-in to your hotel. Spend the afternoon exploring the city's highlights on a half-day sightseeing tour, visiting Kapaleeshwarar Temple, Government Museum, and Marina Beach. Enjoy some leisure time for shopping.",
-        "additionalInfo": ["Overnight stay in Chennai hotel"]
-      },
-      {
-        "day": "Day 04 :",
-        "title": "Departure from Chennai",
-        "description": "After breakfast, you'll be transferred to Chennai Airport/Railway Station to board your flight/train, marking the end of your Pondicherry and Chennai tour.",
-        "additionalInfo": []
-      }
-    ],
-    "hotel": {
-      "name": "Hotel details",
-      "amenities": [
-        "Good 4* Hotel / Resort in Pondicherry",
-        "Good 4* Hotel / Resort in Chennai"
-      ]
-    },
-    "inclusionAndExclusion": {
-      "inclusions": [
-        "Two Night’s Accommodation in Pondicherry at suggested hotels or similar",
-        "One Night Accommodation in Chennai at suggested hotels or similar",
-        "Daily breakfast except day 1",
-        "All transfers and sightseeing by AC Sedan as per the itinerary inclusive of toll, parking & driver’s batta",
-        "Vehicle will be given on Point to Point Basis and not on Disposal Basis"
-      ],
-      "exclusions": [
-        "Airfare / Train Fare",
-        "Travel Insurance",
-        "Government Tax, GST of 5%",
-        "Meals not mentioned in the itinerary",
-        "Expenses of personal nature like medical expenses, Phone Calls",
-        "Entrance fees, Guide Charges",
-        "Video and Camera permits",
-        "Any optional tours & Additional usage of vehicle",
-        "Porterage at hotels and airports, tips, laundry, liquors, wine, mineral water, etc.",
-        "Transportation is not on disposal basis. It is strictly as per the programme, any extra running will be charged extra.",
-        "Any boating charges (motor boat / pedal boat).",
-        "Expenses occurred due to bad weather, flight or ferry cancellation, natural calamities like landslides, roadblocks strike or political unrest to be paid by guest as per actual",
-        "Any dispute regarding child age to be settled directly with hotels",
-        "No refund for cancellation or non-utilization of any service",
-        "Cost of services not mentioned in the inclusions",
-        "Early check-in & late check-out at hotels",
-        "High Season Surcharges as applicable",
-        "Any compulsory supplement during the stay"
-      ]
-    },
-    "pleaseNote": {
-      "title": "Please Note",
-      "notes": [
-        "100% Cancellation on low cost carrier once booking confirmed.",
-        "100% Cancellation if hotels/entrances booked and paid in advanced during confirmation period and will be non refundable.",
-        "100% Cancellation during peak days or any trade fare.",
-        "100% Cancellation once visa payment is done.",
-        "For Group booking, please reconfirm the cancellation policy before confirmation.",
-        "Airline & hotel Cancellation policy will at time override the current cancellation policy listed."
-      ]
-    },
-    "conditions": {
-      "title": "Conditions",
-      "conditions": [
-        
-        "Airfare is subject to availability at the time of confirmation with the payment.",
-        "Hotel Rooms & Service are subject to availability at the time of confirmation with the payment.",
-        "In case of Non availability of Hotel Rooms a similar category Hotel will be provided.",
-        "Credit card payments are subject to 3% bank charges. Any fluctuations may vary the cost.",
-        "No Change in Itinerary once confirmed will be honored unless otherwise given in writing.",
-        "No verbal commitments will be honored unless otherwise given in writing.",
-        "Private vehicle mentioned in the quotes is based on the itinerary (Point to Point Service).",
-        "Entrances specified in the itinerary will be covered. Any extra services to be taken care by guest directly.",
-        "No refund for partly unutilized tickets. No refund for 'NO – SHOWS' & Last moment cancellations."
-      ]
+  {
+  "name": "South Africa Highlights",
+  "slug": "south-africa-tour-package",
+  "metaTitle": "South Africa Tour Package | Cape Town & Safari with Duniya Dekho",
+  "metaDescription": "Explore South Africa with Duniya Dekho. Visit Cape Town, Table Mountain, Cape of Good Hope, and experience a thrilling safari at Kruger National Park.",
+  "bannerImages": [
+    "/images/banners/south-africa/blyde-river-canyon.webp",
+    "/images/banners/south-africa/cape-town.webp",
+    "/images/banners/south-africa/durban.webp",
+    "/images/banners/south-africa/garden-route.webp",
+    "/images/banners/south-africa/johannesburg.webp",
+    "/images/banners/south-africa/kruger-national-park.webp",
+    "/images/banners/south-africa/robben-island.webp",
+    "/images/banners/south-africa/stellenbosch-&-winelands.webp"
+  ],
+  "bannerLgImages": [
+    "/images/banners/south-africa/blyde-river-canyon.webp",
+    "/images/banners/south-africa/cape-town.webp",
+    "/images/banners/south-africa/durban.webp",
+    "/images/banners/south-africa/garden-route.webp",
+    "/images/banners/south-africa/johannesburg.webp",
+    "/images/banners/south-africa/kruger-national-park.webp",
+    "/images/banners/south-africa/robben-island.webp",
+    "/images/banners/south-africa/stellenbosch-&-winelands.webp"
+  ],
+  "duration": "10 Nights  I  11 Days",
+  "price": 231987,
+  "description": [
+    "Discover the beauty of South Africa on this 11-day tour! Begin your adventure in Cape Town, exploring the iconic Table Mountain, the historic Robben Island, and the scenic Cape of Good Hope.",
+    "Travel along the stunning Garden Route, visit Stellenbosch & the Winelands, and enjoy the vibrant city life in Durban and Johannesburg. Experience the thrill of a safari in Kruger National Park, spotting Africa's Big Five in their natural habitat."
+  ],
+  "additionalInfo": [
+    {
+      "name": "Geography and Climate",
+      "description": "South Africa offers a diverse landscape ranging from beaches and mountains to savannahs and deserts. The country experiences a generally temperate climate with warm summers and mild winters, making it ideal for sightseeing and safari adventures throughout the year."
     }
+  ],
+  "itinerary": [
+    {
+      "day": "Day 01 :",
+      "title": "Arrival in Cape Town",
+      "description": "Arrive at Cape Town International Airport and transfer to your hotel. Relax and enjoy the rest of the day at leisure or explore the local surroundings.",
+      "additionalInfo": ["Overnight stay in Cape Town"]
+    },
+    {
+      "day": "Day 02 :",
+      "title": "Cape Town City Tour",
+      "description": "After breakfast, embark on a full-day city tour of Cape Town. Visit Table Mountain, Robben Island, Victoria & Alfred Waterfront, and enjoy the scenic views of the city.",
+      "additionalInfo": ["Overnight stay in Cape Town"]
+    },
+    {
+      "day": "Day 03 :",
+      "title": "Cape Peninsula & Cape of Good Hope",
+      "description": "Take a full-day tour of the Cape Peninsula, including Hout Bay, Boulders Beach Penguin Colony, and the Cape of Good Hope. Enjoy panoramic ocean views along the way.",
+      "additionalInfo": ["Overnight stay in Cape Town"]
+    },
+    {
+      "day": "Day 04 :",
+      "title": "Stellenbosch & Winelands",
+      "description": "Drive to the Cape Winelands and explore the picturesque town of Stellenbosch. Enjoy wine tasting at renowned vineyards and immerse yourself in the local culture.",
+      "additionalInfo": ["Overnight stay in Stellenbosch or Cape Town"]
+    },
+    {
+      "day": "Day 05 :",
+      "title": "Garden Route Drive",
+      "description": "Depart for the famous Garden Route, visiting scenic spots like Knysna, Plettenberg Bay, and Tsitsikamma National Park. Enjoy the breathtaking coastal scenery along the way.",
+      "additionalInfo": ["Overnight stay in Garden Route area"]
+    },
+    {
+      "day": "Day 06 :",
+      "title": "Continue Garden Route & Adventure Activities",
+      "description": "Explore more of the Garden Route with options for adventure activities such as bungee jumping at Bloukrans Bridge, canopy tours, or boat trips along the lagoon.",
+      "additionalInfo": ["Overnight stay in Garden Route area"]
+    },
+    {
+      "day": "Day 07 :",
+      "title": "Flight to Durban",
+      "description": "Take a flight to Durban. Spend the afternoon relaxing on Durban’s Golden Mile beach or exploring the vibrant city markets.",
+      "additionalInfo": ["Overnight stay in Durban"]
+    },
+    {
+      "day": "Day 08 :",
+      "title": "Durban to Johannesburg",
+      "description": "After breakfast, fly to Johannesburg. On arrival, enjoy a city tour including Soweto and the Apartheid Museum.",
+      "additionalInfo": ["Overnight stay in Johannesburg"]
+    },
+    {
+      "day": "Day 09 :",
+      "title": "Kruger National Park Safari",
+      "description": "Drive or fly to Kruger National Park for a thrilling safari adventure. Spot wildlife including lions, elephants, rhinos, leopards, and buffalos.",
+      "additionalInfo": ["Overnight stay near Kruger National Park"]
+    },
+    {
+      "day": "Day 10 :",
+      "title": "Full Day Safari in Kruger National Park",
+      "description": "Enjoy a full day safari in Kruger National Park. Experience the beauty of South African wildlife and landscapes on guided game drives.",
+      "additionalInfo": ["Overnight stay near Kruger National Park"]
+    },
+    {
+      "day": "Day 11 :",
+      "title": "Departure from Johannesburg",
+      "description": "After breakfast, transfer to Johannesburg Airport for your onward journey, concluding your South Africa Highlights tour.",
+      "additionalInfo": []
+    }
+  ],
+  "hotel": {
+    "name": "Hotel details",
+    "amenities": [
+      "Good 4* Hotel / Resort in Cape Town",
+      "Good 4* Hotel / Resort in Durban",
+      "Good 4* Hotel / Resort in Johannesburg",
+      "Good 4* Hotel / Resort near Kruger National Park"
+    ]
   },
+  "inclusionAndExclusion": {
+    "inclusions": [
+      "Two Night’s Accommodation in Cape Town at suggested hotels or similar",
+      "Two Nights Accommodation in Garden Route area at suggested hotels or similar",
+      "One Night Accommodation in Durban at suggested hotels or similar",
+      "Two Nights Accommodation near Kruger National Park at suggested hotels or similar",
+      "One Night Accommodation in Johannesburg at suggested hotels or similar",
+      "Daily breakfast except on arrival day",
+      "All transfers and sightseeing by AC Sedan or as per itinerary inclusive of toll, parking & driver’s batta",
+      "Point to Point transportation service (not disposal basis)"
+    ],
+    "exclusions": [
+      "International Airfare / Domestic Flights within South Africa",
+      "Travel Insurance",
+      "Government Tax, GST or VAT",
+      "Meals not mentioned in the itinerary",
+      "Personal expenses like medical, phone calls, laundry, tips, etc.",
+      "Entrance fees, guide charges",
+      "Optional tours & additional usage of vehicle",
+      "Any expenses due to bad weather, natural calamities, strikes or political unrest",
+      "No refund for cancellations or non-utilization of services"
+    ]
+  },
+  "pleaseNote": {
+    "title": "Please Note",
+    "notes": [
+      "Cancellation policies vary based on airline, hotels, and peak season. Confirm before booking.",
+      "Group bookings may have separate cancellation policies.",
+      "Refunds are subject to terms of individual service providers."
+    ]
+  },
+  "conditions": {
+    "title": "Conditions",
+    "conditions": [
+      "Airfare is subject to availability at the time of confirmation.",
+      "Hotel Rooms & Services are subject to availability at the time of confirmation.",
+      "Credit card payments may incur additional bank charges.",
+      "No change in itinerary once confirmed unless provided in writing.",
+      "Private vehicle is on Point to Point basis as per itinerary.",
+      "Entrances specified in the itinerary are included; extra services to be paid by guest directly.",
+      "No refunds for partially unutilized tickets or 'NO-SHOWS'."
+    ]
+  }
+},
+
   {
   "name": "Egypt Highlights",
   "slug": "egypt-tour-package",
@@ -153,7 +185,7 @@
          "/images/banners/egypt/sharm-el-sheikh.webp"
     ],
   "duration": "06 Nights  I  07 Days",
-  "price": 45000,
+  "price": 55165,
   "description": [
     "Explore the land of Pharaohs and ancient wonders! Begin your journey in Cairo with a 2-night stay, marveling at the Pyramids of Giza, Sphinx, and the Egyptian Museum, immersing yourself in Egypt's rich history.",
     "Then, travel to Luxor for a 2-night stay, experiencing the grandeur of Karnak and Luxor Temples, Valley of the Kings, and the majestic Nile River. Conclude your journey with a relaxing Nile Cruise and discover Egypt's timeless charm."
