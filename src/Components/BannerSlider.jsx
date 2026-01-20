@@ -14,7 +14,7 @@ import {
   Mousewheel,
   Keyboard,
 } from "swiper/modules";
-import RecommendedSearch from "./RecommendedSearch";
+
 
 function BannerSlider({ images }) {
   return (
@@ -69,7 +69,7 @@ function BannerSlider({ images }) {
       </Swiper>
 
       <div className="absolute lg:hidden w-10/12 mx-auto left-0 right-0 top-20 z-10 ">
-        <RecommendedSearch/>
+      
       </div>
     </div>
   );

@@ -14,6 +14,15 @@ export default function GalleryPage() {
     "/images/guests/guest2.webp",
     "/images/guests/guest3.webp",
     "/images/guests/guest4.webp",
+    "/images/guests/guest5.webp",
+      "/images/guests/guest6.webp",
+        "/images/guests/visionfly_guests_16.webp",
+                "/images/guests/visionfly_guests_17.webp",
+                 "/images/guests/visionfly_guests_18.webp",
+                   "/images/guests/visionfly_guests_11.webp",
+                     "/images/guests/visionfly_guests_19.webp",
+                        "/images/guests/visionfly_guests_21.webp",
+                
     // ... add all your images here
   ];
 

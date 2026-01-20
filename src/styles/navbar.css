@@ -30,3 +30,49 @@
   
   }
 }
+/* Desktop Mega Menu Highlighting */
+.navitem .mega-active,
+.navitem:hover .mega-active {
+  color: #028680 !important;
+  font-size: 15px !important;
+  font-weight: 700 !important;
+}
+
+/* Region Left Side Highlight */
+.region-active {
+  background: #fff !important;
+  color: #028680 !important;
+  font-size: 15px !important;
+  font-weight: 700 !important;
+  border-right: 4px solid #028680 !important;
+}
+
+/* Section Heading Bigger */
+.section-heading {
+  font-size: 15px !important;
+  font-weight: 800 !important;
+  color: #028680 !important;
+  margin-bottom: 4px !important;
+}
+
+/* Section links */
+.section-link {
+  font-size: 13px !important;
+  font-weight: 600 !important;
+}
+
+.section-link:hover {
+  color: #028680 !important;
+}
+
+/* Top Menu item increase */
+.navitem > a,
+.navitem > div {
+  font-size: 17px !important;
+  font-weight: 600 !important;
+}
+
+.navitem:hover > a,
+.navitem:hover > div {
+  color: #028680 !important;
+}
