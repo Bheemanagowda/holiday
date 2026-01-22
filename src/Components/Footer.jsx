@@ -1,6 +1,7 @@
 import Link from "next/link";
 import React from "react";
-import { FaFacebookF, FaInstagram, FaYoutube } from "react-icons/fa";
+import { FaFacebookF, FaInstagram, FaYoutube,FaWhatsapp } from "react-icons/fa";
+import Whatsapp from "./ReuseComponent/Whatsapp";
 
 function Footer() {
   return (
@@ -78,6 +79,19 @@ function Footer() {
                 <FaYoutube />
               </div>
             </a>
+           <div className="flex justify-center gap-4 md:hidden z-50">
+   <a
+    href="https://wa.me/+919845248323" 
+    target="_blank" 
+    rel="noopener noreferrer"
+  >
+    <div className="p-2 bg-[#1FB141] rounded-full cursor-pointer">
+      <FaWhatsapp color="white" size={25} />
+    </div>
+  </a>
+</div>
+
+
           </div>
         </div>
       </div>

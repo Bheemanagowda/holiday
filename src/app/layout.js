@@ -1,6 +1,11 @@
+
+
+
+
 import Navbar from "@/Components/Navbar";
 import "./globals.css";
 import { Barlow, Kumbh_Sans } from "next/font/google";
+import Whatsapp from "../Components/ReuseComponent/Whatsapp.jsx";
 import Footer from "@/Components/Footer";
 export const metadata = {
   title:
@@ -27,6 +32,8 @@ export default function RootLayout({ children }) {
       >
         <Navbar/>
         {children}
+        <Whatsapp/>
+        
         <Footer/>
       </body>
     </html>

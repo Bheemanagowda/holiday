@@ -1,3 +1,5 @@
+
+"use client";
 import React from "react";
 import { FaWhatsapp } from "react-icons/fa";
 
@@ -9,15 +11,20 @@ function Whatsapp() {
     window.open(whatsappLink, "_blank");
   };
   return (
-    <div
-      className="p-2 bg-[#1FB141] rounded-[50%] 
-      w-max text-[30px] cursor-pointer fixed z-10 bottom-5
-        left-2 ml-auto  hover:scale-105 
-        transition ease-in-out drop-shadow-2xl"
-      onClick={handleClick}
-    >
-      <FaWhatsapp color="white" />
-    </div>
+<div
+  className="
+    p-2 bg-[#1FB141] rounded-full text-[32px] cursor-pointer z-50
+    hover:scale-105 transition ease-in-out drop-shadow-2xl
+
+    /* desktop floating */
+    hidden md:flex fixed right-4 top-1/2 -translate-y-1/2
+  "
+  onClick={handleClick}
+>
+  <FaWhatsapp color="white" />
+</div>
+
+
   );
 }
 

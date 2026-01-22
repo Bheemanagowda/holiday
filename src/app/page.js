@@ -8,6 +8,8 @@ import ExploreTheWorld from "../Components/ExploreTheWorld";
 import InternationalHolidays from "../Components/InternationalHolidays";
 import GalleryIntro from "@/Components/GalleryIntro";
 import GuestReviews from "@/Components/GuestReviews";
+import Whychoose from "@/Components/Whychoose";
+
 
 function Home() {
   const images = [
@@ -146,6 +148,8 @@ We especially loved the island trips and cultural experiences.`,
       <ExploreTheWorld />
       <InternationalHolidays />
       <GuestReviews reviews={reviews} />{" "}
+   <Whychoose  />
+
       <GalleryIntro
         images={[
           "/images/guests/guest1.webp",
@@ -165,6 +169,7 @@ We especially loved the island trips and cultural experiences.`,
           "/images/guests/visionfly_guests_5.webp",
         ]}
       />
+   
     </div>
   );
 }
