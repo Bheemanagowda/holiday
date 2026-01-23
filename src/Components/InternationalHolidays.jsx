@@ -1,13 +1,14 @@
 import React from "react";
 import CommonHeading from "./ReuseComponent/CommonHeading";
+import Link from "next/link";
 
 function InternationalHolidays() {
   const internationalholidays = [
-    { name: "Thailand", image: "/images/thailand_holidays.webp" },
-    { name: "Vietnam", image: "/images/vietnam_holidays.webp" },
-    { name: "Kenya", image: "/images/kenya_holidays.webp" },
-    { name: "Spain", image: "/images/spain_holidays.webp" },
-    { name: "Singapore", image: "/images/singapore_holidays.webp" },
+    { name: "Thailand", image: "/images/thailand_holidays.webp",link:"/duniya-dekho/thailand-tour-package" },
+    { name: "Vietnam", image: "/images/vietnam_holidays.webp",link:"/duniya-dekho/vietnam-tour-package" },
+    { name: "Kenya", image: "/images/kenya_holidays.webp",link:"/duniya-dekho/kenya-victoria-falls-tour-package" },
+    { name: "Spain", image: "/images/spain_holidays.webp",link:"/duniya-dekho/spain-portugal-tour-package" },
+    { name: "Singapore", image: "/images/singapore_holidays.webp",link:"/duniya-dekho/singapore-tour-package" },
   ];
   return (
     <div className="pt-8 w-11/12 mb-8 mx-auto">
@@ -24,7 +25,7 @@ function InternationalHolidays() {
           
           ${index == 2 || index == 4 ? "lg:col-span-4" : ""}
           `}
-          >
+          > <Link href={destination.link}>
             <img
               src={destination.image}
               alt={destination.name}
@@ -37,6 +38,7 @@ function InternationalHolidays() {
                 {destination.name}
               </h1>
             </div>
+            </Link>
           </div>
         ))}
       </div>

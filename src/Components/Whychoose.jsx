@@ -1,7 +1,7 @@
 import React from 'react';
-import { FaFemale, FaUsers, FaHandshake, FaClock, FaHeadset } from "react-icons/fa";
-import CommonHeading from "./ReuseComponent/CommonHeading";
-import { MdPriceCheck } from "react-icons/md";
+import CommonHeading from './ReuseComponent/CommonHeading';
+
+
 
 const brand = {
   yellow: "#E5C22A",
@@ -11,12 +11,12 @@ const brand = {
 };
 
 const whyChooseItems = [
-  { icon: <FaFemale size={70} />, title: "Women’s Special Holidays", desc: "Exclusive tours focusing on safety, comfort & unique experiences." },
-  { icon: <FaUsers size={70} />, title: "Group Tours & Flexi Holidays", desc: "Tailored packages for families, friends & corporates." },
-  { icon: <FaHandshake size={70} />, title: "Trusted Partner", desc: "Reliable, transparent and customer-first travel services." },
-  { icon: <MdPriceCheck size={70} />, title: "Affordable Pricing", desc: "Premium travel at honest & budget-friendly pricing." },
-  { icon: <FaClock size={70} />, title: "Fast Bookings", desc: "Quick & seamless booking experience." },
-  { icon: <FaHeadset size={70} />, title: "24/7 Support", desc: "Round-the-clock assistance for hassle-free travel." }
+  { img: "/images/banners/icons/women.webp", title: "Women’s Special Holidays", desc: "Experience tailor-made holidays designed exclusively for women.Enjoy safe, comfortable, and memorable journeys with like-minded travelers.Discover destinations, adventures, and experiences crafted just for you." },
+  { img:"/images/banners/icons/tours.webp" , title: "Group Tours & Flexi Holidays", desc: "Join exciting group tours and make memories with like-minded travelers.Flexible itineraries let you explore at your own pace without missing a moment.Enjoy hassle-free travel with curated experiences for every kind of adventurer." },
+  { img: "/images/banners/icons/trusted-partner.webp", title: "Trusted Partner", desc: "We are more than a service provider — we are a trusted partner for every traveler.By understanding preferences and offering expert guidance, we make every trip smooth and memorable.This trust inspires us to deliver personalized adventures that create lifelong memories." },
+  { img: "/images/banners/icons/price.webp", title: "Affordable Pricing", desc: "Travel more while spending less with our carefully crafted holiday packages.Enjoy top-notch experiences without compromising on quality or comfort.Transparent pricing ensures no hidden costs, giving you complete peace of mind." },
+  { img:"/images/banners/icons/booking.webp", title: "Fast Bookings", desc: "Reserve your holiday in just a few clicks.Get instant confirmation and secure your dates.Enjoy a seamless and hassle-free booking experience." },
+  {img: "/images/banners/icons/support.webp", title: "24/7 Support", desc: "We provide 24/7 support to assist you anytime, anywhere.Our dedicated team is always ready to solve your queries and ensure smooth travel.With round-the-clock assistance, your journey is worry-free and enjoyable." }
 ];
 
 const Whychoose = () => {
@@ -50,7 +50,11 @@ const Whychoose = () => {
 >
   <div className='flex justify-center mb-4'>
     <div style={{ color: brand.yellow }}>
-      {item.icon}
+    <img
+    src={item.img}
+    alt={item.title}
+    className='w-[200px] h-[200px] object-contain '
+  />
     </div>
   </div>
 
