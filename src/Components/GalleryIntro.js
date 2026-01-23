@@ -12,7 +12,7 @@ import CommonHeading from "./ReuseComponent/CommonHeading";
 import Link from "next/link";
 function GalleryIntro({ images }) {
   return (
-    <div className="my-8 lg:my-10 gallery_intro">
+    <div className="my-8 lg:my-10 gallery_intro ">
       <CommonHeading
         intro={"Explore Our Memories"}
         heading={"Gallery section"}

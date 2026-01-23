@@ -3,6 +3,7 @@ import CommonHeading from "../../Components/ReuseComponent/CommonHeading";
 import OurServiceCard from "../../Components/OurServiceCard";
 import { v4 as uuidv4 } from "uuid";
 import OurVisionAndMission from "../../Components/OurVisionAndMission";
+import BestTeam from "@/Components/BestTeam";
 
 
 export const metadata = {
@@ -69,6 +70,7 @@ function About(props) {
         </div>
 
         <OurVisionAndMission/>
+        <BestTeam/>
       </div>
     </div>
   );

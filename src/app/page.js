@@ -148,10 +148,11 @@ We especially loved the island trips and cultural experiences.`,
       <HotSelling />
       <ExploreTheWorld />
       <InternationalHolidays />
+       <ClientVideoSaying/>
         <Whychoose  />
       <GuestReviews reviews={reviews} />{" "}
 
-      <ClientVideoSaying/>
+     
  
 
       <GalleryIntro

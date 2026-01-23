@@ -47,10 +47,36 @@ function Navbar() {
   const navdata = [
     { name: "Home", link: "/" },
     { name: "About Us", link: "/about-us" },
-    { name: "Bharat Dekho", type: "mega", link: "/bharat-dekho", data: tourMenu["bharat-dekho"] },
-    { name: "Duniya Dekho", type: "mega", link: "/duniya-dekho", data: tourMenu["duniya-dekho"] },
+    {
+      name: "Bharat Dekho",
+      type: "mega",
+      link: "/bharat-dekho",
+      data: tourMenu["bharat-dekho"],
+    },
+    {
+      name: "Duniya Dekho",
+      type: "mega",
+      link: "/duniya-dekho",
+      data: tourMenu["duniya-dekho"],
+    },
     { name: "MICE", link: "/mice-services-meetings-incentives-conferences-exhibitions" },
-    { name: "Gallery", link: "/gallery" },
+
+    // --- NEW GALLERY MEGA MENU ---
+    {
+      name: "Gallery",
+      type: "gallery",
+      data: {
+        sections: [
+          {
+        
+            links: [
+              { name: "Photo Gallery", link: "/gallery" },
+              { name: "Video Gallery", link: "/video" },
+            ],
+          },
+        ],
+      },
+    },
     { name: "Contact Us", link: "/contact-us" },
   ];
 
@@ -58,7 +84,6 @@ function Navbar() {
     <div className={`fixed w-full z-50 max-w-[1700px] ease-in-out duration-700 ${visible ? "top-0" : "-top-full"}`}>
       <div className="font-medium text-gray_c text-primary bg-white shadow-md">
 
-        {/* <div className="flex items-center py-3 md:py-4 lg:py-0 justify-between w-full xl:w-11/12 mx-auto relative z-[60] bg-white"> */}
         <div className="flex items-center py-3 md:py-4 lg:py-0 justify-between w-full xl:w-11/12 mx-auto relative z-[60] bg-white px-[15px] md:px-0">
 
           <div className="flex-shrink-0 lg:basis-1/5 xl:basis-2/12">
@@ -72,8 +97,8 @@ function Navbar() {
             {navdata.map((ele, index) => (
               <div
                 key={uuidv4()}
-                className="navitem group px-2  xl:px-3 "
-                onMouseEnter={() => ele.type === "mega" && setActiveMegaIndex(index)}
+                className="navitem group px-2 xl:px-3"
+                onMouseEnter={() => ele.type && setActiveMegaIndex(index)}
                 onMouseLeave={() => setActiveMegaIndex(null)}
               >
                 {!ele.type ? (
@@ -90,10 +115,10 @@ function Navbar() {
                       <IoIosArrowDown className="group-hover:rotate-180 transition-transform" />
                     </div>
 
-                    {activeMegaIndex === index && (
-                      <div className="hidden lg:block absolute top-full left-0 w-full bg-white shadow-2xl z-50 border-t border-gray-100 animate-in fade-in duration-200">
+                    {/* BHARAT & DUNIYA DEKHO ORIGINAL */}
+                    {activeMegaIndex === index && ele.type === "mega" && (
+                      <div className="hidden lg:block absolute top-full left-0 w-full bg-white shadow-2xl z-50 border-t border-gray-100">
                         <div className="flex min-h-[450px] max-h-[70vh] overflow-hidden">
-                          {/* LEFT REGION LIST */}
                           <div className="w-1/4 max-w-[220px] bg-gray-50 border-r border-gray-200 overflow-y-auto">
                             {ele.data.regions.map((region, rIdx) => (
                               <div
@@ -110,14 +135,12 @@ function Navbar() {
                             ))}
                           </div>
 
-                          {/* RIGHT REGION CONTENT */}
                           <div className="flex-1 p-8 grid grid-cols-3 gap-8 overflow-y-auto max-h-[70vh] bg-white">
                             {ele.data.regions[desktopRegionIndex]?.sections?.map((section) => (
                               <div key={section.heading}>
                                 <h4 className="text-[#028680] font-black border-b border-gray-50 pb-2 mb-3 text-[17px] tracking-tight">
                                   {section.heading}
                                 </h4>
-
                                 <ul className="space-y-1.5">
                                   {section.links.map((link) => (
                                     <li key={link.name}>
@@ -133,6 +156,34 @@ function Navbar() {
                         </div>
                       </div>
                     )}
+
+                    {/* NEW GALLERY MEGA MENU */}
+                  {activeMegaIndex === index && ele.type === "gallery" && (
+  <div
+    className="hidden lg:block absolute top-full  w-[200px] bg-white shadow-2xl z-50 border-t border-gray-100"
+  >
+    <div className="p-5 grid grid-cols-1 gap-5">
+      {ele.data.sections.map((section) => (
+        <div key={section.heading}>
+        
+          <ul className="space-y-2">
+            {section.links.map((link) => (
+              <li key={link.name}>
+                <Link
+                  href={link.link}
+                  className="text-gray-700 hover:text-[#028680] block text-[15px]"
+                >
+                  {link.name}
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))}
+    </div>
+  </div>
+)}
+
                   </>
                 )}
               </div>
@@ -159,7 +210,7 @@ function Navbar() {
                       <IoIosArrowForward className="text-gray-300 text-sm" />
                     </div>
                   </Link>
-                ) : (
+                ) : ele.type === "mega" ? (
                   <div>
                     <div
                       onClick={() => setMobileMegaIndex(mobileMegaIndex === index ? null : index)}
@@ -191,8 +242,8 @@ function Navbar() {
                                   <div key={sIdx}>
                                     <div className="font-bold text-[17px] text-[#028680] mb-1">{section.heading}</div>
                                     <ul className="space-y-1">
-                                      {section.links.map((link, lIdx) => (
-                                        <li key={lIdx}>
+                                      {section.links.map((link) => (
+                                        <li key={link.name}>
                                           <Link
                                             href={link.link}
                                             onClick={() => setIsOpen(false)}
@@ -212,15 +263,40 @@ function Navbar() {
                       </div>
                     )}
                   </div>
-                )}
+                ) : ele.type === "gallery" ? (
+                  <div>
+                    <div
+                      onClick={() => setMobileMegaIndex(mobileMegaIndex === index ? null : index)}
+                      className={`flex items-center justify-between py-4 px-6 text-[19px] font-semibold ${
+                        mobileMegaIndex === index ? "bg-[#028680] text-white" : "bg-white text-gray-800"
+                      }`}
+                    >
+                      Gallery
+                      <IoIosArrowDown className={`transition-transform duration-300 ${mobileMegaIndex === index ? "rotate-180" : ""}`} />
+                    </div>
+
+                    {mobileMegaIndex === index && (
+                      <div className="bg-gray-50">
+                        <div className="bg-white pl-10 py-3 space-y-3">
+                          <Link href="/gallery" onClick={() => setIsOpen(false)} className="block text-[16px] text-gray-700">
+                            Photo Gallery
+                          </Link>
+                          <Link href="/video" onClick={() => setIsOpen(false)} className="block text-[16px] text-gray-700">
+                            Video Gallery
+                          </Link>
+                        </div>
+                      </div>
+                    )}
+                  </div>
+                ) : null}
               </div>
             ))}
           </div>
         </div>
 
-        {/* MOBILE SEARCH SCREEN */}
+        {/* MOBILE SEARCH */}
         {searchvisible && (
-          <div className="fixed inset-0 bg-white z-[999] flex flex-col p-3  h-[70px]">
+          <div className="fixed inset-0 bg-white z-[999] flex flex-col p-3 h-[70px]">
             <div className="flex items-center gap-3">
               <button onClick={() => setSearchvisible(false)} className="text-2xl">
                 <HiOutlineArrowSmLeft />

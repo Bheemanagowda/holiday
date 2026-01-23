@@ -63,7 +63,7 @@ export default function GalleryPage() {
   };
 
   return (
-    <div className="w-11/12 mx-auto mt-24">
+    <div className="w-11/12 mx-auto mt-30 mb-30 ">
       <Masonry
         breakpointCols={breakpointColumnsObj}
         className="my-masonry-grid"
