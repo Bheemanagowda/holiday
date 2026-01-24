@@ -78,6 +78,10 @@ function Navbar() {
       },
     },
     { name: "Contact Us", link: "/contact-us" },
+  { name: "View All Bharat Dekho", link: "/bharat-dekho", mobileOnly: true, className: "lg:hidden" },
+{ name: "View All Duniya Dekho", link: "/duniya-dekho", mobileOnly: true, className: "lg:hidden" },
+
+
   ];
 
   return (
@@ -88,7 +92,7 @@ function Navbar() {
 
           <div className="flex-shrink-0 lg:basis-1/5 xl:basis-2/12">
             <Link href="/">
-              <img className="w-[140px] md:w-[150px] lg:w-[190px] xl:w-[230px]" src="/logo.png" alt="logo" />
+              <img className="w-[240px] md:w-[240px] lg:w-[240px] xl:w-[270px]" src="/logo.png" alt="logo" />
             </Link>
           </div>
 
@@ -97,7 +101,7 @@ function Navbar() {
             {navdata.map((ele, index) => (
               <div
                 key={uuidv4()}
-                className="navitem group px-2 xl:px-3"
+               className={`navitem group px-2 xl:px-3 ${ele.className || ""}`}
                 onMouseEnter={() => ele.type && setActiveMegaIndex(index)}
                 onMouseLeave={() => setActiveMegaIndex(null)}
               >
@@ -174,6 +178,8 @@ function Navbar() {
                   className="text-gray-700 hover:text-[#028680] block text-[15px]"
                 >
                   {link.name}
+
+                  
                 </Link>
               </li>
             ))}

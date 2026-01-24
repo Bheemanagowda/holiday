@@ -185,7 +185,7 @@
          "/images/banners/egypt/sharm-el-sheikh.webp"
     ],
   "duration": "06 Nights  I  07 Days",
-  "price": 55165,
+  "price": 106200,
   "description": [
     "Explore the land of Pharaohs and ancient wonders! Begin your journey in Cairo with a 2-night stay, marveling at the Pyramids of Giza, Sphinx, and the Egyptian Museum, immersing yourself in Egypt's rich history.",
     "Then, travel to Luxor for a 2-night stay, experiencing the grandeur of Karnak and Luxor Temples, Valley of the Kings, and the majestic Nile River. Conclude your journey with a relaxing Nile Cruise and discover Egypt's timeless charm."
@@ -464,7 +464,7 @@
               "/images/banners/tanzania/zanzibar.webp"
     ],
   "duration": "08 Nights  I  09 Days",
-  "price": 423244,
+  "price": 315900,
   "description": [
     "Discover the wonders of Tanzania! Begin your journey in Arusha with a 1-night stay before heading into the wild for an unforgettable safari experience in Serengeti and Ngorongoro Crater.",
     "Experience the abundant wildlife, breathtaking landscapes, and traditional Maasai culture. Conclude your trip with a relaxing beach stay in Zanzibar, enjoying pristine beaches and crystal-clear waters."
@@ -617,7 +617,7 @@
                "/images/banners/usa-east-west/washington-d-c.webp" 
     ],
   "duration": "10 Nights  I  11 Days",
-  "price": 145000,
+  "price": 230600,
   "description": [
     "Experience the best of the USA! Begin your journey on the East Coast with New York City and Washington DC, exploring iconic landmarks, museums, and vibrant city life.",
     "Then fly to the West Coast for Los Angeles and San Francisco, visiting Hollywood, Santa Monica, Golden Gate Bridge, and enjoying the scenic California coast. This tour offers a perfect blend of culture, history, and modern attractions."
@@ -628,74 +628,76 @@
       "description": "The USA spans diverse landscapes including cities, mountains, beaches, and deserts. The East Coast experiences a temperate climate with four seasons, while the West Coast has a Mediterranean climate with warm summers and mild winters."
     }
   ],
-  "itinerary": [
-    {
-      "day": "Day 01 :",
-      "title": "Arrival in New York",
-      "description": "Arrive at New York JFK Airport. Transfer to your hotel and relax after your journey.",
-      "additionalInfo": ["Overnight stay in New York hotel"]
-    },
-    {
-      "day": "Day 02 :",
-      "title": "New York City Sightseeing",
-      "description": "Visit Statue of Liberty, Empire State Building, Times Square, Central Park, and enjoy an optional Broadway show.",
-      "additionalInfo": ["Overnight stay in New York hotel"]
-    },
-    {
-      "day": "Day 03 :",
-      "title": "More New York & Travel to Washington DC",
-      "description": "Morning sightseeing in New York. Later, travel to Washington DC and check-in at your hotel.",
-      "additionalInfo": ["Overnight stay in Washington DC hotel"]
-    },
-    {
-      "day": "Day 04 :",
-      "title": "Washington DC Tour",
-      "description": "Visit the White House, Capitol Hill, Lincoln Memorial, Smithsonian Museums, and explore local culture.",
-      "additionalInfo": ["Overnight stay in Washington DC hotel"]
-    },
-    {
-      "day": "Day 05 :",
-      "title": "Flight to Los Angeles",
-      "description": "Fly to Los Angeles. Check-in at your hotel and relax or explore the city.",
-      "additionalInfo": ["Overnight stay in Los Angeles hotel"]
-    },
-    {
-      "day": "Day 06 :",
-      "title": "Los Angeles Sightseeing",
-      "description": "Visit Hollywood, Walk of Fame, Santa Monica Pier, Venice Beach, and enjoy local attractions.",
-      "additionalInfo": ["Overnight stay in Los Angeles hotel"]
-    },
-    {
-      "day": "Day 07 :",
-      "title": "Los Angeles to San Francisco",
-      "description": "Travel to San Francisco via scenic drive or flight. Explore Fisherman’s Wharf and local markets.",
-      "additionalInfo": ["Overnight stay in San Francisco hotel"]
-    },
-    {
-      "day": "Day 08 :",
-      "title": "San Francisco Sightseeing",
-      "description": "Visit Golden Gate Bridge, Alcatraz Island, Painted Ladies, and explore the city’s iconic neighborhoods.",
-      "additionalInfo": ["Overnight stay in San Francisco hotel"]
-    },
-    {
-      "day": "Day 09 :",
-      "title": "Day Trip to Yosemite National Park",
-      "description": "Full-day trip to Yosemite National Park. Explore scenic valleys, waterfalls, and nature trails.",
-      "additionalInfo": ["Overnight stay in San Francisco hotel"]
-    },
-    {
-      "day": "Day 10 :",
-      "title": "Leisure in San Francisco",
-      "description": "Spend the day at leisure shopping, sightseeing, or optional tours along the bay area.",
-      "additionalInfo": ["Overnight stay in San Francisco hotel"]
-    },
-    {
-      "day": "Day 11 :",
-      "title": "Departure from San Francisco",
-      "description": "After breakfast, transfer to San Francisco Airport for your onward journey. Tour ends here.",
-      "additionalInfo": []
-    }
-  ],
+"itinerary": [
+  {
+    "day": "Day 01 :",
+    "title": "Arrival in New York",
+    "description": "Arrive at New York JFK Airport. Transfer to your hotel and relax after your journey.",
+    "additionalInfo": ["Overnight stay in New York hotel"]
+  },
+  {
+    "day": "Day 02 :",
+    "title": "New York City Sightseeing",
+    "description": "Visit Statue of Liberty, Empire State Building, Times Square, Central Park, and enjoy an optional Broadway show.",
+    "additionalInfo": ["Overnight stay in New York hotel"]
+  },
+  {
+    "day": "Day 03 :",
+    "title": "More New York & Travel to Washington DC",
+    "description": "Morning sightseeing in New York. Later, travel to Washington DC and check-in at your hotel.",
+    "additionalInfo": ["Overnight stay in Washington DC hotel"]
+  },
+  {
+    "day": "Day 04 :",
+    "title": "Washington DC Tour",
+    "description": "Visit the White House, Capitol Hill, Lincoln Memorial, Smithsonian Museums, and explore local culture.",
+    "additionalInfo": ["Overnight stay in Washington DC hotel"]
+  },
+  {
+    "day": "Day 05 :",
+    "title": "Flight to Los Angeles",
+    "description": "Fly to Los Angeles. Check-in at your hotel and relax or explore the city.",
+    "additionalInfo": ["Overnight stay in Los Angeles hotel"]
+  },
+  {
+    "day": "Day 06 :",
+    "title": "Los Angeles Sightseeing",
+    "description": "Visit Hollywood, Walk of Fame, Santa Monica Pier, Venice Beach, and enjoy local attractions.",
+    "additionalInfo": ["Overnight stay in Los Angeles hotel"]
+  },
+  {
+    "day": "Day 07 :",
+    "title": "Los Angeles to San Francisco",
+    "description": "Travel to San Francisco via scenic drive or flight. Explore Fisherman’s Wharf and local markets.",
+    "additionalInfo": ["Overnight stay in San Francisco hotel"]
+  },
+  {
+    "day": "Day 08 :",
+    "title": "San Francisco Sightseeing",
+    "description": "Visit Golden Gate Bridge, Alcatraz Island, Painted Ladies, and explore the city’s iconic neighborhoods.",
+    "additionalInfo": ["Overnight stay in San Francisco hotel"]
+  },
+  {
+    "day": "Day 09 :",
+    "title": "Day Trip to Yosemite National Park",
+    "description": "Full-day trip to Yosemite National Park. Explore scenic valleys, waterfalls, and nature trails.",
+    "additionalInfo": ["Overnight stay in San Francisco hotel"]
+  },
+  {
+    "day": "Day 10 :",
+    "title": "Leisure Day in San Francisco",
+    "description": "Spend the day at leisure for shopping, sightseeing, or optional tours around the Bay Area.",
+    "additionalInfo": ["Overnight stay in San Francisco hotel"]
+  },
+  {
+    "day": "Day 11 :",
+    "title": "Departure from San Francisco",
+    "description": "After breakfast, transfer to the airport for your onward journey. Tour ends here.",
+    "additionalInfo": []
+  }
+],
+
+
   "hotel": {
     "name": "Hotel details",
     "amenities": [
@@ -925,7 +927,7 @@
     ],
 
   "duration": "07 Nights  I  08 Days",
-  "price": 148540,
+  "price": 180900,
   "description": [
     "Discover the charm of the USA East Coast! Start your journey in New York City, exploring iconic landmarks, Times Square, Central Park, and the Statue of Liberty.",
     "Travel to Washington DC to experience history and culture with visits to the White House, Capitol Hill, and Smithsonian Museums. Conclude your tour in Boston, walking through historic sites, Freedom Trail, and charming neighborhoods."
@@ -1067,7 +1069,7 @@
             "/images/banners/south-america/rio-de-janeiro-brazil.webp"
     ],
   "duration": "12 Nights  I  13 Days",
-  "price": 185000,
+  "price": 603000,
   "description": [
     "Discover the wonders of South America! Begin your journey in Rio de Janeiro, Brazil, visiting Copacabana Beach, Christ the Redeemer, and Sugarloaf Mountain.",
     "Travel to Buenos Aires, Argentina, to experience tango, local cuisine, and city culture. Explore Peru with a visit to Machu Picchu and Cusco’s historic sites. Conclude your journey in Santiago, Chile, exploring the Andes, vineyards, and cultural landmarks."
@@ -1245,7 +1247,7 @@
       
     ],
   "duration": "09 Nights  I  10 Days",
-  "price": 490000,
+  "price": 410400,
   "description": [
     "Discover the beauty and diversity of Canada! Begin your journey in Toronto, exploring city landmarks and vibrant neighborhoods.",
     "Visit the breathtaking Niagara Falls, then travel to Montreal to experience French-inspired culture, historic streets, and local cuisine. Conclude your trip in Vancouver with stunning coastal scenery, Stanley Park, and scenic mountain views."
@@ -1401,7 +1403,7 @@
          "/images/banners/aus/uluru-northern-territory.webp"
     ],
   "duration": "09 Nights  I  10 Days",
-  "price":  217197,
+  "price":  330300,
   "description": [
     "Experience the beauty and diversity of Australia! Begin your journey in Sydney, exploring the Opera House, Harbour Bridge, and Bondi Beach.",
     "Travel to Melbourne to enjoy city highlights, cultural experiences, and nearby attractions. Conclude your tour with a visit to the Great Barrier Reef for a spectacular underwater adventure and tropical scenery."
@@ -1555,7 +1557,7 @@
        "/images/banners/newz/wellington.webp"
     ],
   "duration": "10 Nights  I  11 Days",
-  "price": 226919,
+  "price": 305100,
   "description": [
     "Experience the breathtaking beauty of New Zealand! Start in Auckland exploring city landmarks and vibrant harbors.",
     "Travel to Rotorua to witness geothermal wonders, Maori culture, and adventure activities. Continue to Queenstown, the adventure capital, and explore Fiordland National Park for stunning fjords, lakes, and scenic landscapes."
@@ -1717,7 +1719,7 @@
        "/images/banners/best-europe/venice-italy.webp"
     ],
   "duration": "14 Nights  I  15 Days",
-  "price":  129000,
+  "price":  290700,
   "description": [
     "Experience the best of Europe in this extensive tour! Start in Paris, France, exploring iconic landmarks like the Eiffel Tower, Louvre Museum, and Notre-Dame Cathedral.",
     "Travel to Italy visiting Rome, Florence, and Venice to experience ancient history, Renaissance art, and romantic canals. Continue to Switzerland with Lucerne, Interlaken, and the Swiss Alps. Explore Germany's Munich and Neuschwanstein Castle, and conclude your journey in Amsterdam, Netherlands, with scenic canals and vibrant city life."
@@ -1909,7 +1911,7 @@
             "/images/banners/turkey/troy.webp" 
     ],
   "duration": "08 Nights  I  09 Days",
-  "price": 1229000,
+  "price": 160200,
   "description": [
     "Experience the cultural crossroads of Europe and Asia! Begin in Istanbul with visits to Hagia Sophia, Blue Mosque, Topkapi Palace, and the iconic Bosphorus cruise.",
     "Continue to Cappadocia to witness stunning rock formations, fairy chimneys, and the magical sunrise hot air balloon experience. Explore Pamukkale’s white terraces and ancient Hierapolis, followed by relaxing Mediterranean vibes in Antalya."
@@ -2066,7 +2068,7 @@
                          "/images/banners/switzerland-and-paris/zurich.webp"
     ],
   "duration": "07 Nights  I  08 Days",
-  "price": 139680,
+  "price": 210600,
   "description": [
     "Begin your journey in Switzerland, home to the Alps, pristine lakes, and charming European towns. Discover Lucerne, Zurich, Interlaken, and enjoy excursions to Mt. Titlis and Jungfraujoch.",
     "Continue to Paris, the City of Lights, known for the Eiffel Tower, Louvre Museum, Seine River Cruise, and the magical Disneyland Paris for an unforgettable experience."
@@ -3167,7 +3169,7 @@
     ],
 
   "duration": "08 Nights | 09 Days",
-  "price": 255000,
+  "price": 310500,
 
   "description": [
     "Experience the surreal natural phenomenon of the Aurora Borealis across the Arctic circle in Norway, Finland and Iceland.",
@@ -3752,7 +3754,7 @@
     ],
 
   "duration": "08 Nights | 09 Days",
-  "price":  358875,
+  "price":  290000,
 
   "description": [
     "Discover Japan’s perfect blend of modern cities, historic temples, and scenic landscapes.",
@@ -3901,7 +3903,7 @@
     ],
 
   "duration": "06 Nights | 07 Days",
-  "price": 95097,
+  "price":  85500,
 
   "description": [
     "Discover Oman’s natural beauty, historic forts, desert landscapes, and rich Arabian culture.",
@@ -4041,7 +4043,7 @@
     ],
 
   "duration": "07 Nights | 08 Days",
-  "price": 185000,
+  "price": 122400,
 
   "description": [
     "Discover Saudi Arabia’s blend of modern skylines, Red Sea heritage, and ancient archaeological marvels.",
@@ -4185,7 +4187,7 @@
     ],
 
   "duration": "05 Nights | 06 Days",
-  "price": 95000,
+  "price": 81900,
 
   "description": [
     "Experience Dubai’s futuristic skyline, luxury shopping, Arabian desert adventures and dazzling architectural wonders.",
@@ -4314,7 +4316,7 @@
     ],
 
   "duration": "09 Nights | 10 Days",
-  "price": 150300,
+  "price": 110700,
 
   "description": [
     "Experience a multi-country Southeast Asian journey across Singapore, Malaysia and Thailand.",
@@ -4447,7 +4449,7 @@
   }
 },
 {
-  "name": "Vietnam & Cambodia — From Legendary Temples to Breathtaking Landscapes",
+  "name": "Singapore & Malaysia — From Legendary Temples to Breathtaking Landscapes",
   "slug": "singapore-malaysia-tour-package",
   "metaTitle": "Singapore & Malaysia Tour Package | Kuala Lumpur & Sentosa with Duniya Dekho",
   "metaDescription": "Explore Singapore and Malaysia with Duniya Dekho. Visit Sentosa Island, Universal Studios, Marina Bay Sands, Kuala Lumpur City, Batu Caves and Genting Highlands.",
@@ -4472,7 +4474,7 @@
     ],
 
   "duration": "05 Nights | 06 Days",
-    "price": 118900,
+    "price": 95400,
 
 
   "description": [
@@ -4605,7 +4607,7 @@
     ],
 
   "duration": "05 Nights | 06 Days",
-  "price": 28917,
+  "price":  45000,
 
   "description": [
     "Experience a perfect blend of culture, beaches, temples, shows and shopping across Thailand’s most iconic destinations.",
@@ -4734,7 +4736,7 @@
     ],
 
   "duration": "07 Nights | 08 Days",
-  "price": 70910,
+  "price": 75600,
 
   "description": [
     "Discover the rich history, natural landscapes and timeless temples of Vietnam & Cambodia in a blended cultural journey.",
@@ -6814,7 +6816,7 @@
   ],
 
   "duration": "09 Nights | 10 Days",
-  "price": 238500,
+  "price":  215000,
 
   "description": [
     "Travel through the heart of Europe from Paris to Vienna on this incredible 10-day tour.",

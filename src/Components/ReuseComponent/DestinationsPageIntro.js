@@ -26,7 +26,8 @@ function DestinationsPageIntro({ destinations }) {
         ))}
       </div>
     </div>
-    <div className="mt-4 lg:mt-0 flex lg:block items-center justify-between">
+    <div className="mt-4 lg:mt-0 flex flex-col gap-3 lg:block items-start lg:items-center">
+
       <div>
         <p className="text-sm text-[#4B4B4B]">Starting From</p>
         <h4 className="text-[#3D3D3D] font-bold text-3xl">Rs.{item.price}</h4>

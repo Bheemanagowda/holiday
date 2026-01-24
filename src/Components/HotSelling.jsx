@@ -45,7 +45,7 @@ function HotSelling() {
       price: 172800,
       facility: ["/images/icons/stay.webp", "/images/icons/food.webp", "/images/icons/transport.webp", "/images/icons/sightseeing.webp"],
       image: "/images/kenya_hot_selling.webp",
-      link:"/contact-us"
+      link:"/duniya-dekho/kenya-victoria-falls-tour-package"
     },
     {
       name: "Bali",
@@ -53,7 +53,7 @@ function HotSelling() {
       price: 104400,
       facility: ["/images/icons/stay.webp", "/images/icons/food.webp", "/images/icons/transport.webp", "/images/icons/sightseeing.webp"],
       image: "/images/bali_hot_selling.webp",
-      link:"/contact-us"
+      link:"/duniya-dekho/bali-tour-package"
     },
     {
       name: "Spain",
@@ -62,7 +62,7 @@ function HotSelling() {
       price: 145900,
       facility: ["/images/icons/stay.webp", "/images/icons/transport.webp", "/images/icons/sightseeing.webp"],
       image: "/images/spain_hot_selling.webp",
-      link:"/contact-us"
+      link:"duniya-dekho/spain-portugal-tour-package"
     },
     {
       name: "Kashmir",
@@ -79,7 +79,7 @@ function HotSelling() {
       price: 138600,
       facility: ["/images/icons/stay.webp", "/images/icons/food.webp", "/images/icons/transport.webp", "/images/icons/sightseeing.webp", "/images/icons/flight.webp"],
       image: "/images/vietnam_hot_selling.webp",
-      link:"/contact-us"
+      link:"/duniya-dekho/vietnam-tour-package"
     },
     {
       name: "Sweden",
@@ -103,7 +103,7 @@ function HotSelling() {
       price: 55800,
       facility: ["/images/icons/stay.webp", "/images/icons/transport.webp", "/images/icons/sightseeing.webp"],
       image: "/images/singapore_hot_selling.webp",
-      link:"/contact-us"
+      link:"/duniya-dekho/singapore-tour-package"
     },
     {
       name: "Rajasthan",
@@ -119,7 +119,7 @@ function HotSelling() {
       price: 195400,
       facility: ["/images/icons/stay.webp", "/images/icons/transport.webp", "/images/icons/sightseeing.webp", "/images/icons/flight.webp"],
       image: "/images/australia_hot_selling.webp",
-      link:"/contact-us"
+      link:"/duniya-dekho/australia-tour-package"
 
     },
     {

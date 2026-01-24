@@ -2,28 +2,29 @@
 
 import React from "react";
 import BestTeamCard from "./BestTeamCard";
+import CommonHeading from "./ReuseComponent/CommonHeading";
 
 const team = [
   {
     name: "Shiv",
-    role: "FOUNDER AND MD",
+    role: "Founder & MD",
     img: "/images/team/shiv.webp",
-    description: "Expert in planning seamless trips with safety and comfort."
+    description: "At Vision Fly Holidays, our mission is to make every journey memorable. We combine passion, experience, and personalized travel planning to ensure seamless, safe, and enriching experiences for every traveler."
   },
   {
-    name: "Anu ",
+    name: "Anu",
     role: "CEO",
-    img: "/images/team/anu.webp",
-    description: "Ensures every traveler receives prompt and helpful support."
+    img: "/images/team/anu.jpg",
+    description: "Our focus is on creating extraordinary travel experiences with utmost comfort and convenience. I ensure that each traveler receives expert guidance, prompt support, and unforgettable memories."
   },
-  // Add more members here
 ];
+
 
 const BestTeam = () => {
   return (
     <div className="container mx-auto py-14 px-4">
       <div className="text-center mb-10">
-        <h2 className="text-3xl font-bold text-[#027D72]">Meet Our Travel Experts</h2>
+        <CommonHeading  heading="Our Team"/>
         <p className="text-gray-600 mt-2">Real People • Real Guidance • Real Travel Experience</p>
       </div>
 

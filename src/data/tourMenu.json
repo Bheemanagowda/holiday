@@ -488,7 +488,10 @@
             { "name": "Kuala Lumpur ", "link": "/duniya-dekho/kuala-lumpur-tour-package" },
           
             { "name": "Singapore", "link": "/duniya-dekho/singapore-tour-package" },
-            { "name": "Vietnam ", "link": "/duniya-dekho/vietnam-tour-package" }
+            { "name": "Vietnam ", "link": "/duniya-dekho/vietnam-tour-package" },
+                 { "name": "Bhutan", "link": "/duniya-dekho/bhutan-tour-package" },
+            { "name": "China", "link": "/duniya-dekho/china-tour-package" },
+             { "name": "Sri Lanka", "link": "/duniya-dekho/sri-lanka-tour-package" }
       ]
     }
   ]
@@ -501,12 +504,11 @@
         {
           "heading": "Island & Special Tours",
           "links": [
-            { "name": "Bhutan", "link": "/duniya-dekho/bhutan-tour-package" },
-            { "name": "China", "link": "/duniya-dekho/china-tour-package" },
+       
             { "name": "Mauritius", "link": "/duniya-dekho/mauritius-tour-package" },
             { "name": "Maldives", "link": "/duniya-dekho/maldives-tour-package" },
-            { "name": "Seychelles", "link": "/duniya-dekho/seychelles-tour-package" },
-            { "name": "Sri Lanka", "link": "/duniya-dekho/sri-lanka-tour-package" }
+            { "name": "Seychelles", "link": "/duniya-dekho/seychelles-tour-package" }
+           
           ]
         }
       ]

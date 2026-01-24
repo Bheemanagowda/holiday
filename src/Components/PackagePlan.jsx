@@ -19,6 +19,7 @@ function PackagePlan() {
               name: "Singapore",
               image: "/images/singapore_intro.webp",
               description: "Flights . Hotels . Holidays",
+              link:"/duniya-dekho/singapore-tour-package",
               
             },
             {
@@ -37,6 +38,7 @@ function PackagePlan() {
               name: "Thailand",
               image: "/images/thailand_intro.webp",
               description: "Flights . Hotels . Holidays",
+              link:"/duniya-dekho/thailand-tour-package"
               
             },
             {
@@ -66,24 +68,28 @@ function PackagePlan() {
               name: "Maldives",
               image: "/images/maldives_intro.webp",
               description: "Flights . Hotels . Holidays",
+              link:"/duniya-dekho/maldives-tour-package",
               
             },
             {
               name: "Switzerland",
               image: "/images/switzerland_intro.webp",
               description: "Flights . Hotels . Holidays",
+               
               
             },
             {
               name: "Bali",
               image: "/images/bali_intro.webp",
               description: "Flights . Hotels . Holidays",
+                 link:"/duniya-dekho/bali-tour-package",
               
             },
             {
               name: "seychelles",
               image: "/images/seychelles_intro.webp",
               description: "Flights . Hotels . Holidays",
+                   link:"/duniya-dekho/seychelles-tour-package",
               
             },
           ],
@@ -120,12 +126,14 @@ function PackagePlan() {
               name: "Egypt",
               image: "/images/egypt_intro.webp",
               description: "Flights . Hotels . Holidays",
+               link:"/duniya-dekho/egypt-tour-package",
               
             },
             {
               name: "Europe",
               image: "/images/europe_intro.webp",
               description: "Flights . Hotels . Holidays",
+               link:"/duniya-dekho/best-of-europe-tour-package",
               
             },
           ],
@@ -143,12 +151,14 @@ function PackagePlan() {
               name: "Newzealand",
               image: "/images/newzealand_intro.webp",
               description: "Flights . Hotels . Holidays",
+              link:"/duniya-dekho/new-zealand-tour-package"
               
             },
             {
               name: "South Africa",
               image: "/images/south_africa_intro.webp",
               description: "Flights . Hotels . Holidays",
+                 link:"/duniya-dekho/south-africa-tour-package"
               
             },
             {
@@ -167,6 +177,7 @@ function PackagePlan() {
               name: "Japan",
               image: "/images/japan_intro.webp",
               description: "Flights . Hotels . Holidays",
+                     link:"/duniya-dekho/japan-tour-package",
               
             },
           ],
@@ -190,12 +201,14 @@ function PackagePlan() {
               name: "Phuket And Krabi",
               image: "/images/phuket_krabi_intro.webp",
               description: "Flights . Hotels . Holidays",
+                link:"/duniya-dekho/phuket-krabi-tour-package",
               
             },
             {
               name: "Philippine",
               image: "/images/philippine_intro.webp",
               description: "Flights . Hotels . Holidays",
+              link:"/duniya-dekho/philippines-tour-package"
               
             },
             {
@@ -208,7 +221,7 @@ function PackagePlan() {
               name: "Langkawi",
               image: "/images/langkawi_intro.webp",
               description: "Flights . Hotels . Holidays",
-              
+              link:"/duniya-dekho/kuala-lumpur-langkawi-tour-package"
             },
           ],
         },

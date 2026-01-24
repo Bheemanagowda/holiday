@@ -15,7 +15,7 @@
     "intro": "Ancient Wonders",
     "name": "Egypt",
     "duration": "06 Nights / 07 Days",
-    "price": 107920,
+    "price": 106200,
     "description": [
       "Pyramids of Giza, Great Sphinx, Nile Cruise",
       "Cairo Museum, Khan el-Khalili Bazaar"
@@ -39,7 +39,7 @@
   "intro": "Safari Escape",
   "name": "Tanzania",
   "duration": "10 Nights / 11 Days",
-  "price": 423244,
+  "price": 315900,
   "description": [
     "Serengeti National Park, Ngorongoro Crater",
     "Lake Manyara, Tarangire National Park"
@@ -52,8 +52,8 @@
 {
   "intro": "American Panorama",
   "name": "USA - East & West ",
-  "duration": "13 Nights / 14 Days",
-  "price": 260588,
+  "duration": "9 Nights / 10 Days",
+  "price":  230600,
   "description": [
     "New York City, Statue of Liberty, Times Square",
     "Washington D.C., Philadelphia",
@@ -81,7 +81,7 @@
   "intro": "American Panorama",
   "name": "USA - East Coast",
   "duration": "06 Nights / 07 Days",
-  "price": 148540,
+  "price": 180900,
   "description": [
     "New York City, Statue of Liberty, Times Square",
     "Washington D.C., Philadelphia",
@@ -93,8 +93,8 @@
 {
   "intro": "Latin Adventure",
   "name": "South America",
-  "duration": "06 Nights / 07 Days",
-  "price": 148540,
+  "duration": "12 Nights / 13 Days",
+  "price": 603000,
   "description": [
     "Rio de Janeiro, Christ the Redeemer, Sugarloaf Mountain",
     "Buenos Aires City Tour, Tango Show",
@@ -107,7 +107,7 @@
   "intro": "Maple Discovery",
   "name": "Canada",
   "duration": "09 Nights / 07 Days",
-  "price": 490000,
+  "price":410400,
   "description": [
     "Toronto City Tour, CN Tower",
     "Niagara Falls (Canadian Side)",
@@ -120,7 +120,7 @@
   "intro": "Down Under Discovery",
   "name": "Australia",
   "duration": "12 Nights / 13 Days",
-  "price": 217197,
+  "price": 330300,
   "description": [
     "Sydney City Tour, Opera House, Harbour Bridge",
     "Gold Coast, Warner Bros. Movie World",
@@ -133,7 +133,7 @@
   "intro": "Kiwi Explorer",
   "name": "New Zealand",
   "duration": "11 Nights / 12 Days",
-  "price": 226919,
+  "price": 305100,
   "description": [
     "Auckland City Tour, Sky Tower", "Rotorua Geothermal Valley, Maori Cultural Show","Queenstown,Milford Sound Cruise"
   ],
@@ -144,7 +144,7 @@
   "intro": "Best of Europe",
   "name": "Europe Highlights",
   "duration": "12 Nights / 13 Days",
-  "price": 281055,
+  "price": 290700,
   "description": [
     "Paris City Tour, Eiffel Tower, Seine River Cruise",
     "Brussels, Atomium, Amsterdam Canal Cruise",
@@ -157,7 +157,7 @@
   "intro": "Mesmerizing Turkey",
   "name": "Turkey",
   "duration": "7 Nights / 07 Days",
-  "price": 129000,
+  "price":  160200,
   "description": [
     "Istanbul City Tour, Blue Mosque, Hagia Sophia, Grand Bazaar",
     "Cappadocia Hot Air Balloon Experience",
@@ -171,7 +171,7 @@
   "intro": "Swiss & Paris Delight",
   "name": "Swiss and Paris",
   "duration": "07 Nights / 08 Days",
-  "price": 139680,
+  "price": 210600,
   "description": [
     "Paris City Tour, Eiffel Tower, Seine River Cruise",
     "Disneyland Paris (Optional), Louvre Museum ",
@@ -262,7 +262,7 @@
   "intro": "Aurora Borealis Adventure",
   "name": "Northern Lights",
   "duration": "06 Nights / 07 Days",
-  "price": 148540,
+  "price": 310500,
   "description": [
     "Tromsø City Tour, Arctic Cathedral, Fjord Cruise",
     "Aurora Hunting Safari, Sami Reindeer Experience",
@@ -316,7 +316,7 @@
   "intro": "Land of the Rising Sun",
   "name": "Japan",
   "duration": "07 Nights / 08 Days",
-  "price": 358875,
+  "price": 290000,
   "description": [
     "Tokyo City Tour: Shibuya Crossing, Meiji Shrine, Tokyo Tower",
     "Kyoto: Fushimi Inari Shrine, Kinkaku-ji (Golden Pavilion), Gion District",
@@ -330,7 +330,7 @@
   "intro": "Oman Desert & Coast Adventure",
   "name": "Oman",
   "duration": "05 Nights / 06 Days",
-  "price": 95097,
+  "price": 85500,
   "description": [
     "Muscat City Tour: Sultan Qaboos Grand Mosque, Royal Opera House, Mutrah Souq",
     "Nizwa Fort and Nizwa Souq",
@@ -344,7 +344,7 @@
   "intro": "Historic & Cultural Arabia",
   "name": "Saudi Arabia",
   "duration": "06 Nights / 07 Days",
-  "price": 148540,
+  "price": 122400,
   "description": [
     "Riyadh City Tour: Kingdom Tower, Masmak Fort, National Museum",
     "Jeddah: Corniche, Al-Balad Historic District, Floating Mosque",
@@ -357,7 +357,7 @@
   "intro": "Luxury & Desert Adventure",
   "name": "Dubai",
   "duration": "05 Nights / 06 Days",
-  "price": 75000,
+  "price": 81900,
   "description": [
     "Dubai City Tour: Burj Khalifa, Dubai Mall, Dubai Fountain",
     "Desert Safari with Camel Ride & Dune Bashing",
@@ -386,7 +386,7 @@
   "intro": "Southeast Asia Highlights",
   "name": "Singapore & Malaysia",
   "duration": "06 Nights / 07 Days",
-  "price": 118900,
+  "price": 95400,
   "description": [
     "Singapore: Marina Bay Sands, Sentosa Island, Gardens by the Bay",
     "Malaysia: Kuala Lumpur City Tour, Petronas Towers, Batu Caves",
@@ -415,7 +415,7 @@
   "intro": "Indochina Discovery",
   "name": "Vietnam & Cambodia",
   "duration": "08 Nights / 09 Days",
-  "price": 70910,
+  "price": 75600,
   "description": [
     "Hanoi City Tour: Hoan Kiem Lake, Old Quarter, Temple of Literature",
     "Ha Long Bay Cruise Experience",
@@ -429,7 +429,7 @@
   "intro": "Island Paradise Escape",
   "name": "Phuket & Krabi",
   "duration": "05 Nights / 06 Days",
-  "price": 59400,
+  "price": 45000,
   "description": [
     "Phuket: Patong Beach, Big Buddha, Old Town",
     "Phi Phi Island Day Tour with Maya Bay",
@@ -652,7 +652,7 @@
   "intro": "European Cityscape Journey",
   "name": "Paris to Vienna",
   "duration": "09 Nights / 010 Days",
-  "price": 238500,
+  "price": 215000,
   "description": [
     "Paris: Eiffel Tower, Louvre Museum, Seine River Cruise & Champs-Élysées",
     "Zurich: Lake Zurich, Old Town Walk & Rhine Falls Visit",
