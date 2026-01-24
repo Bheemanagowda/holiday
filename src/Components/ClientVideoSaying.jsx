@@ -19,7 +19,7 @@ const ClientVideoSaying = () => {
       {/* Title + Button */}
       <div className="flex flex-row justify-between items-center">
         <h1 className="text-2xl lg:text-4xl font-bold font-secondary_font">
-          REAL STORIES • REAL EXPERIENCES
+        Real Stories • Real Experiences
         </h1>
 
        <Link
