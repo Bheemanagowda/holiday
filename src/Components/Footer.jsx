@@ -47,32 +47,7 @@ function Footer() {
         </div>
 
         {/* Quick Links */}
-        <div>
-          <h1 className="text-2xl md:text-xl font-semibold pt-2">Quick Links</h1>
-          <div className="w-[20vw] md:w-[3vw] mx-auto md:mx-0 my-1 bg-orange_c h-[2px]" />
-
-<ul className="space-y-1 text-center ">
-  <li>
-    <Link 
-      href="/bharat-dekho" 
-      className="flex justify-center md:justify-start items-center gap-2 no-underline hover:no-underline hover:text-[#fecf00] transition"
-    >
-      ➤ Bharath Dekho
-    </Link>
-  </li>
-
-  <li>
-    <Link 
-      href="/duniya-dekho" 
-      className="flex justify-center md:justify-start items-center gap-2 no-underline hover:no-underline hover:text-[#fecf00] transition"
-    >
-      ➤ Duniya Dekho
-    </Link>
-  </li>
-</ul>
-
-
-        </div>
+        
 
         {/* Follow Us */}
         <div>
