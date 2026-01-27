@@ -106,12 +106,15 @@ function Navbar() {
                 onMouseLeave={() => setActiveMegaIndex(null)}
               >
                 {!ele.type ? (
-                  <Link
-                    href={ele.link}
-                    className={`capitalize py-6 block text-[18px] font-semibold hover:text-[#028680] ${ele.link === path ? "active" : ""}`}
-                  >
-                    {ele.name}
-                  </Link>
+                 <Link
+  href={ele.link}
+  className={`capitalize py-6 block text-[18px] font-semibold hover:text-[#028680] ${
+    path === ele.link ? "text-[#028680] border-b-2 border-[#028680]" : ""
+  }`}
+>
+  {ele.name}
+</Link>
+
                 ) : (
                   <>
                     <div className="capitalize py-6 flex items-center gap-1 text-[18px] font-semibold cursor-pointer group-hover:text-[#028680]">
@@ -120,46 +123,68 @@ function Navbar() {
                     </div>
 
                     {/* BHARAT & DUNIYA DEKHO ORIGINAL */}
-                    {activeMegaIndex === index && ele.type === "mega" && (
-                      <div className="hidden lg:block absolute top-full left-0 w-full bg-white shadow-2xl z-50 border-t border-gray-100">
-                        <div className="flex min-h-[450px] max-h-[70vh] overflow-hidden">
-                          <div className="w-1/4 max-w-[220px] bg-gray-50 border-r border-gray-200 overflow-y-auto">
-                            {ele.data.regions.map((region, rIdx) => (
-                              <div
-                                key={region.name}
-                                onMouseEnter={() => setDesktopRegionIndex(rIdx)}
-                                className={`block px-6 py-4 text-[18px] font-bold tracking-wide transition-all ${
-                                  desktopRegionIndex === rIdx
-                                    ? "bg-white text-[#028680] border-r-4 border-[#028680]"
-                                    : "text-gray-600 hover:bg-gray-100"
-                                }`}
-                              >
-                                {region.name}
-                              </div>
-                            ))}
-                          </div>
+                   {/* BHARAT & DUNIYA DEKHO ORIGINAL */}
+{activeMegaIndex === index && ele.type === "mega" && (
+  <div className="hidden lg:block absolute top-full left-0 w-full bg-white shadow-2xl z-50 border-t border-gray-100">
+    <div className="flex min-h-[450px] max-h-[70vh] overflow-hidden">
+      
+      {/* LEFT REGIONS */}
+      <div className="w-1/4 max-w-[220px] bg-gray-50 border-r border-gray-200 overflow-y-auto">
+        {ele.data.regions.map((region, rIdx) => (
+          <div
+            key={region.name}
+            onMouseEnter={() => setDesktopRegionIndex(rIdx)}
+            className={`block px-6 py-4 text-[18px] font-bold tracking-wide transition-all ${
+              desktopRegionIndex === rIdx
+                ? "bg-white text-[#028680] border-r-4 border-[#028680]"
+                : "text-gray-600 hover:bg-gray-100"
+            }`}
+          >
+            {region.name}
+          </div>
+        ))}
+      </div>
 
-                          <div className="flex-1 p-8 grid grid-cols-3 gap-8 overflow-y-auto max-h-[70vh] bg-white">
-                            {ele.data.regions[desktopRegionIndex]?.sections?.map((section) => (
-                              <div key={section.heading}>
-                                <h4 className="text-[#028680] font-black border-b border-gray-50 pb-2 mb-3 text-[17px] tracking-tight">
-                                  {section.heading}
-                                </h4>
-                                <ul className="space-y-1.5">
-                                  {section.links.map((link) => (
-                                    <li key={link.name}>
-                                      <Link href={link.link} className="text-gray-700 hover:text-[#028680] block text-[16px] font-normal">
-                                        {link.name}
-                                      </Link>
-                                    </li>
-                                  ))}
-                                </ul>
-                              </div>
-                            ))}
-                          </div>
-                        </div>
-                      </div>
-                    )}
+     {/* RIGHT SECTIONS */}
+<div className="flex-1 p-8 grid grid-cols-3 gap-8 overflow-y-auto max-h-[70vh] bg-white relative">
+
+  {/* TOP RIGHT — VIEW ALL BUTTON */}
+  <div className="absolute top-4 right-4  ">
+   <Link
+  href={ele.link}
+  className="hidden md:inline-flex items-center gap-1 px-3 py-1.5 text-[15px] font-medium border border-[#028680] text-[#028680] rounded hover:bg-[#028680] hover:text-white transition"
+>
+  View All {ele.name}
+  <span className="text-[13px]">→</span>
+</Link>
+
+  </div>
+
+  {ele.data.regions[desktopRegionIndex]?.sections?.map((section) => (
+    <div key={section.heading}>
+      <h4 className="text-[#028680] font-black border-b border-gray-50 pb-2 mb-3 mt-6 text-[17px] tracking-tight">
+        {section.heading}
+      </h4>
+      <ul className="space-y-1.5">
+        {section.links.map((link) => (
+          <li key={link.name}>
+            <Link
+              href={link.link}
+              className="text-gray-700 hover:text-[#028680] block text-[16px] font-normal "
+            >
+              {link.name}
+            </Link>
+          </li>
+        ))}
+      </ul>
+    </div>
+  ))}
+</div>
+
+    </div>
+  </div>
+)}
+
 
                     {/* NEW GALLERY MEGA MENU */}
                   {activeMegaIndex === index && ele.type === "gallery" && (

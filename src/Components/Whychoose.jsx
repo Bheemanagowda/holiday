@@ -41,7 +41,7 @@ const whyChooseItems = [
 
 const Whychoose = () => {
   return (
-    <div className="w-full py-16 bg-white my-20 rounded-[20px]">
+    <div className="w-full py-16 bg-white  rounded-[20px]">
 
       {/* Heading */}
       <div className="text-center mb-8">

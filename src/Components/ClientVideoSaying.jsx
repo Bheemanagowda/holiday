@@ -18,19 +18,11 @@ const ClientVideoSaying = () => {
       <div className="flex flex-wrap justify-between items-center gap-3">
 
         <h1 className="text-2xl lg:text-4xl font-bold font-secondary_font  md:text-left w-full md:w-auto">
-          Real Stories • Real Experiences
+          Real Stories,Real Experiences
         </h1>
 
         {/* Brush Image for Mobile */}
-        <div className="block  w-20 h-6 relative mx-auto my-2">
-          <Image
-            src="/images/brush.webp"
-            alt="intro"
-            fill
-            style={{ objectFit: "contain" }}
-            priority
-          />
-        </div>
+     
 
         <Link
           href="/video"
@@ -62,7 +54,7 @@ const ClientVideoSaying = () => {
             <video
               src={vid}
               controls
-              className="w-full h-[650px] object-cover rounded-lg"
+              className="w-full h-[550px] object-cover rounded-lg"
             />
           </div>
         ))}

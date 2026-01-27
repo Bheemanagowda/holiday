@@ -23,7 +23,7 @@ function BestTeamCard({ member, reverse }) {
         <h2 className="text-[40px] md:text-[50px] font-bold text-gray-800 leading-tight mb-5">
           {member.name}
         </h2>
-        <p className="text-gray-600 text-[26px] md:text-[26px] leading-[1.9] tracking-wide text-justify">
+        <p className="text-gray-600 text-[26px] md:text-[26px] leading-[1.4] tracking-wide text-justify">
           {member.description}
         </p>
       </div>

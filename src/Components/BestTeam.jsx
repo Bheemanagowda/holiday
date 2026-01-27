@@ -13,7 +13,7 @@ const teamMembers = [
       "As a seasoned professional in the tourism industry, I've always envisioned creating unforgettable travel experiences. After 15 years of expertise as a Sales Executive and Sales Manager in Travel and tourism, I took the leap in March 2024 to establish VisionFly Holidays. My mission is simple: to craft bespoke journeys that exceed client expectations, fostering lifelong memories. With passion and dedication, I strive to make every trip special, ensuring our clients' experiences are truly unforgettable."
   },
   {
-    name: "Ms. Anu",
+    name: "Mrs. Anu Rathod",
     role: "Co-Founder",
     img: "/images/team/anu.webp",
     description:

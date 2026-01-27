@@ -28,7 +28,7 @@ const VideoGallery = () => {
         >
           <video
             src={src}
-            className="w-full h-full object-cover"
+            className="w-full h-[450px] object-cover"
             controls
           />
          

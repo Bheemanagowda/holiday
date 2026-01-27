@@ -468,12 +468,11 @@
   ]
 },
 
-    {
+ {
   "name": "South East Asia",
   "sections": [
     {
-      "heading": "South East Asia",
-     
+      "heading": "Popular South East Asia Tours",
       "links": [
         { "name": "Singapore, Malaysia & Thailand", "link": "/duniya-dekho/singapore-malaysia-thailand-tour-package" },
         { "name": "Singapore & Malaysia", "link": "/duniya-dekho/singapore-malaysia-tour-package" },
@@ -482,20 +481,26 @@
         { "name": "Phuket & Krabi", "link": "/duniya-dekho/phuket-krabi-tour-package" },
         { "name": "Hong Kong & Macau", "link": "/duniya-dekho/hong-kong-macau-tour-package" },
         { "name": "Bali", "link": "/duniya-dekho/bali-tour-package" },
-        { "name": "Taiwan", "link": "/duniya-dekho/taiwan-tour-package" },
+         { "name": "Taiwan", "link": "/duniya-dekho/taiwan-tour-package" }
+      ]
+    },
+    {
+      "heading": "Other South East Asia Tours",
+      "links": [
+       
         { "name": "Philippines", "link": "/duniya-dekho/philippines-tour-package" },
-         { "name": "Kuala Lumpur & Langkawi ", "link": "/duniya-dekho/kuala-lumpur-langkawi-tour-package" },
-            { "name": "Kuala Lumpur ", "link": "/duniya-dekho/kuala-lumpur-tour-package" },
-          
-            { "name": "Singapore", "link": "/duniya-dekho/singapore-tour-package" },
-            { "name": "Vietnam ", "link": "/duniya-dekho/vietnam-tour-package" },
-                 { "name": "Bhutan", "link": "/duniya-dekho/bhutan-tour-package" },
-            { "name": "China", "link": "/duniya-dekho/china-tour-package" },
-             { "name": "Sri Lanka", "link": "/duniya-dekho/sri-lanka-tour-package" }
+        { "name": "Kuala Lumpur & Langkawi", "link": "/duniya-dekho/kuala-lumpur-langkawi-tour-package" },
+        { "name": "Kuala Lumpur", "link": "/duniya-dekho/kuala-lumpur-tour-package" },
+        { "name": "Singapore", "link": "/duniya-dekho/singapore-tour-package" },
+        { "name": "Vietnam", "link": "/duniya-dekho/vietnam-tour-package" },
+        { "name": "Bhutan", "link": "/duniya-dekho/bhutan-tour-package" },
+        { "name": "China", "link": "/duniya-dekho/china-tour-package" },
+        { "name": "Sri Lanka", "link": "/duniya-dekho/sri-lanka-tour-package" }
       ]
     }
   ]
 },
+
 
 
     {
