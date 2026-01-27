@@ -10,22 +10,29 @@ function BestTeamCard({ member, reverse }) {
       whileInView={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.5 }}
       viewport={{ once: true }}
-      className={`w-full flex flex-col md:flex-row items-center justify-between px-2 md:px-16 gap-10
+      className={`
+        w-full flex flex-col sm:flex-col md:flex-row 
+        items-center justify-between gap-6 sm:gap-8 md:gap-10 
+        px-2 sm:px-6 md:px-10 lg:px-16
         ${reverse ? "md:flex-row-reverse" : ""}
       `}
     >
+
       {/* TEXT */}
       <div className="w-full md:w-3/5 text-left">
-      <h3 className="text-gray-600 text-[22px] md:text-[26px] font-semibold mb-2">
-  {member.role}
-</h3>
+        <h3 className="text-gray-600 text-[20px] sm:text-[22px] md:text-[24px] font-semibold mb-2">
+          {member.role}
+        </h3>
 
-        <h2 className="text-[40px] md:text-[50px] font-bold text-gray-800 leading-tight mb-5">
+        <h2 className="text-[32px] sm:text-[36px] md:text-[44px] lg:text-[50px] font-bold text-gray-800 leading-tight mb-4">
           {member.name}
         </h2>
-        <p className="text-gray-600 text-[26px] md:text-[26px] leading-[1.4] tracking-wide text-justify">
-          {member.description}
-        </p>
+
+   <p className="text-gray-600 text-[16px] md:text-[16px] lg:text-[26px] leading-relaxed tracking-wide">
+  {member.description}
+</p>
+
+
       </div>
 
       {/* IMAGE */}

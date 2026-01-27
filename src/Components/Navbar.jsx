@@ -230,7 +230,7 @@ function Navbar() {
         </div>
 
         {/* MOBILE MENU */}
-        <div className={`fixed inset-0 top-[60px] bg-white z-40 transition-transform duration-300 lg:hidden overflow-y-auto ${isOpen ? "translate-x-0" : "translate-x-full"}`}>
+        <div className={`fixed inset-0 top-[85px] bg-white z-40 transition-transform duration-300 lg:hidden overflow-y-auto ${isOpen ? "translate-x-0" : "translate-x-full"}`}>
           <div className="flex flex-col pb-24">
             {navdata.map((ele, index) => (
               <div key={uuidv4()} className="border-b border-gray-100">

@@ -17,11 +17,11 @@ export default function GalleryPage() {
    "/images/guests/vision-fly5.webp",
  
     "/images/guests/vision-fly7.webp",
-     "/images/guests/vision-fly13.webp",
+     "/images/guests/vision-fly8.webp",
     "/images/guests/vision-fly9.webp",
     "/images/guests/vision-fly10.webp",
     "/images/guests/vision-fly11.webp",
-    "/images/guests/vision-fly12.webp",
+    
     "/images/guests/vision-fly13.webp",
     "/images/guests/vision-fly14.webp",
     "/images/guests/guest1.webp",
