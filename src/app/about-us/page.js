@@ -13,55 +13,41 @@ export const metadata = {
 
 function About(props) {
   const ourServices = [
-      {
-      name: "Group Tours",
-      description:
-        "Experience the world with like-minded travelers! Our group tours offer a fun, social, and hassle-free way to explore new destinations. Enjoy expertly curated itineraries, seamless logistics, and special perks, all while making new friends and memories. Perfect for solo travelers, families, or groups of friends, our tours cater to diverse interests and preferences.",
-      icon: "/images/group_tour.webp",
-    },
     {
-      name: "Tailor-Made ",
+      name: "Tailor-Made Packages",
       description:
-        "Our tailor-made tours are crafted to fit your unique preferences, interests, and schedule. From customized itineraries to personalized services, we'll work with you to create a truly unforgettable experience. Whether you're looking for adventure, relaxation, or cultural immersion, our expert travel designers will help you plan the perfect trip.",
+        "Whether you're looking for a romantic getaway, an adventurous expedition, or a family vacation, we create bespoke itineraries that cater to your desires and interests.",
       icon: "/images/tailor_made_packages.webp",
     },
-        {
-      name: "Corporate Travel ",
-      description:
-        "Our corporate travel services offer seamless planning, booking, and management of trips for your team. From flights and accommodations to meetings and events, we'll handle every detail to ensure your travels are productive, efficient, and stress-free. Let us help you focus on what matters most - your business.",
-      icon: "/images/corporate_soluation.webp",
-    },
     {
-      name: "Hotel booking",
+      name: "Flight, Accommodation Booking",
       description:
-      " We offer a curated selection of top-rated hotels, from luxury resorts to budget-friendly options. Enjoy exclusive deals, seamless booking, and personalized recommendations to ensure your accommodation exceeds expectations. Let us take care of your hotel needs, so you can focus on making memories.",
+      " We take care of all your travel arrangements, from booking flights to finding the perfect accommodations, ensuring a hassle-free experience.",
       icon: "/images/flight_accomodation_booking.webp",
     },
   
-
-  
     {
-      name: "Flight booking",
+      name: "Corporate Travel Solutions",
       description:
-        "Our flight booking services offer convenient, hassle-free reservations to destinations worldwide. Enjoy competitive prices, flexible booking options, and expert assistance to ensure a smooth travel experience. Let us take care of your flight arrangements, so you can focus on your journey.",
+        "Our specialized corporate travel services are designed to meet the unique needs of businesses, providing efficient and cost-effective travel management.",
+      icon: "/images/corporate_soluation.webp",
+    },
+    {
+      name: "Group Tours",
+      description:
+        "Join one of our expertly guided group tours to explore the world's most fascinating destinations with like-minded travelers.",
+      icon: "/images/group_tour.webp",
+    },
+    {
+      name: "Travel Insurance",
+      description:
+        "We offer comprehensive travel insurance options to protect you from unforeseen circumstances, giving you peace of mind during your travels.",
       icon: "/images/travel_insurance.webp",
     },
     {
-        name: "Cruise booking",
-        description:
-          "Our cruise booking services offer a wide range of options to suit every taste and budget. From luxurious ocean liners to specialty cruises, we'll help you find the perfect voyage. Enjoy expert recommendations, exclusive deals, and seamless booking to ensure a memorable sailing experience.",
-        icon: "/images/visa.webp",
-      },
-       {
         name: "VISA",
         description:
-          "Travel smoothly with our expert visa assistance! We'll guide you through the application process, ensuring all requirements are met and documentation is in order. From gathering documents to submission and follow-up, our experienced team will help you obtain your visa efficiently, so you can focus on your travel plans.",
-        icon: "/images/visa.webp",
-      },
-        {
-        name: "Forex",
-        description:
-          "Our forex services offer competitive rates, convenient exchange options, and expert assistance to ensure you get the most out of your currency. Whether you're traveling abroad or sending money internationally, we've got you covered",
+          "Our expert team ensures a smooth and efficient process. Contact us today for a consultation. Let us take the hassle out of it. ",
         icon: "/images/visa.webp",
       },
   ];
@@ -77,7 +63,7 @@ function About(props) {
           heading={"Our Services"}
         />
 
-        <div className="grid grid-cols-1 md:grid-cols-2 pt-3  lg:grid-cols-4 gap-3 lg:gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-2 pt-3  lg:grid-cols-3 gap-3 lg:gap-6">
           {ourServices?.map((item,index) => (
             <OurServiceCard item={item} index={index} key={uuidv4()} />
           ))}
