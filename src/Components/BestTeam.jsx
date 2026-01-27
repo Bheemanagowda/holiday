@@ -6,16 +6,16 @@ import CommonHeading from "./ReuseComponent/CommonHeading";
 
 const team = [
   {
-    name: "Shiv",
+    name: "Mr. Shiva kumar Rathod ",
     role: "Founder & MD",
     img: "/images/team/shiv.webp",
-    description: "At Vision Fly Holidays, our mission is to make every journey memorable. We combine passion, experience, and personalized travel planning to ensure seamless, safe, and enriching experiences for every traveler."
+    description: "As a seasoned professional in the tourism industry, I've always envisioned creating unforgettable travel experiences. After 15 years of expertise as a Sales Executive and Sales Manager in Travel and tourism, I took the leap in March 2024 to establish VisionFly Holidays. My mission is simple: to craft bespoke journeys that exceed client expectations, fostering lifelong memories. With passion and dedication, I strive to make every trip special, ensuring our clients' experiences are truly unforgettable."
   },
   {
-    name: "Anu",
+    name: "Mrs. Anu Rathod",
     role: "CEO",
-    img: "/images/team/anu.jpg",
-    description: "Our focus is on creating extraordinary travel experiences with utmost comfort and convenience. I ensure that each traveler receives expert guidance, prompt support, and unforgettable memories."
+    img: "/images/team/anu.webp",
+    description: "At VisionFly Holidays, we recognize that travel is a personal journey, driven by diverse desires - leisure, MICE, pilgrimage, honeymoon, adventure, and more. Our mission is to craft bespoke experiences that exceed expectations, tailoring every detail to match the essence of each trip. Whether you're seeking relaxation, exploration, or celebration, we're dedicated to delivering unforgettable moments that leave a lasting impression."
   },
 ];
 

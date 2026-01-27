@@ -17,14 +17,15 @@ function BestTeamCard({ member, index }) {
       className="rounded-xl shadow-lg bg-white hover:shadow-2xl transition duration-300 overflow-hidden flex flex-col md:flex-row items-center relative"
     >
       {/* Image Section */}
-      <div className="relative w-full h-100 md:h-100 md:w-1/2 flex-shrink-0">
-        <Image
-          src={member.img}
-          alt={member.name}
-          fill
-          className="object-cover"
-        />
-      </div>
+  <div className="relative w-full h-120 md:h-130 md:w-1/2 flex-shrink-0">
+  <Image
+    src={member.img}
+    alt={member.name}
+    fill
+    className="object-cover"
+  />
+</div>
+
 
       {/* Content Section */}
       <div className="p-5 md:p-6 w-full md:w-1/2 text-left">
