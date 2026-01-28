@@ -24,13 +24,23 @@ function BestTeamCard({ member, reverse }) {
           {member.role}
         </h3>
 
-        <h2 className="text-[32px] sm:text-[36px] md:text-[44px] lg:text-[50px] font-bold text-gray-800 leading-tight mb-4">
-          {member.name}
-        </h2>
+      <h2 className="
+  text-[32px]
+  sm:text-[36px]
+  md:text-[44px]
 
-   <p className="text-gray-600 text-[16px] md:text-[16px] lg:text-[26px] leading-relaxed tracking-wide">
+  font-bold text-gray-800 leading-tight mb-4
+">
+  {member.name}
+</h2>
+
+
+
+  <p class="member-desc">
   {member.description}
 </p>
+
+
 
 
       </div>

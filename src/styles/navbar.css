@@ -86,3 +86,21 @@
 
   
 }
+
+.member-desc {
+  color: #4b5563; /* text-gray-600 */
+  font-size: 16px;
+  line-height: 1.6; /* leading-relaxed */
+  letter-spacing: 0.025em; /* tracking-wide */
+}
+
+@media screen and (min-width:1281px) and (max-width:1920px) {
+  .member-desc {
+    color: #4b5563; /* text-gray-600 */
+    font-size: 26px;
+    line-height: 1.6; /* leading-relaxed */
+    letter-spacing: 0.025em; /* tracking-wide */
+  }
+}
+
+
