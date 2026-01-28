@@ -1,19 +1,20 @@
 import React from "react";
 
 const videos = [
+    "/images/videos/5.mp4",
       "/images/videos/2.mp4",
         "/images/videos/4.mp4",
   "/images/videos/1.mp4",
 
   "/images/videos/3.mp4",
 
-  "/images/videos/5.mp4",
+
   "/images/videos/6.mp4",
   "/images/videos/7.mp4",
-  "/images/videos/8.mp4",
-  "/images/videos/9.mp4",
+
+
   "/images/videos/10.mp4",
-  "/images/videos/11.mp4",
+ 
   "/images/videos/12.mp4",
   "/images/videos/13.mp4",
 ];

@@ -157,10 +157,24 @@ We especially loved the island trips and cultural experiences.`,
 
       <GalleryIntro
         images={[
+           "/images/guests/vision-fly1.webp",
+    "/images/guests/vision-fly2.webp",
+    "/images/guests/vision-fly3.webp",
+    "/images/guests/vision-fly4.webp",
+   "/images/guests/vision-fly5.webp",
+ 
+    "/images/guests/vision-fly7.webp",
+     "/images/guests/vision-fly8.webp",
+    "/images/guests/vision-fly9.webp",
+    "/images/guests/vision-fly10.webp",
+    "/images/guests/vision-fly11.webp",
+    
+    "/images/guests/vision-fly13.webp",
+    "/images/guests/vision-fly14.webp",
           "/images/guests/guest1.webp",
           "/images/guests/guest2.webp",
           "/images/guests/guest3.webp",
-          "/images/guests/guest4.webp",
+       
           "/images/guests/guest5.webp",
           "/images/guests/guest6.webp",
 
@@ -168,10 +182,9 @@ We especially loved the island trips and cultural experiences.`,
 
           "/images/guests/visionfly_guests_28.webp",
 
-          "/images/guests/visionfly_guests_2.webp",
-          "/images/guests/visionfly_guests_3.webp",
-          "/images/guests/visionfly_guests_4.webp",
-          "/images/guests/visionfly_guests_5.webp",
+       
+        
+         
         ]}
       />
    

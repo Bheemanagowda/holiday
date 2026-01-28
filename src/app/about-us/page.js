@@ -19,24 +19,33 @@ function About(props) {
         "Whether you're looking for a romantic getaway, an adventurous expedition, or a family vacation, we create bespoke itineraries that cater to your desires and interests.",
       icon: "/images/tailor_made_packages.webp",
     },
-    {
-      name: "Flight, Accommodation Booking",
-      description:
-      " We take care of all your travel arrangements, from booking flights to finding the perfect accommodations, ensuring a hassle-free experience.",
-      icon: "/images/flight_accomodation_booking.webp",
-    },
-  
-    {
-      name: "Corporate Travel Solutions",
-      description:
-        "Our specialized corporate travel services are designed to meet the unique needs of businesses, providing efficient and cost-effective travel management.",
-      icon: "/images/corporate_soluation.webp",
-    },
-    {
+      {
       name: "Group Tours",
       description:
         "Join one of our expertly guided group tours to explore the world's most fascinating destinations with like-minded travelers.",
       icon: "/images/group_tour.webp",
+    },
+    
+    {
+      name: "Corporate Travel MICE ",
+      description:
+        "Our specialized corporate travel services are designed to meet the unique needs of businesses, providing efficient and cost-effective travel management.",
+      icon: "/images/corporate_soluation.webp",
+    },
+ 
+  
+  
+       {
+      name: "Gataway Godess (Women’s Specials)",
+      description:
+        "Tailor-made holidays for women. Safe and comfortable journeys. Discover new destinations with confidence.",
+      icon: "/images/group_tour.webp",
+    },
+       {
+      name: "FlightBooking",
+      description:
+      " We take care of all your travel arrangements, from booking flights to finding the perfect accommodations, ensuring a hassle-free experience.",
+      icon: "/images/flight_accomodation_booking.webp",
     },
     {
       name: "Travel Insurance",
@@ -48,6 +57,12 @@ function About(props) {
         name: "VISA",
         description:
           "Our expert team ensures a smooth and efficient process. Contact us today for a consultation. Let us take the hassle out of it. ",
+        icon: "/images/visa.webp",
+      },
+        {
+        name: "FOREX",
+        description:
+          "Our forex services offer competitive rates, convenient exchange options, and expert assistance to ensure you get the most out of your currency. Whether you're traveling abroad or sending money internationally, we've got you covered.",
         icon: "/images/visa.webp",
       },
   ];
@@ -63,7 +78,7 @@ function About(props) {
           heading={"Our Services"}
         />
 
-        <div className="grid grid-cols-1 md:grid-cols-2 pt-3  lg:grid-cols-3 gap-3 lg:gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-2 pt-3  lg:grid-cols-4 gap-3 lg:gap-6">
           {ourServices?.map((item,index) => (
             <OurServiceCard item={item} index={index} key={uuidv4()} />
           ))}

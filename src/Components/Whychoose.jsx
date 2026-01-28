@@ -8,7 +8,7 @@ import { v4 as uuidv4 } from "uuid";
 const whyChooseItems = [
   { 
     icon: "/images/banners/icons/women.webp", 
-    name: "Women’s Special Holidays", 
+    name: "Customer Experience with Ease", 
     description: "Tailor-made holidays for women. Safe and comfortable journeys. Discover new destinations with confidence."
   },
   { 

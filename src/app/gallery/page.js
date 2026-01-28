@@ -46,7 +46,7 @@ export default function GalleryPage() {
     "/images/guests/visionfly_guests_1.webp",
     "/images/guests/visionfly_guests_2.webp",
     "/images/guests/visionfly_guests_3.webp",
-    "/images/guests/visionfly_guests_4.webp",
+  
     "/images/guests/visionfly_guests_5.webp",
     "/images/guests/visionfly_guests_6.webp",
     "/images/guests/visionfly_guests_7.webp",

@@ -1377,7 +1377,7 @@
   }
 },
 {
-  "name": "Australia — Land of Scenic Beauty & Adventure",
+  "name": "Australia — Adventure ",
   "slug": "australia-tour-package",
   "metaTitle": "Australia Tour Package | Sydney, Melbourne & Great Barrier Reef with Duniya Dekho",
   "metaDescription": "Explore Australia with Duniya Dekho. Visit Sydney, Melbourne, the Great Barrier Reef, and experience iconic landmarks, wildlife, and vibrant cities.",
@@ -1402,134 +1402,148 @@
         "/images/banners/aus/tasmania.webp",
          "/images/banners/aus/uluru-northern-territory.webp"
     ],
-  "duration": "09 Nights  I  10 Days",
+  "duration": "07 Nights / 08 Days",
   "price":  330300,
   "description": [
-    "Experience the beauty and diversity of Australia! Begin your journey in Sydney, exploring the Opera House, Harbour Bridge, and Bondi Beach.",
-    "Travel to Melbourne to enjoy city highlights, cultural experiences, and nearby attractions. Conclude your tour with a visit to the Great Barrier Reef for a spectacular underwater adventure and tropical scenery."
+    "Embark on an unforgettable adventure through the breathtaking landscapes of Australia, exploring the charming city of Melbourne, the stunning Great Ocean Road, and the majestic Grampians National Park. Begin in Melbourne, Victoria's vibrant capital, before winding your way along the iconic Great Ocean Road to Apollo Bay, with its pristine beaches and lush rainforests. Continue to Warrnambool, renowned for its whale watching opportunities and historic landmarks, and then on to Halls Gap, nestled in the heart of the Grampians National Park, where towering mountains, sparkling waterfalls, and an abundance of wildlife await. Return to Melbourne for a final night, reflecting on the unforgettable experiences and memories made during your journey through one of Australia's most stunning regions."
   ],
   "additionalInfo": [
     {
       "name": "Geography and Climate",
-      "description": "Australia features diverse landscapes including beaches, rainforests, deserts, and the Great Barrier Reef. The climate varies from temperate in southern cities like Melbourne to tropical in northern regions. Australia offers rich wildlife, scenic beauty, and vibrant cities."
+      "description": "Australia, the world's sixth-largest country, boasts a diverse geography, ranging from the red sands of the Outback to the lush rainforests of the north and the snow-capped mountains of the southeast. The country's climate varies greatly, from tropical in the north to temperate in the south, with the central desert region experiencing extreme temperatures and low humidity. The northern states, including Queensland and the Northern Territory, have a wet and dry season, while the southern states, such as New South Wales and Victoria, have a more moderate climate with four distinct seasons."
     }
   ],
   "itinerary": [
     {
       "day": "Day 01 :",
-      "title": "Arrival in Sydney",
-      "description": "Arrive at Sydney Airport. Transfer to your hotel and relax after your journey.",
-      "additionalInfo": ["Overnight stay in Sydney hotel"]
+      "title": "Arrival in Melbourne and Yarra River Cruise",
+      "description": "Welcome to Melbourne, the vibrant cultural capital of Australia! Begin your journey by delving into the city's rich First Nations heritage. Make your way to South Wharf, where you'll embark on a scenic 1-hour Yarra River Cruise. As you glide along the river, take in the stunning city skyline, picturesque gardens, and historic landmarks, setting the tone for an unforgettable adventure in Melbourne. Overnight at your hotel in Melbourne."
+
     },
     {
       "day": "Day 02 :",
-      "title": "Sydney Sightseeing",
-      "description": "Visit Sydney Opera House, Harbour Bridge, Darling Harbour, and Bondi Beach.",
-      "additionalInfo": ["Overnight stay in Sydney hotel"]
+      "title": "Melbourne City Tour and Skydeck Experience",
+      "description": "After breakfast, start your day with a comprehensive Look Around City tour, showcasing Melbourne's iconic landmarks and hidden gems. Visit the legendary Melbourne Cricket Ground (MCG) and take an insider's tour, exploring the stadium's historic pavilions, player facilities, and the hallowed turf. In the evening, head to the Melbourne Skydeck, located on the 88th floor of the Eureka Tower. Enjoy the thrilling Edge Experience, a glass cube that extends 3 meters outside the building, and take in breathtaking 360-degree views of the city. Additionally, explore the Voyager Theatre, featuring a unique, interactive experience that tells the story of Melbourne's history and culture. Overnight at your hotel in Melbourne."
+
     },
     {
       "day": "Day 03 :",
-      "title": "Blue Mountains Day Trip",
-      "description": "Full-day excursion to Blue Mountains. Visit Three Sisters, Scenic World, and enjoy natural landscapes.",
-      "additionalInfo": ["Overnight stay in Sydney hotel"]
+      "title": "Melbourne to Apollo Bay via Great Ocean Road",
+      "description": "Pick up your rental car and embark on an epic journey along Victoria's stunning Great Ocean Road. Your first stop is Bells Beach, a world-renowned surf spot and home of the Rip Curl Pro surfing competition. Visit the Great Ocean Road Chocolaterie & Ice Creamery for a sweet treat.Continue driving to the charming beach towns of Anglesea and Aireys Inlet. Take a scenic walk to the Split Point Lighthouse in Aireys Inlet, offering breathtaking views of the coastal cliffs. Next, head to Lorne, a picturesque seaside town with unique shops, cafes, and scenic waterfalls, including Erskine Falls and Sheoak Falls.In the afternoon, drive to Apollo Bay, a quaint fishing town surrounded by the majestic Great Otway National Park. Check-in to your hotel and stroll along the town's beautiful beach. Explore the national park's scenic trails, visit the Otway Fly Tree Top walk, or discover the Wild Life Wonders of the region. Overnight at your hotel in Apollo Bay."
+    
     },
     {
       "day": "Day 04 :",
-      "title": "Flight to Melbourne",
-      "description": "Fly to Melbourne. Explore city highlights including Federation Square, Royal Botanic Gardens, and street art.",
-      "additionalInfo": ["Overnight stay in Melbourne hotel"]
+      "title": "Apollo Bay to Warrnambool via Great Ocean Road",
+      "description": "Depart Apollo Bay and continue along the stunning Great Ocean Road, stopping at one of its most iconic attractions: The Twelve Apostles limestone rock pillars. Take an optional helicopter ride for a thrilling bird's-eye view of these natural wonders. Visit Loch Ard Gorge, a picturesque cove with a tragic history, and marvel at the dramatic London Arch, a popular natural landmark. Nearby, explore the Grotto sinkhole, where you can peer into the void and witness the ocean's fury.In the afternoon, arrive in Warrnambool, a charming coastal city steeped in history. Visit the Flagstaff Hill Maritime Village, where you'll discover a recreated 19th-century port village. Be mesmerized by the Shipwrecked Sound and Laser Show, and explore the Shipwrecked Museum, showcasing the region's rich maritime heritage. Overnight at your hotel in Warrnambool."
+    
     },
     {
       "day": "Day 05 :",
-      "title": "Melbourne Sightseeing",
-      "description": "Visit Queen Victoria Market, St Kilda, and enjoy Melbourne city culture.",
-      "additionalInfo": ["Overnight stay in Melbourne hotel"]
+      "title": " Warrnambool to Halls Gap via Grampians National Park",
+      "description": "Embark on a scenic two-hour drive to the breathtaking Grampians National Park, one of Australia's most spectacular nature reserves. Explore the park's rugged sandstone ridges, visiting iconic attractions like MacKenzie Falls and the Brambuk Cultural Centre, which showcases the region's rich Aboriginal heritage. Indulge in a wine tasting experience at a local vineyard estate, such as Pomonal Estate or Great Western Estate. Keep an eye out for the diverse wildlife that inhabits the park, including deer, foxes, hares, and even dingoes.As you journey through the Grampians, marvel at the dramatic mountain landscapes, with smooth slopes on the west and rugged crags on the east. Arrive in the charming village of Halls Gap, nestled in the heart of the national park, where wild kangaroos roam freely. Overnight at your hotel in Halls Gap."
+    
     },
     {
       "day": "Day 06 :",
-      "title": "Great Ocean Road Day Trip",
-      "description": "Full-day drive along Great Ocean Road. Visit Twelve Apostles, Loch Ard Gorge, and scenic coastal views.",
-      "additionalInfo": ["Overnight stay in Melbourne hotel"]
+      "title": " Canoeing and Exploring the Grampians",
+      "description": "Embark on a serene canoeing adventure in the breathtaking Grampians National Park. Depart Halls Gap and head to a stunning lake, such as Bellfield or Fyans, where you'll meet your local guide. Paddle leisurely across the lake, taking in the picturesque surroundings and spotting native wildlife, including black swans, cormorants, and ducks.After your canoeing excursion, return to Halls Gap and spend the afternoon at leisure. Optional activities include guided hikes to scenic mountain lookout points and waterfalls, or visiting a First Nations cultural center to delve deeper into the region's rich Aboriginal heritage. Overnight at your hotel in Halls Gap."
+   
     },
     {
       "day": "Day 07 :",
-      "title": "Flight to Cairns",
-      "description": "Fly to Cairns, gateway to the Great Barrier Reef. Relax at leisure or explore local markets.",
-      "additionalInfo": ["Overnight stay in Cairns hotel"]
+      "title": "Return to Melbourne via Stawell and Ballarat",
+      "description": "Bid farewell to the Grampians and embark on a scenic drive back to Melbourne. En route, stop at the Black Range Scenic Reserve to visit the Bunjil Shelter, featuring ancient First Nations rock art. Take a short walk to the shelter and marvel at the thousands-year-old artwork depicting Bunjil, a revered creator deity.Next, head to Ballarat, Victoria's largest inland city, and indulge in its vibrant arts scene, diverse cuisine, and rich history. Visit Sovereign Hill, a living museum that recreates 1851 Ballarat, complete with costumed characters and historic architecture. Try your luck at gold panning, explore underground mine tours, and relive the excitement of the gold rush era. After a fascinating day in Ballarat, depart for Melbourne, reflecting on the unforgettable experiences and memories made during your journey. Overnight at your hotel in Melbourne."
+    
     },
     {
       "day": "Day 08 :",
-      "title": "Great Barrier Reef Tour",
-      "description": "Full-day trip to the Great Barrier Reef. Snorkel or dive to explore marine life and coral formations.",
-      "additionalInfo": ["Overnight stay in Cairns hotel"]
-    },
-    {
-      "day": "Day 09 :",
-      "title": "Leisure in Cairns",
-      "description": "Spend the day at leisure exploring Cairns, local beaches, or optional excursions.",
-      "additionalInfo": ["Overnight stay in Cairns hotel"]
-    },
-    {
-      "day": "Day 10 :",
-      "title": "Departure from Cairns",
-      "description": "After breakfast, transfer to Cairns Airport for your onward journey. Tour ends here.",
-      "additionalInfo": []
+      "title": "Departure from Melbourne",
+      "description": "Spend the morning at leisure, exploring Melbourne's vibrant streets, revisiting favorite attractions, or discovering new hidden gems. As your journey comes to a close, make your way to Melbourne Airport, returning your rental car to the depot.Bid farewell to Melbourne and Australia, carrying memories of your unforgettable adventure. Depart from Melbourne Airport, heading home or to your next destination. Safe travels!"
+     
     }
+   
   ],
   "hotel": {
     "name": "Hotel details",
     "amenities": [
-      "Good 4* Hotel in Sydney",
-      "Good 4* Hotel in Melbourne",
-      "Good 4* Hotel in Cairns"
+      "Good 4* or 3* Hotel"
+    
+    ]
+  },
+    "Flight": {
+    "name": "Flight details",
+    "amenities": [
+      "Flight not included"
+    
     ]
   },
   "inclusionAndExclusion": {
     "inclusions": [
-      "Three Night’s Accommodation in Sydney at suggested hotels or similar",
-      "Three Night’s Accommodation in Melbourne at suggested hotels or similar",
-      "Three Night’s Accommodation in Cairns at suggested hotels or similar",
-      "Daily breakfast except day 1",
-      "All transfers and sightseeing by AC vehicle as per the itinerary inclusive of toll, parking & driver’s batta",
-      "Domestic flights between destinations included",
-      "Sightseeing mentioned in the itinerary included"
+      "3 Night’s Accommodation in Melbourne at Suggested hotels or Similar.",
+      "1 Night Accommodation in Apollo Bay at Suggested hotels or Similar.",
+      "1 Night Accommodation in Warranambool at Suggested hotels or Similar.",
+      "2 Night Accommodation in Halls Gap at Suggested hotels or Similar.",
+      "Breakfast on Day 1 & 8.",
+      "6 Days Self Drive Car Hire.",
+      "1 Hour Yarra River Cruise – No Transfers.",
+       "Melbourne Half Day City Tour on Seat in Coach basis.",
+       "Admission to MCG 1hr Inside Tour – No Transfers.",
+       "Ultimate Skydeck with Edge Experience and Voyager Theatre – No Transfers",
+       "Sovereign Hill with Admission to Gold Mine Museum.",
+       "Admission to Otway Fly Treetop walk.",
+       "Melbourne Airport to Hotel transfers on Private basis.",
+       "Melbourne city to Airport transfers on Self Dirve basis"
     ],
     "exclusions": [
-      "International Airfare / Train Fare",
-      "Travel Insurance",
-      "Government Tax, GST if applicable",
-      "Meals not mentioned in the itinerary",
-      "Expenses of personal nature like medical expenses, Phone Calls",
-      "Entrance fees, Guide Charges not mentioned",
-      "Video and Camera permits",
-      "Any optional tours & Additional usage of vehicle",
-      "Porterage at hotels and airports, tips, laundry, liquors, wine, mineral water, etc.",
-      "Early check-in & late check-out at hotels",
-      "High Season Surcharges as applicable"
+      "Return & Internal Airfares",
+      "Australia Visa.",
+      "Meals, Laundry, telephone, optional excursions and other items of a personal nature.",
+      "Cost of foreign exchange for personal use.",
+      "Portage Charges in Hotel/Airport/During Tours.",
+      "Tips to Driver and Guide",
+      "Personal expense",
+      "High Season Surcharges as applicable",
+      "Use of vehicle other than the specified itinerary.",
+      "Any items or services not mentioned in the itinerary section.",
+      "Travel Insurance not included",
+      "5% GST",
+      "5% TCS"
     ]
   },
   "pleaseNote": {
     "title": "Please Note",
     "notes": [
       "100% Cancellation on low cost carrier once booking confirmed.",
-      "100% Cancellation if hotels/entrances booked and paid in advance during confirmation period and will be non-refundable.",
-      "100% Cancellation during peak days or any trade fare.",
+      "100% Cancellation if hotels/entrances booked and paid in advanced during confirmation period and will be non refundable.",
+      "100% Cancellation during peak days or any trade fare",
+      "100% Cancellation once visa payment is done",
       "For Group booking, please reconfirm the cancellation policy before confirmation.",
-      "Airline & hotel Cancellation policy will at time override the current cancellation policy listed."
+      "Airline & hotel Cancellation policy will at time override the current cancellation policy listed"
     ]
   },
   "conditions": {
     "title": "Conditions",
     "conditions": [
-      "Airfare is subject to availability at the time of confirmation with the payment.",
-      "Hotel Rooms & Service are subject to availability at the time of confirmation with the payment.",
-      "In case of Non availability of Hotel Rooms a similar category Hotel will be provided.",
-      "Credit card payments are subject to 3% bank charges. Any fluctuations may vary the cost.",
-      "No Change in Itinerary once confirmed will be honored unless otherwise given in writing.",
-      "Private vehicle mentioned in the quotes is based on the itinerary (Point to Point Service).",
-      "Entrances specified in the itinerary will be covered. Any extra services to be taken care by guest directly.",
-      "No refund for partly unutilized tickets. No refund for 'NO – SHOWS' & Last moment cancellations."
-    ]
+    "Above rates are based on today’s ROE. Any fluctuation will vary the cost at the time of confirmation and final payment.",
+    "For international travel, passengers’ passports must have a minimum validity of 6 (six) months from the date of return and must contain two or more blank pages for visa stamping.",
+    "For E-Visa, the physical condition of the passport is the responsibility of the guest. Damaged passports may be refused by airlines or immigration.",
+    "Airfare is subject to availability at the time of confirmation and payment.",
+    "Hotel rooms and services are subject to availability at the time of confirmation and payment.",
+    "Private vehicle service mentioned in the quote is based on the itinerary (Point-to-Point Service).",
+    "In case of non-availability of hotel rooms, a similar category hotel will be provided.",
+    "Credit card payments are subject to 3% bank charges. Any fluctuations may vary the final cost.",
+    "No changes in the confirmed itinerary will be honored unless provided in writing. Additional charges may apply.",
+    "No verbal commitments will be honored unless provided in writing.",
+    "Offers are valid for the time being only unless otherwise specified.",
+    "Extension of stay is subject to availability and will be charged on a pro-rata basis as per the best rate of the day.",
+    "For all SIC (Seat-in-Coach) tours, there may be waiting time for pickup/drop. Pickup/drop points may vary from city to city unless specified in the quotation.",
+    "City taxes, if applicable, must be paid directly at the hotel unless specified in the quotation.",
+    "Entrances specified in the itinerary will be covered. Any additional services must be taken care of by the guest directly.",
+    "No amendments possible once land arrangements have been confirmed",
+    "No refund for partly unutilized tickets. No refund for 'NO – SHOWS' & Last moment cancellations",
+    "Granting or rejecting visas and immigration clearance is the sole prerogative of the concerned sovereign governments and we can only facilitate in the entire process. We shall neither be responsible in case of non-granting of such documents. Even if the visas are rejected, cancellation charges / fees shall be payable by the Client. There will be no refund, if the Clients, or any member of his party, is unable to travel due to the said reasons."
+  ]
   }
 },
 {
@@ -5146,14 +5160,18 @@
   "price": 36146,
 
   "description": [
-    "Experience Bali’s rich culture, tropical beaches, iconic temples and scenic landscapes.",
-    "Enjoy Uluwatu cliffs, Nusa Penida island, Bali swings, volcanic viewpoints and cultural performances."
+    "Bali, the 'Island of the Gods,' is a tropical paradise renowned for its stunning beaches, lush green landscapes, and rich cultural heritage. Located in the Indonesian archipelago, Bali offers a unique blend of traditional temples, vibrant markets, and luxurious resorts.",
+    "From the majestic volcanic peaks to the picturesque rice fields, Bali's breathtaking landscapes are a feast for the eyes. The island's beautiful beaches, such as Kuta, Seminyak, and Nusa Dua, offer a range of activities, from surfing and snorkeling to simply relaxing in the sun.",
+    "Whether you're looking for relaxation, adventure, or cultural immersion, Bali has something for everyone."
   ],
 
   "additionalInfo": [
     {
       "name": "Geography and Climate",
-      "description": "Bali has a tropical climate with lush rainforests, beaches and volcanic highlands. Warm year-round with occasional monsoon showers."
+      "description": "Bali, an Indonesian island, is located between Java and Lombok. The island boasts volcanic mountains, lush green landscapes, and stunning beaches along its coastline."
+      
+
+      
     }
   ],
 
