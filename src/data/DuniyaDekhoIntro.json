@@ -5,20 +5,19 @@
     "duration": "10 Nights / 11 Days",
     "price": 231987,
     "description": [
-      "Cape Town, Table Mountain, Cape Point",
-      "Kruger National Park Safari, Garden Route"
+      "Cape Town, Table Mountain, Cape Point,Full Day Peninsula Tour",
+      "Oudtshoorn, Knysna, Sun City,Leisure Day,Pilanesberg Safari,Johannesburg"
     ],
     "image": "/images/small/south-africa.webp",
     "slug": "/duniya-dekho/south-africa-tour-package"
   },
   {
     "intro": "Ancient Wonders",
-    "name": "Egypt",
-    "duration": "06 Nights / 07 Days",
+    "name": "Egyptian Getaway: Cairo",
+    "duration": "3 Nights / 4 Days",
     "price": 106200,
     "description": [
-      "Pyramids of Giza, Great Sphinx, Nile Cruise",
-      "Cairo Museum, Khan el-Khalili Bazaar"
+      "Arrival in Cairo, Pyramids, Museum, and Bazaar, Leisure Day in Cairo"
     ],
     "image": "/images/small/egypt.webp",
     "slug": "/duniya-dekho/egypt-tour-package"
@@ -109,9 +108,9 @@
   "duration": "09 Nights / 07 Days",
   "price":410400,
   "description": [
-    "Toronto City Tour, CN Tower",
-    "Niagara Falls (Canadian Side)",
-    "Ottawa City Tour, Montreal, Quebec City"
+    " Vancouver Adventure, Revelstoke, Canmore",
+    "Banff National Park Adventure",
+    "Columbia Icefield, Jasper National Park Adventure, Kamloops"
   ],
   "image": "/images/small/banff-national-park-alberta.webp",
   "slug": "/duniya-dekho/canada-tour-package"
@@ -123,19 +122,19 @@
   "price": 330300,
   "description": [
     "Melbourne, Yarra River Cruise, Skydeck Experience",
-    "Great Ocean Road, Grampians National Park. Exploring the Grampians",
-    "Stawell and Ballarat, Great Ocean Road"
+    "Great Ocean Road, Grampians National Park", "Stawell and Ballarat, Great Ocean Road"
+   
   ],
   "image": "/images/small/aus.webp",
   "slug": "/duniya-dekho/australia-tour-package"
 },
 {
   "intro": "Kiwi Explorer",
-  "name": "New Zealand",
-  "duration": "11 Nights / 12 Days",
+  "name": "Discover New Zealand",
+  "duration": "06 Nights / 07 Days",
   "price": 305100,
   "description": [
-    "Auckland City Tour, Sky Tower", "Rotorua Geothermal Valley, Maori Cultural Show","Queenstown,Milford Sound Cruise"
+    "Auckland,Rotorua via Hobbiton Movie Set,", "Explore Rotorua's Geothermal Wonders & Maori Culture,Queenstown,Milford Sound Tour","Christchurch via Mt Cook"
   ],
   "image": "/images/small/newz.webp",
   "slug": "/duniya-dekho/new-zealand-tour-package"
@@ -146,9 +145,9 @@
   "duration": "12 Nights / 13 Days",
   "price": 290700,
   "description": [
-    "Paris City Tour, Eiffel Tower, Seine River Cruise",
-    "Brussels, Atomium, Amsterdam Canal Cruise",
-    "Switzerland: Mount Titlis, Lucerne City Tour"
+    "Amsterdam, Dutch Countryside Tour,Paris,Paris City Tour, Lucerne, Mount Titlis, Lake Lucerne,Switzerland,Leisure,",
+    "  Venice,Florence,Rome,Colosseum,Roman Forum Walking Tour,Rome"
+   
   ],
   "image": "/images/small/best-of-europe.webp",
   "slug": "/duniya-dekho/best-of-europe-tour-package"
@@ -156,12 +155,12 @@
 {
   "intro": "Mesmerizing Turkey",
   "name": "Turkey",
-  "duration": "7 Nights / 07 Days",
+  "duration": "7 Nights / 08 Days",
   "price":  160200,
   "description": [
-    "Istanbul City Tour, Blue Mosque, Hagia Sophia, Grand Bazaar",
-    "Cappadocia Hot Air Balloon Experience",
-    "Pamukkale Cotton Castle, Ephesus Ancient City"
+    "Istanbul Classical City Tour, Izmir and Explore Kusadasi, Ephesus, Ancient Wonders",
+    "Natural Wonders of Pamukkale",
+    "Cappadocia, Cappadocia North Tour"
   ],
   "image": "/images/small/turkey.webp",
   "slug": "/duniya-dekho/turkey-tour-package"
@@ -247,13 +246,13 @@
 },
 {
   "intro": "Ancient Greek Odyssey",
-  "name": "Greece",
+  "name": "Greek",
   "duration": "07 Nights / 08 Days",
   "price": 133838,
   "description": [
-    "Athens City Tour, Acropolis, Parthenon",
-    "Santorini: Oia Village, Sunset View, Caldera Cruise",
-    "Mykonos: Windmills, Little Venice, Beach Time"
+    "Athens City Tour,  Mykonos, Island Tour",
+    " Santorini, Santorini Tours,"
+
   ],
   "image": "/images/small/greece.webp",
   "slug": "/duniya-dekho/greece-tour-package"
@@ -318,24 +317,23 @@
   "duration": "07 Nights / 08 Days",
   "price": 290000,
   "description": [
-    "Tokyo City Tour: Shibuya Crossing, Meiji Shrine, Tokyo Tower",
-    "Kyoto: Fushimi Inari Shrine, Kinkaku-ji (Golden Pavilion), Gion District",
-    "Osaka: Osaka Castle, Dotonbori Street, Universal Studios Japan",
-    "Optional: Mount Fuji & Hakone Day Trip"
+    " Tokyo,Tokyo's Vibrant Landmarks ,Hakone's Natural Beauty,Mt. Fuji's Majestic Views",
+    "Hiroshima,Miyajima Island Adventure,Miyajima Island Getaway,Hiroshima's Historic Site,Himeji Castle",
+    "Kyoto's Cultural,Scenic Delights, Fond Farewells"
+   
   ],
   "image": "/images/small/japan.webp",
   "slug": "/duniya-dekho/japan-tour-package"
 },
 {
-  "intro": "Oman Desert & Coast Adventure",
+  "intro": "Oman Discovery",
   "name": "Oman",
   "duration": "05 Nights / 06 Days",
   "price": 85500,
   "description": [
-    "Muscat City Tour: Sultan Qaboos Grand Mosque, Royal Opera House, Mutrah Souq",
-    "Nizwa Fort and Nizwa Souq",
-    "Wahiba Sands Desert Safari, Camel Ride, Star Gazing",
-    "Jebel Shams: Grand Canyon of Oman, Al Hamra Village"
+    " Muscat,Muscat City Tour, Dolphin,Whale Watching Tou",
+    "Wahiba Sands, Jabal Akhdar,Nizwa and Departure"
+    
   ],
   "image": "/images/small/oman.webp",
   "slug": "/duniya-dekho/oman-tour-package"
@@ -355,14 +353,12 @@
   "slug": "/duniya-dekho/saudi-arabia-tour-package"
 },{
   "intro": "Luxury & Desert Adventure",
-  "name": "Dubai",
-  "duration": "05 Nights / 06 Days",
+  "name": "Dubai City Break",
+  "duration": "4 Nights / 5 Days",
   "price": 81900,
   "description": [
-    "Dubai City Tour: Burj Khalifa, Dubai Mall, Dubai Fountain",
-    "Desert Safari with Camel Ride & Dune Bashing",
-    "Palm Jumeirah, Atlantis Hotel, Marina Cruise",
-    "Optional: Dubai Parks & Resorts or Global Village Visit"
+    "Dubai & Dhow Cruise,Dubai City Tour & Desert Safari,Leisure & Burj Khalifa Visit,",
+    "Miracle Garden & Global Village Visit"
   ],
   "image": "/images/small/dubai-marina.webp",
   "slug": "/duniya-dekho/dubai-tour-package"
@@ -458,11 +454,9 @@
   "duration": "05 Nights / 06 Days",
   "price": 36146,
   "description": [
-    "Uluwatu Temple & Kecak Dance Show",
-    "Ubud: Rice Terraces, Tegenungan Waterfall, Tegalalang Village",
-    "Kintamani Volcano View",
-    "Nusa Penida Island Tour (Optional Adventure)",
-    "Beaches: Kuta, Seminyak, Jimbaran"
+    "Sunset Serenity","East Nusa Penida Island Adventure","Uluwatu Temple",
+    "Natural Wonders of Bedugul, Kintamani, Ubud's Natural Beauty"
+ 
   ],
   "image": "/images/small/bali.webp",
   "slug": "/duniya-dekho/bali-tour-package"
@@ -488,9 +482,9 @@
   "duration": "04 Nights / 05 Days",
   "price": 64800,
   "description": [
-    "Manila: Intramuros & Rizal Park",
-    "Boracay: White Beach, Water Sports & Sunset Cruise",
-    "Palawan: El Nido Island Hopping (Optional)",
+    "Manila",
+    "Manila City Tour",
+    "Boracay",
     "Coron Shipwreck Tour (Optional)",
     "Beaches, Snorkeling & Marine Life Experiences"
   ],
@@ -515,29 +509,24 @@
 {
   "intro": "Imperial Heritage & Modern Wonders",
   "name": "China",
-  "duration": "06 Nights / 07 Days",
+  "duration": "7 Nights / 8 Days",
   "price": 120743,
   "description": [
-    "Beijing: Great Wall of China, Forbidden City, Tiananmen Square",
-    "Xi'an: Terracotta Warriors Museum",
-    "Shanghai: The Bund, Nanjing Road & City Skyline",
-    "Optional: Bullet Train Experience",
-    "Traditional Cuisine & Cultural Shows"
+    "Beijing,Great Wall of China & Jade Factory,Beijing City ",
+    "Tour,Xi'an & Big Wild Goose Pagoda,Terra Cotta Warriors,Xi'an City,Shanghai City Tour"
+   
   ],
   "image": "/images/small/china.webp",
   "slug": "/duniya-dekho/china-tour-package"
 },
+
 {
   "intro": "Exotic Beach Escape",
   "name": "Mauritius",
-  "duration": "04 Nights / 05 Days",
+  "duration": "4 Nights / 5 Days",
   "price": 44100,
   "description": [
-    "North Island Tour: Grand Baie, Caudan Waterfront & Citadel Fort",
-    "South Island Tour: Chamarel Seven Colored Earth & Black River Gorges",
-    "Ile Aux Cerfs Island with Water Sports (Optional)",
-    "Catamaran Cruise Experience (Optional)",
-    "White Sand Beaches & Lagoon Views"
+    "Mauritius , North Island Tour,South Island Tour,Ile Aux Cerfs Island Excursion"
   ],
   "image": "/images/small/mauritius.webp",
   "slug": "/duniya-dekho/mauritius-tour-package"
@@ -548,11 +537,7 @@
   "duration": "03 Nights / 04 Days",
   "price": 107834,
   "description": [
-    "Overwater Villa Stay Experience (Optional Upgrade)",
-    "Snorkeling & Marine Life Exploration",
-    "Sandbank & Sunset Cruise",
-    "Water Sports: Kayaking, Jet Ski & Diving (Optional)",
-    "Private Beach Relaxation & Spa Treatments"
+    "Maldives,Leisure Day in Maldives,Island Exploration"
   ],
   "image": "/images/small/madlives.webp",
   "slug": "/duniya-dekho/maldives-tour-package"
@@ -578,11 +563,9 @@
   "duration": "04 Nights / 05 Days",
   "price": 30466,
   "description": [
-    "Colombo City Tour & Galle Face Green",
-    "Kandy: Temple of the Tooth & Cultural Dance Show",
-    "Nuwara Eliya: Tea Plantations & Gregory Lake",
-    "Bentota: Beach Stay & Madu River Cruise",
-    "Optional: Whale Watching in Mirissa"
+    "Colombo City Tour,Nuwara Eliya,Kitulgala,",
+    "Kandy,Tea Plantation,Colombo,","Peradeniya and Pinnawala"
+    
   ],
   "image": "/images/small/srilanka.webp",
   "slug": "/duniya-dekho/sri-lanka-tour-package"
@@ -590,29 +573,25 @@
 {
   "intro": "Urban & Island Escape",
   "name": "Kuala Lumpur & Langkawi",
-  "duration": "04 Nights / 05 Days",
+  "duration": "06 Nights / 07 Days",
   "price": 30466,
   "description": [
-    "Kuala Lumpur: Petronas Twin Towers, Batu Caves & Merdeka Square",
-    "City Tour & Shopping at Bukit Bintang",
-    "Langkawi: Sky Bridge & Cable Car Experience",
-    "Island Hopping & Snorkeling Adventure (Optional)",
-    "Beaches: Pantai Cenang & Relaxation by the Sea"
+    "Langkawi, Mangrove and Cave Exploring,Kuala Lumpur, Genting Highlands",
+    "KL Tower ,Malacca Day Trip"
+
   ],
+
   "image": "/images/small/kuala-lumbpur-&-langkawi.webp",
   "slug": "/duniya-dekho/kuala-lumpur-langkawi-tour-package"
 },
 {
   "intro": "City of Modern Wonders",
-  "name": "Kuala Lumpur",
-  "duration": "06 Nights / 07 Days",
+  "name": "Kuala Lumpur Escapade",
+  "duration": "3 Nights / 4 Days",
   "price": 21600,
   "description": [
-    "Petronas Twin Towers & Skybridge Visit",
-    "Batu Caves & Thean Hou Temple",
-    "Merdeka Square & Sultan Abdul Samad Building",
-    "Bukit Bintang Shopping & Jalan Alor Food Street",
-    "Optional: Sunway Lagoon Theme Park Experience"
+    "Kuala Lumpur,Genting Highlands, Kuala Lumpur City Tour"
+    
   ],
   "image": "/images/small/kuala-lumpur.webp",
   "slug": "/duniya-dekho/kuala-lumpur-tour-package"
@@ -651,18 +630,27 @@
 {
   "intro": "European Cityscape Journey",
   "name": "Paris to Vienna",
-  "duration": "09 Nights / 010 Days",
+  "duration": "09 Nights / 10 Days",
   "price": 215000,
   "description": [
-    "Paris: Eiffel Tower, Louvre Museum, Seine River Cruise & Champs-Élysées",
-    "Zurich: Lake Zurich, Old Town Walk & Rhine Falls Visit",
-    "Munich: Marienplatz, BMW World & Bavarian Culture Experience",
-    "Salzburg: Mozart's Birthplace & Sound of Music Tour",
-    "Vienna: Schönbrunn Palace, St. Stephen’s Cathedral & Imperial Boulevards",
-    "Optional: Danube Valley Cruise & Classical Music Evening"
+    "City of Light,Timeless Charm of Paris,Journey to Lucerne, Switzerland,Mount Titlis and Lake Lucerne Adventure",
+    "Explore Switzerland at Leisure,Innsbruck, Austria,Discover the Magic of Swarovski Crystal World",
+    " Innsbruck to Vienna, the City of Music, Schönbrunn Palace"
   ],
   "image": "/images/small/paris-to-vienna.webp",
   "slug": "/duniya-dekho/paris-to-vienna-tour-package"
+},
+
+{
+  "intro": "Himalayan Happiness Journey",
+  "name": "Magic of Bhutan",
+  "duration": "3 Nights / 4 Days",
+  "price": 41990,
+  "description": [
+    "Bhutan  ,Thimphu City Sightseeing,Paro"
+  ],
+  "image": "/images/small/bhutan.webp",
+  "slug": "/duniya-dekho/bhutan-tour-package"
 }
 
 
