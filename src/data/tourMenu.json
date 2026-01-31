@@ -370,10 +370,14 @@
           "heading": "South Africa",
               "link": "/duniya-dekho/south-africa-tour-package", 
           "links": [
-            { "name": "South Africa", "link": "/duniya-dekho/south-africa-tour-package" },
+          
+             { "name": "South Africa", "link": "/duniya-dekho/south-africa-tour-package" },
+               { "name": "Cape Town and Sun City", "link": "/duniya-dekho/cape-town-sun-city-tour-package" },
             { "name": "Egypt", "link": "/duniya-dekho/egypt-tour-package" },
             { "name": "Kenya with Victoria Falls", "link": "/duniya-dekho/kenya-victoria-falls-tour-package" },
-            { "name": "Tanzania", "link": "/duniya-dekho/tanzania-tour-package" }
+            { "name": "Tanzania", "link": "/duniya-dekho/tanzania-tour-package" },
+             { "name": "Safari Dreams Tanzania", "link": "/duniya-dekho/tanzania-tour-package" },
+              { "name": "Sands of Time", "link": "/duniya-dekho/sands-of-time-tour-package" }
           ]
         }
       ]
@@ -403,7 +407,9 @@
      
       "links": [
         { "name": "Australia", "link": "/duniya-dekho/australia-tour-package" },
-        { "name": "New Zealand", "link": "/duniya-dekho/new-zealand-tour-package" }
+         { "name": "Australian Dream", "link": "/duniya-dekho/australian-dream-tour-package" },
+        { "name": "New Zealand", "link": "/duniya-dekho/new-zealand-tour-package" },
+        { "name": "New Zealand Explorer", "link": "/duniya-dekho/new-zealand-explorer-tour-package" }
       ]
     }
   ]
@@ -417,17 +423,23 @@
       "links": [
         { "name": "Best of Europe", "link": "/duniya-dekho/best-of-europe-tour-package" },
         { "name": "Turkey", "link": "/duniya-dekho/turkey-tour-package" },
+          { "name": "Turkish Delight", "link": "/duniya-dekho/turkish-delight-tour-package" },
         { "name": "Swiss & Paris", "link": "/duniya-dekho/swiss-paris-tour-package" },
+         { "name": "Swiss & Bliss", "link": "/duniya-dekho/swiss-bliss-tour-package" },
         { "name": "England, Scotland & Ireland", "link": "/duniya-dekho/england-scotland-ireland-tour-package" },
         { "name": "Austria, Swiss & Paris", "link": "/duniya-dekho/austria-swiss-paris-tour-package" },
         { "name": "Italy, Swiss & Paris", "link": "/duniya-dekho/italy-swiss-paris-tour-package" },
         { "name": "Spain & Portugal", "link": "/duniya-dekho/spain-portugal-tour-package" },
+         { "name": "Portugal Uncovered", "link": "/duniya-dekho/portugal-uncovered-tour-package" },
+
+        { "name": "Northern Spain", "link": "/duniya-dekho/northern-spain-journey-tour-package" },
         { "name": "Scandinavia", "link": "/duniya-dekho/scandinavia-tour-package" },
         { "name": "Greece", "link": "/duniya-dekho/greece-tour-package" },
         { "name": "Northern Lights", "link": "/duniya-dekho/northern-lights-tour-package" },
         { "name": "Iceland", "link": "/duniya-dekho/iceland-tour-package" },
         { "name": "East Europe", "link": "/duniya-dekho/east-europe-tour-package" },
-          { "name": "Paris to Vienna ", "link": "/duniya-dekho/paris-to-vienna-tour-package" }
+          { "name": "Paris to Vienna ", "link": "/duniya-dekho/paris-to-vienna-tour-package" },
+          { "name": "Istanbul & Antalya ", "link": "/duniya-dekho/istanbul-antalya-tour-package" }
       ]
     }
   ]
@@ -462,7 +474,8 @@
       "links": [
         { "name": "Oman", "link": "/duniya-dekho/oman-tour-package" },
         { "name": "Saudi Arabia", "link": "/duniya-dekho/saudi-arabia-tour-package" },
-        { "name": "Dubai", "link": "/duniya-dekho/dubai-tour-package" }
+        { "name": "Dubai", "link": "/duniya-dekho/dubai-tour-package" },
+          { "name": "Dubai Delight", "link": "/duniya-dekho/dubai-delight-tour-package" }
       ]
     }
   ]
@@ -475,13 +488,17 @@
       "heading": "Popular South East Asia Tours",
       "links": [
         { "name": "Singapore, Malaysia & Thailand", "link": "/duniya-dekho/singapore-malaysia-thailand-tour-package" },
-        { "name": "Singapore & Malaysia", "link": "/duniya-dekho/singapore-malaysia-tour-package" },
-        { "name": "Thailand", "link": "/duniya-dekho/thailand-tour-package" },
+       
+       
         { "name": "Vietnam & Cambodia", "link": "/duniya-dekho/vietnam-cambodia-tour-package" },
+         { "name": "Thailand", "link": "/duniya-dekho/thailand-tour-package" },
         { "name": "Phuket & Krabi", "link": "/duniya-dekho/phuket-krabi-tour-package" },
         { "name": "Hong Kong & Macau", "link": "/duniya-dekho/hong-kong-macau-tour-package" },
         { "name": "Bali", "link": "/duniya-dekho/bali-tour-package" },
-         { "name": "Taiwan", "link": "/duniya-dekho/taiwan-tour-package" }
+         { "name": "Taiwan", "link": "/duniya-dekho/taiwan-tour-package" },
+          { "name": "Singapore & Malaysia", "link": "/duniya-dekho/singapore-malaysia-tour-package" },
+           { "name": "Phuket", "link": "/duniya-dekho/phuket-island-tour-package" },
+              { "name": "Paradise Bangkok & Pattaya", "link": "/duniya-dekho/paradise-bangkok-pattaya-tour-package" }
       ]
     },
     {
@@ -492,10 +509,13 @@
         { "name": "Kuala Lumpur & Langkawi", "link": "/duniya-dekho/kuala-lumpur-langkawi-tour-package" },
         { "name": "Kuala Lumpur", "link": "/duniya-dekho/kuala-lumpur-tour-package" },
         { "name": "Singapore", "link": "/duniya-dekho/singapore-tour-package" },
+               { "name": "Kuala Lumpur Escapade ", "link": "/duniya-dekho/kuala-lumpur-escapade-tour-package" },
         { "name": "Vietnam", "link": "/duniya-dekho/vietnam-tour-package" },
         { "name": "Bhutan", "link": "/duniya-dekho/bhutan-tour-package" },
         { "name": "China", "link": "/duniya-dekho/china-tour-package" },
-        { "name": "Sri Lanka", "link": "/duniya-dekho/sri-lanka-tour-package" }
+        { "name": "Sri Lanka", "link": "/duniya-dekho/sri-lanka-tour-package" },
+        { "name": "Sri Lanka Discovery", "link": "/duniya-dekho/sri-lanka-discovery-tour-package" },
+         { "name": "Sri Lanka Highlights", "link": "/duniya-dekho/sri-lanka-highlights-tour-package" }
       ]
     }
   ]

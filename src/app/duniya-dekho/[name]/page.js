@@ -8,6 +8,7 @@ import { v4 as uuidv4 } from "uuid";
 import { AiFillMinusCircle, AiFillPlusCircle } from "react-icons/ai";
 
 import PackagesBanner from "@/Components/ReuseComponent/PackagesBanner";
+import DownloadDoc from "@/Components/ReuseComponent/DownloadDoc";
 import CommonForm from "@/Components/ReuseComponent/CommonForm";
 import duniyaDekhonData from "../../../data/DuniyaDekho.json";
 
@@ -67,9 +68,14 @@ export default function Page() {
         <h2 className="font-semibold font-secondary_font capitalize text-[#3D3D3D] text-3xl lg:text-4xl">
           {destination.name}
         </h2>
-        <p className="bg-deep_green rounded-md font-medium w-max px-3 py-1 lg:text-lg text-white mt-3 mb-5">
+       <div className="flex gap-150 items-center">
+         <p className="bg-deep_green rounded-md font-medium w-max px-3 py-1 lg:text-lg text-white mt-3 mb-5">
           {destination.duration}
         </p>
+        <DownloadDoc file={destination.pdf} />
+       </div>
+       
+        
 
         <div className="lg:flex lg:flex-row-reverse gap-5">
           {/* Sidebar with price & form */}
@@ -167,6 +173,23 @@ export default function Page() {
               <div className="my-12">
                 <Cheading heading={destination.hotel.name} />
                 {destination.hotel.amenities.map((ele) => (
+                  <div key={uuidv4()} className="flex items-start gap-3 mt-3">
+                    <Image
+                      src="/images/icons/write.webp"
+                      alt="icon"
+                      width={22}
+                      height={22}
+                      className="mt-[3px]"
+                    />
+                    <p>{ele}</p>
+                  </div>
+                ))}
+              </div>
+            )}
+             {destination.flight && (
+              <div className="my-12">
+                <Cheading heading={destination.flight.name} />
+                {destination.flight.amenities.map((ele) => (
                   <div key={uuidv4()} className="flex items-start gap-3 mt-3">
                     <Image
                       src="/images/icons/write.webp"

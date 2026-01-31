@@ -20,6 +20,9 @@ function DestinationsPageIntro({ destinations }) {
       <h3 className="bg-deep_green w-max px-3 py-1 text-white mt-3 mb-5">
         {item.duration}
       </h3>
+     
+
+      
       <div>
         {item?.description?.map((ele, i) => (
           <p key={i} className="text-[#4B4B4B]">{ele}</p>
