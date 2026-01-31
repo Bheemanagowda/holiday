@@ -192,18 +192,146 @@
     ]
   }
 },
-
- {
-    "intro": "Ancient Wonders",
-    "name": "Egyptian Getaway: Cairo",
-    "duration": "3 Nights / 4 Days",
-    "price": 106200,
-    "description": [
-      "Arrival in Cairo, Pyramids, Museum, and Bazaar, Leisure Day in Cairo"
-    ],
-    "image": "/images/small/egypt.webp",
-    "slug": "/duniya-dekho/egypt-tour-package"
+{
+  "name": "Egyptian Getaway",
+  "slug": "egypt-tour-package",
+  "metaTitle": "Egyptian Getaway Tour Package | Cairo, Luxor & Nile Cruise with Duniya Dekho",
+  "metaDescription": "Explore Egypt with Duniya Dekho. Visit Cairo, Giza Pyramids, Luxor, Valley of the Kings, and enjoy a luxurious Nile Cruise.",
+  "bannerImages": [
+    "/images/banners/egypt/abu-simbel.webp",
+    "/images/banners/egypt/cairo.webp",
+    "/images/banners/egypt/luxor.webp",
+    "/images/banners/egypt/alexandria.webp",
+    "/images/banners/egypt/aswan.webp",
+    "/images/banners/egypt/giza.webp",
+    "/images/banners/egypt/hurghada.webp",
+    "/images/banners/egypt/sharm-el-sheikh.webp"
+  ],
+  "bannerLgImages": [
+    "/images/banners/egypt/giza-pyramids.webp",
+    "/images/banners/egypt/cairo.webp",
+    "/images/banners/egypt/luxor.webp",
+    "/images/banners/egypt/alexandria.webp",
+    "/images/banners/egypt/aswan.webp",
+    "/images/banners/egypt/giza.webp",
+    "/images/banners/egypt/hurghada.webp",
+    "/images/banners/egypt/sharm-el-sheikh.webp"
+  ],
+  "duration": "4 Nights / 4 Days",
+  "pdf": {
+    "name": "Egyptian Getaway Brochure",
+    "url": "/pdf/egyptian-getaway-cairo-3-nights-4-days.docx"
   },
+  "price": 198500,
+  "description": [
+    "Explore the ancient wonders of Cairo, a city steeped in history and mystique. Discover the Pyramids of Giza, the last of the Seven Wonders of the Ancient World, and the majestic Sphinx. Visit the Egyptian Museum, home to the world's largest collection of ancient Egyptian artifacts, including the golden treasures of Tutankhamun. Wander through Islamic Cairo, exploring the Mosque of Muhammad Ali and the vibrant Khan el-Khalili bazaar, one of the oldest markets in the Middle East. Unravel the secrets of Cairo's rich past and immerse yourself in the city's vibrant culture."
+  ],
+  "additionalInfo": [
+    {
+      "name": "Geography and Climate",
+      "description": "Egypt's geography is characterized by its diverse terrain, featuring deserts, mountains, and coastal plains, with the Nile River running through the country. The climate is hot and desert-like, with very little rainfall and high temperatures during the summer months, reaching up to 40°C (104°F), while winter temperatures can drop to around 10°C (50°F). Rainfall is scarce, averaging 20-50 mm (0.8-2 in) in the north and less than 25 mm (1 in) in the south, with low humidity levels, especially during winter."
+    }
+  ],
+  "itinerary": [
+    {
+      "day": "Day 01 :",
+      "title": "Arrival in Cairo",
+      "description": "Arrive at Cairo International Airport, where you'll be greeted by our representative and transferred to your hotel in a private vehicle. Spend the rest of the day relaxing and acclimating to your surroundings.",
+      "additionalInfo": ["Overnight in Cairo"]
+    },
+    {
+      "day": "Day 02 :",
+      "title": "Pyramids, Museum, and Bazaar",
+      "description": "Embark on a fascinating exploration of Cairo's iconic landmarks. Visit the majestic Great Pyramids of Giza, one of the Seven Wonders of the Ancient World, and marvel at their sheer scale and history. Next, discover the treasures of the Egyptian Museum, home to the world's largest collection of ancient Egyptian artifacts, including the golden treasures of Tutankhamun. End the day with a vibrant visit to Khan El Khalili Bazaar, one of the oldest markets in the Middle East. ",
+      "additionalInfo": ["Return to your hotel for a relaxing overnight stay in Cairo"]
+    },
+    {
+      "day": "Day 03 :",
+      "title": "Leisure Day in Cairo",
+      "description": "Enjoy a relaxing day at leisure in Cairo, free to explore the city's many wonders on your own. Take a stroll along the Nile River, visit the Citadel of Cairo, or explore the city's many mosques and churches. Alternatively, indulge in some retail therapy at one of Cairo's modern shopping malls or traditional markets.",
+      "additionalInfo": [" Overnight in Cairo"]
+    },
+    {
+      "day": "Day 04 :",
+      "title": " Departure from Cairo",
+      "description": "Bid farewell to Cairo and transfer to Cairo International Airport for your departure flight, bringing back memories of your incredible Egyptian adventure.",
+      "additionalInfo": [""]
+    }
+  
+  ],
+  "hotel": {
+    "name": "Hotel details",
+    "amenities": [
+      "Good 3* or 4* Hotel"
+    ]
+  },
+  "flight": {
+    "name": "flight details",
+    "amenities": [
+      "Flight not included"
+    ]
+  },
+  "inclusionAndExclusion": {
+    "inclusions": [
+      "Three nights Accommodation in Cairo at Suggested hotels or Similar.",
+  "Daily breakfast except Day 1.",
+  "Cairo City Tour on Private basis.",
+  "English speaking guide",
+  "Return Airport transfers on Private basis."
+    ],
+    "exclusions": [
+        "Return & Internal Airfare",
+  "Visa",
+  "Tips to Driver and Guide",
+  "Personal expense",
+  "Entry fees for Mummies room at Egyptian Museum, Solar Boat at Pyramids, Entry inside one of the Pyramids",
+  "High Season Surcharges as applicable",
+  "Use of vehicle other than the specified itinerary.",
+  "Any item that is not mentioned in the above Tour Price includes",
+  "Lunch & Dinner not included",
+  "Travel Insurance not included",
+  "5% GST",
+  "5% TCS"
+    ]
+  },
+  "pleaseNote": {
+    "title": "Please Note",
+    "notes": [
+      "100% Cancellation on low cost carrier once booking confirmed.",
+  "100% Cancellation if hotels/entrances booked and paid in advance during confirmation period and will be non refundable.",
+  "100% Cancellation during peak days or any trade fare",
+  "100% Cancellation once visa payment is done",
+  "For Group booking, please reconfirm the cancellation policy before confirmation.",
+  "Airline & hotel Cancellation policy will at time override the current cancellation policy listed"
+    ]
+  },
+  "conditions": {
+    "title": "Conditions",
+    "conditions": [
+      "Above rates based on today’s ROE. Any fluctuation will vary the cost at the time of confirmation and final payment made.",
+  "For your international Travel, The Passport of passengers should have the validity of minimum 6 (SIX) months (from the date of return) and two or more blank pages for visa stamp.",
+  "Physical condition of Passport is taken care by guest directly in case of E-Visa.",
+  "Please ensure the passports are not damaged anywhere. In case of damaged passports the passenger may not be allowed by the immigration or airline.",
+  "Airfare is subject to availability at the time of confirmation with the payment.",
+  "Hotel Rooms & Service are subject to availability at the time of confirmation with the payment.",
+  "In case of Non availability of Hotel Rooms a similar category Hotel will be provided.",
+  "Credit card payments are subject to 3% bank charges. Any fluctuations may vary the cost.",
+  "No Change in Itinerary once confirmed will be honored unless otherwise given in writing. This may incur additional charges based on the requirement.",
+  "No verbal commitments will be honored unless otherwise given in writing.",
+  "The offers are valid till for time being only & unless otherwise specified.",
+  "Extension of stay would be subject to availability and on pro-rata basis and as of best rate of the day.",
+  "Private vehicle mentioned in the quotes is based on the itinerary(Point to Point Service)",
+  "For all SIC tour (Seat in Coach) – there is always waiting time for pick up/drop. Also the pickup/drop points may vary city to city unless specified hotel in the quotes.",
+  "Any City Taxes to be paid directly at hotel unless specified in the quotes.",
+  "Entrances specified in the itinerary will be covered. Any extra services to be taken care by guest directly.",
+  "No amendments possible once land arrangements have been confirmed",
+  "No refund for partly unutilized tickets. No refund for \"NO – SHOWS\" & Last moment cancellations",
+  "Granting or rejecting visas and immigration clearance is the sole prerogative of the concerned sovereign governments and we can only facilitate in the entire process. We shall neither be responsible in case of non-granting of such documents. Even if the visas are rejected, cancellation charges / fees shall be payable by the Client. There will be no refund, if the Clients, or any member of his party, is unable to travel due to the said reasons."
+    ]
+  }
+},
+
+
 
 {
   "name": "Wildlife Wonders of Kenya",
@@ -10433,22 +10561,24 @@
   "metaDescription": "Explore Egypt with Duniya Dekho. Discover the Pyramids of Giza, cruise the Nile, visit Luxor and Aswan, and immerse yourself in ancient history and culture.",
 
  "bannerImages": [
-      "/images/banners/kenya/keny1.jpg",
-      "/images/banners/kenya/diani-beach.webp",
-      "/images/banners/kenya/lake-nakuru.webp",
-      "/images/banners/kenya/lamu-island.webp",
-      "/images/banners/kenya/mount-kenya.webp",
-       "/images/banners/kenya/nairobi.webp",
-        "/images/banners/kenya/victoria-falls.webp"
+      "/images/banners/egypt/giza-pyramids.webp",
+    "/images/banners/egypt/cairo.webp",
+    "/images/banners/egypt/luxor.webp",
+    "/images/banners/egypt/alexandria.webp",
+    "/images/banners/egypt/aswan.webp",
+    "/images/banners/egypt/giza.webp",
+    "/images/banners/egypt/hurghada.webp",
+    "/images/banners/egypt/sharm-el-sheikh.webp"
     ],
     "bannerLgImages": [
-      "/images/banners/kenya/keny1.jpg",
-      "/images/banners/kenya/diani-beach.webp",
-      "/images/banners/kenya/lake-nakuru.webp",
-      "/images/banners/kenya/lamu-island.webp",
-      "/images/banners/kenya/mount-kenya.webp",
-       "/images/banners/kenya/nairobi.webp",
-        "/images/banners/kenya/victoria-falls.webp"
+      "/images/banners/egypt/giza-pyramids.webp",
+    "/images/banners/egypt/cairo.webp",
+    "/images/banners/egypt/luxor.webp",
+    "/images/banners/egypt/alexandria.webp",
+    "/images/banners/egypt/aswan.webp",
+    "/images/banners/egypt/giza.webp",
+    "/images/banners/egypt/hurghada.webp",
+    "/images/banners/egypt/sharm-el-sheikh.webp"
     ],
   "duration": "6 Nights / 7 Days",
     "pdf": {
