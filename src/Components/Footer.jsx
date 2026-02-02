@@ -81,6 +81,29 @@ function Footer() {
             </div>
           </div>
         </div>
+
+         <div className="mt-4">
+    <h2 className="text-xl font-semibold">Quick Links</h2>
+    <div className="w-[15vw] md:w-[2vw] mx-auto md:mx-0 my-1 bg-orange_c h-[2px]" />
+    <ul className="mt-2 space-y-1">
+      <li>
+        <a href="/home" className="text-white-600 hover:text-orange_c">Home</a>
+      </li>
+      <li>
+        <a href="/about" className="text-white-600 hover:text-orange_c">About Us</a>
+      </li>
+      <li>
+        <a href="/packages" className="text-white-600 hover:text-orange_c">Bharat Dekho</a>
+      </li>
+      <li>
+        <a href="/packages" className="text-white-600 hover:text-orange_c">Duniya Dekho</a>
+      </li>
+      <li>
+        <a href="/contact-us" className="text-white-600 hover:text-orange_c">Contact Us</a>
+      </li>
+   
+    </ul>
+  </div>
       </div>
 
       {/* TP Logo */}
