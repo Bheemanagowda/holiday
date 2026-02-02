@@ -90,13 +90,13 @@ function Footer() {
         <a href="/home" className="text-white-600 hover:text-orange_c">Home</a>
       </li>
       <li>
-        <a href="/about" className="text-white-600 hover:text-orange_c">About Us</a>
+        <a href="/about-us" className="text-white-600 hover:text-orange_c">About Us</a>
       </li>
       <li>
-        <a href="/packages" className="text-white-600 hover:text-orange_c">Bharat Dekho</a>
+        <a href="/bharat-dekho" className="text-white-600 hover:text-orange_c">Bharat Dekho</a>
       </li>
       <li>
-        <a href="/packages" className="text-white-600 hover:text-orange_c">Duniya Dekho</a>
+        <a href="/duniya-dekho" className="text-white-600 hover:text-orange_c">Duniya Dekho</a>
       </li>
       <li>
         <a href="/contact-us" className="text-white-600 hover:text-orange_c">Contact Us</a>
