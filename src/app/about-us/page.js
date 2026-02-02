@@ -39,7 +39,7 @@ function About(props) {
       name: "Gataway Godess (Women’s Specials)",
       description:
         "Tailor-made holidays for women. Safe and comfortable journeys. Discover new destinations with confidence.",
-      icon: "/images/group_tour.webp",
+      icon: "/images/gataway.png",
     },
        {
       name: "FlightBooking",
@@ -63,7 +63,7 @@ function About(props) {
         name: "FOREX",
         description:
           "Our forex services offer competitive rates, convenient exchange options, and expert assistance to ensure you get the most out of your currency. Whether you're traveling abroad or sending money internationally, we've got you covered.",
-        icon: "/images/visa.webp",
+        icon: "/images/forex.png",
       },
   ];
   

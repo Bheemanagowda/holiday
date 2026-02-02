@@ -5,32 +5,33 @@
     "duration": "10 Nights / 11 Days",
     "price": 231987,
     "description": [
-      "Cape Town, Table Mountain, Cape Point,Full Day Peninsula Tour",
-      "Oudtshoorn, Knysna, Sun City,Leisure Day,Pilanesberg Safari,Johannesburg"
+      "Cape Town, Table Mountain, Cape Point,",
+      "Full Day Peninsula Tour, Oudtshoorn, Knysna, Sun City,Leisure Day,Pilanesberg Safari,Johannesburg"
     ],
     "image": "/images/small/south-africa.webp",
     "slug": "/duniya-dekho/south-africa-tour-package"
   },
   {
-  "intro": "South Africa",
-  "name": "Cape Town and Sun City Adventure",
+  "intro": "South Africa :Sun City Adventure",
+  "name": "Cape Town  ",
   "duration": "5 Nights / 6 Days",
   "price": 215000,
  
   "description": [
-    "Discover the best of South Africa with Cape Town’s natural beauty and Sun City’s luxury and adventure."
+    "Cape Town,Cape Town City Tour & Table Mountain,Peninsula Tour",
+     "Sun City,Leisure,Johannesburg "
   ],
-  "image": "/images/small/paris-to-vienna.webp",
+  "image": "/images/small/cape-town.webp",
   "slug": "/duniya-dekho/cape-town-sun-city-tour-package"
 },
 
   {
     "intro": "Ancient Wonders",
-    "name": "Egyptian Getaway: Cairo",
+    "name": "Egyptian Getaway",
     "duration": "3 Nights / 4 Days",
     "price": 106200,
     "description": [
-      "Arrival in Cairo, Pyramids, Museum, and Bazaar, Leisure Day in Cairo"
+      "Arrival in Cairo, Pyramids, Museum, and Bazaar, ","Leisure Day in Cairo"
     ],
     "image": "/images/small/egypt.webp",
     "slug": "/duniya-dekho/egypt-tour-package"
@@ -53,8 +54,8 @@
   "duration": "10 Nights / 11 Days",
   "price": 315900,
   "description": [
-    " Arusha, Lake Manyara National Park,Seronera, Serengeti National Park",
-    "Game Drives in Serengeti,Ngorongoro Crater,Tarangire National Park","Zanzibar,Kiwengwa,Zanzibar"
+    " Arusha, Lake Manyara National Park,Seronera,",
+    " Serengeti National Park,Game Drives in Serengeti,Tarangire National Park","Ngorongoro Crater, Zanzibar,Kiwengwa,Zanzibar,"
   ],
   "image": "/images/small/tanzenia.webp",
   "slug": "/duniya-dekho/tanzania-tour-package"
@@ -121,15 +122,15 @@
   "price":410400,
   "description": [
     " Vancouver Adventure, Revelstoke, Canmore",
-    "Banff National Park Adventure",
-    "Columbia Icefield, Jasper National Park Adventure, Kamloops"
+    "Banff National Park Adventure,Columbia Icefield,",
+    " Jasper National Park Adventure, Kamloops"
   ],
   "image": "/images/small/banff-national-park-alberta.webp",
   "slug": "/duniya-dekho/canada-tour-package"
 },
 {
   "intro": "Adventure ",
-  "name": "Australia",
+  "name": "Australian Adventure",
   "duration": "07 Nights / 08 Days",
   "price": 330300,
   "description": [
@@ -137,18 +138,18 @@
     "Great Ocean Road, Grampians National Park", "Stawell and Ballarat, Great Ocean Road"
    
   ],
-  "image": "/images/small/aus.webp",
+  "image": "/images/banners/aus/great-ocean-road-victoria.webp",
   "slug": "/duniya-dekho/australia-tour-package"
 },
 {
   "intro": "Adventure",
   "name": "Australian Dream",
-  "duration": "07 Nights / 08 Days",
+  "duration": "12 Nights / 13 Days",
   "price": 330300,
   "description": [
     "Melbourne,Melbourne City Tour and Sky Deck",
-    " Great Ocean Road Adventure,Cairns,Kuranda Scenic Railway and Skyrail Adventure ",
-    "Green Island,Sydney city tour,Blue Mountains,Adelaide Kangaroo Island Adventure,Barossa Valley Wine Tour"
+    " Great Ocean Road Adventure,Cairns,Kuranda Scenic Railway and Skyrail Adventure,Green Island,Sydney city tour,Blue Mountain,Adelaide Kangaroo Island Adventure,Barossa Valley Wine Tour "
+ 
   ],
   "image": "/images/small/aus.webp",
   "slug": "/duniya-dekho/australian-dream-tour-package"
@@ -167,14 +168,14 @@
 },
 
 {
-  "intro": "New Zealand Adventure",
-  "name": "New Zealand Explorer",
+  "intro": "New Zealand Explorer",
+  "name": "New Zealand ",
   "duration": "11 Nights / 12 Days",
   "price": 215000,
   "description": [
-    "Auckland , Waitomo, Matamata, and Rotorua , Explore Rotorua's Geothermal Wonders and Maori Culture,Fly to Christchurch","Glacier Region via Arthurs Pass, Queenstown, Adventure Capital of the World , Milford Sound Adventure , Mt Cook/Tekapo , Christchurch  "
+    "Auckland , Waitomo, Matamata, and Rotorua , Explore Rotorua's Geothermal Wonders and Maori Culture,Fly to Christchurch,Glacier Region via Arthurs Pass, Queenstown,"," Adventure Capital of the World , Milford Sound Adventure , Mt Cook/Tekapo , Christchurch  "
   ],
-  "image": "/images/small/paris-to-vienna.webp",
+  "image": "/images/banners/newz/queenstown.webp",
   "slug": "/duniya-dekho/new-zealand-explorer-tour-package"
 },
 {
@@ -200,7 +201,7 @@
   "description": [
     " Bilbao ,  Santillana del Mar , Picos de Europa Tour , Exploring Oviedo , Santiago de Compostela , Exploring Santiago de Compostela , Leon"," Burgos , "
   ],
-  "image": "/images/small/paris-to-vienna.webp",
+  "image": "/images/small/northern-spain.webp",
   "slug": "/duniya-dekho/northern-spain-journey-tour-package"
 },
 
@@ -211,9 +212,9 @@
   "duration": "7 Nights / 08 Days",
   "price":  160200,
   "description": [
-    "Istanbul Classical City Tour, Izmir and Explore Kusadasi, Ephesus, Ancient Wonders",
-    "Natural Wonders of Pamukkale",
-    "Cappadocia, Cappadocia North Tour"
+    "Istanbul Classical City Tour, Izmir and Explore Kusadasi, ",
+    "Wonders,Natural Wonders of Pamukkale Ephesus, ",
+    "Ancient, Cappadocia, Cappadocia North Tour"
   ],
   "image": "/images/small/turkey.webp",
   "slug": "/duniya-dekho/turkey-tour-package"
@@ -228,7 +229,7 @@
     "Discover Antalya's Hidden Gems"
    
   ],
-  "image": "/images/small/turkey.webp",
+  "image": "/images/small/antalaya.webp",
   "slug": "/duniya-dekho/istanbul-antalya-tour-package"
 },
 
@@ -238,7 +239,7 @@
   "duration": "07 Nights / 08 Days",
   "price": 210600,
   "description": [
-    "Arrival in the City of Light,Discover the Timeless Charm of Paris,A Day to Indulge in Parisian Delights."," Journey to Lucerne, Switzerland, Mt. Titlis Adventure and Lake Lucerne Cruise, Leisure Day in Lucerne,Zurich, the Vibrant Financial Hub"
+    "City of Light,Paris,Indulge,Lucerne,Switzerland",", Mt. Titlis Adventure and Lake Lucerne Cruise, Lucerne,Zurich, Vibrant Financial Hub"
   ],
   "image": "/images/small/swiss-paris.webp",
   "slug": "/duniya-dekho/swiss-paris-tour-package"
@@ -249,7 +250,7 @@
   "duration": "06 Nights / 07 Days",
   "price": 139680,
   "description": [
-    "London City Tour, Buckingham Palace, London Eye",
+    "London City Tour, Buckingham, London Eye",
     "Edinburgh Castle, Royal Mile, Scottish Highlands",
     "Dublin City Tour, Trinity College, Cliffs of Moher"
   ],
@@ -262,9 +263,9 @@
   "duration": "06 Nights / 07 Days",
   "price": 148540,
   "description": [
-    "Vienna City Tour, Schönbrunn Palace, St. Stephen’s Cathedral",
-    "Switzerland: Mount Titlis, Lucerne City Tour, Lake Lucerne",
-    "Paris City Tour, Eiffel Tower, Seine River Cruise"
+    "Vienna City Tour, Schönbrunn Palace,Seine River Cruise",
+    " St. Stephen’s Cathedral, Mount Titlis, Lucerne City Tour,Lake Lucerne, Paris City Tour, Eiffel Tower, "
+    
   ],
   "image": "/images/small/austria-swiss-paris.webp",
   "slug": "/duniya-dekho/austria-swiss-paris-tour-package"
@@ -275,9 +276,9 @@
   "duration": "9 Nights / 10 Days",
   "price": 1890000,
   "description": [
-    "Rome City Tour, Colosseum, Trevi Fountain, Vatican City",
-    "Switzerland: Mount Titlis, Lucerne City Tour, Lake Lucerne",
-    "Paris City Tour, Eiffel Tower, Seine River Cruise"
+    "Rome City Tour, Colosseum, Trevi Fountain,Vatican City ",
+    " Mount Titlis, Lucerne City Tour,Lake Lucerne,Paris City Tour, Eiffel Tower, Seine River Cruise"
+ 
   ],
   "image": "/images/small/italy-swiss-paris.webp",
   "slug": "/duniya-dekho/italy-swiss-paris-tour-package"
@@ -287,10 +288,10 @@
   "duration": "11 Nights / 12 Days",
   "price": 313956,
   "description": [
-    "Madrid City Tour, Royal Palace, Prado Museum",
-    "Barcelona: Sagrada Familia, Park Güell, La Rambla",
-    "Lisbon City Tour, Belem Tower, Jeronimos Monastery",
-    "Porto: Ribeira District, Dom Luís I Bridge"
+    "Madrid City Tour, Royal Palace, Prado Museum, Park Güell",
+    "Sagrada Familia, La Rambla,Lisbon City Tour,Belem Tower",
+    " Jeronimos Monastery,Ribeira District, Dom Luís I Bridge"
+    
   ],
   "image": "/images/small/spain-portugal.webp",
   "slug": "/duniya-dekho/spain-portugal-tour-package"
@@ -302,7 +303,7 @@
   "price": 148540,
   "description": [
     "Copenhagen City Tour, Nyhavn, Tivoli Gardens",
-    "Oslo: Viking Ship Museum, Royal Palace, Oslo Fjord Cruise",
+    " Viking Ship Museum, Royal Palace, Oslo Fjord Cruise",
     "Stockholm: Gamla Stan, Vasa Museum, Royal Palace"
   ],
   "image": "/images/small/scandinavia.webp",
@@ -368,10 +369,10 @@
   "duration": "06 Nights / 07 Days",
   "price": 148540,
   "description": [
-    "Seoul City Tour: Gyeongbokgung Palace, Bukchon Hanok Village, Myeongdong",
-    "DMZ Tour: Demilitarized Zone, Dorasan Observatory",
-    "Busan: Haeundae Beach, Jagalchi Fish Market, Gamcheon Culture Village",
-    "Jeju Island: Hallasan Mountain, Seongsan Sunrise Peak"
+    " Gyeongbokgung Palace, Bukchon Hanok Village",
+    " Myeongdong,Demilitarized Zone, Dorasan Observatory,Haeundae Beach, Jagalchi Fish Market,",
+    " Gamcheon Culture Village,Hallasan Mountain, Seongsan Sunrise Peak"
+   
   ],
   "image": "/images/small/south-koria.webp",
   "slug": "/duniya-dekho/south-korea-tour-package"
@@ -408,10 +409,9 @@
   "duration": "06 Nights / 07 Days",
   "price": 122400,
   "description": [
-    "Riyadh City Tour: Kingdom Tower, Masmak Fort, National Museum",
-    "Jeddah: Corniche, Al-Balad Historic District, Floating Mosque",
-    "Madain Saleh (Al-Hijr Archaeological Site), UNESCO World Heritage",
-    "Optional: Desert Safari & Camel Ride Experience"
+    "Kingdom Tower, Masmak Fort, National Museum",
+    " Corniche, Al-Balad Historic District, Floating Mosque",
+    "Madain Saleh (Al-Hijr Archaeological Site), UNESCO World Heritage,Desert Safari & Camel Ride Experience"  
   ],
   "image": "/images/small/saudi-arabia.webp",
   "slug": "/duniya-dekho/saudi-arabia-tour-package"
@@ -421,8 +421,8 @@
   "duration": "4 Nights / 5 Days",
   "price": 81900,
   "description": [
-    "Dubai & Dhow Cruise,Dubai City Tour & Desert Safari,Leisure & Burj Khalifa Visit,",
-    "Miracle Garden & Global Village Visit"
+    "Dubai & Dhow Cruise,Dubai City Tour & Desert Safari,",
+    "Leisure & Burj Khalifa Visit,Miracle Garden & Global Village Visit"
   ],
   "image": "/images/small/dubai-marina.webp",
   "slug": "/duniya-dekho/dubai-tour-package"
@@ -433,10 +433,10 @@
   "duration": "5 Nights / 6 Days",
   "price": 81900,
   "description": [
-    " Dhow Cruise,Dubai City Tour & Burj Khalifa,Leisure & Desert Safari",
-    "Abu Dhabi City Tour & Ferrari World,Leisure & Shopping"
+    " Dhow Cruise,Dubai City Tour & Burj Khalifa,",
+    "Leisure & Desert Safari, Abu Dhabi City Tour & Ferrari World,Leisure & Shopping"
   ],
-  "image": "/images/small/dubai-marina.webp",
+  "image": "/images/small/dubai-delighta.webp",
   "slug": "/duniya-dekho/dubai-delight-tour-package"
 },
 
@@ -448,34 +448,39 @@
   "price": 150300,
   "description": [
     "Arrival in Kuala Lumpur, Malaysia ,  Kuala Lumpur City Tour ,Genting Highlands, Singapore,Sentosa Island Adventure",
-    "Universal Studios Singapore AdventureSingapore and Arrival in Pattaya, Thailand , Pattaya's Coral Island and Nong Nooch Village Adventure",
-    "Pattaya to Bangkok and City Tour , Bangkok's Safari World Adventure"
+    "Universal Studios Singapore AdventureSingapore and Arrival in Pattaya, Thailand , Pattaya's Coral Island and Nong Nooch Village Adventure,Pattaya to Bangkok and City Tour , Bangkok's Safari World Adventure"
+   
   ],
   "image": "/images/small/singapore-malaysia-&-tiland.webp",
   "slug": "/duniya-dekho/singapore-malaysia-thailand-tour-package"
 },
-
 {
-  "intro": "Southeast Asia Highlights",
-  "name": "Singapore & Malaysia",
-  "duration": "06 Nights / 07 Days",
-  "price": 95400,
+  "intro": "Modern City & Adventure Escape",
+  "name": "Singapore-Lion City Delight",
+  "duration": "04 Nights / 05 Days",
+  "price": 71100,
   "description": [
-    "Kuala Lumpur, Malaysia , Kuala Lumpur City Tour , Singapore, Universal Studios Singapore Adventure , "
+    "Singapore and Night Safari Adventure, Singapore City Tour and Sentosa Island Adventure,Universal Studios Singapore",
+    "Singapore Zoo and Gardens by the Bay , Gardens by the Bay",
+    "Universal Studios & Adventure Activities,Singapore Flyer & River Cruise,Night Safari & Chinatown Exploration"
+   
+  
   ],
-  "image": "/images/small/singapor-malasia.webp",
-  "slug": "/duniya-dekho/singapore-malaysia-tour-package"
+  "image": "/images/small/singapore.webp",
+  "slug": "/duniya-dekho/singapore-tour-package"
 },
+
+
 {
   "intro": "Land of Smiles",
   "name": "Thailand",
   "duration": "04 Nights / 05 Days",
   "price": 28917,
   "description": [
-    "Bangkok City Tour: Grand Palace, Wat Arun, Floating Market",
-    "Pattaya: Coral Island, Sanctuary of Truth",
-    "Phuket: Phi Phi Islands, Patong Beach, Phuket FantaSea Show",
-    "Optional: Elephant Sanctuary or River Cruise"
+    " Grand Palace, Wat Arun, Floating Market,Coral Island",
+    "Sanctuary of Truth,Phi Phi Islands,Patong Beach",
+    "Phuket FantaSea Show,Elephant Sanctuary or River Cruise"
+    
   ],
   "image": "/images/small/thailand.webp",
   "slug": "/duniya-dekho/thailand-tour-package"
@@ -489,13 +494,14 @@
   "price": 75600,
   "description": [
     "Hanoi,Ha Long Bay Overnight Cruise,Ho Chi Minh City",
-    "Ho Chi Minh City Tour,Mekong Delta Day Trip,Ho Chi Minh City to Siem Reap",
-    " Explore Angkor Thom and Angkor Wat"
+    "Ho Chi Minh City Tour,Mekong Delta Day Trip,Siem Reap,  Angkor Thom and Angkor Wat"
+
     
   ],
   "image": "/images/small/vietnam.webp",
   "slug": "/duniya-dekho/vietnam-cambodia-tour-package"
 },
+
 {
   "intro": "Island Paradise Escape",
   "name": "Phuket & Krabi",
@@ -515,9 +521,9 @@
   "duration": "05 Nights / 06 Days",
   "price": 85400,
   "description": [
-    "Hong Kong: Victoria Peak, Madame Tussauds, Symphony of Lights Show",
-    "Ocean Park OR Disneyland (Optional)",
-    "Macau: Senado Square, A-Ma Temple, Macau Tower (Optional)",
+    "Victoria Peak, Madame Tussauds, ",
+    "Ocean Park OR Disneyland",
+    " Senado Square, A-Ma Temple, Macau Tower",
     "Visit The Venetian & Casino Experience"
   ],
   "image": "/images/small/hong-kong-and-macau.webp",
@@ -529,8 +535,8 @@
   "duration": "05 Nights / 06 Days",
   "price": 36146,
   "description": [
-    "Sunset Serenity","East Nusa Penida Island Adventure","Uluwatu Temple",
-    "Natural Wonders of Bedugul, Kintamani, Ubud's Natural Beauty"
+    "Sunset Serenity,East Nusa Penida Island Adventure,",
+    "Uluwatu Temple,Natural Wonders of Bedugul, Kintamani, Ubud's Natural Beauty"
  
   ],
   "image": "/images/small/bali.webp",
@@ -555,30 +561,29 @@
   "duration": "04 Nights / 05 Days",
   "price": 64800,
   "description": [
-    "Manila",
-    "Manila City Tour",
-    "Boracay",
-    "Coron Shipwreck Tour (Optional)",
-    "Beaches, Snorkeling & Marine Life Experiences"
+  
+    "Manila,Manila City Tour,Boracay,Coron Shipwreck Tour",
+   
+    "Beaches, Snorkeling & Marine Life Experiences "
+   
   ],
   "image": "/images/small/philippines.webp",
   "slug": "/duniya-dekho/philippines-tour-package"
 },
 {
-  "intro": "Himalayan Happiness Journey",
-  "name": "Bhutan",
-  "duration": "05 Nights / 06 Days",
+  "intro": "Magical Turkey Experience",
+  "name": "Turkish Delight",
+  "duration": "3 Nights / 4 Days",
   "price": 41990,
   "description": [
-    "Thimphu: Buddha Dordenma & Memorial Chorten",
-    "Punakha: Dochu La Pass & Punakha Dzong",
-    "Paro: Taktsang (Tiger's Nest) Monastery Trek",
-    "National Museum of Bhutan",
-    "Cultural Experiences & Scenic Valleys"
+    "Istanbul City Tour, Fly to Izmir and Arrive in Kusadasi,",
+    "Explore Ephesu,Ancient Wonders,"
+    
   ],
-  "image": "/images/small/bhutan.webp",
-  "slug": "/duniya-dekho/bhutan-tour-package"
+  "image": "/images/small/turkish.webp",
+  "slug": "/duniya-dekho/turkish-delight-tour-package"
 },
+
 {
   "intro": "Imperial Heritage & Modern Wonders",
   "name": "China",
@@ -599,7 +604,7 @@
   "duration": "4 Nights / 5 Days",
   "price": 44100,
   "description": [
-    "Mauritius , North Island Tour,South Island Tour,Ile Aux Cerfs Island Excursion"
+    "Mauritius , North Island Tour,","South Island Tour,","Ile Aux Cerfs Island Excursion"
   ],
   "image": "/images/small/mauritius.webp",
   "slug": "/duniya-dekho/mauritius-tour-package"
@@ -616,6 +621,17 @@
   "slug": "/duniya-dekho/maldives-tour-package"
 },
 {
+  "intro": "Himalayan Happiness Journey",
+  "name": "Magic of Bhutan",
+  "duration": "3 Nights / 4 Days",
+  "price": 41990,
+  "description": [
+    "Bhutan  ,Thimphu City Sightseeing,Paro"
+  ],
+  "image": "/images/small/bhutan.webp",
+  "slug": "/duniya-dekho/bhutan-tour-package"
+},
+{
   "intro": "Pristine Island Paradise",
   "name": "Seychelles",
   "duration": "05 Nights / 06 Days",
@@ -629,6 +645,146 @@
   ],
   "image": "/images/small/seychelles.webp",
   "slug": "/duniya-dekho/seychelles-tour-package"
+},
+
+
+
+{
+  "intro": "European Cityscape Journey",
+  "name": "Paris to Vienna",
+  "duration": "09 Nights / 10 Days",
+  "price": 215000,
+  "description": [
+    "City of Light,Timeless Charm of Paris,Journey to Lucerne, Switzerland,Mount Titlis and Lake Lucerne Adventure",
+    "Explore Switzerland at Leisure,Innsbruck, Austria,Discover the Magic of Swarovski Crystal World",
+    " Innsbruck to Vienna, the City of Music, Schönbrunn Palace"
+  ],
+  "image": "/images/small/paris-to-vienna.webp",
+  "slug": "/duniya-dekho/paris-to-vienna-tour-package"
+},
+
+
+
+
+{
+  "intro": "European Cityscape Journey",
+  "name": "Swiss Bliss",
+  "duration": "04 Nights / 5 Days",
+  "price": 215000,
+  "description": [
+    "Arrival in Zurich & Journey to Interlaken , Jungfraujoch - Top of Europe Excursion ,  Interlaken to Lucerne , Mt. Titlis Excursion – Glacier Adventures & Cliff Walk"
+  ],
+  "image": "/images/banners/swiss-bliss/interlaken-to-lucerne.webp",
+  "slug": "/duniya-dekho/swiss-bliss-tour-package"
+},
+{
+  "intro": "An Egyptian Escape ",
+  "name": "Sands of Time",
+  "duration": "6 Nights / 7 Days",
+  "price": 215000,
+  "description": [
+    "Cairo ,Pyramids, Museum, and Bazaar,Cairo to Aswan, Nile Cruise Embarkation, Kom Ombo and Edfu Temples, Luxor's East Bank Wonders, Luxor's West Bank, Return to Cairo  "
+  ],
+  "image": "images/banners/sands-time/cairo.webp",
+  "slug": "/duniya-dekho/sands-of-time-tour-package"
+},
+
+
+
+
+{
+  "intro": "Kuala Lumpur  Adventure",
+  "name": "Kuala Lumpur Escapade",
+  "duration": "4 Nights / 5 Days",
+  "price": 215000,
+  "description": [
+    " Kuala Lumpur , Genting Highlands, "," Kuala Lumpur City Tour ,  Malacca City Tour "
+  ],
+  "image": "/images/small/paris-to-vienna.webp",
+  "slug": "/duniya-dekho/kuala-lumpur-escapade-tour-package"
+},
+
+{
+  "intro": "Island of Dreams",
+  "name": "Phuket-Island of Dreams",
+  "duration": "11 Nights / 12 Days",
+  "price": 215000,
+  "description": [
+    "Fantasea Show , Phi Phi Island Tour","Phuket City Tour with Shopping"  ],
+  "image": "/images/banners/phuket-island/phi-phi-islands.webp",
+  "slug": "/duniya-dekho/phuket-island-tour-package"
+},
+{
+  "intro": "Thailand’s Perfect City & Beach Escape",
+  "name": "Paradise Bangkok & Pattaya",
+  "duration": "4 Nights / 5 Days",
+  "price": 215000,
+  "description": [
+    "Pattaya Arrival, Coral Island Tour,Safari World","Marine Park,City tour and shopping in Bangkok"
+  ],
+  "image": "/images/banners/bankok/city-tour-and-shopping-in-bangkok.webp",
+  "slug": "/duniya-dekho/paradise-bangkok-pattaya-tour-package"
+},
+
+{
+  "intro": "Explore Portugal",
+  "name": "Portugal Uncovered ",
+  "duration": "6 Nights / 7 Days",
+  "price": 215000,
+  "description": [
+    "Lisbon , Free Day in Lisbon ,   ",
+    "Exploring Porto , Free Day in Porto "
+  ],
+  "image": "/images/small/portugal-uncovered.webp",
+  "slug": "/duniya-dekho/portugal-uncovered-tour-package"
+},
+
+{
+  "intro": "A Journey Through Tanzania's Wild",
+  "name": "Safari Dreams Tanzania  ",
+  "duration": "7 Nights / 8 Days",
+  "price": 215000,
+  "description": [
+    "Arusha ,    Lake Manyara National Park , Seronera, Serengeti National Park , Full-Day Game Drives in Seronera , Ngorongoro Crater , Full-Day Game Drive in Ngorongoro Crater ,  Tarangire National Park , Kilimanjaro "
+  ],
+  "image": "/images/banners/safari-dreams-tanzania/arusha.webp",
+  "slug": "/duniya-dekho/safari-dreams-tour-package"
+},
+{
+  "intro": "Sri Lanka Cultural & Nature Highlights",
+  "name": "Sri Lanka Highlights",
+  "duration": "5 Nights / 6 Days",
+  "price": 215000,
+  "description": [
+    "Sri Lanka & Journey to Kandy,Kandy City Tour & Nuwara Eliya Adventure , Waterfalls & White Water Rafting Adventure , Madu River Boat Safari & Sea Turtle Conservation , Discover Colombo's Charm"
+  ],
+  "image": "/images/small/srilanka.webp",
+  "slug": "/duniya-dekho/sri-lanka-highlights-tour-package"
+},
+{
+  "intro": "Sri Lanka Cultural & Wildlife Journey",
+  "name": "Sri Lanka Discovery",
+  "duration": "04 Nights / 5 Days",
+  "price": 215000,
+  "description": [
+    "Arrival in Colombo & transfer to Kandy, Kandy city tour and Pinnawala Elephant Orphanage, Kandy to Nuwara Eliya sightseeing, Nuwara Eliya to Yala with wildlife safari, Yala to Colombo city tour and departure"
+  ],
+  "image": "/images/small/srilanka.webp",
+  "slug": "/duniya-dekho/sri-lanka-discovery-tour-package"
+}
+,
+{
+  "intro": "Himalayan Happiness Journey",
+  "name": "Bhutan",
+  "duration": "05 Nights / 06 Days",
+  "price": 41990,
+  "description": [
+    "Buddha Dordenma & Memorial Chorten,Dochu La Pass & Punakha Dzong,Taktsang (Tiger's Nest) Monastery Trek",
+    ",National Museum of Bhutan,Scenic Valleys"
+  
+  ],
+  "image": "/images/small/bhutan.webp",
+  "slug": "/duniya-dekho/bhutan-tour-package"
 },
 {
   "intro": "Cultural & Coastal Getaway",
@@ -649,13 +805,36 @@
   "duration": "06 Nights / 07 Days",
   "price": 30466,
   "description": [
-    "Langkawi, Mangrove and Cave Exploring,Kuala Lumpur, Genting Highlands",
+    "Langkawi, Mangrove and Cave Exploring,","Kuala Lumpur, Genting Highlands",
     "KL Tower ,Malacca Day Trip"
 
   ],
 
   "image": "/images/small/kuala-lumbpur-&-langkawi.webp",
   "slug": "/duniya-dekho/kuala-lumpur-langkawi-tour-package"
+},
+
+{
+  "intro": "Cultural & Scenic Adventure",
+  "name": "Vietnam Discovery",
+  "duration": "03 Nights / 04 Days",
+  "price": 25200,
+  "description": [
+    "Hanoi to Ha Long Bay Overnight Cruise , ","Ha Long Bay to Hanoi"
+  ],
+  "image": "/images/small/vietnam.webp",
+  "slug": "/duniya-dekho/vietnam-tour-package"
+},
+{
+  "intro": "Southeast Asia Highlights",
+  "name": "Singapore & Malaysia",
+  "duration": "06 Nights / 07 Days",
+  "price": 95400,
+  "description": [
+    "Kuala Lumpur, Malaysia , Kuala Lumpur City Tour , ","Singapore, Universal Studios Singapore Adventure , "
+  ],
+  "image": "/images/small/singapor-malasia.webp",
+  "slug": "/duniya-dekho/singapore-malaysia-tour-package"
 },
 {
   "intro": "City of Modern Wonders",
@@ -668,179 +847,8 @@
   ],
   "image": "/images/small/kuala-lumpur.webp",
   "slug": "/duniya-dekho/kuala-lumpur-tour-package"
-},
-
-
-{
-  "intro": "Modern City & Adventure Escape",
-  "name": "Singapore-Lion City Delight",
-  "duration": "04 Nights / 05 Days",
-  "price": 71100,
-  "description": [
-    "Arrival in Singapore and Night Safari Adventure, Singapore City Tour and Sentosa Island Adventure,Sentosa Island Adventure,Full-Day Adventure at Universal Studios Singapore",
-    "Wild Encounters at Singapore Zoo and Gardens by the Bay , Gardens by the Bay",
-    "Sentosa Island: Universal Studios & Adventure Activities",
-    "Singapore Flyer & River Cruise",
-    "Optional: Night Safari & Chinatown Exploration"
-  ],
-  "image": "/images/small/singapore.webp",
-  "slug": "/duniya-dekho/singapore-tour-package"
-},
-
-{
-  "intro": "Cultural & Scenic Adventure",
-  "name": "Vietnam Discovery: Hanoi and Ha Long Bay",
-  "duration": "03 Nights / 04 Days",
-  "price": 25200,
-  "description": [
-    "Hanoi to Ha Long Bay Overnight Cruise , Ha Long Bay to Hanoi"
-  ],
-  "image": "/images/small/vietnam.webp",
-  "slug": "/duniya-dekho/vietnam-tour-package"
-},
-{
-  "intro": "European Cityscape Journey",
-  "name": "Paris to Vienna",
-  "duration": "09 Nights / 10 Days",
-  "price": 215000,
-  "description": [
-    "City of Light,Timeless Charm of Paris,Journey to Lucerne, Switzerland,Mount Titlis and Lake Lucerne Adventure",
-    "Explore Switzerland at Leisure,Innsbruck, Austria,Discover the Magic of Swarovski Crystal World",
-    " Innsbruck to Vienna, the City of Music, Schönbrunn Palace"
-  ],
-  "image": "/images/small/paris-to-vienna.webp",
-  "slug": "/duniya-dekho/paris-to-vienna-tour-package"
-},
-
-{
-  "intro": "Himalayan Happiness Journey",
-  "name": "Magic of Bhutan",
-  "duration": "3 Nights / 4 Days",
-  "price": 41990,
-  "description": [
-    "Bhutan  ,Thimphu City Sightseeing,Paro"
-  ],
-  "image": "/images/small/bhutan.webp",
-  "slug": "/duniya-dekho/bhutan-tour-package"
-},
-{
-  "intro": "Magical Turkey Experience",
-  "name": "Turkish Delight",
-  "duration": "3 Nights / 4 Days",
-  "price": 41990,
-  "description": [
-    "Istanbul City Tour, Fly to Izmir and Arrive in Kusadasi,",
-    "Explore Ephesu,Ancient Wonders,"
-    
-  ],
-  "image": "/images/small/turkey.webp",
-  "slug": "/duniya-dekho/turkish-delight-tour-package"
-},
-
-{
-  "intro": "European Cityscape Journey",
-  "name": "Swiss Bliss",
-  "duration": "04 Nights / 5 Days",
-  "price": 215000,
-  "description": [
-    "Arrival in Zurich & Journey to Interlaken , Jungfraujoch - Top of Europe Excursion ,  Interlaken to Lucerne , Mt. Titlis Excursion – Glacier Adventures & Cliff Walk"
-  ],
-  "image": "/images/small/paris-to-vienna.webp",
-  "slug": "/duniya-dekho/swiss-bliss-tour-package"
-},
-{
-  "intro": "Sri Lanka Cultural & Wildlife Journey",
-  "name": "Sri Lanka Discovery",
-  "duration": "04 Nights / 5 Days",
-  "price": 215000,
-  "description": [
-    "Arrival in Colombo & transfer to Kandy, Kandy city tour and Pinnawala Elephant Orphanage, Kandy to Nuwara Eliya sightseeing, Nuwara Eliya to Yala with wildlife safari, Yala to Colombo city tour and departure"
-  ],
-  "image": "/images/small/sri-lanka-discovery.webp",
-  "slug": "/duniya-dekho/sri-lanka-discovery-tour-package"
-},
-
-{
-  "intro": "Sri Lanka Cultural & Nature Highlights",
-  "name": "Sri Lanka Highlights",
-  "duration": "5 Nights / 6 Days",
-  "price": 215000,
-  "description": [
-    "Sri Lanka & Journey to Kandy,Kandy City Tour & Nuwara Eliya Adventure , Waterfalls & White Water Rafting Adventure , Madu River Boat Safari & Sea Turtle Conservation , Discover Colombo's Charm"
-  ],
-  "image": "/images/small/paris-to-vienna.webp",
-  "slug": "/duniya-dekho/sri-lanka-highlights-tour-package"
-},
-
-{
-  "intro": "Kuala Lumpur  Adventure",
-  "name": "Kuala Lumpur Escapade",
-  "duration": "4 Nights / 5 Days",
-  "price": 215000,
-  "description": [
-    " Kuala Lumpur , Genting Highlands , Kuala Lumpur City Tour ,  Malacca City Tour "
-  ],
-  "image": "/images/small/paris-to-vienna.webp",
-  "slug": "/duniya-dekho/kuala-lumpur-escapade-tour-package"
-},
-
-{
-  "intro": "Phuket: Island of Dreams",
-  "name": "Phuket-Island of Dreams",
-  "duration": "11 Nights / 12 Days",
-  "price": 215000,
-  "description": [
-    "Fantasea Show , Phi Phi Island Tour , Phuket City Tour with Shopping  "
-  ],
-  "image": "/images/small/paris-to-vienna.webp",
-  "slug": "/duniya-dekho/phuket-island-tour-package"
-},
-{
-  "intro": "Thailand’s Perfect City & Beach Escape",
-  "name": "Paradise Bangkok & Pattaya",
-  "duration": "4 Nights / 5 Days",
-  "price": 215000,
-  "description": [
-    "Pattaya Arrival, Coral Island Tour,Safari World and Marine Park","City tour and shopping in Bangkok"
-  ],
-  "image": "/images/small/paris-to-vienna.webp",
-  "slug": "/duniya-dekho/paradise-bangkok-pattaya-tour-package"
-},
-
-{
-  "intro": "Explore Portugal",
-  "name": "Portugal Uncovered:Lisbon and Porto",
-  "duration": "6 Nights / 7 Days",
-  "price": 215000,
-  "description": [
-    "Lisbon , Free Day in Lisbon ,  Porto Bound , Exploring Porto , Free Day in Porto "
-  ],
-  "image": "/images/small/paris-to-vienna.webp",
-  "slug": "/duniya-dekho/portugal-uncovered-tour-package"
-},
-
-{
-  "intro": "Tanzania Safari Adventure",
-  "name": "Safari Dreams: A Journey Through Tanzania's Wild",
-  "duration": "7 Nights / 8 Days",
-  "price": 215000,
-  "description": [
-    "Arusha ,    Lake Manyara National Park , Seronera, Serengeti National Park , Full-Day Game Drives in Seronera , Ngorongoro Crater , Full-Day Game Drive in Ngorongoro Crater ,  Tarangire National Park , Kilimanjaro "
-  ],
-  "image": "/images/small/paris-to-vienna.webp",
-  "slug": "/duniya-dekho/safari-dreams-tour-package"
-},
-{
-  "intro": "An Egyptian Escape ",
-  "name": "Sands of Time",
-  "duration": "6 Nights / 7 Days",
-  "price": 215000,
-  "description": [
-    "Cairo ,Pyramids, Museum, and Bazaar,Cairo to Aswan, Nile Cruise Embarkation, Kom Ombo and Edfu Temples, Luxor's East Bank Wonders, Luxor's West Bank, Return to Cairo  "
-  ],
-  "image": "/images/small/paris-to-vienna.webp",
-  "slug": "/duniya-dekho/sands-of-time-tour-package"
 }
+
 
 
 

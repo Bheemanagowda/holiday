@@ -7375,9 +7375,9 @@
   "metaDescription": "Explore Kuala Lumpur with Duniya Dekho. Visit iconic Petronas Towers, Batu Caves, Genting Highlands, shopping malls, temples, night markets and cultural landmarks.",
 
   "bannerImages": [
-    "/images/banners/kuala-lambur/batu-caves.webp",
-    "/images/banners/kuala-lambur/bukit-bintang.webp",
-    "/images/banners/kuala-lambur/chinatown-petaling-street.webp",
+    "/images/banners/kuala-lambur/malacca-city-tour.webp",
+    "/images/banners/kuala-lambur/genting-highlands.webp",
+    "/images/banners/kuala-lambur/kuala-lumpur.webp",
     "/images/banners/kuala-lambur/kl-bird-park.webp",
     "/images/banners/kuala-lambur/kl-tower-menara-kuala-lumpur.webp",
     "/images/banners/kuala-lambur/merdeka-square.webp",
@@ -7385,9 +7385,9 @@
         "/images/banners/kuala-lambur/thean-hou-temple.webp"
   ],
   "bannerLgImages": [
-     "/images/banners/kuala-lambur/batu-caves.webp",
-    "/images/banners/kuala-lambur/bukit-bintang.webp",
-    "/images/banners/kuala-lambur/chinatown-petaling-street.webp",
+    "/images/banners/kuala-lambur/malacca-city-tour.webp",
+    "/images/banners/kuala-lambur/genting-highlands.webp",
+    "/images/banners/kuala-lambur/kuala-lumpur.webp",
     "/images/banners/kuala-lambur/kl-bird-park.webp",
     "/images/banners/kuala-lambur/kl-tower-menara-kuala-lumpur.webp",
     "/images/banners/kuala-lambur/merdeka-square.webp",
@@ -8187,23 +8187,20 @@
   "metaDescription": "Explore Turkey with Duniya Dekho. Discover Istanbul, Cappadocia, Pamukkale, and other iconic destinations with rich culture, stunning landscapes, and historical landmarks.",
 
  "bannerImages": [
-      "/images/banners/bhutan/bumthang-valley.webp",
-      "/images/banners/bhutan/dochula-pass.webp",
-      "/images/banners/bhutan/punakha-dzong.webp",
-      "/images/banners/bhutan/haa-valley.webp",
-      "/images/banners/bhutan/paro-taktsang-tigers-nest-monastery.webp",
-            "/images/banners/bhutan/paro-valley.webp",
-                  "/images/banners/bhutan/phobjikha-valley.webp",
-                  "/images/banners/bhutan/thimphu.webp"
+      "/images/banners/turkish/ephesus-and-its-ancient-wonders.webp",
+      "/images/banners/turkish/fly-to-lzmir-and-arrive-in-kusadasi.webp",
+      "/images/banners/turkish/istanbul.webp",
+      "/images/banners/turkish/istanbul-classical-city-tour.webp",
+      "/images/banners/turkey/antalya.webp"
+           
     ],
     "bannerLgImages": [
-          "/images/banners/bhutan/amsterdam-netherlands.webp",
-      "/images/banners/bhutan/barcelona-spain.webp",
-      "/images/banners/bhutan/chennai1.webp",
-      "/images/banners/bhutan/london-united-kingdom.webp",
-      "/images/banners/bhutan/paris-france.webp",
-            "/images/banners/bhutan/prague-czech-republic.webp",
-                  "/images/banners/bhutan/rome-Italy.webp"
+          "/images/banners/turkish/ephesus-and-its-ancient-wonders.jpg",
+      "/images/banners/turkish/fly-to-lzmir-and-arrive-in-kusadasi.webp",
+      "/images/banners/turkish/istanbul.webp",
+      "/images/banners/turkish/istanbul-classical-city-tour.webp",
+      "/images/banners/turkey/antalya.webp"
+        
     ],
 
   "duration": "4 Nights / 5 Days",
@@ -8348,24 +8345,19 @@
 "metaDescription": "Experience the charm of Switzerland and Paris with Duniya Dekho. Enjoy scenic Swiss landscapes, Mt. Titlis, Jungfraujoch, Lucerne Lake Cruise, Paris City Tour, Eiffel Tower, and unforgettable experiences.",
 
   "bannerImages": [
-    "/images/banners/maldives/ari-atoll.webp",
-    "/images/banners/maldives/baa-atoll-unesco-biosphere-reserve.webp",
-    "/images/banners/maldives/banana-reef.webp",
-    "/images/banners/maldives/hulhumale-island.webp",
-    "/images/banners/maldives/maafushi-island.webp",
-       "/images/banners/maldives/male-capital-city.webp",
-       "/images/banners/maldives/sun-island-nalaguraidhoo.webp",
-        "/images/banners/maldives/vaadhoo-island-sea-of-stars.webp"
+    "/images/banners/swiss-bliss/interlaken-to-lucerne.webp",
+    "/images/banners/swiss-bliss/jungfraujoch-top-of-europe-excursion.webp",
+    "/images/banners/swiss-bliss/zurich-n-journey-to-interlaken.webp",
+    "/images/banners/swiss-bliss/vienna.webp",
+    "/images/banners/swiss-bliss/zermatt.webp"
+      
   ],
   "bannerLgImages": [
-    "/images/banners/maldives/ari-atoll.webp",
-    "/images/banners/maldives/baa-atoll-unesco-biosphere-reserve.webp",
-    "/images/banners/maldives/banana-reef.webp",
-    "/images/banners/maldives/hulhumale-island.webp",
-    "/images/banners/maldives/maafushi-island.webp",
-       "/images/banners/maldives/male-capital-city.webp",
-       "/images/banners/maldives/sun-island-nalaguraidhoo.webp",
-        "/images/banners/maldives/vaadhoo-island-sea-of-stars.webp"
+     "/images/banners/swiss-bliss/interlaken-to-lucerne.webp",
+    "/images/banners/swiss-bliss/jungfraujoch-top-of-europe-excursion.webp",
+    "/images/banners/swiss-bliss/zurich-n-journey-to-interlaken.webp",
+    "/images/banners/swiss-bliss/vienna.webp",
+    "/images/banners/swiss-bliss/zermatt.webp"
   ],
 
   "duration": "4 Nights / 5 Days",
@@ -8822,26 +8814,27 @@
 
  
   "bannerImages": [
-
+  "/images/banners/aus/great-ocean-road-victoria.webp",
+      "/images/banners/aus/melbourne-city.webp",
+      "/images/banners/aus/perth-to-rottnest-island.webp",
       "/images/banners/aus/sydney-opera-house-&-sydney-harbour.webp",
       
          "/images/banners/aus/uluru-northern-territory.webp",
       "/images/banners/aus/gold-coast-queensland.webp",
-      "/images/banners/aus/great-barrier-reef-queensland.webp",
-      "/images/banners/aus/great-ocean-road-victoria.webp",
-      "/images/banners/aus/melbourne-city.webp",
-      "/images/banners/aus/perth-to-rottnest-island.webp"
+      "/images/banners/aus/great-barrier-reef-queensland.webp"
+    
      
     ],
     "bannerLgImages": [
+       "/images/banners/aus/great-ocean-road-victoria.webp",
+      "/images/banners/aus/melbourne-city.webp",
+      "/images/banners/aus/perth-to-rottnest-island.webp",
         "/images/banners/aus/sydney-opera-house-&-sydney-harbour.webp",
        
          "/images/banners/aus/uluru-northern-territory.webp",
      "/images/banners/aus/gold-coast-queensland.webp",
-      "/images/banners/aus/great-barrier-reef-queensland.webp",
-      "/images/banners/aus/great-ocean-road-victoria.webp",
-      "/images/banners/aus/melbourne-city.webp",
-      "/images/banners/aus/perth-to-rottnest-island.webp"
+      "/images/banners/aus/great-barrier-reef-queensland.webp"
+     
      
     ],
   "duration": "12 Nights / 13 Days",
@@ -9043,22 +9036,22 @@
   "metaDescription": "Explore Cape Town and Sun City with Duniya Dekho. Enjoy scenic landscapes, iconic attractions, and unforgettable South African experiences.",
 
  "bannerImages": [
-      "/images/banners/kenya/keny1.jpg",
-      "/images/banners/kenya/diani-beach.webp",
-      "/images/banners/kenya/lake-nakuru.webp",
-      "/images/banners/kenya/lamu-island.webp",
-      "/images/banners/kenya/mount-kenya.webp",
-       "/images/banners/kenya/nairobi.webp",
-        "/images/banners/kenya/victoria-falls.webp"
+      "/images/banners/south-africa-capetown/cape-town.webp",
+      "/images/banners/south-africa-capetown/cape-town-city-tour-n-table-mountain.webp",
+      "/images/banners/south-africa-capetown/cape-town-to-sun-city.webp",
+      "/images/banners/south-africa-capetown/full-day-peninsula-tour.webp",
+      "/images/banners/south-africa-capetown/johannesburg.webp",
+       "/images/banners/south-africa-capetown/leisure-day-in-sun-city.webp"
+       
+       
     ],
     "bannerLgImages": [
-      "/images/banners/kenya/keny1.jpg",
-      "/images/banners/kenya/diani-beach.webp",
-      "/images/banners/kenya/lake-nakuru.webp",
-      "/images/banners/kenya/lamu-island.webp",
-      "/images/banners/kenya/mount-kenya.webp",
-       "/images/banners/kenya/nairobi.webp",
-        "/images/banners/kenya/victoria-falls.webp"
+       "/images/banners/south-africa-capetown/cape-town.webp",
+      "/images/banners/south-africa-capetown/cape-town-city-tour-n-table-mountain.webp",
+      "/images/banners/south-africa-capetown/cape-town-to-sun-city.webp",
+      "/images/banners/south-africa-capetown/full-day-peninsula-tour.webp",
+      "/images/banners/south-africa-capetown/johannesburg.webp",
+       "/images/banners/south-africa-capetown/leisure-day-in-sun-city.webp"
     ],
   "duration": "5 Nights / 6 Days",
      "pdf": {
@@ -9200,24 +9193,20 @@
   "metaDescription": "Experience the best of Dubai with Duniya Dekho. Enjoy city tours, desert safari, Dhow cruise, luxurious hotels, and unforgettable experiences.",
 
   "bannerImages": [
-    "/images/banners/paris-to-vienna/hallstatt-austria.webp",
-    "/images/banners/paris-to-vienna/innsbruck-austria.webp",
-    "/images/banners/paris-to-vienna/interlaken-switzerland.webp",
-    "/images/banners/paris-to-vienna/lucerne-switzerland.webp",
-    "/images/banners/paris-to-vienna/Paris-france.webp",
-     "/images/banners/paris-to-vienna/salzburg-austria.webp",
-       "/images/banners/paris-to-vienna/vienna-austria.webp",
-       "/images/banners/paris-to-vienna/zurich-switzerland.webp"
+    "/images/banners/dubai-delight/abu-dhabi-city-tour-n-ferrari-world.webp",
+    "/images/banners/dubai-delight/burj-khalifa.webp",
+    "/images/banners/dubai-delight/dhow-cruise-dubai.webp",
+    "/images/banners/dubai-delight/leisure-and-desert-safari.webp",
+    "/images/banners/dubai-delight/leisure-n-shopping.webp"
+   
   ],
   "bannerLgImages": [
-    "/images/banners/paris-to-vienna/hallstatt-austria.webp",
-    "/images/banners/paris-to-vienna/innsbruck-austria.webp",
-    "/images/banners/paris-to-vienna/interlaken-switzerland.webp",
-    "/images/banners/paris-to-vienna/lucerne-switzerland.webp",
-    "/images/banners/paris-to-vienna/Paris-france.webp",
-     "/images/banners/paris-to-vienna/salzburg-austria.webp",
-       "/images/banners/paris-to-vienna/vienna-austria.webp",
-       "/images/banners/paris-to-vienna/zurich-switzerland.webp"
+   "/images/banners/dubai-delight/abu-dhabi-city-tour-n-ferrari-world.webp",
+    "/images/banners/dubai-delight/burj-khalifa.webp",
+    "/images/banners/dubai-delight/dhow-cruise-dubai.webp",
+    "/images/banners/dubai-delight/leisure-and-desert-safari.webp",
+    "/images/banners/dubai-delight/leisure-n-shopping.webp"
+     
   ],
 
   "duration": "5 Nights / 6 Days",
@@ -9367,24 +9356,21 @@
   "metaDescription": "Experience the best of Dubai with Duniya Dekho. Enjoy city tours, desert safari, Dhow cruise, luxurious hotels, and unforgettable experiences.",
 
   "bannerImages": [
-    "/images/banners/paris-to-vienna/hallstatt-austria.webp",
-    "/images/banners/paris-to-vienna/innsbruck-austria.webp",
-    "/images/banners/paris-to-vienna/interlaken-switzerland.webp",
-    "/images/banners/paris-to-vienna/lucerne-switzerland.webp",
-    "/images/banners/paris-to-vienna/Paris-france.webp",
-     "/images/banners/paris-to-vienna/salzburg-austria.webp",
-       "/images/banners/paris-to-vienna/vienna-austria.webp",
-       "/images/banners/paris-to-vienna/zurich-switzerland.webp"
+    "/images/banners/istanbul-antalaya/discover-antalyas-hidden-gems.webp",
+    "/images/banners/istanbul-antalaya/istanbul.webp",
+    "/images/banners/istanbul-antalaya/istanbul-classical-city-tour.webp",
+    "/images/banners/istanbul-antalaya/lucerne-switzerland.webp",
+    "/images/banners/istanbul-antalaya/istanbul-to-antalya.webp",
+     "/images/banners/istanbul-antalaya/pamukkale.webp"
+      
   ],
   "bannerLgImages": [
-    "/images/banners/paris-to-vienna/hallstatt-austria.webp",
-    "/images/banners/paris-to-vienna/innsbruck-austria.webp",
-    "/images/banners/paris-to-vienna/interlaken-switzerland.webp",
-    "/images/banners/paris-to-vienna/lucerne-switzerland.webp",
-    "/images/banners/paris-to-vienna/Paris-france.webp",
-     "/images/banners/paris-to-vienna/salzburg-austria.webp",
-       "/images/banners/paris-to-vienna/vienna-austria.webp",
-       "/images/banners/paris-to-vienna/zurich-switzerland.webp"
+     "/images/banners/istanbul-antalaya/discover-antalyas-hidden-gems.webp",
+    "/images/banners/istanbul-antalaya/istanbul.webp",
+    "/images/banners/istanbul-antalaya/istanbul-classical-city-tour.webp",
+    "/images/banners/istanbul-antalaya/lucerne-switzerland.webp",
+    "/images/banners/istanbul-antalaya/istanbul-to-antalya.webp",
+     "/images/banners/istanbul-antalaya/pamukkale.webp"
   ],
 
   "duration": "5 Nights / 6 Days",
@@ -9682,26 +9668,26 @@
   "metaTitle": "Northern Spain Tour Package | Scenic Spain with Duniya Dekho",
   "metaDescription": "Explore Northern Spain with Duniya Dekho. Discover Bilbao, San Sebastián, coastal landscapes, rich culture, and world-class cuisine.",
 
-  "bannerImages": [
-    "/images/banners/paris-to-vienna/hallstatt-austria.webp",
-    "/images/banners/paris-to-vienna/innsbruck-austria.webp",
-    "/images/banners/paris-to-vienna/interlaken-switzerland.webp",
-    "/images/banners/paris-to-vienna/lucerne-switzerland.webp",
-    "/images/banners/paris-to-vienna/Paris-france.webp",
-     "/images/banners/paris-to-vienna/salzburg-austria.webp",
-       "/images/banners/paris-to-vienna/vienna-austria.webp",
-       "/images/banners/paris-to-vienna/zurich-switzerland.webp"
-  ],
-  "bannerLgImages": [
-    "/images/banners/paris-to-vienna/hallstatt-austria.webp",
-    "/images/banners/paris-to-vienna/innsbruck-austria.webp",
-    "/images/banners/paris-to-vienna/interlaken-switzerland.webp",
-    "/images/banners/paris-to-vienna/lucerne-switzerland.webp",
-    "/images/banners/paris-to-vienna/Paris-france.webp",
-     "/images/banners/paris-to-vienna/salzburg-austria.webp",
-       "/images/banners/paris-to-vienna/vienna-austria.webp",
-       "/images/banners/paris-to-vienna/zurich-switzerland.webp"
-  ],
+   "bannerImages": [
+     "/images/banners/newz/queenstown.webp",
+       "/images/banners/newz/wellington.webp",
+      "/images/banners/newz/auckland.webp",
+      "/images/banners/newz/fanz-josef-glacier.webp",
+      "/images/banners/newz/hobbition.webp",
+      "/images/banners/newz/laket-tekapo.webp",
+      "/images/banners/newz/milford-sound.webp"
+     
+    ],
+    "bannerLgImages": [
+       "/images/banners/newz/queenstown.webp",
+       "/images/banners/newz/wellington.webp",
+         "/images/banners/newz/auckland.webp",
+      "/images/banners/newz/fanz-josef-glacier.webp",
+      "/images/banners/newz/hobbition.webp",
+      "/images/banners/newz/laket-tekapo.webp",
+      "/images/banners/newz/milford-sound.webp"
+     
+    ],
 
   "duration": "11 Nights / 12 Days",
     "pdf": {
@@ -9889,24 +9875,21 @@
   "metaTitle": "Bangkok & Pattaya Tour Package | City Life & Beach Escape with Duniya Dekho",
   "metaDescription": "Explore Bangkok and Pattaya with Duniya Dekho. Enjoy vibrant city attractions, sacred temples, floating markets, nightlife, coral islands, and relaxing beach experiences.",
   "bannerImages": [
-    "/images/banners/kuala-lambur/batu-caves.webp",
-    "/images/banners/kuala-lambur/bukit-bintang.webp",
-    "/images/banners/kuala-lambur/chinatown-petaling-street.webp",
-    "/images/banners/kuala-lambur/kl-bird-park.webp",
-    "/images/banners/kuala-lambur/kl-tower-menara-kuala-lumpur.webp",
-    "/images/banners/kuala-lambur/merdeka-square.webp",
-    "/images/banners/kuala-lambur/petronas-twin-towers.webp",
-        "/images/banners/kuala-lambur/thean-hou-temple.webp"
+    "/images/banners/bankok/city-tour-and-shopping-in-bangkok.webp",
+   
+    "/images/banners/bankok/coral-island-tour.webp",
+    "/images/banners/bankok/pattaya.webp",
+    "/images/banners/bankok/safari-world-n-marine-park.webp ",
+     "/images/banners/thailand/pattaya.webp "
+    
   ],
   "bannerLgImages": [
-     "/images/banners/kuala-lambur/batu-caves.webp",
-    "/images/banners/kuala-lambur/bukit-bintang.webp",
-    "/images/banners/kuala-lambur/chinatown-petaling-street.webp",
-    "/images/banners/kuala-lambur/kl-bird-park.webp",
-    "/images/banners/kuala-lambur/kl-tower-menara-kuala-lumpur.webp",
-    "/images/banners/kuala-lambur/merdeka-square.webp",
-    "/images/banners/kuala-lambur/petronas-twin-towers.webp",
-        "/images/banners/kuala-lambur/thean-hou-temple.webp"
+     "/images/banners/bankok/city-tour-and-shopping-in-bangkok.webp",
+   
+    "/images/banners/bankok/coral-island-tour.webp",
+    "/images/banners/bankok/pattaya.webp",
+    "/images/banners/bankok/safari-world-n-marine-park.webp ",
+     "/images/banners/thailand/pattaya.webp "
   ],
 
   "duration": "4 Nights / 5 Days",
@@ -10047,24 +10030,19 @@
   "metaDescription": "Discover Phuket with Duniya Dekho. Enjoy pristine beaches, island hopping, cultural landmarks, and tropical adventures.",
 
   "bannerImages": [
-    "/images/banners/kuala-lambur/batu-caves.webp",
-    "/images/banners/kuala-lambur/bukit-bintang.webp",
-    "/images/banners/kuala-lambur/chinatown-petaling-street.webp",
-    "/images/banners/kuala-lambur/kl-bird-park.webp",
-    "/images/banners/kuala-lambur/kl-tower-menara-kuala-lumpur.webp",
-    "/images/banners/kuala-lambur/merdeka-square.webp",
-    "/images/banners/kuala-lambur/petronas-twin-towers.webp",
-        "/images/banners/kuala-lambur/thean-hou-temple.webp"
+    "/images/banners/phuket-island/phi-phi-islands.webp",
+    "/images/banners/phuket-island/phi-phi-island-tour.webp",
+    "/images/banners/phuket-island/phuket-city-tour-with-shopping.webp",
+    "/images/banners/phuket-island/phuket-fantasea.webp",
+    "/images/banners/phuket-island/phuket-old-town.webp"
+   
   ],
   "bannerLgImages": [
-     "/images/banners/kuala-lambur/batu-caves.webp",
-    "/images/banners/kuala-lambur/bukit-bintang.webp",
-    "/images/banners/kuala-lambur/chinatown-petaling-street.webp",
-    "/images/banners/kuala-lambur/kl-bird-park.webp",
-    "/images/banners/kuala-lambur/kl-tower-menara-kuala-lumpur.webp",
-    "/images/banners/kuala-lambur/merdeka-square.webp",
-    "/images/banners/kuala-lambur/petronas-twin-towers.webp",
-        "/images/banners/kuala-lambur/thean-hou-temple.webp"
+   "/images/banners/phuket-island/phi-phi-islands.webp",
+    "/images/banners/phuket-island/phi-phi-island-tour.webp",
+    "/images/banners/phuket-island/phuket-city-tour-with-shopping.webp",
+    "/images/banners/phuket-island/phuket-fantasea.webp",
+    "/images/banners/phuket-island/phuket-old-town.webp"
   ],
 
   "duration": "4 Nights / 5 Days",
@@ -10200,24 +10178,21 @@
   "metaDescription": "Explore Portugal with Duniya Dekho. Discover the charm of Lisbon and Porto, historic landmarks, scenic streets, and vibrant culture on this 7-day journey.",
 
   "bannerImages": [
-    "/images/banners/kuala-lambur/batu-caves.webp",
-    "/images/banners/kuala-lambur/bukit-bintang.webp",
-    "/images/banners/kuala-lambur/chinatown-petaling-street.webp",
-    "/images/banners/kuala-lambur/kl-bird-park.webp",
-    "/images/banners/kuala-lambur/kl-tower-menara-kuala-lumpur.webp",
-    "/images/banners/kuala-lambur/merdeka-square.webp",
-    "/images/banners/kuala-lambur/petronas-twin-towers.webp",
-        "/images/banners/kuala-lambur/thean-hou-temple.webp"
+    "/images/banners/portugal-uncovered/exploring-lisbon.webp",
+    "/images/banners/portugal-uncovered/exploring-porto.webp",
+    "/images/banners/portugal-uncovered/free-day-in-lisbon.webp",
+    "/images/banners/portugal-uncovered/free-day-in-porto.webp",
+    "/images/banners/portugal-uncovered/lisbon.webp",
+    "/images/banners/portugal-uncovered/porto-bound.webp"
+    
   ],
   "bannerLgImages": [
-     "/images/banners/kuala-lambur/batu-caves.webp",
-    "/images/banners/kuala-lambur/bukit-bintang.webp",
-    "/images/banners/kuala-lambur/chinatown-petaling-street.webp",
-    "/images/banners/kuala-lambur/kl-bird-park.webp",
-    "/images/banners/kuala-lambur/kl-tower-menara-kuala-lumpur.webp",
-    "/images/banners/kuala-lambur/merdeka-square.webp",
-    "/images/banners/kuala-lambur/petronas-twin-towers.webp",
-        "/images/banners/kuala-lambur/thean-hou-temple.webp"
+        "/images/banners/portugal-uncovered/exploring-lisbon.webp",
+    "/images/banners/portugal-uncovered/exploring-porto.webp",
+    "/images/banners/portugal-uncovered/free-day-in-lisbon.webp",
+    "/images/banners/portugal-uncovered/free-day-in-porto.webp",
+    "/images/banners/portugal-uncovered/lisbon.webp",
+    "/images/banners/portugal-uncovered/porto-bound.webp"
   ],
 
   "duration": "6 Nights / 7 Days",
@@ -10372,24 +10347,24 @@
   "metaDescription": "Experience the wild beauty of Tanzania with Duniya Dekho. Explore Serengeti, Ngorongoro Crater, and majestic wildlife on an unforgettable safari adventure.",
 
   "bannerImages": [
-    "/images/banners/kuala-lambur/batu-caves.webp",
-    "/images/banners/kuala-lambur/bukit-bintang.webp",
-    "/images/banners/kuala-lambur/chinatown-petaling-street.webp",
-    "/images/banners/kuala-lambur/kl-bird-park.webp",
-    "/images/banners/kuala-lambur/kl-tower-menara-kuala-lumpur.webp",
-    "/images/banners/kuala-lambur/merdeka-square.webp",
-    "/images/banners/kuala-lambur/petronas-twin-towers.webp",
-        "/images/banners/kuala-lambur/thean-hou-temple.webp"
+    "/images/banners/safari-dreams-tanzania/arusha.webp",
+    "/images/banners/safari-dreams-tanzania/full-Day-game=drive-in-ngorongoro-crater.webp",
+    "/images/banners/safari-dreams-tanzania/kilimanjaro.webp",
+    "/images/banners/safari-dreams-tanzania/lake-manyara-national-park.webp",
+    "/images/banners/safari-dreams-tanzania/ngorongoro-crater.webp",
+    "/images/banners/safari-dreams-tanzania/seronera-serengeti-national-park.webp",
+    "/images/banners/safari-dreams-tanzania/tarangire-national-park.webp"
+        
   ],
   "bannerLgImages": [
-     "/images/banners/kuala-lambur/batu-caves.webp",
-    "/images/banners/kuala-lambur/bukit-bintang.webp",
-    "/images/banners/kuala-lambur/chinatown-petaling-street.webp",
-    "/images/banners/kuala-lambur/kl-bird-park.webp",
-    "/images/banners/kuala-lambur/kl-tower-menara-kuala-lumpur.webp",
-    "/images/banners/kuala-lambur/merdeka-square.webp",
-    "/images/banners/kuala-lambur/petronas-twin-towers.webp",
-        "/images/banners/kuala-lambur/thean-hou-temple.webp"
+    "/images/banners/safari-dreams-tanzania/arusha.webp",
+    "/images/banners/safari-dreams-tanzania/full-Day-game=drive-in-ngorongoro-crater.webp",
+    "/images/banners/safari-dreams-tanzania/kilimanjaro.webp",
+    "/images/banners/safari-dreams-tanzania/lake-manyara-national-park.webp",
+    "/images/banners/safari-dreams-tanzania/ngorongoro-crater.webp",
+    "/images/banners/safari-dreams-tanzania/seronera-serengeti-national-park.webp",
+    "/images/banners/safari-dreams-tanzania/tarangire-national-park.webp"
+       
   ],
 
   "duration": "7 Nights / 8 Days",
@@ -10561,24 +10536,21 @@
   "metaDescription": "Explore Egypt with Duniya Dekho. Discover the Pyramids of Giza, cruise the Nile, visit Luxor and Aswan, and immerse yourself in ancient history and culture.",
 
  "bannerImages": [
-      "/images/banners/egypt/giza-pyramids.webp",
-    "/images/banners/egypt/cairo.webp",
-    "/images/banners/egypt/luxor.webp",
-    "/images/banners/egypt/alexandria.webp",
-    "/images/banners/egypt/aswan.webp",
-    "/images/banners/egypt/giza.webp",
-    "/images/banners/egypt/hurghada.webp",
-    "/images/banners/egypt/sharm-el-sheikh.webp"
+      "/images/banners/sands-time/cairo.webp",
+    "/images/banners/sands-time/cairo-to-aswan-nile-cruise-embarkation.webp",
+    "/images/banners/sands-time/kom-ombo-and-edfu-temples.webp",
+    "/images/banners/sands-time/luxor-east-bank-wonders.webp",
+    "/images/banners/sands-time/luxor-west-bank-return-to-cairo.webp",
+    "/images/banners/sands-time/pyramids-museum-and-bazaar.webp"
+   
     ],
     "bannerLgImages": [
-      "/images/banners/egypt/giza-pyramids.webp",
-    "/images/banners/egypt/cairo.webp",
-    "/images/banners/egypt/luxor.webp",
-    "/images/banners/egypt/alexandria.webp",
-    "/images/banners/egypt/aswan.webp",
-    "/images/banners/egypt/giza.webp",
-    "/images/banners/egypt/hurghada.webp",
-    "/images/banners/egypt/sharm-el-sheikh.webp"
+      "/images/banners/sands-time/cairo.webp",
+    "/images/banners/sands-time/cairo-to-aswan-nile-cruise-embarkation.webp",
+    "/images/banners/sands-time/kom-ombo-and-edfu-temples.webp",
+    "/images/banners/sands-time/luxor-east-bank-wonders.webp",
+    "/images/banners/sands-time/luxor-west-bank-return-to-cairo.webp",
+    "/images/banners/sands-time/pyramids-museum-and-bazaar.webp"
     ],
   "duration": "6 Nights / 7 Days",
     "pdf": {

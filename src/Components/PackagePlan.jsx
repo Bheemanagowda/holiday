@@ -215,6 +215,7 @@ function PackagePlan() {
               name: "Antalya",
               image: "/images/antalya_intro.webp",
               description: "Flights . Hotels . Holidays",
+                  link:"/duniya-dekho/istanbul-antalya-tour-package"
               
             },
             {
