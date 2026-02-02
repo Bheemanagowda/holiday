@@ -87,7 +87,7 @@ function Footer() {
     <div className="w-[15vw] md:w-[2vw] mx-auto md:mx-0 my-1 bg-orange_c h-[2px]" />
     <ul className="mt-2 space-y-1">
       <li>
-        <a href="/home" className="text-white-600 hover:text-orange_c">Home</a>
+        <a href="/" className="text-white-600 hover:text-orange_c">Home</a>
       </li>
       <li>
         <a href="/about-us" className="text-white-600 hover:text-orange_c">About Us</a>
