@@ -9,7 +9,7 @@ const whyChooseItems = [
   { 
     icon: "/images/banners/icons/women.webp", 
     name: "Customer Experience with Ease", 
-    description: "Tailor-made holidays for women. Safe and comfortable journeys. Discover new destinations with confidence."
+    description: "To deliver seamless, stress-free, and memorable travel experiences with effortless journeys and exceptional support."
   },
   { 
     icon: "/images/banners/icons/tours.webp",

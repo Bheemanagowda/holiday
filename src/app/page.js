@@ -10,6 +10,7 @@ import GalleryIntro from "@/Components/GalleryIntro";
 import GuestReviews from "@/Components/GuestReviews";
 import Whychoose from "@/Components/Whychoose";
 import ClientVideoSaying from "@/Components/ClientVideoSaying";
+import NumberComponent from "@/Components/numberComponent";
 
 
 function Home() {
@@ -150,7 +151,9 @@ We especially loved the island trips and cultural experiences.`,
       <InternationalHolidays />
        <ClientVideoSaying/>
         <Whychoose  />
-      <GuestReviews reviews={reviews} />{" "}
+           <NumberComponent/>
+      <GuestReviews reviews={reviews} />
+   
 
      
  

@@ -7,8 +7,8 @@ import { Autoplay } from "swiper/modules";
 
 function Offers() {
  const OffersImages = [
-  "/images/offer1.webp",
-  "/images/offer2.webp",
+  "/images/offers/domestic.webp",
+  "/images/offers/internatinonal.webp",
 ];
 
   return (
