@@ -10690,7 +10690,206 @@
     ]
   }
 }
+,
+{
+  "name": "Northern Spain Journey",
+  "slug": "northern-spain-journey-tour-package",
+  "metaTitle": "Northern Spain Tour Package | Scenic Spain with Duniya Dekho",
+  "metaDescription": "Explore Northern Spain with Duniya Dekho. Discover Bilbao, San Sebastián, coastal landscapes, rich culture, and world-class cuisine.",
 
+  "bannerImages": [
+    "/images/banners/northern-spain/bilbao.webp",
+    "/images/banners/northern-spain/burgos.webp",
+    "/images/banners/northern-spain/exploring-bilbao.webp",
+    "/images/banners/northern-spain/exploring-oviedo.webp",
+    "/images/banners/northern-spain/exploring-leon.webp",
+     "/images/banners/northern-spain/exploring-santiago-de-compostela.webp",
+       "/images/banners/northern-spain/leon.webp",
+       "/images/banners/northern-spain/picos-de-europa-tour.webp"
+  ],
+  "bannerLgImages": [
+     "/images/banners/northern-spain/bilbao.webp",
+    "/images/banners/northern-spain/burgos.webp",
+    "/images/banners/northern-spain/exploring-bilbao.webp",
+    "/images/banners/northern-spain/exploring-oviedo.webp",
+    "/images/banners/northern-spain/exploring-leon.webp",
+     "/images/banners/northern-spain/exploring-santiago-de-compostela.webp",
+       "/images/banners/northern-spain/leon.webp",
+       "/images/banners/northern-spain/picos-de-europa-tour.webp"
+  ],
+
+  "duration": "11 Nights / 12 Days",
+  "price":  215000,
+
+  "description": [
+    "Discover the rich cultural heritage and breathtaking landscapes of Northern Spain on this captivating journey. Begin in Bilbao (2N), a vibrant city renowned for its iconic Guggenheim Museum and delicious pintxos. Explore the stunning medieval town of Santillana del Mar (1N), with its well-preserved architecture and historic significance. Next, visit Oviedo (2N), the capital of Asturias, boasting an impressive cathedral and picturesque old town. Continue to Santiago de Compostela (2N), a revered pilgrimage site and UNESCO World Heritage Site, featuring the majestic Cathedral of Santiago. Travel to Leon (2N), a city steeped in history and home to the breathtaking Gothic cathedral. Visit Burgos (1N), with its stunning cathedral and rich history, before returning to Bilbao (1N) to conclude your journey, filled with unforgettable experiences and memories of Northern Spain's unique charm."
+  ],
+
+  "additionalInfo": [
+    {
+      "name": "Geography and Climate",
+      "description": "Northern Spain's diverse geography spans the Cantabrian Mountains, rolling hills, and scenic coastline along the Bay of Biscay. The climate varies from oceanic to Mediterranean, with mild winters and warm summers. The region's unique geography and climate support a wide range of flora and fauna, including lush forests, rugged coastlines, and picturesque villages. The Cantabrian Mountains create a dramatic backdrop for the region's historic towns and cities, while the coastline offers stunning beaches and scenic views. The region's climate is generally mild, with temperatures ranging from 10°C to 25°C (50°F to 77°F) throughout the year."
+    }
+  ],
+
+  "itinerary": [
+    {
+      "day": "Day 01 :",
+      "title": "Arrival in Bilbao",
+      "description": "Arrive in Bilbao, the vibrant capital of the Basque Country, and enjoy a private transfer to your hotel. Surrounded by a stunning landscape of forests, mountains, beaches, and rugged coastlines, Bilbao offers a unique blend of natural beauty and cultural richness. Take some time to unwind and explore the city's charming streets, discovering its rich history, architecture, and delicious local cuisine.",
+      "additionalInfo": [" Overnight at the hotel in Bilbao, ready to embark on an unforgettable journey through Northern Spain."]
+    },
+    {
+      "day": "Day 02 :",
+      "title": "Exploring Bilbao",
+      "description": "Enjoy a free day in Bilbao, exploring the city's vibrant atmosphere and stunning architecture. Discover iconic landmarks like the Bilbao Guggenheim Museum, a masterpiece of modern art and design. Visit other notable attractions, including the Euskalduna Conference and Music Centre, Norman Foster's Underground, and Santiago Calatrava's airport. Admire the striking towers designed by renowned architects Arata Isozaki and César Pelli. Take your time to wander through the city's charming neighborhoods, sampling local cuisine and drinks, and soaking up the unique energy of Bilbao.",
+      "additionalInfo": [" Overnight at the hotel in Bilbao."]
+    },
+    {
+      "day": "Day 03 :",
+      "title": "Santillana del Mar",
+      "description": "Take a private car transfer from Bilbao to the charming medieval town of Santillana del Mar. This picturesque town is known for its well-preserved architecture, historic significance, and stunning beauty. Arrive in Santillana del Mar and check-in to your hotel, surrounded by the town's unique charm. Take some time to explore the town's narrow streets, visit its historic landmarks, and soak up the atmosphere.",
+      "additionalInfo": [" Overnight at the hotel in Santillana del Mar."]
+    },
+    {
+      "day": "Day 04 :",
+      "title": "Picos de Europa Tour",
+      "description": "Embark on a full-day Picos de Europa tour with a private car and driver to Fuente Dé. Take the thrilling cable car ride, descending 753 meters in just 5 minutes. The stunning views of rocky crests, gorges, valleys, glacial lakes, and lush forests will leave you in awe of northern Spain's natural beauty. After the tour, transfer by car to Oviedo, then return to Santillana del Mar for the night.",
+      "additionalInfo": [" Overnight at the hotel in Santillana del Mar."]
+    },
+    {
+      "day": "Day 05 :",
+      "title": " Exploring Oviedo",
+      "description": "Enjoy a free day in Oviedo, exploring the city's historic charm at your own pace. Discover the city's rich history, dating back to the 8th century, and its significance as the capital of the Kingdom of Asturias. Wander through the pedestrian historic quarter, taking in the medieval flavor and architecture. The city's unique atmosphere is waiting to be explored, with notable landmarks, local cuisine, and hidden gems to uncover. ",
+      "additionalInfo": ["Overnight at the hotel in Oviedo."]
+    },
+    {
+      "day": "Day 06 :",
+      "title": " Santiago de Compostela",
+      "description": "Take a private transfer from Oviedo to Santiago de Compostela, a city renowned for its stunning cathedral and rich history. Arrive in this iconic city, a major pilgrimage site, and check-in to your hotel. The city's charming streets, historic landmarks, and vibrant atmosphere await your exploration. ",
+      "additionalInfo": ["Overnight at the hotel in Santiago de Compostela."]
+    },
+    {
+      "day": "Day 07 :",
+      "title": "Exploring Santiago de Compostela",
+      "description": "Enjoy a free day to explore the historic city of Santiago de Compostela, capital of the Region of Galicia. Discover its rich cultural heritage by visiting the historic center, a UNESCO World Heritage Site. Admire the stunning façades of convents, monasteries, and famous houses like Fonseca, as well as the city's notable contemporary architectures. The iconic Santiago Cathedral, the culmination of the Way of Saint James pilgrimage route, is a must-visit attraction, drawing millions of pilgrims and visitors each year. Take your time to soak up the city's unique atmosphere and history. ",
+      "additionalInfo": ["Overnight at the hotel in Santiago de Compostela."]
+    },
+    {
+      "day": "Day 08 :",
+      "title": " Leon",
+      "description": "Take a private transfer to board the train to Leon, a city steeped in history and culture. Upon arrival in Leon, a private transfer will take you to your hotel. Check-in and take some time to explore this charming city, known for its stunning Gothic cathedral and rich heritage. ",
+      "additionalInfo": ["Overnight at the hotel in Leon."]
+    },
+    {
+      "day": "Day 09 :",
+      "title": "Exploring Leon",
+      "description": "Enjoy a free day in Leon, exploring the city's rich history and cultural heritage at your own pace. Discover the city's medieval past, its significance on the Pilgrim's Road to Santiago de Compostela, and its unique charm. Visit historic landmarks, stroll through the city's charming streets, and soak up the local atmosphere, making the most of your time in this captivating city.",
+      "additionalInfo": [" Overnight at the hotel in Leon."]
+    },
+    {
+      "day": "Day 10 :",
+      "title": "Burgos",
+      "description": "Take a private transfer to the railway station to board your train from Leon to Burgos, a city steeped in history and medieval charm. Upon arrival, a private transfer will take you to your hotel. Burgos proudly preserves its medieval splendor, showcasing important vestiges of its past as the capital of the unified kingdom of Castilla-Leon for five centuries. The city's iconic cathedral, a UNESCO World Heritage site, is a must-see attraction. ",
+      "additionalInfo": ["Overnight at the hotel in Burgos."]
+    },
+    {
+      "day": "Day 11 :",
+      "title": " Return to Bilbao",
+      "description": "Take a private transfer to the railway station to board your train from Burgos back to Bilbao. Upon arrival, a private transfer will take you to your hotel. Your journey through northern Spain's stunning landscapes and historic cities comes full circle as you return to Bilbao.",
+      "additionalInfo": [" Overnight at the hotel in Bilbao."]
+    },
+    {
+      "day": "Day 12 :",
+      "title": "Departure and this is the last day of your 12-day journey.",
+      "description": "Check out from your hotel and take a private transfer to Bilbao Airport for your flight back home, bringing an end to your memorable journey through northern Spain.",
+      "additionalInfo": []
+    }
+  ],
+
+  "hotel": {
+    "name": "Hotel Details",
+    "amenities": [
+      "Best 4* or 3* Hotel"
+    ]
+  },
+  
+  "flight": {
+    "name": "Flight Details",
+    "amenities": [
+      "Flight not included"
+    ]
+  },
+
+  "inclusionAndExclusion": {
+    "inclusions": [
+    "3 nights’ accommodation at the Respected hotel in Bilbao",
+    "1 night accommodation at the Respected hotel in Santillana del Mar",
+    "2 nights’ accommodation at the Respected hotel in Oviedo",
+    "2 nights’ accommodation at the Respected hotel in Santiago de Compostela",
+    "1 night accommodation at the Respected hotel in Burgos",
+    "2 nights’ accommodation at the Respected hotel in Leon",
+    "Daily Breakfast except day 01",
+    "Highspeed train Santiago – Burgos / Burgos – Leon / Leon - Bilbao",
+    "Picos de Europa, Full Day tour",
+    "Fuente Dé cable car tickets",
+    "Return Airport transfers on Private basis"
+    ],
+    "exclusions": [
+     "Airfare & Airport Taxes",
+    "Visa",
+    "Meals not mentioned in the itinerary",
+    "Expenses of personal nature like medical expenses, Phone Calls",
+    "Entrance fees, Video and Camera permits",
+    "Portage at hotels and airports, tips, insurance, laundry, liquors",
+    "Early check in & late check out at the hotels",
+    "Guide Charges High Season Surcharges as applicable",
+    "Any compulsory supplement during the stay",
+    "Any other services not mentioned in the itinerary or inclusions",
+    "Lunch & Dinner not included",
+    "Travel Insurance not included",
+    "5% GST",
+    "5% TCS"
+    ]
+  },
+
+  "pleaseNote": {
+    "title": "Please Note",
+    "notes": [
+       "100% Cancellation on low cost carrier once booking confirmed",
+    "100% Cancellation if hotels/entrances booked and paid in advance during confirmation period and will be non-refundable",
+    "100% Cancellation during peak days or any trade fare",
+    "100% Cancellation once visa payment is done",
+    "For Group booking, please reconfirm the cancellation policy before confirmation",
+    "Airline & hotel cancellation policy at the time will override the current cancellation policy listed"
+    ]
+  },
+
+  "conditions": {
+    "title": "Conditions",
+    "conditions": [
+     "Above rates based on today’s ROE. Any fluctuation will vary the cost at the time of confirmation and final payment made.",
+    "For your international Travel, The Passport of passengers should have the validity of minimum 6 (SIX) months (from the date of return) and two or more blank pages for visa stamp.",
+    "Physical condition of Passport is taken care by guest directly in case of E-Visa.",
+    "Please ensure the passports are not damaged anywhere. In case of damaged passports the passenger may not be allowed by the immigration or airline.",
+    "Airfare is subject to availability at the time of confirmation with the payment.",
+    "Hotel Rooms & Service are subject to availability at the time of confirmation with the payment.",
+    "In case of Non availability of Hotel Rooms a similar category Hotel will be provided.",
+    "Credit card payments are subject to 3% bank charges. Any fluctuations may vary the cost.",
+    "No Change in Itinerary once confirmed will be honored unless otherwise given in writing. This may incur additional charges based on the requirement.",
+    "No verbal commitments will be honored unless otherwise given in writing.",
+    "The offers are valid till for time being only & unless otherwise specified.",
+    "Extension of stay would be subject to availability and on pro-rata basis and as of best rate of the day.",
+    "Private vehicle mentioned in the quotes is based on the itinerary(Point to Point Service)",
+    "For all SIC tour (Seat in Coach) – there is always waiting time for pick up/drop. Also the pickup/drop points may vary city to city unless specified hotel in the quotes.",
+    "Any City Taxes to be paid directly at hotel unless specified in the quotes.",
+    "Entrances specified in the itinerary will be covered. Any extra services to be taken care by guest directly.",
+    "No amendments possible once land arrangements have been confirmed",
+    "No refund for partly unutilized tickets. No refund for 'NO – SHOWS' & Last moment cancellations",
+    "Granting or rejecting visas and immigration clearance is the sole prerogative of the concerned sovereign governments and we can only facilitate in the entire process. We shall neither be responsible in case of non-granting of such documents. Even if the visas are rejected, cancellation charges / fees shall be payable by the Client. There will be no refund, if the Clients, or any member of his party, is unable to travel due to the said reasons."
+    ]
+  }
+}
 
 
 
