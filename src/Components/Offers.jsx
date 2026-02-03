@@ -50,7 +50,7 @@ function Offers() {
                     src={ele}
                     alt="offer"
                     loading="lazy"
-                    className="w-full  min-w-[300px] min-h-[200px] lg:min-h-[250px] xl:min-h-[300px] bg-gray-300 object-cover duration-700 hover:scale-110"
+                    className="w-full  min-w-[300px] min-h-[200px] lg:min-h-[250px] xl:min-h-[270px] bg-gray-300 object-cover duration-700 hover:scale-110"
                   />{" "}
                 </div>
               </SwiperSlide>
