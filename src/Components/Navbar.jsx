@@ -152,7 +152,7 @@ function Navbar() {
   <div className="absolute top-4 right-4  ">
    <Link
   href={ele.link}
-  className="hidden md:inline-flex items-center gap-1 px-3 py-1.5 text-[15px] font-medium border border-[#028680] text-[#028680] rounded hover:bg-[#028680] hover:text-white transition"
+  className="hidden md:inline-flex items-center gap-1 px-3 py-1.5 text-[15px] font-medium border border-[#028680] text-[#028680] rounded hover:bg-orange_c hover:border-[#ec652d] hover:text-white transition"
 >
   View All {ele.name}
   <span className="text-[13px]">→</span>

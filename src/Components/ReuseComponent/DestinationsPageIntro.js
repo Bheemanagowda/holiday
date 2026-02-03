@@ -13,7 +13,8 @@ function DestinationsPageIntro({ destinations }) {
     className="w-full h-[200px] lg:h-[240px] object-cover"
     loading="lazy"
   />
-  <div className="flex flex-row flex-1 justify-between p-5 bg-[#FBFBFB]">
+  <div className="flex flex-col gap-4 p-5 bg-[#FBFBFB] 
+                lg:flex-row lg:justify-between">
     <div>
       <p className="text-[#4B4B4B] text-sm">{item.intro}</p>
       <h2 className="text-2xl lg:text-3xl text-[#3D3D3D] font-semibold">{item.name}</h2>
