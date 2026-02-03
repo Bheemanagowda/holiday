@@ -36,7 +36,7 @@ function DestinationsPageIntro({ destinations }) {
         <h4 className="text-[#3D3D3D] font-bold text-3xl">Rs.{item.price}</h4>
       </div>
       <Link href={item.slug}>
-        <button className="bg-[#FECF00] cursor-pointer px-4 py-1 lg:mt-16 text-[#4B4B4B]">
+        <button className="bg-[#FECF00] cursor-pointer px-4 py-1 lg:mt-16 text-[#4B4B4B] w-full">
           View Details
         </button>
       </Link>

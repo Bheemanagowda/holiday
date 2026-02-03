@@ -17,7 +17,7 @@ const ClientVideoSaying = () => {
       {/* Title + Button */}
       <div className="flex flex-wrap justify-between items-center gap-3">
 
-        <h1 className="text-2xl lg:text-4xl font-bold font-secondary_font  md:text-left w-full md:w-auto">
+        <h1 className="text-2xl lg:text-4xl font-bold text-center font-secondary_font  md:text-left w-full md:w-auto">
           Real Stories,Real Experiences
         </h1>
 
@@ -26,7 +26,7 @@ const ClientVideoSaying = () => {
 
         <Link
           href="/video"
-          className="px-4 py-2 text-lg font-semibold border text-white rounded bg-blue_c hover:bg-black transition flex items-center gap-2 group mx-auto md:mx-0 md:mx-0 mb-8 md:mb-0"
+          className="px-4 py-2 text-lg font-semibold border text-center text-white rounded bg-blue_c hover:bg-black transition flex items-center gap-2 group mx-auto md:mx-0 md:mx-0 mb-8 md:mb-0"
         >
           View All Videos
           <span className="transform transition-transform group-hover:translate-x-1">→</span>

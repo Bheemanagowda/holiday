@@ -15,11 +15,10 @@ import duniyaDekhonData from "../../../data/DuniyaDekho.json";
 // Heading component
 // Change the wrapper from <h3> to <div> or <section>
 const Cheading = ({ heading }) => (
-  <div className="lg:w-4/12 font-medium"> 
-    <h2 className="text-2xl lg:text-3xl text-[#3D3D3D] font-semibold font-secondary_font">
-      {heading}
+  <h2 className="text-2xl lg:text-3xl text-[#3D3D3D] font-semibold font-secondary_font">
+      {" "}
+      {heading}{" "}
     </h2>
-  </div>
 );
 
 

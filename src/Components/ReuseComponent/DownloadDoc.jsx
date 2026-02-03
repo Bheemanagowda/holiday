@@ -1,6 +1,5 @@
 import React from "react";
-import { MdKeyboardArrowDown } from "react-icons/md";
-
+import { FaFilePdf } from "react-icons/fa";
 
 const DownloadDoc = ({ file }) => {
   if (!file?.url) return null;
@@ -9,9 +8,11 @@ const DownloadDoc = ({ file }) => {
     <a
       href={file.url}
       download
-      className="bg-deep_green rounded-md font-medium w-max px-3 py-1 lg:text-lg text-white mt-3 mb-5 inline-flex items-center gap-2"
+      className="  font-medium w-max px-3 py-1 lg:text-lg text-dark mt-3 mb-5 inline-flex items-center gap-2 hover:opacity-90"
     >
-      {file.name}<MdKeyboardArrowDown />
+    <FaFilePdf className="text-dark-600 text-5xl" />
+
+      {file.name}
     </a>
   );
 };
