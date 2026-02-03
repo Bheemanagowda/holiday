@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { FaGoogle, FaInstagram, FaSmile, FaGlobe } from "react-icons/fa";
+
 import CommonHeading from "./ReuseComponent/CommonHeading";
 
 const numbers = [
@@ -7,25 +7,25 @@ const numbers = [
     title: "Reviews",
     value: 800,
     suffix: "+",
-    icon: <FaGoogle size={60} />,
+   img: "/images/icons/google.webp",
   },
   {
     title: "Followers",
     value: 10000,
     suffix: "+",
-    icon: <FaInstagram size={60} />,
+  img: "/images/icons/insta.webp",
   },
   {
     title: "Happy Customers",
     value: 4500,
     suffix: "+",
-    icon: <FaSmile size={60} />,
+img: "/images/icons/smile.webp",
   },
   {
     title: "Countries Served",
     value: 35,
     suffix: "+",
-    icon: <FaGlobe size={60} />,
+    img: "/images/icons/world.webp",
   },
 ];
 
@@ -75,7 +75,11 @@ const NumberComponent = () => {
         {numbers.map((item, index) => (
           <div key={index} className="p-4">
             <div className="text-green-600 mb-2 flex justify-center">
-              {item.icon}
+               <img
+    src={item.img}
+    alt="icon"
+    className="w-half h-half"
+  />
             </div>
             <h2 className="text-3xl font-bold">
               {formatNumber(counts[index])}
