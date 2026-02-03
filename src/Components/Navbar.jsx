@@ -108,7 +108,7 @@ function Navbar() {
                 {!ele.type ? (
                  <Link
   href={ele.link}
-  className={`capitalize py-6 block text-[18px] font-medium hover:text-[#028680] ${
+  className={`capitalize py-6 block text-[18px] font-medium hover:text-[#028680]  ${
     path === ele.link ? "text-[#028680] border-b-2 border-[#028680]" : ""
   }`}
 >

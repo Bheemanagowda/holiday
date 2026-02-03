@@ -3002,7 +3002,7 @@
   }
 },
 {
-  "name": "Spain & Portugal — Where Heritage Meets Ocean Breeze & Iberian Elegance",
+  "name": "Portugal & Spain Highlights",
   "slug": "spain-portugal-tour-package",
   "metaTitle": "Spain & Portugal Tour Package | Madrid, Barcelona, Lisbon & Porto with Duniya Dekho",
   "metaDescription": "Discover the cultural treasures of Spain and Portugal with Duniya Dekho. Includes Madrid, Barcelona, Lisbon and Porto featuring iconic landmarks, beaches, food and heritage.",
@@ -3029,136 +3029,194 @@
        "/images/banners/spain-and-portugal/sintra.webp"
     ],
 
-  "duration": "08 Nights | 09 Days",
+  "duration": "12 Nights | 13 Days",
+    "pdf": {
+  "name": "Download PDF",
+  "url": "/pdf/portugal-spain-highlights-13-days-of-culture-scenic-beauty-and-unforgettable-experience.pdf"
+      },
   "price": 313956,
 
   "description": [
-    "Explore Iberia’s finest destinations in Spain and Portugal blending art, architecture, food, coastline and cultural heritage.",
-    "Visit Madrid’s royal landmarks, Barcelona’s Gaudí masterpieces, Lisbon’s historic quarters and Porto’s scenic riverside."
+    "Experience the charm of Porto, the vineyards of the Douro Valley, and the fairytale palaces of Sintra. Explore Lisbon’s vibrant streets, relax on Algarve’s golden beaches, and uncover Andalusia’s treasures in Seville, Granada, and the Costa del Sol. Conclude your journey with the cultural wonders of Toledo, Madrid, Valencia, and Barcelona, including a visit to the stunning Montserrat mountains."
   ],
 
   "additionalInfo": [
     {
       "name": "Geography and Climate",
-      "description": "Spain and Portugal have warm Mediterranean climates with hot summers, mild winters and pleasant coastal weather."
+      "description": "Portugal and Spain are located on the Iberian Peninsula in southwestern Europe. The itinerary covers coastal regions like Porto, Algarve, Costa del Sol, and Valencia, historic inland cities such as Lisbon, Toledo, Madrid, and Granada, and scenic mountainous areas including Sintra and Montserrat. The route combines rivers, beaches, vineyards, and cultural landmarks.Spring (April–May) offers mild and pleasant weather across both countries. Coastal areas are warm and sunny, ideal for sightseeing and beach visits, while inland cities are comfortable with temperatures ranging from 15°C to 25°C. Rainfall is minimal, making it perfect for outdoor activities and exploration."
     }
   ],
 
   "itinerary": [
     {
       "day": "Day 01 :",
-      "title": "Arrival in Madrid",
-      "description": "Arrive at Madrid Airport. Free time or optional flamenco show.",
-      "additionalInfo": ["Overnight stay in Madrid hotel"]
+      "title": "Arrival in Porto (2 Nights)",
+      "description": "Arrive in Porto, Portugal’s vibrant riverside city, known for its historic charm and world-famous port wine. After airport transfer to your hotel, check in and take some time to relax. Later, enjoy a gentle stroll along the Ribeira district, a UNESCO World Heritage area, lined with colorful houses and lively cafes. ",
+      "additionalInfo": ["Optionally, you can take a scenic walk along the Dom Luís I Bridge, enjoying panoramic views of the Douro River."]
     },
     {
       "day": "Day 02 :",
-      "title": "Madrid City Tour",
-      "description": "Visit Royal Palace (exterior), Plaza Mayor, Gran Vía, Puerta del Sol and Bernabéu Stadium (exterior).",
-      "additionalInfo": ["Overnight stay in Madrid hotel"]
+      "title": "Porto – Douro Valley – Porto",
+      "description": "After breakfast, depart for a full-day excursion to the Douro Valley, one of Europe’s oldest wine regions. Drive through rolling hills and terraced vineyards, stopping at local estates to taste famous port wines. Enjoy a leisurely river cruise along the Douro River, taking in the picturesque scenery. ",
+      "additionalInfo": ["Return to Porto in the evening for overnight stay, with free time to explore local restaurants and try traditional dishes like Francesinha or Bacalhau à Gomes de Sá."]
     },
     {
       "day": "Day 03 :",
-      "title": "Madrid – Zaragoza – Barcelona",
-      "description": "Drive via Zaragoza with quick stop for Basilica del Pilar. Continue onward to Barcelona.",
-      "additionalInfo": ["Overnight stay in Barcelona hotel"]
+      "title": "Porto – Fatima – Sintra – Lisbon (1 Night)",
+      "description": "Check out from your hotel and head south towards Lisbon. En route, stop at Fatima, Portugal’s most important pilgrimage site, famous for the Sanctuary of Our Lady of Fatima. Continue to Sintra, a fairy-tale town nestled in lush hills, home to the majestic Pena Palace and the Moorish Castle. ",
+      "additionalInfo": ["Enjoy sightseeing and photography opportunities before continuing to Lisbon, where you check in for an overnight stay."]
     },
     {
       "day": "Day 04 :",
-      "title": "Barcelona City Tour",
-      "description": "Visit Sagrada Família (exterior), Gothic Quarter, Montjuïc and Las Ramblas.",
+      "title": "Lisbon – Algarve (1 Night)",
+      "description": "After breakfast, depart Lisbon and drive to the Algarve region, famous for its sun-kissed beaches, limestone cliffs, and charming coastal villages. On arrival, check in to your hotel and enjoy some leisure time. You may opt to visit Praia da Marinha or Lagos for a scenic beach walk, or simply relax and take in the stunning coastal views.",
       "additionalInfo": ["Overnight stay in Barcelona hotel"]
     },
     {
       "day": "Day 05 :",
-      "title": "Barcelona – Flight to Lisbon",
-      "description": "Fly to Lisbon in Portugal. Evening at leisure in the old town.",
-      "additionalInfo": ["Overnight stay in Lisbon hotel"]
+      "title": "Algarve – Seville (2 Nights)",
+      "description": "Check out from your hotel and cross into Spain, arriving in Seville, the heart of Andalusia. After hotel check-in, spend the evening exploring the city at leisure. ",
+      "additionalInfo": ["Stroll through the historic Santa Cruz neighborhood, enjoy tapas at a local eatery, or experience Seville’s vibrant nightlife."]
     },
     {
       "day": "Day 06 :",
-      "title": "Lisbon City Tour",
-      "description": "Visit Jerónimos Monastery (exterior), Belém Tower, Monument to the Discoveries and Alfama District.",
+      "title": "Seville",
+      "description": "Today, enjoy a full day of sightseeing in Seville. Visit the magnificent Seville Cathedral, the largest Gothic cathedral in the world, and climb the Giralda Tower for panoramic city views. Explore the stunning Alcázar Palace with its intricate Moorish architecture and beautiful gardens. Take time to wander through the charming streets, plazas, and bridges of the old town. Optionally, attend a traditional flamenco show in the evening.",
       "additionalInfo": ["Overnight stay in Lisbon hotel"]
     },
     {
       "day": "Day 07 :",
-      "title": "Lisbon – Fatima – Porto",
-      "description": "Drive via Fatima to visit the Sanctuary of Our Lady of Fatima. Continue to Porto.",
-      "additionalInfo": ["Overnight stay in Porto hotel"]
+      "title": "Seville – Ronda – Costa del Sol – Mijas – Marbella (1 Night)",
+      "description": "After breakfast, depart Seville and drive to the picturesque town of Ronda, perched on cliffs with breathtaking views of the El Tajo Gorge. Explore the historic old town, the iconic Puente Nuevo bridge, and charming streets. Continue along the Costa del Sol, stopping at Mijas, a classic whitewashed Andalusian village with cobbled streets and artisan shops. ",
+      "additionalInfo": ["Arrive in Marbella in the evening, check in at your hotel, and enjoy overnight stay."]
     },
     {
       "day": "Day 08 :",
-      "title": "Porto City Tour",
-      "description": "Explore Dom Luís I Bridge, Ribeira Quarter and Douro River waterfront area.",
-      "additionalInfo": ["Overnight stay in Porto hotel"]
+      "title": "Marbella – Granada – Toledo (1 Night)",
+      "description": "Check out and travel to Granada to visit the world-renowned Alhambra Palace (subject to ticket availability), a stunning example of Moorish architecture with its intricate palaces and gardens. After exploring Granada, drive to Toledo, the historic Spanish city famous for its medieval streets and cultural mix of Christian, Muslim, and Jewish heritage. ",
+      "additionalInfo": ["Overnight stay in Toledo."]
     },
     {
       "day": "Day 09 :",
-      "title": "Departure from Porto",
-      "description": "Transfer to Porto Airport for onward journey. Tour ends.",
-      "additionalInfo": []
+      "title": ": Toledo – Madrid (1 Night)",
+      "description": "In the morning, explore Toledo’s famous landmarks such as the Toledo Cathedral, Alcázar, and winding medieval streets. Later, drive to Madrid, Spain’s cosmopolitan capital. Check in at your hotel and spend the evening at leisure, perhaps enjoying a stroll along Gran Via or sampling Spanish cuisine at a local restaurant.",
+      "additionalInfo": ["Check in at your hotel and spend the evening at leisure, perhaps enjoying a stroll along Gran Via or sampling Spanish cuisine at a local restaurant."]
+    },
+       {
+      "day": "Day 10 :",
+      "title": ": Madrid – Valencia (1 Night)",
+      "description": "IAfter breakfast, depart Madrid and drive to Valencia, a coastal city blending historic charm with modern architecture. Visit Valencia’s old town, including the Valencia Cathedral, Plaza de la Virgen, and the futuristic City of Arts and Sciences (optional).",
+      "additionalInfo": [" Enjoy a relaxing evening sampling the city’s famous paella before overnight stay."]
+    },
+        {
+      "day": "Day 11 :",
+         "title": ": Valencia – Barcelona (2 Nights)",
+      "description": "Check out from your hotel and travel along the scenic eastern coast to Barcelona. On arrival, check in at your hotel and spend the evening at leisure. ",
+      "additionalInfo": [" You may explore the vibrant Las Ramblas, visit the Gothic Quarter, or enjoy a sunset by the beach."]
+    },
+        {
+      "day": "Day 12 :",
+      "title": ": Barcelona – Montserrat",
+      "description": "After breakfast, take a day excursion to Montserrat, a striking mountain range and pilgrimage site famous for its Benedictine monastery and the Black Madonna statue. Enjoy panoramic views of the Catalonian landscape, take a cable car or funicular ride, and explore the monastery complex.  ",
+      "additionalInfo": [" Return to Barcelona in the evening for overnight stay."]
+    },
+        {
+      "day": "Day 13 :",
+      "title": ": Barcelona – Departure",
+      "description": "After breakfast, check out from your hotel and transfer to Barcelona airport for your onward flight. Depart with wonderful memories of your Portugal and Spain journey.",
+      "additionalInfo": [" Depart with wonderful memories of your Portugal and Spain journey."]
     }
   ],
 
   "hotel": {
     "name": "Hotel details",
     "amenities": [
-      "Good 4* Hotel in Madrid",
-      "Good 4* Hotel in Barcelona",
-      "Good 4* Hotel in Lisbon",
-      "Good 4* Hotel in Porto"
+      "3* or 4* Best hotel"
+      
+    ]
+  },
+    "flight": {
+    "name": "Flight details",
+    "amenities": [
+      "Flight not included"
+      
     ]
   },
 
   "inclusionAndExclusion": {
     "inclusions": [
-      "Two Night’s Accommodation in Madrid",
-      "Two Night’s Accommodation in Barcelona",
-      "Two Night’s Accommodation in Lisbon",
-      "Two Night’s Accommodation in Porto",
-      "Daily breakfast except day 1",
-      "All transfers & sightseeing as per itinerary",
-      "Barcelona City Sightseeing",
-      "Lisbon City Sightseeing",
-      "Porto City Sightseeing",
-      "Madrid – Zaragoza – Barcelona overland transfers",
-      "Barcelona – Lisbon flight"
+     "Two Nights’ Accommodation in Porto at suggested hotels or similar.",
+    "One Night Accommodation in Lisbon at suggested hotels or similar.",
+    "One Night Accommodation in Algarve at suggested hotels or similar.",
+    "Two Nights’ Accommodation in Seville at suggested hotels or similar.",
+    "One Night Accommodation in Marbella at suggested hotels or similar.",
+    "One Night Accommodation in Toledo at suggested hotels or similar.",
+    "One Night Accommodation in Madrid at suggested hotels or similar.",
+    "One Night Accommodation in Valencia at suggested hotels or similar.",
+    "Two Nights’ Accommodation in Barcelona at suggested hotels or similar.",
+    "Daily breakfast except day 01",
+    "All Meals ( set menu ) as per mentioned in the itinerary",
+    "Entrance fees of all sightseeing places to visited from inside",
+    "Travel by AC comfortable A/C coach as per the itinerary",
+    "Return Airport transfers on Seat in Coach basis."
     ],
     "exclusions": [
-      "International Airfare",
-      "Schengen Visa Fees",
-      "Travel Insurance",
-      "Meals not mentioned",
-      "Optional tours or activities",
-      "Personal expenses (tips, drinks, laundry, etc.)",
-      "High Season Surcharges",
-      "Early check-in & late check-out"
+     "Return & Internal Airfare",
+    "Airport Taxes",
+    "Visa",
+    "Any Entry Fees other than the specified itinerary",
+    "Tips to Driver and Guide-personal expense",
+    "High Season Surcharges as applicable",
+    "Use of vehicle other than the specified itinerary",
+    "Any item that is not mentioned in the above Tour Price includes",
+    "No Intercity surface transfers are included unless specified in the package.",
+    "Expenses of personal nature. Example – Tipping, laundry & Telephone calls, Beverages etc",
+    "Lunch and Dinner",
+    "Travel Insurance not included",
+    "5% GST",
+    "5% TCS"
     ]
   },
 
   "pleaseNote": {
     "title": "Please Note",
     "notes": [
-      "Schengen visa processing may take 15–30 working days.",
-      "Sequence of itinerary may change due to operational reasons.",
-      "Peak dates may attract additional charges."
+     "100% Cancellation on low cost carrier once booking confirmed.",
+    "100% Cancellation if hotels/entrances booked and paid in advanced during confirmation period and will be non refundable.",
+    "100% Cancellation during peak days or any trade fare",
+    "100% Cancellation once visa payment is done",
+    "For Group booking, please reconfirm the cancellation policy before confirmation.",
+    "Airline & hotel Cancellation policy will at time override the current cancellation policy listed"
     ]
   },
 
   "conditions": {
     "title": "Conditions",
     "conditions": [
-      "Airfare subject to availability at time of booking.",
-      "Hotels subject to availability. Similar category will be provided if unavailable.",
-      "No refund for unused services.",
-      "Transport services operate point-to-point as per itinerary.",
-      "Credit card payments may attract 3% surcharge."
+     "Above rates based on today’s ROE. Any fluctuation will vary the cost at the time of confirmation and final payment made.",
+    "For your international Travel, The Passport of passengers should have the validity of minimum 6 (SIX) months (from the date of return) and two or more blank pages for visa stamp.",
+    "Physical condition of Passport is taken care by guest directly in case of E-Visa.",
+    "Please ensure the passports are not damaged anywhere. In case of damaged passports the passenger may not be allowed by the immigration or airline.",
+    "Airfare is subject to availability at the time of confirmation with the payment.",
+    "Hotel Rooms & Service are subject to availability at the time of confirmation with the payment.",
+    "In case of Non availability of Hotel Rooms a similar category Hotel will be provided.",
+    "Credit card payments are subject to 3% bank charges. Any fluctuations may vary the cost.",
+    "No Change in Itinerary once confirmed will be honored unless otherwise given in writing. This may incur additional charges based on the requirement.",
+    "No verbal commitments will be honored unless otherwise given in writing.",
+    "The offers are valid till for time being only & unless otherwise specified.",
+    "Extension of stay would be subject to availability and on pro-rata basis and as of best rate of the day.",
+    "Private vehicle mentioned in the quotes is based on the itinerary(Point to Point Service)",
+    "For all SIC tour (Seat in Coach) – there is always waiting time for pick up/drop. Also the pickup/drop points may vary city to city unless specified hotel in the quotes.",
+    "Any City Taxes to be paid directly at hotel unless specified in the quotes.",
+    "Entrances specified in the itinerary will be covered. Any extra services to be taken care by guest directly.",
+    "No amendments possible once land arrangements have been confirmed",
+    "No refund for partly unutilized tickets. No refund for \"NO – SHOWS\" & Last moment cancellations",
+    "Granting or rejecting visas and immigration clearance is the sole prerogative of the concerned sovereign governments and we can only facilitate in the entire process. We shall neither be responsible in case of non-granting of such documents. Even if the visas are rejected, cancellation charges / fees shall be payable by the Client. There will be no refund, if the Clients, or any member of his party, is unable to travel due to the said reasons."
     ]
   }
 },
 {
-  "name": "Scandinavia — A Journey Through Beautiful Nature, Nordic Lifestyle & Rich Traditions",
+  "name": "Scandinavia & Baltic Discovery: Capitals, Nature & Cruises",
   "slug": "scandinavia-tour-package",
   "metaTitle": "Scandinavia Tour Package | Norway, Sweden, Denmark & Finland with Duniya Dekho",
   "metaDescription": "Explore stunning Scandinavian capitals and Nordic landscapes including Oslo, Stockholm, Copenhagen and Helsinki with Duniya Dekho. Experience fjords, royal palaces, Viking history and pristine nature.",
@@ -3185,79 +3243,82 @@
     ],
 
   "duration": "09 Nights | 10 Days",
+     "pdf": {
+  "name": "Download PDF",
+  "url": "/pdf/scandinavia-baltic-discovery-capitals-nature-cruises.pdf"
+      },
   "price": 234500,
 
   "description": [
-    "Discover the best of Scandinavia with a journey through Norway, Sweden, Denmark and Finland known for modern cities, fjords, coastal charm and Nordic culture.",
-    "Visit iconic capitals, royal palaces, old towns and stunning natural landscapes while enjoying world-class hospitality."
+    "Discover the highlights of Northern Europe, from Copenhagen’s canals to Norway’s dramatic fjords, Stockholm’s archipelago, Helsinki’s charm, and Tallinn’s medieval streets. This journey blends cultural landmarks, scenic landscapes, and relaxing overnight cruises for an unforgettable experience."
   ],
 
   "additionalInfo": [
     {
       "name": "Geography and Climate",
-      "description": "Scandinavia features coastal climates with cool summers, cold winters and scenic fjords, forests and archipelagos."
+      "description": "This itinerary covers Northern Europe, including Denmark, Norway, Sweden, Finland, and Estonia. It features a mix of coastal capitals, historic towns, scenic fjords, mountain regions, and archipelagos, offering a combination of urban exploration and natural beauty.Traveling in October, the region experiences cool autumn weather. Temperatures generally range from 5°C to 15°C. Coastal areas are mild and breezy, while inland and mountainous regions may be cooler. Occasional rain is possible, so light jackets and layers are recommended."
     }
   ],
 
   "itinerary": [
     {
       "day": "Day 01 :",
-      "title": "Arrival in Oslo (Norway)",
-      "description": "Arrive at Oslo Airport and transfer to hotel. Evening free to explore waterfront area.",
-      "additionalInfo": ["Overnight stay in Oslo hotel"]
+      "title": "Arrival in Copenhagen (1 Night)",
+      "description": "Arrive in Copenhagen, Denmark’s charming capital, known for its colorful canals, historic architecture, and vibrant culture. After airport transfer, check in at your hotel and enjoy some leisure time. You may explore Nyhavn harbor, ",
+      "additionalInfo": ["stroll along Strøget shopping street, or relax at a local café."]
     },
     {
       "day": "Day 02 :",
-      "title": "Oslo City Tour",
-      "description": "Visit City Hall, Royal Palace (exterior), Karl Johans Gate, Vigeland Park and Aker Brygge.",
-      "additionalInfo": ["Overnight stay in Oslo hotel"]
+      "title": "stroll along Strøget shopping street, or relax at a local café.",
+      "description": "After breakfast, board a scenic overnight cruise from Copenhagen to Oslo ",
+      "additionalInfo": ["Enjoy the amenities and entertainment on board while sailing across the beautiful waters of the Skagerrak Strait and experiencing the Nordic maritime atmosphere."]
     },
     {
       "day": "Day 03 :",
-      "title": "Oslo – Scenic Fjords – Stockholm",
-      "description": "Drive via scenic routes with fjord viewpoints before arriving in Stockholm (Sweden).",
-      "additionalInfo": ["Overnight stay in Stockholm hotel"]
+      "title": "Oslo (1 Night)",
+      "description": "Arrive in Oslo, Norway’s capital, and check in to your hotel. Explore Oslo’s cultural and historic highlights, such as the Vigeland Sculpture Park, the Royal Palace, and the Oslo Opera House. ",
+      "additionalInfo": ["Spend the evening at leisure, enjoying the city’s modern cafes and scenic waterfront."]
     },
     {
       "day": "Day 04 :",
-      "title": "Stockholm City Tour",
-      "description": "Visit Royal Palace (exterior), Gamla Stan (Old Town), Parliament House and City Hall.",
-      "additionalInfo": ["Overnight stay in Stockholm hotel"]
+      "title": "Geilo (1 Night)",
+      "description": "Depart Oslo and travel to Geilo, a picturesque mountain town nestled between Oslo and Bergen. En route, enjoy the scenic Norwegian landscapes with rolling hills and fjords.",
+      "additionalInfo": [" Upon arrival, check in at your hotel and spend the evening at leisure."]
     },
     {
       "day": "Day 05 :",
-      "title": "Stockholm – Copenhagen (Denmark) by Train",
-      "description": "Experience scenic high-speed rail journey across Southern Sweden to Copenhagen.",
-      "additionalInfo": ["Overnight stay in Copenhagen hotel"]
+      "title": " Upon arrival, check in at your hotel and spend the evening at leisure.",
+      "description": "After breakfast, continue your journey through Norway’s stunning fjord regions. Take the scenic train ride from Geilo to Myrdal, followed by the famous Flam Railway descending into the village of Flam. ",
+      "additionalInfo": ["Enjoy a fjord cruise through Nærøyfjord to Gudvangen and then drive to Bergen, Norway’s “Gateway to the Fjords,” for overnight stay."]
     },
     {
       "day": "Day 06 :",
-      "title": "Copenhagen City Tour",
-      "description": "Visit Little Mermaid Statue, Amalienborg Palace, Nyhavn Harbour and Opera House.",
-      "additionalInfo": ["Overnight stay in Copenhagen hotel"]
+      "title": ": Bergen – Stockholm (2 Nights)",
+      "description": "After breakfast, explore Bergen’s highlights, including Bryggen Wharf, the Fish Market, and the funicular ride up Mount Fløyen for panoramic views. Later, transfer to Stockholm, Sweden’s capital city, known for its archipelago, royal palaces, and historic Gamla Stan district. ",
+      "additionalInfo": ["Check in at your hotel for a two-night stay"]
     },
     {
       "day": "Day 07 :",
-      "title": "Copenhagen – Overnight Cruise to Helsinki",
-      "description": "Board an overnight cruise towards Helsinki (Finland) with on-board entertainment.",
-      "additionalInfo": ["Overnight onboard cruise cabin"]
+      "title": "Stockholm",
+      "description": "Spend a full day exploring Stockholm. Visit the Vasa Museum, the Royal Palace, and the city’s scenic waterways. Optionally, take a short excursion to Vaxholm, a charming island town in the Stockholm archipelago, known for its historic fortress and picturesque streets. .",
+      "additionalInfo": ["Evening at leisure in the city"]
     },
     {
       "day": "Day 08 :",
-      "title": "Arrival in Helsinki",
-      "description": "Reach Helsinki Port and transfer to hotel. Evening free to explore Market Square.",
-      "additionalInfo": ["Overnight stay in Helsinki hotel"]
+      "title": "Evening at leisure in the city",
+      "description": "Board an overnight cruise from Stockholm to Helsinki, Finland. Enjoy the cruise amenities while sailing across the Baltic Sea and soaking in the serene Nordic views. ",
+      "additionalInfo": ["Overnight on board"]
     },
     {
       "day": "Day 09 :",
-      "title": "Helsinki City Tour",
-      "description": "Visit Senate Square, Lutheran Cathedral, Sibelius Park and Uspenski Cathedral.",
-      "additionalInfo": ["Overnight stay in Helsinki hotel"]
+      "title": "Helsinki – Tallinn (1 Night)",
+      "description": "Arrive in Helsinki and enjoy a brief city tour of Finland’s capital, including Senate Square, Helsinki Cathedral, and the lively Market Square. In the afternoon, take a ferry to Tallinn, Estonia’s medieval capital. Explore Tallinn’s Old Town, with its cobbled streets and historic architecture, before checking in at your hotel for overnight stay.",
+      "additionalInfo": ["Tallinn – Departure"]
     },
     {
       "day": "Day 10 :",
-      "title": "Departure",
-      "description": "Transfer to Helsinki Airport for onward journey. Tour ends.",
+      "title": "Tallinn – Departure",
+      "description": "After breakfast, check out from your hotel and transfer to the airport for your onward flight, concluding your memorable journey through Scandinavia and the Baltic region.",
       "additionalInfo": []
     }
   ],
@@ -3265,56 +3326,86 @@
   "hotel": {
     "name": "Hotel Details",
     "amenities": [
-      "Good 4* Hotel in Oslo",
-      "Good 4* Hotel in Stockholm",
-      "Good 4* Hotel in Copenhagen",
-      "Good 4* Hotel in Helsinki"
+      "3* or 4* Best hotel"
+     
+    ]
+  },
+  
+  "flight": {
+    "name": "Flight not included",
+    "amenities": [
+      "3* or 4* Best hotel"
+     
     ]
   },
 
   "inclusionAndExclusion": {
     "inclusions": [
-      "Two Night’s Accommodation in Oslo",
-      "Two Night’s Accommodation in Stockholm",
-      "Two Night’s Accommodation in Copenhagen",
-      "Two Night’s Accommodation in Helsinki",
-      "Daily breakfast except day 1",
-      "All transfers & sightseeing as per itinerary",
-      "Oslo City Sightseeing",
-      "Stockholm City Sightseeing",
-      "Copenhagen City Sightseeing",
-      "Helsinki City Sightseeing",
-      "Copenhagen – Helsinki Overnight Cruise"
+     "One Night Accommodation in Copenhagen at suggested hotels or similar.",
+    "Two Nights’ Accommodation in Oslo at suggested hotels or similar.",
+    "One Night Accommodation in Geilo at suggested hotels or similar.",
+    "One Night Accommodation in Bergen at suggested hotels or similar.",
+    "Two Night Accommodation in Stockholm at suggested hotels or similar.",
+    "One Night Accommodation in Helsinki at suggested hotels or similar.",
+    "One Night Accommodation in Tallinn at suggested hotels or similar.",
+    "Daily breakfast except day 01",
+    "All Meals ( set menu ) as per mentioned in the itinerary",
+    "Entrance fees of all sightseeing places to visited from inside",
+    "Travel by AC comfortable A/C coach as per the itinerary",
+    "Return Airport transfers on Seat in Coach basis."
     ],
     "exclusions": [
-      "International Airfare",
-      "Schengen Visa Fees",
-      "Travel Insurance",
-      "Meals not mentioned",
-      "Optional tours or activities",
-      "Personal expenses (tips, drinks, laundry, etc.)",
-      "High Season Surcharges",
-      "Early check-in & late check-out"
+      "Return & Internal Airfare",
+    "Airport Taxes",
+    "Visa",
+    "Any Entry Fees other than the specified itinerary",
+    "Tips to Driver and Guide-personal expense",
+    "High Season Surcharges as applicable",
+    "Use of vehicle other than the specified itinerary",
+    "Any item that is not mentioned in the above Tour Price includes",
+    "No Intercity surface transfers are included unless specified in the package.",
+    "Expenses of personal nature. Example – Tipping, laundry & Telephone calls, Beverages etc",
+    "Lunch and Dinner",
+    "Travel Insurance not included",
+    "5% GST",
+    "5% TCS"
     ]
   },
 
   "pleaseNote": {
     "title": "Please Note",
     "notes": [
-      "Schengen visa processing may take 15–30 working days.",
-      "Sequence of itinerary may change due to operational reasons.",
-      "Peak dates may attract additional charges."
+       "100% Cancellation on low cost carrier once booking confirmed.",
+    "100% Cancellation if hotels/entrances booked and paid in advanced during confirmation period and will be non refundable.",
+    "100% Cancellation during peak days or any trade fare",
+    "100% Cancellation once visa payment is done",
+    "For Group booking, please reconfirm the cancellation policy before confirmation.",
+    "Airline & hotel Cancellation policy will at time override the current cancellation policy listed"
     ]
   },
 
   "conditions": {
     "title": "Conditions",
     "conditions": [
-      "Airfare subject to availability at time of booking.",
-      "Hotels subject to availability. Similar category will be provided if unavailable.",
-      "No refund for unused services.",
-      "Transport services operate point-to-point as per itinerary.",
-      "Credit card payments may attract 3% surcharge."
+       "Above rates based on today’s ROE. Any fluctuation will vary the cost at the time of confirmation and final payment made.",
+    "For your international Travel, The Passport of passengers should have the validity of minimum 6 (SIX) months (from the date of return) and two or more blank pages for visa stamp.",
+    "Physical condition of Passport is taken care by guest directly in case of E-Visa.",
+    "Please ensure the passports are not damaged anywhere. In case of damaged passports the passenger may not be allowed by the immigration or airline.",
+    "Airfare is subject to availability at the time of confirmation with the payment.",
+    "Hotel Rooms & Service are subject to availability at the time of confirmation with the payment.",
+    "In case of Non availability of Hotel Rooms a similar category Hotel will be provided.",
+    "Credit card payments are subject to 3% bank charges. Any fluctuations may vary the cost.",
+    "No Change in Itinerary once confirmed will be honored unless otherwise given in writing. This may incur additional charges based on the requirement.",
+    "No verbal commitments will be honored unless otherwise given in writing.",
+    "The offers are valid till for time being only & unless otherwise specified.",
+    "Extension of stay would be subject to availability and on pro-rata basis and as of best rate of the day.",
+    "Private vehicle mentioned in the quotes is based on the itinerary(Point to Point Service)",
+    "For all SIC tour (Seat in Coach) – there is always waiting time for pick up/drop. Also the pickup/drop points may vary city to city unless specified hotel in the quotes.",
+    "Any City Taxes to be paid directly at hotel unless specified in the quotes.",
+    "Entrances specified in the itinerary will be covered. Any extra services to be taken care by guest directly.",
+    "No amendments possible once land arrangements have been confirmed",
+    "No refund for partly unutilized tickets. No refund for \"NO – SHOWS\" & Last moment cancellations",
+    "Granting or rejecting visas and immigration clearance is the sole prerogative of the concerned sovereign governments and we can only facilitate in the entire process. We shall neither be responsible in case of non-granting of such documents. Even if the visas are rejected, cancellation charges / fees shall be payable by the Client. There will be no refund, if the Clients, or any member of his party, is unable to travel due to the said reasons."
     ]
   }
 },
