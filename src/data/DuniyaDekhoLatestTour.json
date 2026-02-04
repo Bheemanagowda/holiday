@@ -1,0 +1,66 @@
+[{
+  "intro": "Cultural & Coastal Getaway",
+  "name": "Sri Lanka",
+  "duration": "04 Nights / 05 Days",
+  "price": 30466,
+  "description": [
+    "Colombo City Tour,Nuwara Eliya,Kitulgala,",
+    "Kandy,Tea Plantation,Colombo,","Peradeniya and Pinnawala"
+    
+  ],
+  "image": "/images/small/srilanka.webp",
+  "slug": "/duniya-dekho/sri-lanka-tour-package"
+},
+{
+  "intro": "Urban & Island Escape",
+  "name": "Kuala Lumpur & Langkawi",
+  "duration": "06 Nights / 07 Days",
+  "price": 30466,
+  "description": [
+    "Langkawi, Mangrove and Cave Exploring,","Kuala Lumpur, Genting Highlands",
+    "KL Tower ,Malacca Day Trip"
+
+  ],
+
+  "image": "/images/small/kuala-lumbpur-&-langkawi.webp",
+  "slug": "/duniya-dekho/kuala-lumpur-langkawi-tour-package"
+},
+
+{
+  "intro": "Cultural & Scenic Adventure",
+  "name": "Vietnam Discovery",
+  "duration": "03 Nights / 04 Days",
+  "price": 25200,
+  "description": [
+    "Hanoi to Ha Long Bay Overnight Cruise , ","Ha Long Bay to Hanoi"
+  ],
+  "image": "/images/small/vietnam.webp",
+  "slug": "/duniya-dekho/vietnam-tour-package"
+},
+{
+  "intro": "Southeast Asia Highlights",
+  "name": "Singapore & Malaysia",
+  "duration": "06 Nights / 07 Days",
+  "price": 95400,
+  "description": [
+    "Kuala Lumpur, Malaysia , Kuala Lumpur City Tour , ","Singapore, Universal Studios Singapore Adventure , "
+  ],
+  "image": "/images/small/singapor-malasia.webp",
+  "slug": "/duniya-dekho/singapore-malaysia-tour-package"
+},
+
+{
+  "intro": "Best of Europe Tour ",
+  "name": "Italy, Switzerland & France ",
+  "duration": "9 Nights / 10 Days",
+  "price": 21600,
+  "description": [
+    "Rome,Vatican City Pisa, Venice,Vicenza,Lake Como,Lucerne / Zurich  ",
+    "Mt. Titlis ,Engelberg , Lucerne,Jungfraujoch,Interlaken,Lucerne / Zurich,Bern     ",
+    "Bern,Vevey,Geneva,Paris,Versailles,Paris     "
+    
+  ],
+  "image": "/images/banners/italy-switz-france/lake-como.webp",
+  "slug": "/duniya-dekho/italy-switzerland-france-tour-package"
+}
+]
