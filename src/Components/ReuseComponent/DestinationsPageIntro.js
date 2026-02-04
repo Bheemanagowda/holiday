@@ -6,7 +6,7 @@ function DestinationsPageIntro({ destinations }) {
     <div className="grid grid-cols-1 md:grid-cols-2 gap-8 h-full">
       {destinations?.map((item, index) => (
         /* Use index or a unique property like item.slug for the key */
-        <div key={index} className="flex flex-col h-full bg-white shadow-md">
+        <div key={index} className="flex flex-col h-full bg-[#fbfbfb] shadow-md">
   <img
     src={item.image}
     alt={item.name}

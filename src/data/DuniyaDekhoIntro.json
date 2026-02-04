@@ -245,26 +245,26 @@
   "slug": "/duniya-dekho/swiss-paris-tour-package"
 },
 {
-  "intro": "UK & Ireland Highlights",
+  "intro": "Royal Britain & Enchanting Ireland ",
   "name": "England, Scotland & Ireland",
-  "duration": "06 Nights / 07 Days",
+  "duration": "13 Nights / 14 Days",
   "price": 139680,
   "description": [
-    "London City Tour, Buckingham, London Eye",
-    "Edinburgh Castle, Royal Mile, Scottish Highlands",
-    "Dublin City Tour, Trinity College, Cliffs of Moher"
+    "London, Windsor,Oxford – Stonehenge,Bath / Swindon – Cardiff,Stratford-upon-Avon,Manchester,York,Lake District,Windermere,Gretna Gree,Glasgow,Edinburgh",",Kelpies,Dunkeld,Pitlochry,Loch Tummel,Glenturret Distillery,Glasgow,Belfast,Roscommon / Athlone,Cliffs of Moher – Dublin,Kildare "
+   
   ],
   "image": "/images/small/england-scotland-irland.webp",
   "slug": "/duniya-dekho/england-scotland-ireland-tour-package"
 },
 {
-  "intro": "Central Europe Highlights",
+  "intro": "European Dreams",
   "name": "Austria, Swiss & Paris",
-  "duration": "06 Nights / 07 Days",
+  "duration": "10 Nights / 11 Days",
   "price": 148540,
   "description": [
-    "Vienna City Tour, Schönbrunn Palace,Seine River Cruise",
-    " St. Stephen’s Cathedral, Mount Titlis, Lucerne City Tour,Lake Lucerne, ","Paris City Tour, Eiffel Tower, "
+    "Paris,Paris City Tour,Versailles & Disneyland Paris,Paris – Geneva ",
+    "Vevey,Bern,Lucerne,Mount Titlis,Engelberg Excursion,Jungfraujoch,Interlaken      ",
+    "Lucerne,Schaffhausen,Rhine Falls,Vaduz,Innsbruck,Innsbruck,Wattens,Salzburg,Hallein,Vienna   "
     
   ],
   "image": "/images/small/austria-swiss-paris.webp",
@@ -847,6 +847,20 @@
   ],
   "image": "/images/small/kuala-lumpur.webp",
   "slug": "/duniya-dekho/kuala-lumpur-tour-package"
+},
+{
+  "intro": "Best of Europe Tour ",
+  "name": "Italy, Switzerland & France ",
+  "duration": "9 Nights / 10 Days",
+  "price": 21600,
+  "description": [
+    "Rome,Vatican City Pisa, Venice,Vicenza,Lake Como,Lucerne / Zurich  ",
+    "Mt. Titlis ,Engelberg , Lucerne,Jungfraujoch,Interlaken,Lucerne / Zurich,Bern     ",
+    "Bern,Vevey,Geneva,Paris,Versailles,Paris     "
+    
+  ],
+  "image": "/images/banners/italy-switz-france/lake-como.webp",
+  "slug": "/duniya-dekho/italy-switzerland-france-tour-package"
 }
 
 

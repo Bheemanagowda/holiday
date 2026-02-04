@@ -2506,7 +2506,7 @@
   }
 },
 {
-  "name": "England, Scotland & Ireland — Discover Royal Landmarks, Celtic Traditions & Breathtaking Countryside",
+  "name": "Royal Britain & Enchanting Ireland ",
   "slug": "england-scotland-ireland-tour-package",
   "metaTitle": "England, Scotland & Ireland Tour Package | London, Edinburgh & Dublin",
   "metaDescription": "Explore London, Edinburgh and Dublin with Duniya Dekho. Includes London city tour, Edinburgh Castle, Scottish Highlands and Dublin attractions.",
@@ -2535,52 +2535,51 @@
   "duration": "09 Nights  |  10 Days",
     "pdf": {
   "name": "Download PDF",
-  "url": ""
+  "url": "/pdf/england-scotland-ireland-14-nights-15-days.pdf"
       },
   "price": 189000,
 
   "description": [
-    "Experience a royal-themed journey through England, Scotland and Ireland, blending history, culture and natural beauty.",
-    "Visit iconic attractions in London, explore medieval Edinburgh and enjoy the vibrant Irish charm of Dublin."
+    "This carefully curated 15-day journey offers an immersive exploration of the United Kingdom and Ireland, combining historic cities, royal landmarks, dramatic coastlines, and breathtaking countryside. The itinerary is designed to balance guided sightseeing with scenic drives and relaxed leisure time, allowing travelers to experience the cultural depth, architectural heritage, and natural beauty of five distinct regions. From the iconic streets of London and the literary towns of England to the misty Scottish Highlands and the rugged Cliffs of Moher, this tour delivers a seamless blend of history, culture, and scenic charm. Cross-border travel between England, Wales, Scotland, Northern Ireland, and the Republic of Ireland adds richness and diversity, making this itinerary ideal for travelers seeking a comprehensive and memorable European experience."
   ],
 
   "additionalInfo": [
     {
       "name": "Geography and Climate",
-      "description": "England, Scotland and Ireland have a temperate maritime climate with mild summers, cool winters and frequent rainfall."
+      "description": "The region experiences a temperate maritime climate, strongly influenced by the Atlantic Ocean. This results in generally mild weather throughout the year, with moderate seasonal variations and occasional rainfall. Summers, from May to September, are pleasant and comfortable, with average temperatures ranging between 15°C and 25°C, making it ideal for sightseeing and outdoor exploration. Winters are cool rather than extreme, particularly in England and Ireland, while Scotland and Northern Ireland can experience colder conditions, especially in the Highlands. Rain showers can occur at any time of year, contributing to the region’s lush green landscapes, and travelers are advised to carry light jackets and rain protection for comfort."
     }
   ],
 
   "itinerary": [
     {
       "day": "Day 01 :",
-      "title": "Arrival in London",
-      "description": "Arrive in London. Free time to explore the surroundings or optional London Eye ride.",
-      "additionalInfo": ["Overnight stay in London hotel"]
+      "title": ": Arrival at London – Windsor – London ",
+      "description": "Upon arrival at London Heathrow Airport, you will be warmly welcomed and begin your journey into England, a country known for its royal legacy, historic landmarks, and global influence. After immigration clearance, proceed towards the historic town of Windsor, home to the magnificent Windsor Castle, the oldest and largest inhabited castle in the world and an official residence of the British monarchy. After exploring this royal town, you will return to London, the capital city of England, where tradition and modernity coexist effortlessly. The remainder of the evening is at leisure to relax after your long flight before settling in for an overnight stay in London.",
+      "additionalInfo": ["The remainder of the evening is at leisure to relax after your long flight before settling in for an overnight stay in London."]
     },
     {
       "day": "Day 02 :",
-      "title": "London City Tour",
-      "description": "Visit major attractions including Buckingham Palace (exterior), Big Ben, Westminster Abbey, Tower Bridge and Trafalgar Square.",
-      "additionalInfo": ["Overnight stay in London hotel"]
+      "title": "London",
+      "description": "Today is dedicated to discovering the iconic highlights of London, one of the world’s most cosmopolitan cities. The city tour introduces you to famous landmarks such as Buckingham Palace, Big Ben, the Houses of Parliament, Westminster Abbey, and Trafalgar Square, each narrating centuries of British history. London is also known for its cultural diversity, world-class museums, and vibrant shopping streets. ",
+      "additionalInfo": ["You may choose to enjoy leisure time exploring Covent Garden, Oxford Street, or taking a scenic walk along the River Thames before returning to the hotel for another overnight stay in London."]
     },
     {
       "day": "Day 03 :",
-      "title": "London – Windsor Castle (Optional) – Train to Edinburgh",
-      "description": "Morning at leisure or optional Windsor Castle visit. Evening high-speed train to Edinburgh.",
-      "additionalInfo": ["Overnight stay in Edinburgh hotel"]
+      "title": "London – Oxford – Stonehenge – Bath / Swindon",
+      "description": "After breakfast, you depart London and travel through the picturesque English countryside towards Oxford, renowned for its prestigious university and stunning medieval architecture. Continuing onward, you visit Stonehenge, one of the world’s most mysterious prehistoric monuments, standing majestically on the Salisbury Plain. Later, the journey proceeds to Bath or Swindon for the night. Bath is famous for its Roman Baths and elegant Georgian architecture, reflecting England’s ancient and classical heritage. ",
+      "additionalInfo": ["You will check into your hotel and enjoy a relaxed evening."]
     },
     {
       "day": "Day 04 :",
-      "title": "Edinburgh City Tour & Castle",
-      "description": "Enjoy a guided city tour covering Royal Mile, Holyrood Palace (exterior) and entrance to Edinburgh Castle.",
-      "additionalInfo": ["Overnight stay in Edinburgh hotel"]
+      "title": "Bath / Swindon – Cardiff",
+      "description": "Leaving England behind, today you enter Wales, a country celebrated for its Celtic culture, dramatic landscapes, and historic castles. You travel to Cardiff, the Welsh capital, known for its compact city center and rich history. Upon arrival, you may explore Cardiff Castle, an impressive fortress set amidst modern city surroundings, showcasing Roman, Norman, and Victorian influences. ",
+      "additionalInfo": ["The evening is free to explore Cardiff Bay or enjoy local Welsh cuisine before overnight stay in Cardiff."]
     },
     {
       "day": "Day 05 :",
-      "title": "Scottish Highlands Excursion",
-      "description": "Full-day Highlands tour with scenic landscapes, Loch and countryside views.",
-      "additionalInfo": ["Overnight stay in Edinburgh hotel"]
+      "title": "Cardiff – Stratford-upon-Avon – Manchester ",
+      "description": "This morning, you journey back into England, traveling through rolling countryside towards Stratford-upon-Avon, the birthplace of William Shakespeare. The town is filled with charming timber-framed houses and literary significance. After soaking in the atmosphere of this historic town, you continue northwards to Manchester, a dynamic city known for its industrial heritage, world-famous football culture, and vibrant music scene. On arrival,",
+      "additionalInfo": [" you check into your hotel and relax for the evening."]
     },
     {
       "day": "Day 06 :",
@@ -2590,87 +2589,146 @@
     },
     {
       "day": "Day 07 :",
-      "title": "Dublin City Tour",
-      "description": "Visit Trinity College, Dublin Castle (exterior), St. Patrick’s Cathedral and Temple Bar district.",
-      "additionalInfo": ["Overnight stay in Dublin hotel"]
+      "title": "Manchester – Lake District – Windermere – Gretna Green – Glasgow",
+      "description": "After breakfast, the journey heads towards the breathtaking Lake District National Park, a UNESCO World Heritage Site celebrated for its serene lakes, rolling hills, and poetic landscapes. A visit to Windermere, the largest lake in England, offers stunning natural views. Continuing north, you cross into Scotland, stopping at Gretna Green, famous for its romantic wedding traditions. By evening, you arrive in Glasgow, Scotland’s largest city, known for its Victorian architecture, vibrant arts scene, and friendly atmosphere, ",
+      "additionalInfo": ["where you will stay for the next three nights."]
     },
     {
       "day": "Day 08 :",
-      "title": "Cliffs of Moher Excursion",
-      "description": "Full-day excursion to the majestic Cliffs of Moher overlooking the Atlantic Ocean.",
+      "title": "Glasgow – Edinburgh – Kelpies – Glasgow",
+      "description": "Today you explore Edinburgh, the capital of Scotland, a city steeped in history and dramatic scenery. Highlights include the majestic Edinburgh Castle, perched atop Castle Rock, and the historic Royal Mile. On the return journey, you stop to view The Kelpies, massive horse-head sculptures symbolizing Scotland’s industrial heritage and folklore. You return to Glasgow in the evening for overnight stay.",
       "additionalInfo": ["Overnight stay in Dublin hotel"]
     },
     {
       "day": "Day 09 :",
-      "title": "Dublin Free Day",
-      "description": "Day at leisure for shopping or optional Guinness Storehouse experience.",
-      "additionalInfo": ["Overnight stay in Dublin hotel"]
+      "title": "Glasgow – Dunkeld – Pitlochry – Loch Tummel – Glenturret Distillery – Glasgow",
+      "description": "This day offers a deep dive into the scenic Scottish Highlands, known for their rugged beauty and tranquil landscapes. You travel through the charming villages of Dunkeld and Pitlochry, followed by a visit to Loch Tummel, offering panoramic views of the surrounding hills. ",
+      "additionalInfo": ["A stop at Glenturret Distillery, one of Scotland’s oldest whisky distilleries, provides insight into traditional whisky-making. You return to Glasgow by evening."]
     },
     {
       "day": "Day 10 :",
-      "title": "Departure from Dublin",
-      "description": "Transfer to Dublin Airport for onward journey. Tour ends.",
-      "additionalInfo": []
+      "title": "Glasgow – Belfast ",
+      "description": "After breakfast, you transfer to the port or airport for your journey to Belfast, the capital of Northern Ireland. Belfast is a city of resilience and renewal, known for its shipbuilding history and cultural revival. ",
+      "additionalInfo": ["Upon arrival, you check into your hotel and enjoy a relaxed evening exploring the city."]
+    },
+      {
+      "day": "Day 11 :",
+      "title": "Belfast ",
+      "description": "Today is dedicated to exploring Belfast and its surroundings. You may visit landmarks such as Titanic Belfast, which tells the story of the city’s shipbuilding legacy, along with city highlights reflecting both history and modern development. ",
+      "additionalInfo": ["Northern Ireland’s landscapes are lush and green due to frequent rainfall, giving the region its famous emerald appearance. Overnight stay in Belfast. "]
+    },
+     {
+      "day": "Day 12 :",
+      "title": "Belfast – Roscommon / Athlone ",
+      "description": "Leaving Northern Ireland, you enter the Republic of Ireland, a country known for its warm hospitality, rolling green countryside, and rich folklore. You travel south through scenic rural landscapes to Roscommon or Athlone, located in the heart of Ireland. ",
+      "additionalInfo": ["The evening is free to relax and experience the peaceful charm of the Irish countryside.  "]
+    },
+       {
+      "day": "Day 13 :",
+      "title": "Roscommon / Athlone – Cliffs of Moher – Dublin  ",
+      "description": "Today’s journey takes you westward to the spectacular Cliffs of Moher, one of Ireland’s most iconic natural wonders, where dramatic cliffs rise above the Atlantic Ocean offering unforgettable views.  ",
+      "additionalInfo": ["After this breathtaking experience, you proceed east towards Dublin, Ireland’s lively capital city, known for its literary heritage, historic pubs, and youthful energy. Upon arrival, you check into your hotel for a two-night stay."]
+    },
+    {
+      "day": "Day 14 :",
+      "title": "Dublin – Kildare – Dublin  ",
+      "description": "This day is spent exploring Dublin’s major attractions, including historic streets, cultural landmarks, and lively neighborhoods. Later, you travel to Kildare, famous for its luxury outlet shopping and Irish heritage sites.  ",
+      "additionalInfo": ["After leisure time, you return to Dublin for your final overnight stay."]
+    },
+     {
+      "day": "Day 15 :",
+      "title": "Dublin – Departure ",
+      "description": "After breakfast, you will be transferred to Dublin Airport for your onward journey. ",
+      "additionalInfo": ["The tour concludes with wonderful memories of the United Kingdom and Ireland, encompassing royal cities, natural wonders, and rich cultural experiences across five countries."]
     }
   ],
 
   "hotel": {
     "name": "Hotel details",
     "amenities": [
-      "Good 4* Hotel in London",
-      "Good 4* Hotel in Edinburgh",
-      "Good 4* Hotel in Dublin"
+      "3* or 4* Best hotel"
+      
+    ]
+  },
+   "flight": {
+    "name": "Flight details",
+    "amenities": [
+      "Flight not included"
+      
     ]
   },
 
   "inclusionAndExclusion": {
     "inclusions": [
-      "Three Night’s Accommodation in London at suggested hotels or similar",
-      "Three Night’s Accommodation in Edinburgh at suggested hotels or similar",
-      "Three Night’s Accommodation in Dublin at suggested hotels or similar",
-      "Daily breakfast except day 1",
-      "All transfers & sightseeing as per itinerary",
-      "Edinburgh Castle Entrance",
-      "Scottish Highlands Excursion",
-      "Cliffs of Moher Excursion",
-      "London – Edinburgh Train Ticket",
-      "Edinburgh – Dublin Flight Ticket"
+      "Two Nights’ Accommodation in London at suggested hotels or similar.",
+  "One Night Accommodation in Bath at suggested hotels or similar.",
+  "One Night Accommodation in Cardiff at suggested hotels or similar.",
+  "Two Nights’ Accommodation in Manchester at suggested hotels or similar.",
+  "Three Nights’ Accommodation in Glasgow at suggested hotels or similar.",
+  "One Night Accommodation in Athlone at suggested hotels or similar.",
+  "Two Nights’ Accommodation in Belfast at suggested hotels or similar.",
+  "Two Nights’ Accommodation in Dublin at suggested hotels or similar.",
+  "Daily breakfast except Day 01.",
+  "All meals (set menu) as mentioned in the itinerary.",
+  "Entrance fees for all sightseeing places to be visited from inside.",
+  "Return airport transfers on Seat-in-Coach basis."
     ],
     "exclusions": [
-      "International Airfare",
-      "UK & Ireland Visa Fees",
-      "Travel Insurance",
-      "Meals not mentioned",
-      "Optional tours & activities",
-      "Porterage, drinks, laundry, tips",
-      "High Season Surcharges",
-      "Early check-in & late check-out"
+      "Return & Internal Airfare",
+  "Airport Taxes",
+  "Visa",
+  "Any entry fees other than the specified itinerary",
+  "Tips to driver and guide – personal expenses",
+  "High season surcharges as applicable",
+  "Use of vehicle other than the specified itinerary",
+  "Any item that is not mentioned in the above Tour Price includes",
+  "No intercity surface transfers are included unless specified in the package",
+  "Expenses of personal nature (e.g., tipping, laundry, telephone calls, beverages, etc.)",
+  "Lunch & dinner not included",
+  "Travel insurance not included",
+  "5% GST",
+  "5% TCS"
     ]
   },
 
   "pleaseNote": {
     "title": "Please Note",
     "notes": [
-      "Visa processing times vary based on consulate workload.",
-      "Sequence of itinerary may change due to operational reasons.",
-      "Peak travel season may attract additional surcharges."
+     "100% cancellation on low-cost carriers once booking is confirmed.",
+  "100% cancellation if hotels or entrances are booked and paid in advance during the confirmation period; such bookings are non-refundable.",
+  "100% cancellation during peak days or on any trade fare.",
+  "100% cancellation once visa payment is done.",
+  "For group bookings, please reconfirm the cancellation policy before confirmation.",
+  "Airline and hotel cancellation policies will override the current cancellation policy listed."
     ]
   },
 
   "conditions": {
     "title": "Conditions",
     "conditions": [
-      "Airfare subject to availability at confirmation.",
-      "Hotels subject to availability at booking.",
-      "Similar category accommodation will be provided if listed hotels are unavailable.",
-      "No refund for partially used services.",
-      "Transport services are point-to-point as per itinerary.",
-      "Credit card payments attract 3% surcharge."
+       "Above rates are based on today’s ROE. Any fluctuation will vary the cost at the time of confirmation and final payment.",
+  "For international travel, passengers’ passports must be valid for a minimum of six (6) months from the date of return and must have two or more blank pages for visa stamping.",
+  "The physical condition of the passport is the guest’s responsibility in case of an e-visa. Please ensure passports are not damaged; damaged passports may lead to denial by immigration or the airline.",
+  "Airfare is subject to availability at the time of confirmation with payment.",
+  "Hotel rooms and services are subject to availability at the time of confirmation with payment.",
+  "In case of non-availability of hotel rooms, a similar category hotel will be provided.",
+  "Credit card payments are subject to 3% bank charges. Any fluctuations may vary the cost.",
+  "No changes to the itinerary once confirmed will be honored unless provided in writing. This may incur additional charges based on the requirement.",
+  "No verbal commitments will be honored unless provided in writing.",
+  "Offers are valid for the time being only unless otherwise specified.",
+  "Extension of stay is subject to availability and will be charged on a pro-rata basis at the best available rate of the day.",
+  "Private vehicle mentioned in the quotation is based on the itinerary (point-to-point service).",
+  "For all SIC tours (Seat-in-Coach), there may be waiting time for pickup and drop-off. Pickup and drop points may vary from city to city unless a specific hotel is mentioned in the quotation.",
+  "Any city taxes must be paid directly at the hotel unless specified in the quotation.",
+  "Entrances specified in the itinerary will be covered. Any extra services must be paid directly by the guest.",
+  "No amendments are possible once land arrangements have been confirmed.",
+  "No refund for partially unutilized tickets. No refund for no-shows or last-moment cancellations.",
+  "Granting or rejecting visas and immigration clearance is the sole prerogative of the concerned sovereign governments. We only facilitate the process and are not responsible for non-granting of visas. Even if visas are rejected, cancellation charges or fees shall be payable by the client, and no refund will be provided if the client or any member of the party is unable to travel due to these reasons."
     ]
   }
 },
 {
-  "name": "Austria, Switzerland & Paris — From Snow-Capped Peaks to Parisian Elegance",
+  "name": "European Dreams: Paris, Switzerland & Austria  ",
   "slug": "austria-swiss-paris-tour-package",
   "metaTitle": "Austria, Switzerland & Paris Tour Package | Vienna, Alps & Eiffel Tower with Duniya Dekho",
   "metaDescription": "Discover Vienna, the Swiss Alps and Paris with Duniya Dekho. Includes Schönbrunn Palace, Mt. Titlis, Jungfraujoch, Seine Cruise and Disneyland Paris.",
@@ -2696,140 +2754,174 @@
                   "/images/banners/swiss-paris/zurich.webp"
     ],
 
-  "duration": "09 Nights  |  10 Days",
+  "duration": "10 Nights  |  11 Days",
+     "pdf": {
+  "name": "Download PDF",
+  "url": "/pdf/european-dreams-paris-switzerland-austria-10-nights-11-days.pdf"
+      },
+  
   "price": 158000,
 
   "description": [
-    "Start your journey in Austria, the cultural capital of Europe, known for imperial palaces, classical music heritage and stunning Alpine scenery.",
-    "Continue to Switzerland to enjoy the majestic Alps, serene lakes and thrilling excursions to Mt. Titlis and Jungfraujoch.",
-    "End the tour in Paris — the City of Lights, featuring the Eiffel Tower, Seine Cruise, Louvre exterior and magical Disneyland Paris."
+    "This exciting European itinerary combines the romance of Paris with the breathtaking alpine landscapes of Switzerland and the cultural elegance of Austria, along with a unique visit to Liechtenstein. From iconic landmarks, Versailles, and Disneyland Paris to scenic lakes, snow-capped mountains, Rhine Falls, and historic imperial cities, the journey offers a perfect blend of culture, nature, and leisure. Ideal for families, couples, and first-time travelers, this tour delivers a memorable and well-balanced European experience across four beautiful countries."
   ],
 
   "additionalInfo": [
     {
       "name": "Geography and Climate",
-      "description": "Austria and Switzerland have Alpine climates with cool summers and snowy winters. Paris features a mild continental climate with pleasant summers and chilly winters."
+      "description": "The region experiences a predominantly temperate continental and alpine climate, with clear seasonal variations influenced by altitude and geography. Summers, from May to September, are generally mild to warm and ideal for sightseeing, with temperatures ranging between 18°C and 30°C in cities, while alpine regions remain cooler and refreshing. Winters are colder, especially in Switzerland and Austria’s mountainous areas, where snowfall is common and landscapes transform into scenic winter wonderlands. Spring and autumn bring pleasant weather, blooming valleys, and colorful foliage, making these seasons popular for travel. Occasional rainfall can occur throughout the year, particularly in alpine regions, and travelers are advised to carry layered clothing to stay comfortable in changing weather conditions."
     }
   ],
 
   "itinerary": [
     {
       "day": "Day 01 :",
-      "title": "Arrival in Vienna",
-      "description": "Arrive in Vienna. Enjoy free time for leisure or optional Danube River Cruise.",
-      "additionalInfo": ["Overnight stay in Vienna hotel"]
+      "title": "Arrival in Paris",
+      "description": "Upon arrival in Paris, the capital of France and one of the most romantic cities in the world, you will be transferred to your hotel. Paris is renowned for its timeless architecture, artistic heritage, and elegant lifestyle. ",
+      "additionalInfo": ["The rest of the day is free to relax or enjoy a leisurely walk around nearby streets, cafés, and boulevards, soaking in the unmistakable Parisian atmosphere before your overnight stay."]
     },
     {
       "day": "Day 02 :",
-      "title": "Vienna City Tour & Schönbrunn Palace",
-      "description": "City tour covering Ringstrasse, Hofburg Palace, Opera House and Schönbrunn Palace entrance visit.",
-      "additionalInfo": ["Overnight stay in Vienna hotel"]
+      "title": "Paris City Tour",
+      "description": "Today you explore the iconic highlights of Paris, a city that effortlessly blends history, art, and modern culture. The panoramic city tour introduces you to world-famous landmarks such as the Eiffel Tower, Champs-Élysées, Arc de Triomphe, Notre-Dame Cathedral, and the Louvre Museum exterior. ",
+      "additionalInfo": ["The scenic drive along the River Seine showcases Paris at its most elegant, making this a truly memorable introduction to the City of Lights."]
     },
     {
       "day": "Day 03 :",
-      "title": "Vienna – Salzburg – Lucerne",
-      "description": "Travel to Salzburg for a brief walking tour. Continue across the Austrian Alps to Lucerne.",
-      "additionalInfo": ["Overnight stay in Lucerne hotel"]
+      "title": "Versailles & Disneyland Paris",
+      "description": "After breakfast, you proceed to the magnificent Palace of Versailles, a symbol of royal grandeur and one of Europe’s most impressive landmarks. The palace’s lavish halls and beautifully landscaped gardens reflect France’s royal history and architectural excellence. Later, you visit Disneyland Paris, where fantasy, adventure, and entertainment come together, offering magical experiences for both children and adults. You return to Paris in the evening for your overnight stay.",
+      "additionalInfo": ["You return to Paris in the evening for your overnight stay."]
     },
     {
       "day": "Day 04 :",
-      "title": "Mt. Titlis Excursion",
-      "description": "Ride the Rotair cable car to Mt. Titlis for snow activities and glacier experiences.",
-      "additionalInfo": ["Overnight stay in Lucerne hotel"]
+      "title": "Paris – Geneva ",
+      "description": "Today you travel from France into Switzerland, a country celebrated for its breathtaking alpine scenery and high quality of life. Upon arrival in Geneva, a cosmopolitan city set beside Lake Geneva, you enjoy a brief orientation showcasing the Jet d’Eau fountain, international institutions, and charming lakeside promenades. ",
+      "additionalInfo": ["The serene surroundings and mountain views create a peaceful setting for your overnight stay."]
     },
     {
       "day": "Day 05 :",
-      "title": "Lucerne – Interlaken",
-      "description": "Transfer to Interlaken via scenic countryside. Optional excursion to Harder Kulm viewpoint.",
-      "additionalInfo": ["Overnight stay in Interlaken hotel"]
+      "title": "Geneva – Vevey – Bern – Lucerne ",
+      "description": "After breakfast, you journey through the scenic Swiss countryside, stopping at Vevey, a charming lakeside town along Lake Geneva known for its relaxed atmosphere. You then continue to Bern, the capital of Switzerland, where medieval architecture, arcaded streets, and the iconic clock tower reflect the city’s historic charm. By evening, you arrive in Lucerne, one of Switzerland’s most picturesque cities, beautifully set beside Lake Lucerne and surrounded by mountains.",
+      "additionalInfo": ["By evening, you arrive in Lucerne, one of Switzerland’s most picturesque cities, beautifully set beside Lake Lucerne and surrounded by mountains."]
     },
     {
       "day": "Day 06 :",
-      "title": "Jungfraujoch – Top of Europe",
-      "description": "Excursion to Jungfraujoch featuring Ice Palace, Sphinx Observatory and snow plateau.",
-      "additionalInfo": ["Overnight stay in Interlaken hotel"]
+      "title": "Mount Titlis / Engelberg Excursion",
+      "description": "Today is dedicated to exploring the alpine beauty of Engelberg, a classic Swiss mountain resort. A journey to Mount Titlis offers an unforgettable experience of snow-capped peaks, glaciers, and panoramic mountain views. ",
+      "additionalInfo": ["The highlight includes riding cable cars and experiencing the eternal snow, making this day a true alpine adventure before returning to Lucerne for the night."]
     },
     {
       "day": "Day 07 :",
-      "title": "Interlaken – Paris via High-Speed Train",
-      "description": "Travel by TGV to Paris. Evening free at leisure.",
-      "additionalInfo": ["Overnight stay in Paris hotel"]
+      "title": "Jungfraujoch – Interlaken",
+      "description": "This day features a visit to Jungfraujoch, known as the “Top of Europe,” one of Switzerland’s most iconic attractions. The scenic train journey through the Alps leads to breathtaking views of glaciers and snow-covered landscapes. Later, you visit Interlaken, a charming town nestled between Lake Thun and Lake Brienz, offering postcard-perfect scenery. ",
+      "additionalInfo": ["You return to Lucerne by evening for overnight stay."]
     },
     {
       "day": "Day 08 :",
-      "title": "Paris City Tour & Seine Cruise",
-      "description": "Visit Eiffel Tower (2nd level), Louvre exterior, Arc de Triomphe & Champs-Élysées followed by a Seine River Cruise.",
-      "additionalInfo": ["Overnight stay in Paris hotel"]
+      "title": "Lucerne – Schaffhausen – Rhine Falls – Vaduz – Innsbruck",
+      "description": "After breakfast, you travel towards Schaffhausen to witness the magnificent Rhine Falls, Europe’s largest waterfall, where powerful cascades create a spectacular natural display. Continuing onward, you enter Liechtenstein and visit Vaduz, the capital city, known for its alpine setting and peaceful charm. ",
+      "additionalInfo": ["Later, you proceed into Austria, arriving in Innsbruck, a beautiful city set amidst the Alps, where you check in for the night."]
     },
     {
       "day": "Day 09 :",
-      "title": "Disneyland Paris",
-      "description": "Full day at Disneyland Paris with access to 1 Park. Enjoy rides, shows and parade.",
-      "additionalInfo": ["Overnight stay in Paris hotel"]
+      "title": "Innsbruck – Wattens – Salzburg (1 Night)",
+      "description": "This morning, you explore Innsbruck, famous for its imperial history and mountain views. The journey continues to Wattens, home to the Swarovski Crystal Worlds, where art, design, and craftsmanship come together in a unique attraction. Later, you proceed to Salzburg, the birthplace of Mozart, renowned for its baroque architecture and musical heritage, ",
+      "additionalInfo": ["where you stay overnight."]
     },
     {
       "day": "Day 10 :",
-      "title": "Departure from Paris",
-      "description": "Transfer to Paris Airport for onward journey. Tour ends.",
-      "additionalInfo": []
+      "title": "Salzburg – Hallein – Vienna",
+      "description": "After breakfast, you travel through Hallein, a picturesque town known for its historic salt mines and traditional Austrian charm. You then continue to Vienna, Austria’s capital, a city synonymous with imperial palaces, classical music, and refined elegance. ",
+      "additionalInfo": ["Upon arrival, you enjoy a brief orientation showcasing the grandeur of this historic city before checking in for the night."]
+    },
+      {
+      "day": "Day 11 :",
+      "title": "Vienna – Departure",
+      "description": "After breakfast, you will be transferred to the airport for your onward journey. The tour concludes with unforgettable memories of Europe’s romantic cities, alpine landscapes, cultural treasures, and fairy-tale destinations across four beautiful countries.",
+      "additionalInfo": ["Upon arrival, you enjoy a brief orientation showcasing the grandeur of this historic city before checking in for the night."]
     }
   ],
 
   "hotel": {
     "name": "Hotel details",
     "amenities": [
-      "Good 4* Hotel in Vienna",
-      "Good 4* Hotel in Lucerne",
-      "Good 4* Hotel in Interlaken",
-      "Good 4* Hotel in Paris"
+      "3* or 4* Best hotel"
+      
+    ]
+  },
+   "flight": {
+    "name": "Flight details",
+    "amenities": [
+      "Flight not included "
+      
     ]
   },
 
   "inclusionAndExclusion": {
     "inclusions": [
-      "Two Night’s Accommodation in Vienna at suggested hotels or similar",
-      "Two Night’s Accommodation in Lucerne at suggested hotels or similar",
-      "Two Night’s Accommodation in Interlaken at suggested hotels or similar",
-      "Three Night’s Accommodation in Paris at suggested hotels or similar",
-      "Daily breakfast except day 1",
-      "All transfers & sightseeing as per itinerary",
-      "Schönbrunn Palace Entrance",
-      "Mt. Titlis Excursion",
-      "Jungfraujoch Excursion",
-      "Seine River Cruise",
-      "Disneyland 1 Day 1 Park Ticket",
-      "TGV High-Speed Train (Interlaken to Paris)"
+     "Three Nights’ Accommodation in Paris at suggested hotels or similar.",
+  "One Night Accommodation in Geneva at suggested hotels or similar.",
+  "Three Nights’ Accommodation in Lucerne at suggested hotels or similar.",
+  "One Night Accommodation in Innsbruck at suggested hotels or similar.",
+  "One Night Accommodation in Salzburg at suggested hotels or similar.",
+  "One Night Accommodation in Vienna at suggested hotels or similar.",
+  "Daily breakfast except Day 01.",
+  "All meals (set menu) as mentioned in the itinerary.",
+  "Entrance fees for all sightseeing places to be visited from inside.",
+  "Travel by comfortable air-conditioned coach as per the itinerary.",
+  "Return airport transfers on Seat-in-Coach basis."
     ],
     "exclusions": [
-      "International Airfare",
-      "Schengen Visa Fees",
-      "Travel Insurance",
-      "Meals not mentioned",
-      "Optional tours & activities",
-      "Personal expenses (tips, laundry, drinks)",
-      "High Season Surcharges",
-      "Early check-in & late check-out"
+     "Return & Internal Airfare",
+  "Airport Taxes",
+  "Visa",
+  "Any entry fees other than the specified itinerary",
+  "Tips to driver and guide – personal expenses",
+  "High season surcharges as applicable",
+  "Use of vehicle other than the specified itinerary",
+  "Any item that is not mentioned in the above tour price includes",
+  "No intercity surface transfers are included unless specified in the package",
+  "Expenses of personal nature (e.g., tipping, laundry, telephone calls, beverages, etc.)",
+  "Lunch and dinner",
+  "Travel insurance not included",
+  "5% GST",
+  "5% TCS"
     ]
   },
 
   "pleaseNote": {
     "title": "Please Note",
     "notes": [
-      "Schengen visa processing time may take 15–30 working days.",
-      "Sequence of itinerary may change due to operational reasons.",
-      "Peak travel months may attract additional surcharges."
+     "100% cancellation on low-cost carriers once booking is confirmed.",
+  "100% cancellation if hotels or entrances are booked and paid in advance during the confirmation period; such bookings are non-refundable.",
+  "100% cancellation during peak days or on any trade fare.",
+  "100% cancellation once visa payment is done.",
+  "For group bookings, please reconfirm the cancellation policy before confirmation.",
+  "Airline and hotel cancellation policies will override the current cancellation policy listed."
     ]
   },
 
   "conditions": {
     "title": "Conditions",
     "conditions": [
-      "Airfare subject to availability at confirmation.",
-      "Hotels subject to availability at booking.",
-      "Similar category hotel provided if listed hotel unavailable.",
-      "No refund for unused services.",
-      "Transport services operate point-to-point as per itinerary.",
-      "Credit card payments attract 3% surcharge."
+      "Above rates are based on today’s ROE. Any fluctuation will vary the cost at the time of confirmation and final payment.",
+  "For international travel, passengers’ passports must be valid for a minimum of six (6) months from the date of return and must have two or more blank pages for visa stamping.",
+  "The physical condition of the passport is the guest’s responsibility in case of an e-visa. Please ensure passports are not damaged; damaged passports may lead to denial by immigration or the airline.",
+  "Airfare is subject to availability at the time of confirmation with payment.",
+  "Hotel rooms and services are subject to availability at the time of confirmation with payment.",
+  "In case of non-availability of hotel rooms, a similar category hotel will be provided.",
+  "Credit card payments are subject to 3% bank charges. Any fluctuations may vary the cost.",
+  "No changes to the itinerary once confirmed will be honored unless provided in writing. This may incur additional charges based on the requirement.",
+  "No verbal commitments will be honored unless provided in writing.",
+  "Offers are valid for the time being only unless otherwise specified.",
+  "Extension of stay is subject to availability and will be charged on a pro-rata basis at the best available rate of the day.",
+  "Private vehicle mentioned in the quotation is based on the itinerary (point-to-point service).",
+  "For all SIC tours (Seat-in-Coach), there may be waiting time for pickup and drop-off. Pickup and drop points may vary from city to city unless a specific hotel is mentioned in the quotation.",
+  "Any city taxes must be paid directly at the hotel unless specified in the quotation.",
+  "Entrances specified in the itinerary will be covered. Any extra services must be paid directly by the guest.",
+  "No amendments are possible once land arrangements have been confirmed.",
+  "No refund for partially unutilized tickets. No refund for no-shows or last-moment cancellations.",
+  "Granting or rejecting visas and immigration clearance is the sole prerogative of the concerned sovereign governments. We only facilitate the process and are not responsible for non-granting of visas. Even if visas are rejected, cancellation charges or fees shall be payable by the client, and no refund will be provided if the client or any member of the party is unable to travel due to these reasons."
     ]
   }
 },
@@ -10980,7 +11072,194 @@
     "Granting or rejecting visas and immigration clearance is the sole prerogative of the concerned sovereign governments and we can only facilitate in the entire process. We shall neither be responsible in case of non-granting of such documents. Even if the visas are rejected, cancellation charges / fees shall be payable by the Client. There will be no refund, if the Clients, or any member of his party, is unable to travel due to the said reasons."
     ]
   }
+},
+{
+  "name": "Best of Europe Tour – Italy, Switzerland & France ",
+  "slug": "italy-switzerland-france-tour-package",
+  "metaTitle": "Best of Europe Tour | Italy, Switzerland & France Travel Package with Duniya Dekho",
+  "metaDescription": "Explore the Best of Europe with Duniya Dekho. Discover Italy’s iconic cities, Switzerland’s scenic Alps, and France’s romantic charm in one unforgettable tour package.",
+
+ "bannerImages": [
+      "/images/banners/italy-switz-france/lake-como.webp",
+    "/images/banners/italy-switz-france/lucerne.webp",
+    "/images/banners/italy-switz-france/pisa.webp",
+    "/images/banners/italy-switz-france/vatican-city.webp",
+    "/images/banners/italy-switz-france/venice.webp"
+  
+   
+    ],
+    "bannerLgImages": [
+     "/images/banners/italy-switz-france/lake-como.webp",
+    "/images/banners/italy-switz-france/lucerne.webp",
+    "/images/banners/italy-switz-france/pisa.webp",
+    "/images/banners/italy-switz-france/vatican-city.webp",
+    "/images/banners/italy-switz-france/venice.webp"
+    ],
+  "duration": "6 Nights / 7 Days",
+    "pdf": {
+  "name": "Download PDF",
+  "url": "/pdf/best-of-europe-tour-italy-switzerland-france-10n-11d-1.pdf"
+      },
+  "price": 189540,
+  "description": [
+    "Discover the highlights of Italy, Switzerland, and France on this unforgettable European journey. Explore historic Rome and Vatican City, admire the Leaning Tower of Pisa, experience the romance of Venice, and enjoy the scenic beauty of Lake Como. Marvel at the Swiss Alps with excursions to Mt. Titlis and Jungfraujoch, while visiting charming cities like Lucerne, Interlaken, Bern, Vevey, and Geneva. Conclude your tour in Paris, with visits to Versailles, iconic city landmarks, and a fun-filled day at Disneyland Paris."
+  ],
+  "additionalInfo": [
+    {
+      "name": "Geography and Climate",
+      "description": "This itinerary covers Italy, Switzerland, and France, offering a mix of historic cities, scenic lakes, and alpine landscapes. Italy features Mediterranean geography with mild and pleasant weather, while Switzerland is dominated by the Alps, with cooler temperatures and snow in higher mountain regions. France, especially Paris, enjoys a temperate climate with comfortable conditions for sightseeing. Overall, the journey offers diverse scenery and generally pleasant weather ideal for travel."
+    }
+  ],
+  "itinerary": [
+    {
+      "day": "Day 01 :",
+      "title": "Arrival at Rome – Vatican City – Rome (1 Night)",
+      "description": "Upon arrival at Rome International Airport, meet the local representative and proceed towards Vatican City, the spiritual center of Christianity. Visit St. Peter’s Basilica, one of the largest and most magnificent churches in the world, and spend time at St. Peter’s Square, admiring its grand architecture and atmosphere. Later, enjoy an orientation tour of Rome covering famous landmarks such as the Colosseum (outside view), Roman Forum, Trevi Fountain, and Spanish Steps. Check in at the hotel and relax after your journey. ",
+      "additionalInfo": [" Overnight stay in Rome"]
+    },
+     {
+      "day": "Day 02 :",
+      "title": "Rome – Pisa (1 Night)",
+      "description": "After breakfast, check out from the hotel and drive towards Pisa, a historic city in the Tuscany region. On arrival, visit the world-famous Leaning Tower of Pisa, located in the beautiful Piazza dei Miracoli, along with the Cathedral and Baptistery (external views). Enjoy free time for photographs and to explore the surrounding area. Later, check in at the hotel and enjoy the evening at leisure.",
+      "additionalInfo": ["Overnight stay in Vicenza."]
+    },
+    {
+      "day": "Day 03 :",
+      "title": "Pisa – Venice – Vicenza (1 Night)",
+      "description": "After breakfast, check out and proceed towards the romantic city of Venice. On arrival, enjoy an orientation tour of Venice, including St. Mark’s Square, St. Mark’s Basilica (outside view), Doge’s Palace (outside view), and views of the enchanting Venetian canals. Experience the unique charm of the floating city as you walk through its historic streets. Later, continue your journey to Vicenza, known for its elegant architecture, and check in at the hotel. ",
+      "additionalInfo": ["Overnight stay in Vicenza."]
+    },
+    {
+      "day": "Day 04 :",
+      "title": " Vicenza – Lake Como – Lucerne / Zurich (3 Nights)",
+      "description": "After breakfast, check out and travel towards the scenic Lake Como, surrounded by breathtaking Alpine landscapes and charming lakeside towns. Enjoy photo stops and time to admire the natural beauty of the lake. Later, continue your journey into Switzerland, crossing picturesque mountain regions, and arrive in Lucerne / Zurich. Check in at the hotel and relax. Overnight stay in Lucerne / Zurich.",
+      "additionalInfo": [" Check in at the hotel and relax. Overnight stay in Lucerne / Zurich."]
+    },
+    {
+      "day": "Day 05 :",
+      "title": " Mt. Titlis – Engelberg – Lucerne",
+      "description": "After breakfast, proceed for an unforgettable excursion to Mt. Titlis via the alpine village of Engelberg. Experience a series of cable car rides, including the world’s first rotating cable car Rotair, offering stunning 360-degree views of snow-capped mountains. Enjoy snow activities, visit the Ice Grotto, walk on the Cliff Walk, and take in panoramic Alpine views. Later, return to Lucerne and enjoy a short city orientation covering the Lion Monument, Chapel Bridge, and lakeside area.  ",
+      "additionalInfo": ["Overnight stay in Lucerne / Zurich."]
+    },
+    {
+      "day": "Day 06 :",
+      "title": " Jungfraujoch – Interlaken",
+      "description": "After breakfast, enjoy a full-day excursion to Jungfraujoch – Top of Europe, one of the highlights of the tour. Travel via Interlaken and board the scenic mountain train to Europe’s highest railway station. Visit the Ice Palace, Sphinx Observation Deck, and enjoy breathtaking views of glaciers and snow-covered peaks. Spend time in the snow and capture memorable photographs before returning to the hotel in the evening.",
+      "additionalInfo": ["  Overnight stay in Lucerne / Zurich."]
+    },
+    {
+      "day": "Day 07 :",
+      "title": "Lucerne / Zurich – Bern – Vevey – Geneva (1 Night)",
+      "description": "After breakfast, check out and proceed towards Geneva. En route, stop at Bern, the capital city of Switzerland, and enjoy a short orientation tour of its medieval old town, a UNESCO World Heritage Site. Continue to Vevey, a charming lakeside town famous for being home to the Nestlé Headquarters, and enjoy views of Lake Geneva. Later, arrive in Geneva, check in at the hotel, and relax.",
+      "additionalInfo": ["Overnight stay in Geneva."]
+    },
+    
+    {
+      "day": "Day 08 :",
+      "title": "Geneva – Paris (3 Nights)",
+      "description": "After breakfast, check out from the hotel and travel to Paris, the city of romance and lights. On arrival, check in at the hotel and enjoy the rest of the day at leisure. You may explore nearby cafés, stroll along the streets, or relax after the long journey. ",
+      "additionalInfo": ["Overnight stay in Paris"]
+    },
+        {
+      "day": "Day 09 :",
+      "title": "Paris – Versailles – Paris",
+      "description": "After breakfast, enjoy a guided city tour of Paris, covering iconic landmarks such as the Champs-Élysées, Arc de Triomphe, Place de la Concorde, Not re-Dame Cathedral (outside view), and a photo stop at the Eiffel Tower. Later, proceed to visit the magnificent Palace of Versailles, known for its grand halls and beautifully landscaped gardens. ",
+      "additionalInfo": ["Return to Paris in the evening. Overnight stay in Paris. "]
+    },
+    {
+      "day": "Day 10 :",
+      "title": "Paris – Disneyland – Paris",
+      "description": "After breakfast, proceed for a full-day visit to Disneyland Paris, one of Europe’s most popular theme parks. Enjoy thrilling rides, magical parades, live shows, and themed attractions suitable for both children and adults. Experience the fairy tale atmosphere and create unforgettable memories before returning to the hotel in the evening. ",
+      "additionalInfo": ["Overnight stay in Paris.  "]
+    },
+      {
+      "day": "Day 11 :",
+      "title": "Paris – Departure",
+      "description": "After breakfast, check out from the hotel and transfer to the airport for your return journey, marking the end of a memorable and beautifully curated European vacation.",
+      "additionalInfo": ["Overnight stay in Paris.  "]
+    }
+  ],
+  "hotel": {
+    "name": "Hotel details",
+    "amenities": [
+      "3* or 4* Best hotel"
+    ]
+  },
+  
+  "flight": {
+    "name": "Flight Details",
+    "amenities": [
+      "Flight not included"
+      ]
+    },
+
+  "inclusionAndExclusion": {
+    "inclusions": [
+    "One Night Accommodation in Rome at suggested hotels or similar.",
+  "One Night Accommodation in Pisa at suggested hotels or similar.",
+  "One Night Accommodation in Vicenza at suggested hotels or similar.",
+  "Three Nights’ Accommodation in Lucerne at suggested hotels or similar.",
+  "One Night Accommodation in Geneva at suggested hotels or similar.",
+  "Three Nights’ Accommodation in Paris at suggested hotels or similar.",
+  "Daily breakfast except Day 01.",
+  "All meals (set menu) as mentioned in the itinerary.",
+  "Entrance fees for all sightseeing places to be visited from inside.",
+  "Travel by comfortable air-conditioned coach as per the itinerary.",
+  "Return airport transfers on Seat-in-Coach basis."
+    ],
+    "exclusions": [
+       "Return & Internal Airfare",
+  "Airport Taxes",
+  "Visa",
+  "Any entry fees other than the specified itinerary",
+  "Tips to driver and guide – personal expenses",
+  "High season surcharges as applicable",
+  "Use of vehicle other than the specified itinerary",
+  "Any item that is not mentioned in the above tour price includes",
+  "No intercity surface transfers are included unless specified in the package",
+  "Expenses of personal nature (e.g., tipping, laundry, telephone calls, beverages, etc.)",
+  "Lunch and dinner",
+  "Travel insurance not included",
+  "5% GST",
+  "5% TCS"
+    ]
+  },
+  "pleaseNote": {
+    "title": "Please Note",
+    "notes": [
+     "100% cancellation on low-cost carriers once booking is confirmed.",
+  "100% cancellation if hotels or entrances are booked and paid in advance during the confirmation period; such bookings are non-refundable.",
+  "100% cancellation during peak days or on any trade fare.",
+  "100% cancellation once visa payment is done.",
+  "For group bookings, please reconfirm the cancellation policy before confirmation.",
+  "Airline and hotel cancellation policies will override the current cancellation policy listed."
+    ]
+  },
+  "conditions": {
+    "title": "Conditions",
+    "conditions": [
+    "Above rates based on today’s ROE. Any fluctuation will vary the cost at the time of confirmation and final payment made.",
+  "For your international Travel, the passport of passengers should have the validity of minimum 6 (SIX) months (from the date of return) and two or more blank pages for visa stamp.",
+  "Physical condition of passport is taken care by guest directly in case of E-Visa. Please ensure the passports are not damaged anywhere. In case of damaged passports the passenger may not be allowed by the immigration or airline.",
+  "Airfare is subject to availability at the time of confirmation with the payment.",
+  "Hotel rooms & service are subject to availability at the time of confirmation with the payment.",
+  "In case of non availability of hotel rooms a similar category hotel will be provided.",
+  "Credit card payments are subject to 3% bank charges. Any fluctuations may vary the cost.",
+  "No change in itinerary once confirmed will be honored unless otherwise given in writing. This may incur additional charges based on the requirement.",
+  "No verbal commitments will be honored unless otherwise given in writing.",
+  "The offers are valid till for time being only & unless otherwise specified.",
+  "Extension of stay would be subject to availability and on pro-rata basis and as of best rate of the day.",
+  "Private vehicle mentioned in the quotes is based on the itinerary (Point to Point Service).",
+  "For all SIC tour (Seat in Coach) – there is always waiting time for pick up/drop. Also the pickup/drop points may vary city to city unless specified hotel in the quotes.",
+  "Any city taxes to be paid directly at hotel unless specified in the quotes.",
+  "Entrances specified in the itinerary will be covered. Any extra services to be taken care by guest directly.",
+  "No amendments possible once land arrangements have been confirmed.",
+  "No refund for partly unutilized tickets. No refund for \"NO – SHOWS\" & last moment cancellations.",
+  "Granting or rejecting visas and immigration clearance is the sole prerogative of the concerned sovereign governments and we can only facilitate in the entire process. We shall neither be responsible in case of non-granting of such documents. Even if the visas are rejected, cancellation charges / fees shall be payable by the client. There will be no refund, if the clients, or any member of his party, is unable to travel due to the said reasons."
+    ]
+  }
 }
+
 
 
 

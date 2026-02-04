@@ -68,8 +68,8 @@
 /* Top Menu item increase */
 .navitem > a,
 .navitem > div {
-  font-size: 17px !important;
-  font-weight: 600 !important;
+  font-size: 16px !important;
+  font-weight: 500 !important;
 }
 
 .navitem:hover > a,
@@ -97,7 +97,7 @@
 @media screen and (min-width: 1333px) and (max-width :1920px) {
   .navitem > a,
   .navitem > div {
-    font-size: 18px !important;
+    font-size: 16px !important;
   }
 
   

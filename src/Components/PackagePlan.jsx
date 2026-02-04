@@ -145,6 +145,8 @@ function PackagePlan() {
               name: "Iceland",
               image: "/images/iceland_intro.webp",
               description: "Flights . Hotels . Holidays",
+                   link:"/duniya-dekho/iceland-tour-package"
+           
               
             },
             {

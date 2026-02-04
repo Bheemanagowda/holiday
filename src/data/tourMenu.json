@@ -421,7 +421,7 @@
       "heading": "Europe Tours",
      
       "links": [
-        { "name": "Best of Europe", "link": "/duniya-dekho/best-of-europe-tour-package" },
+            { "name": "Best of Europe", "link": "/duniya-dekho/best-of-europe-tour-package" },
         { "name": "Turkey", "link": "/duniya-dekho/turkey-tour-package" },
           { "name": "Turkish Delight", "link": "/duniya-dekho/turkish-delight-tour-package" },
         { "name": "Swiss & Paris", "link": "/duniya-dekho/swiss-paris-tour-package" },
@@ -429,8 +429,17 @@
         { "name": "England, Scotland & Ireland", "link": "/duniya-dekho/england-scotland-ireland-tour-package" },
         { "name": "Austria, Swiss & Paris", "link": "/duniya-dekho/austria-swiss-paris-tour-package" },
         { "name": "Italy, Swiss & Paris", "link": "/duniya-dekho/italy-swiss-paris-tour-package" },
-        { "name": "Spain & Portugal", "link": "/duniya-dekho/spain-portugal-tour-package" },
+        { "name": "Spain & Portugal", "link": "/duniya-dekho/spain-portugal-tour-package" }
+        
+      ]
+      
+    },
+      {
+      "heading": "Best Europe Tours",
+     
+      "links": [
          { "name": "Portugal Uncovered", "link": "/duniya-dekho/portugal-uncovered-tour-package" },
+   
 
         { "name": "Northern Spain", "link": "/duniya-dekho/northern-spain-journey-tour-package" },
         { "name": "Scandinavia", "link": "/duniya-dekho/scandinavia-tour-package" },
@@ -439,8 +448,10 @@
         { "name": "Iceland", "link": "/duniya-dekho/iceland-tour-package" },
         { "name": "East Europe", "link": "/duniya-dekho/east-europe-tour-package" },
           { "name": "Paris to Vienna ", "link": "/duniya-dekho/paris-to-vienna-tour-package" },
-          { "name": "Istanbul & Antalya ", "link": "/duniya-dekho/istanbul-antalya-tour-package" }
+          { "name": "Istanbul & Antalya ", "link": "/duniya-dekho/istanbul-antalya-tour-package" },
+            { "name": "Italy, Switzerland & France  ", "link": "/duniya-dekho/italy-switzerland-france-tour-package" }
       ]
+      
     }
   ]
 },
