@@ -67,12 +67,17 @@ export default function Page() {
         <h2 className="font-semibold font-secondary_font capitalize text-[#3D3D3D] text-3xl lg:text-4xl">
           {destination.name}
         </h2>
-       <div className="flex items-center justify-between gap-[150px]">
-         <p className="bg-deep_green rounded-md font-medium w-max px-3 py-1 lg:text-lg text-white mt-3 mb-5">
-          {destination.duration}
-        </p>
-        <DownloadDoc file={destination.pdf} />
-       </div>
+    <div className="flex items-center w-full d-flex">
+  <p className="bg-deep_green rounded-md font-medium w-max px-3 py-1 lg:text-lg text-white mt-3 mb-5">
+    {destination.duration}
+  </p>
+
+  <div className="ml-auto">
+    <DownloadDoc file={destination.pdf} />
+  </div>
+</div>
+
+
        
         
 
