@@ -3503,9 +3503,9 @@
 },
 {
   "name": "Greek Island Hopping Adventure",
-  "slug": "greece-tour-package",
-  "metaTitle": "Greece Tour Package | Athens, Santorini & Mykonos with Duniya Dekho",
-  "metaDescription": "Discover ancient history and island paradise with Duniya Dekho. Explore Athens, Santorini & Mykonos featuring Acropolis, beaches, sunsets, culture and Greek hospitality.",
+  "slug": "greek-tour-package",
+   "metaTitle": "Greek Island Hopping Adventure | Athens, Santorini & Mykonos with Duniya Dekho",
+  "metaDescription": "Experience the ultimate Greek Island Hopping Adventure with Duniya Dekho. Explore Athens, Santorini & Mykonos – visit the Acropolis, relax on stunning beaches, enjoy breathtaking sunsets and discover authentic Greek culture and hospitality.",
  "bannerImages": [
       "/images/banners/greece/corfu.webp",
       "/images/banners/greece/crete.webp",
@@ -3685,7 +3685,7 @@
   }
 },
 {
-  "name": "Northern Lights  — A Journey to the Dancing Lights of the North",
+  "name": "Northern Lights Adventure",
   "slug": "northern-lights-tour-package",
   "metaTitle": "Northern Lights Tour Package | Tromsø, Rovaniemi & Reykjavik with Duniya Dekho",
   "metaDescription": "Witness the magical Aurora Borealis with Duniya Dekho. Covers Tromsø, Rovaniemi and Reykjavik with snow adventures, Arctic culture and Northern Lights experiences.",
@@ -3710,132 +3710,167 @@
       "/images/banners/chennai3_lg.webp"
     ],
 
-  "duration": "08 Nights | 09 Days",
+  "duration": "09 Nights | 10 Days",
+    "pdf": {
+  "name": "Download PDF",
+  "url": "/pdf/northern-lights-adventure.pdf"
+      },
   "price": 310500,
 
   "description": [
-    "Experience the surreal natural phenomenon of the Aurora Borealis across the Arctic circle in Norway, Finland and Iceland.",
-    "Explore snowy landscapes, geothermal wonders, Nordic cities and authentic Arctic culture."
+    "Experience the best of Iceland’s dramatic landscapes on this 10-day journey, from the vibrant capital of Reykjavik to the scenic fjords of Akureyri, the volcanic wonders of the Golden Circle and Snæfellsnes Peninsula, and the breathtaking glaciers, waterfalls, and black sand beaches along the South Coast. Explore geothermal hot springs, iconic waterfalls, glacial lagoons, and lava caves while enjoying the country’s unique natural beauty. With its cool, changeable climate, Iceland offers an unforgettable adventure of contrasts—fire and ice, mountains and coastlines, serenity and raw power—all in one extraordinary destination."
+   
   ],
 
   "additionalInfo": [
     {
       "name": "Geography and Climate",
-      "description": "Arctic winter regions experience sub-zero temperatures, snowy terrain, long nights and optimal conditions for Northern Lights viewing."
+      "description": "Your Iceland trip covers diverse landscapes—from coastal cities like Reykjavik and Keflavik, fjords and mountains in Akureyri and Borgarnes, to glaciers, waterfalls, and black sand beaches along the South Coast and Vatnajökull National Park, plus volcanic and geothermal areas in the Golden Circle and Snæfellsnes Peninsula.Iceland has a subarctic oceanic climate: cold winters (–5°C to 4°C) with snow and short daylight, and cool summers (10–15°C) with long daylight hours. Weather is highly changeable, coastal areas are windier and wetter, and northern regions tend to be colder.Overall, the itinerary showcases Iceland’s dramatic scenery—glaciers, volcanoes, fjords, waterfalls, lava fields, and geothermal wonders—all in a cool, unpredictable climate"
     }
   ],
 
   "itinerary": [
     {
       "day": "Day 01 :",
-      "title": "Arrival in Tromsø (Norway)",
-      "description": "Arrive in Tromsø—gateway to the Arctic. Free time to explore the waterfront.",
-      "additionalInfo": ["Overnight stay in Tromsø hotel"]
+      "title": "Arrival in Reykjavik (2 Night)",
+      "description": "Upon arrival at Keflavik International Airport, transfer to Reykjavik, Iceland’s vibrant capital city. After check-in at your hotel, the remainder of the day is at leisure.",
+      "additionalInfo": [" You may explore the charming city center, visit Hallgrímskirkja Church, stroll along the waterfront, or relax and unwind after your journey."]
     },
     {
       "day": "Day 02 :",
-      "title": "Tromsø City Tour & Aurora Hunt",
-      "description": "Guided tour of Tromsø Cathedral & harbour. Evening Northern Lights excursion.",
-      "additionalInfo": ["Overnight stay in Tromsø hotel"]
+      "title": "Reykjavik – Whale Watching – Blue Lagoon – Reykjavik",
+      "description": "Begin your day with an exciting whale-watching excursion from Reykjavik’s Old Harbour, where you may encounter humpback whales, minke whales, dolphins, and various seabirds. Later, visit the iconic Blue Lagoon to relax in its soothing geothermal waters surrounded by lava fields. ",
+      "additionalInfo": ["Return to Reykjavik for an overnight stay"]
     },
     {
       "day": "Day 03 :",
-      "title": "Arctic Snow Adventures",
-      "description": "Dog sledding or snowmobiling (weather permitting).",
+      "title": "– Reykjavik – Akureyri (2 Nights)",
+      "description": "After breakfast, travel north toward Akureyri, known as the “Capital of North Iceland.” Enjoy scenic landscapes along the way, including mountains, waterfalls, and vast lava fields. Upon arrival, check in to your hotel and spend the evening exploring this picturesque town.",
       "additionalInfo": ["Overnight stay in Tromsø hotel"]
     },
     {
       "day": "Day 04 :",
-      "title": "Flight to Rovaniemi (Finland)",
-      "description": "Fly to Rovaniemi, official hometown of Santa Claus.",
-      "additionalInfo": ["Overnight stay in Rovaniemi hotel"]
+      "title": "Akureyri – Diamond Circle – Akureyri",
+      "description": "Today, explore the stunning Diamond Circle route. Visit the powerful Dettifoss waterfall, the dramatic Ásbyrgi Canyon, the geothermal area of Hverir, and the beautiful Lake Mývatn, famous for its unique volcanic formations. ",
+      "additionalInfo": ["Return to Akureyri for the night"]
     },
     {
       "day": "Day 05 :",
-      "title": "Santa Claus Village",
-      "description": "Visit Santa Village & cross the Arctic Circle.",
+      "title": "– Akureyri – Into the Glacier – Borgarnes (2 Nights)",
+      "description": "Depart Akureyri and travel toward Borgarnes. En route, enjoy the remarkable “Into the Glacier” experience, where you will explore ice tunnels carved inside one of Iceland’s largest glaciers. Continue your journey to Borgarnes and check in for a two-night stay.",
       "additionalInfo": ["Overnight stay in Rovaniemi hotel"]
     },
     {
       "day": "Day 06 :",
-      "title": "Flight to Reykjavik (Iceland)",
-      "description": "Fly to Iceland and explore Reykjavik Old Town.",
-      "additionalInfo": ["Overnight stay in Reykjavik hotel"]
+      "title": "Borgarnes – Snæfellsnes Peninsula – Lava Cave – Borgarnes",
+      "description": "Discover the diverse beauty of the Snæfellsnes Peninsula, often referred to as “Iceland in Miniature.” Visit dramatic cliffs, black sand beaches, lava fields, and the iconic Kirkjufell Mountain. ",
+      "additionalInfo": ["Experience an adventurous lava cave exploration before returning to Borgarnes."]
     },
     {
       "day": "Day 07 :",
-      "title": "Golden Circle Tour",
-      "description": "Visit Thingvellir National Park, Geysir Geothermal Field & Gullfoss Falls.",
-      "additionalInfo": ["Overnight stay in Reykjavik hotel"]
+      "title": "Borgarnes – Seljalandsfoss – Skógafoss – Black Sand Beach – Vik (2 Nights)",
+      "description": "Travel along Iceland’s spectacular South Coast. Stop at Seljalandsfoss waterfall, where you can walk behind the cascading water, and admire the powerful Skógafoss waterfall. Continue to the famous Reynisfjara black sand beach, known for its striking basalt columns and sea stacks. ",
+      "additionalInfo": ["Arrive in Vik for a two-night stay"]
     },
     {
       "day": "Day 08 :",
-      "title": "Blue Lagoon & Aurora Viewing",
-      "description": "Relax in the Blue Lagoon’s geothermal waters. Night Aurora viewing (weather permitting).",
+      "title": "Vik – Skaftafell National Park – Jökulsárlón Glacier Lagoon – Vik",
+      "description": "Explore Skaftafell in Vatnajökull National Park, offering breathtaking glacier views and scenic hiking opportunities. Continue to Jökulsárlón Glacier Lagoon to witness floating icebergs drifting across the serene waters. Visit nearby Diamond Beach before returning to Vik.",
       "additionalInfo": ["Overnight stay in Reykjavik hotel"]
     },
     {
       "day": "Day 09 :",
-      "title": "Departure",
-      "description": "Transfer to airport for onward journey. Tour ends.",
-      "additionalInfo": []
+      "title": "– Vik – Golden Circle – Keflavik (1 Night)",
+      "description": "After breakfast, proceed to explore Iceland’s famous Golden Circle. Visit Thingvellir National Park, the Geysir geothermal area with its erupting hot springs, and the magnificent Gullfoss waterfall.",
+      "additionalInfo": ["Later, transfer to Keflavik for your final overnight stay."]
+    },
+     {
+      "day": "Day 10 :",
+      "title": "Keflavik – Reykjavik – Departure",
+      "description": "After breakfast, transfer to Keflavik International Airport for your departure flight, concluding your unforgettable journey through Iceland’s dramatic landscapes.",
+      "additionalInfo": ["natural wonders"]
     }
   ],
 
   "hotel": {
     "name": "Hotel details",
     "amenities": [
-      "Good 4* Hotel in Tromsø",
-      "Good 4* Hotel in Rovaniemi",
-      "Good 4* Hotel in Reykjavik"
+      " Later, transfer to Keflavik for your final overnight stay."
+     
+    ]
+  },
+    "flight": {
+    "name": "Flight details",
+    "amenities": [
+      " Flight not included"
+     
     ]
   },
 
   "inclusionAndExclusion": {
     "inclusions": [
-      "Three Night’s Accommodation in Tromsø",
-      "Two Night’s Accommodation in Rovaniemi",
-      "Three Night’s Accommodation in Reykjavik",
-      "Daily breakfast except day 1",
-      "Tromsø City Tour",
-      "Reykjavik City Exploration",
-      "Golden Circle Tour",
-      "Blue Lagoon Visit",
-      "Northern Lights Excursion",
-      "Flight Tromsø – Rovaniemi",
-      "Flight Rovaniemi – Reykjavik",
-      "All transfers as per itinerary"
+      "Two Nights’ Accommodation in Reykjavik at suggested hotels or similar.",
+    "Two Nights’ Accommodation in Akureyri at suggested hotels or similar.",
+    "Two Nights’ Accommodation in Borgarnes at suggested hotels or similar.",
+    "Two Nights’ Accommodation in Vik at suggested hotels or similar.",
+    "One Night Accommodation in Keflavik at suggested hotels or similar.",
+    "Daily breakfast except Day 01.",
+    "All meals (set menu) as mentioned in the itinerary.",
+    "Entrance fees for all sightseeing places to be visited from inside.",
+    "Travel by comfortable air-conditioned coach as per the itinerary.",
+    "Return airport transfers on seat-in-coach basis."
     ],
     "exclusions": [
-      "International Airfare",
-      "Schengen Visa Fees",
-      "Travel Insurance",
-      "Meals not mentioned",
-      "Optional Arctic excursions",
-      "Personal expenses (tips, drinks, laundry, etc.)",
-      "High Season Surcharges",
-      "Early check-in & late check-out"
+      "Return and internal airfare.",
+    "Airport taxes.",
+    "Visa fees.",
+    "Any entry fees other than those specified in the itinerary.",
+    "Tips to driver and guide, and personal expenses.",
+    "High season surcharges, if applicable.",
+    "Use of vehicle other than as specified in the itinerary.",
+    "Any item not mentioned under the 'Tour Price Includes' section.",
+    "No intercity surface transfers unless specified in the package.",
+    "Expenses of a personal nature such as tipping, laundry, telephone calls, beverages, etc.",
+    "Lunch and dinner.",
+    "Travel insurance.",
+    "5% GST.",
+    "5% TCS."
     ]
   },
 
   "pleaseNote": {
     "title": "Please Note",
     "notes": [
-      "Aurora sightings are natural & cannot be guaranteed.",
-      "Temperatures may drop below -15°C during winter months.",
-      "Sequence of itinerary may change due to weather conditions.",
-      "Peak winter season may attract surcharges."
+     "100% cancellation charges apply for low-cost carriers once the booking is confirmed.",
+    "100% cancellation charges apply if hotels or entrance tickets are booked and paid in advance during the confirmation period. These will be non-refundable.",
+    "100% cancellation charges apply during peak season or trade fair periods.",
+    "100% cancellation charges apply once the visa payment has been made.",
+    "For group bookings, please reconfirm the cancellation policy before final confirmation.",
+    "Airline and hotel cancellation policies may override the above cancellation policy at the time of booking."
     ]
   },
 
   "conditions": {
     "title": "Conditions",
     "conditions": [
-      "Airfare subject to availability at time of booking.",
-      "Hotels subject to availability; similar category may be provided.",
-      "No refund for unused services.",
-      "Weather may affect Arctic activities and tour timings.",
-      "Credit card payments may attract 3% surcharge."
+      "Above rates based on today’s ROE. Any fluctuation will vary the cost at the time of confirmation and final payment made.",
+    "For your international Travel, The Passport of passengers should have the validity of minimum 6 (SIX) months (from the date of return) and two or more blank pages for visa stamp.",
+    "Physical condition of Passport is taken care by guest directly in case of E-Visa. Please ensure the passports are not damaged anywhere. In case of damaged passports, the passenger may not be allowed by the immigration or airline.",
+    "Airfare is subject to availability at the time of confirmation with the payment.",
+    "Hotel Rooms & Service are subject to availability at the time of confirmation with the payment.",
+    "In case of Non availability of Hotel Rooms a similar category Hotel will be provided.",
+    "Credit card payments are subject to 3% bank charges. Any fluctuations may vary the cost.",
+    "No Change in Itinerary once confirmed will be honored unless otherwise given in writing. This may incur additional charges based on the requirement.",
+    "No verbal commitments will be honored unless otherwise given in writing.",
+    "The offers are valid till for time being only & unless otherwise specified.",
+    "Extension of stay would be subject to availability and on pro-rata basis and as of best rate of the day.",
+    "Private vehicle mentioned in the quotes is based on the itinerary (Point to Point Service)",
+    "For all SIC tour (Seat in Coach) – there is always waiting time for pick up/drop. Also the pickup/drop points may vary city to city unless specified hotel in the quotes.",
+    "Any City Taxes to be paid directly at hotel unless specified in the quotes.",
+    "Entrances specified in the itinerary will be covered. Any extra services to be taken care by guest directly.",
+    "No amendments possible once land arrangements have been confirmed",
+    "No refund for partly unutilized tickets. No refund for \"NO – SHOWS\" & Last moment cancellations",
+    "Granting or rejecting visas and immigration clearance is the sole prerogative of the concerned sovereign governments and we can only facilitate in the entire process. We shall neither be responsible in case of non-granting of such documents. Even if the visas are rejected, cancellation charges / fees shall be payable by the Client. There will be no refund, if the Clients, or any member of his party, is unable to travel due to the said reasons."
     ]
   }
 },
@@ -3864,7 +3899,11 @@
           "/images/banners/iceland/vatnajokull-national-park.webp"
     ],
 
-  "duration": "06 Nights | 07 Days",
+  "duration": "07 Nights | 08 Days",
+  "pdf": {
+  "name": "Download PDF",
+  "url": "/pdf/japan-7-nights-8-days.docx"
+      },
   "price": 198000,
 
   "description": [
@@ -3972,7 +4011,7 @@
   }
 },
 {
-  "name": "East Europe Highlights",
+  "name": "Eastern Europe in a Week: A Journey Through Iconic Cities",
   "slug": "east-europe-tour-package",
   "metaTitle": "East Europe Tour Package | Prague, Vienna, Budapest & Krakow with Duniya Dekho",
   "metaDescription": "Explore East Europe with Duniya Dekho. Visit Prague, Vienna, Budapest and Krakow. Experience castles, river cruises, medieval squares and European culture.",
@@ -3999,128 +4038,150 @@
          "/images/banners/east-europe/vienna-austria.webp"
     ],
 
-  "duration": "08 Nights | 09 Days",
+  "duration": "07 Nights | 08 Days",
+    "pdf": {
+  "name": "Download PDF",
+  "url": "/pdf/eastern-europe-7-nights-tour.pdf"
+      },
   "price": 215000,
 
   "description": [
-    "Discover the rich cultural heritage, architecture and traditions of East Europe across four iconic capitals.",
-    "Experience cobblestone old towns, majestic castles, riverfront promenades and authentic Central European cuisine."
+    "This Central Europe trip covers Hungary, Croatia, Slovenia, Austria, Slovakia, and the Czech Republic, exploring vibrant cities, charming towns, and scenic landscapes. You’ll experience historic capitals like Budapest, Vienna, and Prague, picturesque spots like Lake Bled, and riverside cities along the Danube and Sava. In early spring, expect cool, mild weather with chances of light rain, making layered clothing ideal for comfortable travel."
   ],
 
   "additionalInfo": [
     {
       "name": "Geography and Climate",
-      "description": "East Europe features continental climate with warm summers and cold winters, surrounded by rivers, mountains and historic cities."
+      "description": "Your trip takes you through Central Europe, starting in Budapest, Hungary, on the Danube with its mix of flat plains and hills, then to Zagreb, Croatia, in the Sava River valley, and Ljubljana and Bled, Slovenia, with riverside hills and the Alpine scenery of Lake Bled. Next is Vienna, Austria, on the Danube plains, Bratislava, Slovakia, along the river with low hills, and finally Brno and Prague, Czech Republic, both set among gentle hills and river valleys. The climate is mostly continental, with cool early spring temperatures, daytime highs of 12–15°C (54–59°F), chilly nights around 2–5°C (36–41°F), and occasional rain or snow in Alpine areas. Layered clothing and a light jacket are recommended."
     }
   ],
 
   "itinerary": [
     {
       "day": "Day 01 :",
-      "title": "Arrival in Prague (Czech Republic)",
-      "description": "Arrive in Prague. Free time to explore Old Town Square and Astronomical Clock.",
-      "additionalInfo": ["Overnight stay in Prague hotel"]
+      "title": "Budapest",
+      "description": "Arrive in Budapest and transfer to your hotel. Spend the rest of the day at leisure, exploring the local area or relaxing after your journey.",
+      "additionalInfo": [" Overnight stay in Budapest."]
     },
     {
       "day": "Day 02 :",
-      "title": "Prague City Tour",
-      "description": "Guided visit to Prague Castle, Charles Bridge and the Jewish Quarter.",
-      "additionalInfo": ["Overnight stay in Prague hotel"]
+      "title": "Budapest",
+      "description": "Enjoy a full day exploring the highlights of Budapest, including Buda Castle, Fisherman’s Bastion, Parliament Building, and the Chain Bridge. In the evening, you can take a scenic Danube River cruise. ",
+      "additionalInfo": ["Overnight stay in Budapest."]
     },
     {
       "day": "Day 03 :",
-      "title": "Prague → Vienna (Austria)",
-      "description": "Drive to Vienna. Evening at leisure.",
-      "additionalInfo": ["Overnight stay in Vienna hotel"]
+      "title": "Budapest – Zagreb – Ljubljana",
+      "description": "Depart Budapest and travel to Zagreb, the capital of Croatia. After a brief city tour, continue your journey to Ljubljana, the charming capital of Slovenia. ",
+      "additionalInfo": ["Overnight stay in Ljubljana."]
     },
     {
       "day": "Day 04 :",
-      "title": "Vienna Imperial City Tour",
-      "description": "Visit Schönbrunn Palace, Opera House and St. Stephen’s Cathedral.",
-      "additionalInfo": ["Overnight stay in Vienna hotel"]
+      "title": "Overnight stay in Ljubljana.",
+      "description": "Start the day with a tour of Ljubljana, then head to the picturesque town of Bled to see Lake Bled and the iconic Bled Castle. ",
+      "additionalInfo": ["In the afternoon, continue your journey to Vienna, Austria. Overnight stay in Vienna."]
     },
     {
       "day": "Day 05 :",
-      "title": "Vienna → Budapest (Hungary)",
-      "description": "Travel to Budapest along the Danube Valley.",
-      "additionalInfo": ["Overnight stay in Budapest hotel"]
+      "title": "Vienna",
+      "description": "Spend a full day exploring Vienna’s rich cultural heritage. Visit Schönbrunn Palace, St. Stephen’s Cathedral, the Hofburg Palace, and enjoy a walk through the historic city center. ",
+      "additionalInfo": ["Overnight stay in Vienna."]
     },
     {
       "day": "Day 06 :",
-      "title": "Budapest City & Danube Cruise",
-      "description": "Visit Buda Castle, Fisherman’s Bastion and Parliament. Evening Danube Cruise.",
-      "additionalInfo": ["Overnight stay in Budapest hotel"]
+      "title": "Overnight stay in Vienna.",
+      "description": "Travel from Vienna to Bratislava, Slovakia, for a short city tour. Continue to Brno, the historical city in the Czech Republic, before heading to Prague. Arrive in Prague and check in to your hotel. ",
+      "additionalInfo": ["Overnight stay in Prague."]
     },
     {
       "day": "Day 07 :",
-      "title": "Budapest → Krakow (Poland)",
-      "description": "Drive to Krakow with scenic countryside views.",
+      "title": "Prague",
+      "description": "Enjoy a full day exploring the magical city of Prague. Visit Prague Castle, Charles Bridge, Old Town Square, Astronomical Clock, and other key attractions. Overnight stay in Prague.",
       "additionalInfo": ["Overnight stay in Krakow hotel"]
     },
     {
       "day": "Day 08 :",
-      "title": "Krakow & Salt Mine",
-      "description": "Visit Wawel Castle, Old Town Square and optional Wieliczka Salt Mine tour.",
+      "title": "Prague – Departure",
+      "description": "After breakfast, check out from the hotel and proceed to the airport for your departure, marking the end of your Central European journey.",
       "additionalInfo": ["Overnight stay in Krakow hotel"]
-    },
-    {
-      "day": "Day 09 :",
-      "title": "Departure",
-      "description": "Transfer to airport for onward journey. Tour ends.",
-      "additionalInfo": []
     }
+   
   ],
 
   "hotel": {
     "name": "Hotel details",
     "amenities": [
-      "Good 4* Hotel in Prague",
-      "Good 4* Hotel in Vienna",
-      "Good 4* Hotel in Budapest",
-      "Good 4* Hotel in Krakow"
+      "3* or 4* Best hotel"
+     
+    ]
+  },
+    "flight": {
+    "name": "flight details",
+    "amenities": [
+      "Flight not included "
+     
     ]
   },
 
   "inclusionAndExclusion": {
     "inclusions": [
-      "Two Night’s Accommodation in Prague",
-      "Two Night’s Accommodation in Vienna",
-      "Two Night’s Accommodation in Budapest",
-      "Two Night’s Accommodation in Krakow",
-      "Daily breakfast except day 1",
-      "Prague City Tour",
-      "Vienna City Tour",
-      "Budapest City Tour",
-      "Danube River Cruise",
-      "Airport & border transfers as per itinerary"
+     "Two Night’s Accommodation in Budapest at suggested hotels or similar.",
+  "One Night Accommodation in Ljubljana at suggested hotels or similar.",
+  "Two Night’s Accommodation in Vienna at suggested hotels or similar.",
+  "Two Night’s Accommodation in Prague at suggested hotels or similar.",
+  "Daily breakfast except day 01",
+  "All Meals (set menu) as per mentioned in the itinerary",
+  "Entrance fees of all sightseeing places to visited from inside",
+  "Travel by AC comfortable A/C coach as per the itinerary",
+  "Return Airport transfers on Seat in Coach basis."
     ],
     "exclusions": [
-      "International Airfare",
-      "Schengen Visa Fees",
-      "Travel Insurance",
-      "Meals not mentioned",
-      "Personal expenses (tips, drinks, laundry, etc.)",
-      "Optional Excursions (Salt Mine, Concerts, etc.)",
-      "Early check-in & late check-out"
+     "Two Night’s Accommodation in Budapest  at suggested hotels or similar.",
+  "One Night Accommodation in Ljubljana at suggested hotels or similar.",
+  "Two Night’s Accommodation in Vienna at suggested hotels or similar.",
+  "Two Night’s Accommodation in Prague at suggested hotels or similar.",
+  "Daily breakfast except day 01",
+  "All Meals (set menu) as per mentioned in the itinerary",
+  "Entrance fees of all sightseeing places to visited from inside ",
+  "Travel by AC comfortable A/C coach as per the itinerary",
+  "Return Airport transfers on Seat in Coach basis."
     ]
   },
 
   "pleaseNote": {
     "title": "Please Note",
     "notes": [
-      "Itinerary sequence may change due to local events or weather.",
-      "Some museums may operate with limited hours on weekends.",
-      "Peak holiday season may attract surcharges."
+     "100% cancellation charges apply for low-cost carriers once the booking is confirmed.",
+  "100% cancellation charges apply if hotels or entrance tickets are booked and paid in advance during the confirmation period and will be non-refundable.",
+  "100% cancellation charges apply during peak days or trade fair periods.",
+  "100% cancellation charges apply once the visa payment is completed.",
+  "For group bookings, please reconfirm the cancellation policy before confirmation.",
+  "Airline and hotel cancellation policies may override the current cancellation policy listed at the time of booking."
     ]
   },
 
   "conditions": {
     "title": "Conditions",
     "conditions": [
-      "Airfare subject to availability at time of booking.",
-      "Hotels subject to availability; similar category may be provided.",
-      "No refund for unused services.",
-      "Credit card payments may attract 3% surcharge."
+      "Above rates based on today’s ROE. Any fluctuation will vary the cost at the time of confirmation and final payment made.",
+  "For your international Travel, The Passport of passengers should have the validity of minimum 6 (SIX) months (from the date of return) and two or more blank pages for visa stamp.",
+  "Physical condition of Passport is taken care by guest directly in case of E-Visa.",
+  "Please ensure the passports are not damaged anywhere. In case of damaged passports, the passenger may not be allowed by the immigration or airline.",
+  "Airfare is subject to availability at the time of confirmation with the payment.",
+  "Hotel Rooms & Service are subject to availability at the time of confirmation with the payment.",
+  "In case of Non availability of Hotel Rooms a similar category Hotel will be provided.",
+  "Credit card payments are subject to 3% bank charges. Any fluctuations may vary the cost.",
+  "No Change in Itinerary once confirmed will be honored unless otherwise given in writing. This may incur additional charges based on the requirement.",
+  "No verbal commitments will be honored unless otherwise given in writing.",
+  "The offers are valid till for time being only & unless otherwise specified.",
+  "Extension of stay would be subject to availability and on pro-rata basis and as of best rate of the day.",
+  "Private vehicle mentioned in the quotes is based on the itinerary (Point to Point Service)",
+  "For all SIC tour (Seat in Coach) – there is always waiting time for pick up/drop. Also the pickup/drop points may vary city to city unless specified hotel in the quotes.",
+  "Any City Taxes to be paid directly at hotel unless specified in the quotes.",
+  "Entrances specified in the itinerary will be covered. Any extra services to be taken care by guest directly.",
+  "No amendments possible once land arrangements have been confirmed",
+  "No refund for partly unutilized tickets. No refund for \"NO – SHOWS\" & Last moment cancellations",
+  "Granting or rejecting visas and immigration clearance is the sole prerogative of the concerned sovereign governments and we can only facilitate in the entire process. We shall neither be responsible in case of non-granting of such documents. Even if the visas are rejected, cancellation charges / fees shall be payable by the Client. There will be no refund, if the Clients, or any member of his party, is unable to travel due to the said reasons."
     ]
   }
 },
@@ -11256,6 +11317,168 @@
   "No amendments possible once land arrangements have been confirmed.",
   "No refund for partly unutilized tickets. No refund for \"NO – SHOWS\" & last moment cancellations.",
   "Granting or rejecting visas and immigration clearance is the sole prerogative of the concerned sovereign governments and we can only facilitate in the entire process. We shall neither be responsible in case of non-granting of such documents. Even if the visas are rejected, cancellation charges / fees shall be payable by the client. There will be no refund, if the clients, or any member of his party, is unable to travel due to the said reasons."
+    ]
+  }
+},
+{
+  "name": "Greece Getaway: From Ancient Athens to the Iconic Isles of Mykonos & Santorini",
+  "slug": "greece-getaway-athens-mykonos-santorini",
+  "metaTitle": "Greece Getaway | Athens, Mykonos & Santorini Tour Package with Duniya Dekho",
+  "metaDescription": "Experience the perfect Greece getaway with Duniya Dekho. Explore ancient Athens, relax on the iconic islands of Mykonos and Santorini, enjoy stunning sunsets, beautiful beaches and authentic Greek culture in one unforgettable journey.",
+
+ "bannerImages": [
+      "/images/banners/italy-switz-france/lake-como.webp",
+    "/images/banners/italy-switz-france/lucerne.webp",
+    "/images/banners/italy-switz-france/pisa.webp",
+    "/images/banners/italy-switz-france/vatican-city.webp",
+    "/images/banners/italy-switz-france/venice.webp"
+  
+   
+    ],
+    "bannerLgImages": [
+     "/images/banners/italy-switz-france/lake-como.webp",
+    "/images/banners/italy-switz-france/lucerne.webp",
+    "/images/banners/italy-switz-france/pisa.webp",
+    "/images/banners/italy-switz-france/vatican-city.webp",
+    "/images/banners/italy-switz-france/venice.webp"
+    ],
+  "duration": "6 Nights / 7 Days",
+    "pdf": {
+  "name": "Download PDF",
+  "url": "/pdf/greece-gateway.pdf"
+      },
+  "price": 189540,
+  "description": [
+    "This Greece itinerary offers a perfect blend of ancient history, vibrant island life, and breathtaking natural beauty. Begin your journey in Athens, the cradle of Western civilization, where iconic landmarks like the Acropolis and Parthenon showcase the country’s rich heritage. Continue to the cosmopolitan island of Mykonos, known for its charming whitewashed streets, beautiful beaches, and lively waterfront atmosphere. Conclude your trip in the stunning island of Santorini, famous for its dramatic volcanic caldera, blue-domed churches, and unforgettable sunsets. Combining cultural exploration, scenic landscapes, and relaxing island experiences, this journey presents the very best of Greece in one memorable trip."
+  ],
+  "additionalInfo": [
+    {
+      "name": "Geography and Climate",
+      "description": "Athens, Mykonos, and Santorini are located in Greece and experience a Mediterranean climate, featuring ancient mainland landscapes and mountainous surroundings in Athens, scenic rocky islands and sandy beaches in Mykonos, and dramatic volcanic cliffs with caldera views in Santorini, with pleasant spring temperatures in April ranging between 18°C to 24°C, making it ideal for sightseeing and island exploration. "
+    }
+  ],
+  "itinerary": [
+    {
+      "day": "Day 01 :",
+      "title": " Arrival in Athens (2 Nights) ",
+      "description": "Upon arrival at Athens International Airport, you will be transferred to your hotel for check-in. Athens, the cradle of Western civilization, offers a fascinating blend of ancient history and modern vibrancy. The remainder of the day is at leisure to relax after your journey or explore the nearby neighborhood.  ",
+      "additionalInfo": [" You may enjoy a leisurely stroll through the lively streets, discover local cafés, or savor authentic Greek cuisine at a traditional taverna."]
+    },
+     {
+      "day": "Day 02 :",
+      "title": "Athens Sightseeing",
+      "description": "After breakfast, proceed to explore the historic highlights of Athens. Visit the world-renowned Acropolis, home to the iconic Parthenon, Erechtheion, and Temple of Athena Nike, offering panoramic views of the city. Continue to the Acropolis Museum to admire impressive ancient artifacts. Drive past or visit important landmarks such as Syntagma Square, the Hellenic Parliament, Panathenaic Stadium,Temple of Olympian Zeus, and Hadrian’s Arch. Later, wander through the charming Plaka district,known for its narrow streets, neoclassical architecture, local shops, and traditional restaurants.  ",
+      "additionalInfo": ["Return to your hotel for an overnight stay."]
+    },
+    {
+      "day": "Day 03 :",
+      "title": "Athens – Mykonos (2 Nights)",
+      "description": "After breakfast, transfer to the port or airport for your journey to the beautiful island of Mykonos. Upon arrival, you will be transferred to your hotel for check-in. Mykonos is famous for its cosmopolitan atmosphere, stunning beaches, and charming whitewashed architecture. In the evening, explore Mykonos Town (Chora), stroll through its maze-like streets, visit the iconic windmills, and enjoy the picturesque waterfront area of Little Venice. ",
+      "additionalInfo": ["Overnight stay in Mykonos."]
+    },
+    {
+      "day": "Day 04 :",
+      "title": " Mykonos Exploration",
+      "description": "Enjoy breakfast at the hotel and spend the day discovering Mykonos at your own pace. Relax on some of the island’s most famous beaches such as Paradise Beach, Super Paradise Beach, or Psarou Beach. You may also opt for a boat excursion to the nearby sacred island of Delos, a UNESCO World Heritage. Site and one of Greece’s most important archaeological sites. In the evening, experience Mykonos’ vibrant dining and nightlife scene or enjoy a peaceful sunset by the sea. ",
+      "additionalInfo": [" Overnight stay in Mykonos. "]
+    },
+    {
+      "day": "Day 05 :",
+      "title": " Mykonos – Santorini (2 Nights) ",
+      "description": "After breakfast, transfer to the port for your ferry to the stunning island of Santorini. Upon arrival, transfer to your hotel and check in. Santorini is renowned for its dramatic caldera views, whitewashed houses, and blue-domed churches. Spend the evening exploring the charming village of Oia or Fira and witness one of the most spectacular sunsets in the world ",
+      "additionalInfo": ["overlooking the Aegean Sea. Overnight stay in Santorini."]
+    },
+    {
+      "day": "Day 06 :",
+      "title": " Santorini Sightseeing ",
+      "description": "After breakfast, explore the highlights of Santorini. Visit the picturesque towns of Fira and Oia, known for their breathtaking cliffside views. Discover the island’s unique volcanic beaches such as Red Beach, Perissa, or Kamari Beach. You may also choose to join an optional caldera cruise, sailing around the volcanic islands and hot springs while enjoying magnificent views of the coastline. Santorini is also known for its local wineries, offering excellent wine-tasting experiences. ",
+      "additionalInfo": ["Return to your hotel for an overnight stay."]
+    },
+    {
+      "day": "Day 07 :",
+      "title": "Santorini – Athens – Departure",
+      "description": "After breakfast, transfer to the airport for your flight back to Athens to connect with your onward international flight. ",
+      "additionalInfo": ["Depart with unforgettable memories of Greece’s rich history, stunning landscapes, and beautiful island charm. "]
+    }
+
+    
+  ],
+  "hotel": {
+    "name": "Hotel details",
+    "amenities": [
+      "3* or 4* Best hotel"
+    ]
+  },
+  
+  "flight": {
+    "name": "Flight Details",
+    "amenities": [
+      "Flight not included"
+      ]
+    },
+
+  "inclusionAndExclusion": {
+    "inclusions": [
+   "Two Nights’ Accommodation in Athens at suggested hotels or similar.",
+  "Two Nights’ Accommodation in Mykonos at suggested hotels or similar.",
+  "Two Nights’ Accommodation in Santorini at suggested hotels or similar.",
+  "Daily breakfast except day 01",
+  "All Meals (set menu) as per mentioned in the itinerary",
+  "Entrance fees of all sightseeing places to visited from inside",
+  "Travel by AC comfortable A/C coach as per the itinerary",
+  "Return Airport transfers on Seat in Coach basis."
+    ],
+    "exclusions": [
+      "Return & Internal Airfare",
+  "Airport Taxes",
+  "Visa",
+  "Any Entry Fees other than the specified itinerary",
+  "Tips to Driver and Guide-personal expense",
+  "High Season Surcharges as applicable",
+  "Use of vehicle other than the specified itinerary",
+  "Any item that is not mentioned in the above Tour Price includes",
+  "1st Main, Ashtalakshmi Layout, Puttenahalli Rd, Ramaiah Garden, 6th",
+  "No Intercity surface transfers are included unless specified in the package.",
+  "Expenses of personal nature. Example – Tipping, laundry & Telephone calls, Beverages etc",
+  "Lunch and Dinner",
+  "Travel Insurance not included",
+  "5% GST",
+  "5% TCS"
+    ]
+  },
+  "pleaseNote": {
+    "title": "Please Note",
+    "notes": [
+    "100% Cancellation on low cost carrier once booking confirmed.",
+  "100% Cancellation if hotels/entrances booked and paid in advanced during confirmation period and will be non refundable.",
+  "100% Cancellation during peak days or any trade fare",
+  "100% Cancellation once visa payment is done",
+  "For Group booking, please reconfirm the cancellation policy before confirmation.",
+  "Airline & hotel Cancellation policy will at time override the current cancellation policy listed"
+    ]
+  },
+  "conditions": {
+    "title": "Conditions",
+    "conditions": [
+    "Above rates based on today’s ROE. Any fluctuation will vary the cost at the time of confirmation and final payment made.",
+  "For your international Travel, The Passport of passengers should have the validity of minimum 6 (SIX) months (from the date of return) and two or more blank pages for visa stamp.",
+  "Physical condition of Passport is taken care by guest directly in case of E-Visa.",
+  "Please ensure the passports are not damaged anywhere. In case of damaged passports the passenger may not be allowed by the immigration or airline.",
+  "Airfare is subject to availability at the time of confirmation with the payment.",
+  "Hotel Rooms & Service are subject to availability at the time of confirmation with the payment.",
+  "In case of Non availability of Hotel Rooms a similar category Hotel will be provided.",
+  "Credit card payments are subject to 3% bank charges. Any fluctuations may vary the cost.",
+  "No Change in Itinerary once confirmed will be honored unless otherwise given in writing. This may incur additional charges based on the requirement.",
+  "No verbal commitments will be honored unless otherwise given in writing.",
+  "The offers are valid till for time being only & unless otherwise specified.",
+  "Extension of stay would be subject to availability and on pro-rata basis and as of best rate of the day.",
+  "Private vehicle mentioned in the quotes is based on the itinerary(Point to Point Service)",
+  "For all SIC tour (Seat in Coach) – there is always waiting time for pick up/drop. Also the pickup/drop points may vary city to city unless specified hotel in the quotes.",
+  "Any City Taxes to be paid directly at hotel unless specified in the quotes.",
+  "Entrances specified in the itinerary will be covered. Any extra services to be taken care by guest directly.",
+  "No amendments possible once land arrangements have been confirmed",
+  "No refund for partly unutilized tickets. No refund for \"NO – SHOWS\" & Last moment cancellations",
+  "Granting or rejecting visas and immigration clearance is the sole prerogative of the concerned sovereign governments and we can only facilitate in the entire process. We shall neither be responsible in case of non-granting of such documents. Even if the visas are rejected, cancellation charges / fees shall be payable by the Client. There will be no refund, if the Clients, or any member of his party, is unable to travel due to the said reasons."
     ]
   }
 }

@@ -204,6 +204,21 @@
   "image": "/images/small/northern-spain.webp",
   "slug": "/duniya-dekho/northern-spain-journey-tour-package"
 },
+{
+  "intro": " Adventure",
+  "name": "Northern Lights",
+  "duration": "9 Nights / 10 Days",
+  "price": 215000,
+  
+  "description": [
+    " Reykjavik,Whale Watching,Blue Lagoon,Akureyri,Diamond Circle    ",
+    " Borgarnes,Snæfellsnes Peninsula,Lava Cave,Borgarnes,Seljalandsfoss     ",
+    " Skógafoss,Black Sand Beach ,Vik,Skaftafell National Park,Jökulsárlón Glacier Lagoon      ",
+    " Golden Circle ,Keflavik ,Reykjavik     "
+  ],
+  "image": "/images/small/northern-spain.webp",
+  "slug": "/duniya-dekho/northern-lights-tour-package"
+},
 
 
 {
@@ -320,12 +335,12 @@
 
   ],
   "image": "/images/small/greece.webp",
-  "slug": "/duniya-dekho/greece-tour-package"
+  "slug": "/duniya-dekho/greek-tour-package"
 },
 {
   "intro": "Aurora Borealis Adventure",
   "name": "Northern Lights",
-  "duration": "06 Nights / 07 Days",
+  "duration": "09 Nights / 10 Days",
   "price": 310500,
   "description": [
     "Tromsø City Tour, Arctic Cathedral, Fjord Cruise",
@@ -352,13 +367,12 @@
 {
   "intro": "Eastern Europe Explorer",
   "name": "East Europe",
-  "duration": "06 Nights / 07 Days",
+  "duration": "07 Nights / 08 Days",
   "price": 148540,
   "description": [
-    "Prague City Tour, Charles Bridge, Prague Castle",
-    "Vienna: Schönbrunn Palace, St. Stephen's Cathedral",
-    "Budapest: Buda Castle, Danube River Cruise",
-    "Krakow: Wawel Castle, Main Market Square"
+    "Budapest,Zagreb,Ljubljana,Ljubljana,Bled,Vienn",
+    "Bratislava,Brno,Prague"
+    
   ],
   "image": "/images/small/east-europe.webp",
   "slug": "/duniya-dekho/east-europe-tour-package"
@@ -851,7 +865,7 @@
 {
   "intro": "Best of Europe Tour ",
   "name": "Italy, Switzerland & France ",
-  "duration": "10 Nights / 11 Days",
+  "duration": "6 Nights / 7 Days",
   "price": 21600,
   "description": [
     "Rome,Vatican City Pisa, Venice,Vicenza,Lake Como,Lucerne / Zurich  ",
@@ -861,7 +875,21 @@
   ],
   "image": "/images/banners/italy-switz-france/lake-como.webp",
   "slug": "/duniya-dekho/italy-switzerland-france-tour-package"
+},
+{
+  "intro": "From Ancient Athens to the Iconic Isles of Mykonos & Santorini  ",
+  "name": "Greece Getaway  ",
+  "duration": "10 Nights / 11 Days",
+  "price": 21600,
+  "description": [
+    " Athens,Sightseeing ,Mykonos,Mykonos Exploration   ",
+    "Santorini,Santorini Sightseeing, Santorini   "    
+    
+  ],
+  "image": "/images/banners/italy-switz-france/lake-como.webp",
+  "slug": "/duniya-dekho/greece-getaway-athens-mykonos-santorini"
 }
+
 
 
 
