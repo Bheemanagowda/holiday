@@ -3691,23 +3691,21 @@
   "metaDescription": "Witness the magical Aurora Borealis with Duniya Dekho. Covers Tromsø, Rovaniemi and Reykjavik with snow adventures, Arctic culture and Northern Lights experiences.",
 
  "bannerImages": [
-      "/images/banners/northernlights/abisko-sweden.webp",
-      "/images/banners/northernlights/fairbanks-alaska.webp",
-      "/images/banners/northernlights/kiruna-sweden.webp",
-      "/images/banners/northernlights/reykjavík-&-iceland-countryside.webp",
-      "/images/banners/northernlights/rovaniemi-finland.webp",
-        "/images/banners/northernlights/murmansk-russia.webp",
-         "/images/banners/northernlights/tromso-norway.webp",
-          "/images/banners/northernlights/yellowknife-canada.webp"
+      "/images/banners/northernlights/latest/akureyri.webp",
+      "/images/banners/northernlights/latest/borgarnes.webp",
+      "/images/banners/northernlights/latest/skaftafell-national-park.webp",
+      "/images/banners/northernlights/latest/reykjavik-Iceland.webp",
+      "/images/banners/northernlights//latest/vik–golden-circle–keflavik.webp"
+       
       
 
     ],
     "bannerLgImages": [
-      "/images/banners/pondicherry1_lg.webp",
-      "/images/banners/pondicherry2_lg.webp",
-      "/images/banners/chennai1_lg.webp",
-      "/images/banners/chennai2_lg.webp",
-      "/images/banners/chennai3_lg.webp"
+     "/images/banners/northernlights/latest/akureyri.webp",
+      "/images/banners/northernlights/latest/borgarnes.webp",
+      "/images/banners/northernlights/latest/skaftafell-national-park.webp",
+       "/images/banners/northernlights/latest/reykjavik-Iceland.webp",
+      "/images/banners/northernlights//latest/vik–golden-circle–keflavik.webp"
     ],
 
   "duration": "09 Nights | 10 Days",
@@ -4018,24 +4016,20 @@
 
 
  "bannerImages": [
-      "/images/banners/east-europe/belgrade-serbia.webp",
-      "/images/banners/east-europe/bratislava-slovakia.webp",
-      "/images/banners/east-europe/bucharest-romania.webp",
-      "/images/banners/east-europe/budapest-hungary.webp",
-      "/images/banners/east-europe/dubrovnik-croatia.webp",
-      "/images/banners/east-europe/krakow-poland.webp",
-        "/images/banners/east-europe/prague-czech-republic.webp",
-         "/images/banners/east-europe/vienna-austria.webp"
+      "/images/banners/east-europe/latest/budapest.webp",
+      "/images/banners/east-europe/latest/ijubljana–bled.webp",
+      "/images/banners/east-europe/latest/prague.webp",
+      "/images/banners/east-europe/latest/vienna.webp",
+      "/images/banners/east-europe/latest/zagreb–ljubljana.webp"
+     
     ],
     "bannerLgImages": [
-       "/images/banners/east-europe/belgrade-serbia.webp",
-      "/images/banners/east-europe/bratislava-slovakia.webp",
-      "/images/banners/east-europe/bucharest-romania.webp",
-      "/images/banners/east-europe/budapest-hungary.webp",
-      "/images/banners/east-europe/dubrovnik-croatia.webp",
-      "/images/banners/east-europe/krakow-poland.webp",
-        "/images/banners/east-europe/prague-czech-republic.webp",
-         "/images/banners/east-europe/vienna-austria.webp"
+       "/images/banners/east-europe/latest/budapest.webp",
+      "/images/banners/east-europe/latest/ijubljana–bled.webp",
+      "/images/banners/east-europe/latest/prague.webp",
+      "/images/banners/east-europe/latest/vienna.webp",
+      "/images/banners/east-europe/latest/zagreb–ljubljana.webp"
+     
     ],
 
   "duration": "07 Nights | 08 Days",
@@ -11141,7 +11135,7 @@
   "metaDescription": "Explore the Best of Europe with Duniya Dekho. Discover Italy’s iconic cities, Switzerland’s scenic Alps, and France’s romantic charm in one unforgettable tour package.",
 
  "bannerImages": [
-      "/images/banners/italy-switz-france/lake-como.webp",
+      "/images/banners/greece-gatway/lake-como.webp",
     "/images/banners/italy-switz-france/lucerne.webp",
     "/images/banners/italy-switz-france/pisa.webp",
     "/images/banners/italy-switz-france/vatican-city.webp",
@@ -11327,20 +11321,20 @@
   "metaDescription": "Experience the perfect Greece getaway with Duniya Dekho. Explore ancient Athens, relax on the iconic islands of Mykonos and Santorini, enjoy stunning sunsets, beautiful beaches and authentic Greek culture in one unforgettable journey.",
 
  "bannerImages": [
-      "/images/banners/italy-switz-france/lake-como.webp",
-    "/images/banners/italy-switz-france/lucerne.webp",
-    "/images/banners/italy-switz-france/pisa.webp",
-    "/images/banners/italy-switz-france/vatican-city.webp",
-    "/images/banners/italy-switz-france/venice.webp"
+      "/images/banners/greece-gatway/athens.webp",
+    "/images/banners/greece-gatway/athens-sightseeing.webp",
+    "/images/banners/greece-gatway/mykonos–santorini.webp",
+    "/images/banners/greece-gatway/mykonos.webp",
+    "/images/banners/greece-gatway/santorini-sightseeing.webp"
   
    
     ],
     "bannerLgImages": [
-     "/images/banners/italy-switz-france/lake-como.webp",
-    "/images/banners/italy-switz-france/lucerne.webp",
-    "/images/banners/italy-switz-france/pisa.webp",
-    "/images/banners/italy-switz-france/vatican-city.webp",
-    "/images/banners/italy-switz-france/venice.webp"
+     "/images/banners/greece-gatway/athens.webp",
+    "/images/banners/greece-gatway/athens-sightseeing.webp",
+    "/images/banners/greece-gatway/mykonos–santorini.webp",
+    "/images/banners/greece-gatway/mykonos.webp",
+    "/images/banners/greece-gatway/santorini-sightseeing.webp"
     ],
   "duration": "6 Nights / 7 Days",
     "pdf": {
