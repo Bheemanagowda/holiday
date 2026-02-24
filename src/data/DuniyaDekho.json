@@ -220,7 +220,7 @@
   "duration": "4 Nights / 4 Days",
   "pdf": {
     "name": "Download PDF",
-    "url": "/pdf/egyptian-getaway-cairo-3-nights-4-days.docx"
+    "url": "/pdf/egyptian-getaway-cairo-3-nights-4-days.pdf"
   },
   "price": 198500,
   "description": [
@@ -360,7 +360,7 @@
   "duration": "5 Nights / 6 Days",
       "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/wildlife-wonders-of-kenya-5-nights-6-days.docx"
+  "url": "/pdf/wildlife-wonders-of-kenya-5-nights-6-days.pdf"
       },
   "price": 189540,
   "description": [
@@ -524,7 +524,7 @@
   "duration": "10 Nights  I  11 Days",
        "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/wilds-of-tanzania-unforgettable-journey-10-nights-11-days.docx"
+  "url": "/pdf/wilds-of-tanzania-unforgettable-journey-10-nights-11-days.pdf"
       },
   "price": 315900,
   "description": [
@@ -905,7 +905,7 @@
   "duration": "06 Nights / 07 Days",
     "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/usa-west-coast-getaway-6-nights-7-days.docx"
+  "url": "/pdf/usa-west-coast-getaway-6-nights-7-days.pdf"
       },
   "price": 160588,
   "description": [
@@ -1071,7 +1071,7 @@
   "duration": "05 Nights  I  06 Days",
    "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/usa-east-coast-getaway-5-nights-6-days.docx"
+  "url": "/pdf/usa-east-coast-getaway-5-nights-6-days.pdf"
       },
   "price": 180900,
   "description": [
@@ -1432,7 +1432,7 @@
   "duration": "09 Nights  I  10 Days",
   "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/best-of-canada-9-nights-10-days.docx"
+  "url": "/pdf/best-of-canada-9-nights-10-days.pdf"
       },
   "price": 410400,
   "description": [
@@ -1611,7 +1611,7 @@
   "duration": "07 Nights / 08 Days",
     "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/australian-adventure-7-nights-8-days.docx"
+  "url": "/pdf/australian-adventure-7-nights-8-days.pdf"
       },
   "price":  330300,
   "description": [
@@ -1784,7 +1784,7 @@
   "duration": "06 Nights / 07 Days",
   "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/australian-adventure-7-nights-8-days.docx"
+  "url": "/pdf/discover-new-zealand-6-nights-7-days.pdf"
       },
   "price": 305100,
   "description": [
@@ -1953,7 +1953,7 @@
   "duration": "12 Nights  I  13 Days",
    "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/best-of-europe-12-nights-13-days.docx"
+  "url": "/pdf/best-of-europe-12-nights-13-days.pdf"
       },
   "price":  290700,
   "description": [
@@ -2166,7 +2166,7 @@
   "duration": "07 Nights  I  08 Days",
    "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/best-of-turkey-7-nights-8-days.docx"
+  "url": "/pdf/best-of-turkey-7-nights-8-days.pdf"
       },
   "price": 160200,
   "description": [
@@ -2357,7 +2357,7 @@
   "duration": "7 Nights / 8 Days",
     "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/paris-swiss-delight-7-nights-8-days.docx"
+  "url": "/pdf/paris-swiss-delight-7-nights-8-days.pdf"
       },
   "price": 210600,
   "description": [
@@ -3528,7 +3528,7 @@
   "duration": "07 Nights | 08 Days",
     "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/greek-island-hopping-adventure-8-days.docx"
+  "url": "/pdf/greek-island-hopping-adventure-8-days.pdf"
       },
   "price":  133838,
 
@@ -3900,7 +3900,7 @@
   "duration": "07 Nights | 08 Days",
   "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/japan-7-nights-8-days.docx"
+  "url": "/pdf/japan-7-nights-8-days.pdf"
       },
   "price": 198000,
 
@@ -4353,7 +4353,7 @@
   "duration": "07 Nights | 08 Days",
     "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/japan-7-nights-8-days.docx"
+  "url": "/pdf/japan-7-nights-8-days.pdf"
       },
   "price":  290000,
 
@@ -4529,7 +4529,7 @@
   "duration": "06 Nights | 07 Days",
    "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/oman-discovery-5-nights-6-days.docx"
+  "url": "/pdf/oman-discovery-5-nights-6-days.pdf"
       },
   "price":  85500,
 
@@ -4842,7 +4842,7 @@
   "duration": "4 Nights / 5 Days",
     "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/dubai-city-break-4-nights-5-days.docx"
+  "url": "/pdf/dubai-city-break-4-nights-5-days.pdf"
       },
   "price": 81900,
 
@@ -4998,7 +4998,7 @@
   "duration": "10 Nights / 11 Days",
    "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/singapore-malaysia-thailand-10-nights-11-days.docx"
+  "url": "/pdf/singapore-malaysia-thailand-10-nights-11-days.pdf"
       },
   "price": 110700,
 
@@ -5200,7 +5200,7 @@
   "duration": "6 Nights / 7 Days",
     "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/singapore-malaysia-6-nights-7-days.docx"
+  "url": "/pdf/singapore-malaysia-6-nights-7-days.pdf"
       },
     "price": 95400,
 
@@ -5505,7 +5505,7 @@
   "duration": "08 Nights | 09 Days",
     "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/wonders-of-vietnam-cambodia-8-nights-9-days.docx"
+  "url": "/pdf/wonders-of-vietnam-cambodia-8-nights-9-days.pdf"
       },
   "price": 75600,
 
@@ -5703,7 +5703,7 @@
   "duration": "5 Nights / 6 Days",
     "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/phuket-krabi-getaway-5-nights-6-days.docx"
+  "url": "/pdf/phuket-krabi-getaway-5-nights-6-days.pdf"
       },
   "price": 59400,
 
@@ -6006,7 +6006,7 @@
   "duration": "05 Nights | 06 Days",
    "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/bali-uncovered-5-nights-6-days.docx"
+  "url": "/pdf/bali-uncovered-5-nights-6-days.pdf"
       },
   "price": 36146,
 
@@ -6184,7 +6184,7 @@
   "duration": "07 Nights | 08 Days",
   "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/taiwan-8-days.docx"
+  "url": "/pdf/taiwan-8-days.pdf"
       },
   "price": 91310,
 
@@ -6371,7 +6371,7 @@
   "duration": "04 Nights | 05 Days",
    "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/beautiful-philippines-4-nights-5-days.docx"
+  "url": "/pdf/beautiful-philippines-4-nights-5-days.pdf"
       },
   "price": 64800,
 
@@ -6528,7 +6528,7 @@
   "duration": "05 Nights | 06 Days",
    "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/bhutan-adventure-5-nights-6-days.docx"
+  "url": "/pdf/bhutan-adventure-5-nights-6-days.pdf"
       },
   "price": 41990,
 
@@ -6699,7 +6699,7 @@
   "duration": "7 Nights / 8 Days",
    "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/classic-china-journey-through-time-7-nights-8-days.docx"
+  "url": "/pdf/classic-china-journey-through-time-7-nights-8-days.pdf"
       },
   "price": 120743,
 
@@ -6882,7 +6882,7 @@
   "duration": "4 Nights / 5 Days",
      "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/mauritius-4-nights-5-days.docx"
+  "url": "/pdf/mauritius-4-nights-5-days.pdf"
       },
   "price": 31068,
 
@@ -7039,7 +7039,7 @@
   "duration": "3 Nights / 4 Days",
     "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/maldives-3-nights-4-days.docx"
+  "url": "/pdf/maldives-3-nights-4-days.pdf"
       },
   "price": 107834,
 
@@ -7305,7 +7305,7 @@
   "duration": "04 Nights | 05 Days",
     "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/discover-the-jewel-of-sri-lanka-4-nights-5-days.docx"
+  "url": "/pdf/discover-the-jewel-of-sri-lanka-4-nights-5-day.pdf"
       },
   "price": 30466,
 
@@ -7472,7 +7472,7 @@
   "duration": "06 Nights | 07 Days",
    "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/langkawi-kuala-lumpur-6-nights-7-days.docx"
+  "url": "/pdf/langkawi-kuala-lumpur-6-nights-7-days.pdf"
       },
   "price": 44100,
 
@@ -7636,7 +7636,7 @@
   "duration": "3 Nights / 4 Days",
     "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/kuala-lumpur-escapade-3-nights-4-days.docx"
+  "url": "/pdf/kuala-lumpur-escapade-3-nights-4-days.pdf"
       },
   "price": 21600,
 
@@ -7784,7 +7784,7 @@
   "duration": "04 Nights | 05 Days",
     "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/singapore-itx-4-nights-5-days.docx"
+  "url": "/pdf/singapore-itx-4-nights-5-days.pdf"
       },
   "price": 71100,
 
@@ -7934,7 +7934,7 @@
   "duration": "3 Nights / 4 Days",
     "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/vietnam-discovery-hanoi-ha-long-bay-3-nights-4-days.docx"
+  "url": "/pdf/vietnam-discovery-hanoi-ha-long-bay-3-nights-4-days.pdf"
       },
   "price": 25200,
 
@@ -8092,7 +8092,7 @@
   "duration": "9 Nights / 10 Days",
     "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/paris-to-vienna-9-nights-10-days.docx"
+  "url": "/pdf/paris-to-vienna-9-nights-10-days.pdf"
       },
   "price":  215000,
 
@@ -8289,7 +8289,7 @@
   "duration": "3 Nights / 4 Days",
      "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/magic-of-bhutan-3-nights-4-days.docx"
+  "url": "/pdf/magic-of-bhutan-3-nights-4-days.pdf"
       },
   "price": 41990,
 
@@ -8444,7 +8444,7 @@
   "duration": "4 Nights / 5 Days",
     "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/swiss-bliss-4n-5d-interlaken-lucerne-getaway.docx"
+  "url": "/pdf/swiss-bliss-4n-5d-interlaken-lucerne-getaway.pdf"
       },
   "price": 41990,
 
@@ -8601,7 +8601,7 @@
   "duration": "4 Nights / 5 Days",
     "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/swiss-bliss-4n-5d-interlaken-lucerne-getaway.docx"
+  "url": "/pdf/swiss-bliss-4n-5d-interlaken-lucerne-getaway.pdf"
       },
   "price": 107834,
 
@@ -8747,7 +8747,7 @@
   "duration": "4 Nights / 5 Days",
    "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/sri-lanka-discovery-4-nights-5-days.docx"
+  "url": "/pdf/sri-lanka-discovery-4-nights-5-days.pdf"
       },
   "price": 0,
 
@@ -8906,7 +8906,7 @@
   "duration": "5 Nights / 6 Days",
     "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/sri-lanka-highlights-kandy-nuwara-eliya-bentota-colombo.docx"
+  "url": "/pdf/sri-lanka-highlights-kandy-nuwara-eliya-bentota-colombo.pdf"
       },
   "price": 189540,
   "description": [
@@ -9078,7 +9078,7 @@
   "duration": "12 Nights / 13 Days",
   "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/australian-dream-12n-13d.docx"
+  "url": "/pdf/australian-dream-12n-13d.pdf"
 },
 
 
@@ -9294,7 +9294,7 @@
   "duration": "5 Nights / 6 Days",
      "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/south-africa-5-nights-6-days.docx"
+  "url": "/pdf/south-africa-5-nights-6-days.pdf"
       },
   "price": 189540,
   "description": [
@@ -9450,7 +9450,7 @@
   "duration": "5 Nights / 6 Days",
   "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/dubai-delight-5-nights-6-days-getaway.docx"
+  "url": "/pdf/dubai-delight-5-nights-6-days-getaway.pdf"
       },
   "price":  215000,
 
@@ -9614,7 +9614,7 @@
   "duration": "5 Nights / 6 Days",
     "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/istanbul-antalya-4-nights-5-days.docx"
+  "url": "/pdf/istanbul-antalya-4-nights-5-days.pdf"
       },
   "price":  215000,
 
@@ -9778,7 +9778,7 @@
   "duration": "4 Nights / 5 Days",
    "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/kuala-lumpur-escapade-4-nights-5-days.docx"
+  "url": "/pdf/kuala-lumpur-escapade-4-nights-5-days.pdf"
       },
   "price": 21600,
 
@@ -9930,7 +9930,7 @@
   "duration": "11 Nights / 12 Days",
     "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/new-zealand-explorer-11-nights-12-days.docx"
+  "url": "/pdf/new-zealand-explorer-11-nights-12-days.pdf"
       },
   "price":  215000,
 
@@ -10133,7 +10133,7 @@
   "duration": "4 Nights / 5 Days",
     "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/paradise-bangkok-pattaya-4-nights-5-days.docx"
+  "url": "/pdf/paradise-bangkok-pattaya-4-nights-5-days.pdf"
       },
   "price": 21600,
 
@@ -10286,7 +10286,7 @@
   "duration": "4 Nights / 5 Days",
     "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/phuket-island-of-dreams-3-nights-4-days.docx"
+  "url": "/pdf/phuket-island-of-dreams-3-nights-4-days.pdf"
       },
   "price": 21600,
 
@@ -10436,7 +10436,7 @@
   "duration": "6 Nights / 7 Days",
   "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/portugal-uncovered-7-day-tour.docx"
+  "url": "/pdf/portugal-uncovered-7-day-tour.pdf"
       },
   "price": 21600,
 
@@ -10608,7 +10608,7 @@
   "duration": "7 Nights / 8 Days",
     "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/safari-dreams-tanzania-wild-7-nights-8-days.docx"
+  "url": "/pdf/safari-dreams-tanzania-wild-7-nights-8-days.pdf"
       },
   "price": 21600,
 
@@ -10793,7 +10793,7 @@
   "duration": "6 Nights / 7 Days",
     "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/sands-of-time-egyptian-escape-6-nights-7-days.docx"
+  "url": "/pdf/sands-of-time-egyptian-escape-6-nights-7-days.pdf"
       },
   "price": 189540,
   "description": [
