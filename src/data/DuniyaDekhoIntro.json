@@ -646,16 +646,14 @@
   "slug": "/duniya-dekho/bhutan-tour-package"
 },
 {
-  "intro": "Pristine Island Paradise",
+  "intro": "Islands of Endless Beauty",
   "name": "Seychelles",
   "duration": "05 Nights / 06 Days",
   "price": 72980,
   "description": [
-    "Mahé Island: Victoria City Tour & Beau Vallon Beach",
-    "Praslin Island: Vallée de Mai Nature Reserve",
-    "La Digue: Anse Source d’Argent Beach",
-    "Island Hopping & Snorkeling Experiences",
-    "Optional: Catamaran Cruise & Water Sports"
+    "Mahe,Praslin,La Digue Island Boat & Bike Tour,",
+    "Visit Valle de Mai & Anse LazioLMahe, Mahe Island Tour "
+   
   ],
   "image": "/images/small/seychelles.webp",
   "slug": "/duniya-dekho/seychelles-tour-package"
@@ -888,6 +886,32 @@
   ],
   "image": "/images/banners/italy-switz-france/lake-como.webp",
   "slug": "/duniya-dekho/greece-getaway-athens-mykonos-santorini"
+},
+{
+  "intro": "Beauty Beyond Imagination  ",
+  "name": "Discover Switzerland  ",
+  "duration": "06 Nights / 07 Days",
+  "price": 21600,
+  "description": [
+    " Zurich ,Lucerne,Mount Pilatus,Mount Rigi ",
+    "Lucerne,Jungfraujoch,Europe, Interlaken ,Zermatt,Geneva"    
+    
+  ],
+  "image": "/images/banners/switzerland/interlaken.webp",
+  "slug": "/duniya-dekho/discover-switzerland-beauty-beyond-imagination"
+},
+{
+  "intro": "From Rio’s Rhythms to the Heart of the Amazon   ",
+  "name": "Brazil ",
+  "duration": "07 Nights / 08 Days",
+  "price": 21600,
+  "description": [
+    " Rio de Janeiro,– Christ the Redeemer & Sugarloaf Mountain,Culture & Leisure ",
+    "– Iguassu Falls ,Brazilian & Argentine Sides,Manaus,Amazon Experience "    
+    
+  ],
+  "image": "/images/banners/brazil/argentine-sides.webp",
+  "slug": "/duniya-dekho/rios-rhythms-to-the-heart-of-the-amazon-brazil"
 }
 
 

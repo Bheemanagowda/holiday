@@ -3924,6 +3924,137 @@
       "Credit card payments may attract bank charges up to 3%."
     ]
   }
+},
+
+{
+  "name": "Lakshadweep: The Jewel of the Arabian Sea",
+  "slug": "lakshadweep",
+  "metaTitle":"Lakshadweep: The Jewel of the Arabian Sea | Lakshadweep Tour Package",
+  "metaDescription": "Discover Lakshadweep, India’s smallest Union Territory, featuring 36 stunning islands with white sandy beaches, turquoise lagoons, vibrant coral reefs, and rich marine life. Enjoy tropical weather, water sports, and peaceful island beauty from October to May.",
+
+   "bannerImages": [
+      "/images/banners/lakshadeep/agatti.webp",
+      "/images/banners/lakshadeep/agatti-island-sightseeing.webp",
+      "/images/banners/lakshadeep/bangaram-sandbank.webp",
+      "/images/banners/lakshadeep/kavaratti.webp",
+      "/images/banners/lakshadeep/thinnakara-island.webp"
+    ],
+    "bannerLgImages": [
+       "/images/banners/lakshadeep/agatti.webp",
+      "/images/banners/lakshadeep/agatti-island-sightseeing.webp",
+      "/images/banners/lakshadeep/bangaram-sandbank.webp",
+      "/images/banners/lakshadeep/kavaratti.webp",
+      "/images/banners/lakshadeep/thinnakara-island.webp"
+    ],
+  "duration": "04 Nights  /  05 Days",
+  "price": 22500,
+  "description": [
+    "Lakshadweep is India’s smallest Union Territory, a group of 36 islands in the Arabian Sea known for white sandy beaches, turquoise lagoons, and coral reefs. The islands are low-lying, peaceful, and rich in marine life, including tropical fish and sea turtles. With a tropical climate, the best time to visit is October to May. Lakshadweep offers relaxation, water sports, and scenic beauty, making it a perfect island getaway."
+  ],
+  "additionalInfo": [
+    {
+      "name": "Geography and Climate",
+      "description": "Lakshadweep, a group of 36 small coral islands in the Arabian Sea off the southwestern coast of India, is low-lying, sandy, and surrounded by lagoons, and it experiences a tropical maritime climate with warm temperatures year-round, high humidity, and heavy rainfall during the southwest monsoon, while the northeast monsoon brings moderate showers and the sea breezes keep the islands pleasantly warm throughout the year."
+    }
+  ],
+  "itinerary": [
+    {
+      "day": "Day 01 :",
+      "title": "Arrival in Agatti",
+      "description": "You will arrive at Agatti Island by flight from Kochi, the main gateway to Lakshadweep. After reaching your hotel or resort, check in and take some time to relax and refresh. Spend the afternoon exploring the nearby beaches, feeling the soft sand under your feet and enjoying the gentle sea breeze. ",
+      "additionalInfo": ["In the evening, witness a breathtaking sunset over the lagoon, which is a perfect start to your Lakshadweep adventure."]
+    },
+    {
+      "day": "Day 02 :",
+      "title": "Kavaratti Sightseeing Tour",
+      "description": "Start your day by taking a ferry from Agatti to Kavaratti Island, the capital of Lakshadweep. Visit the Ujra Mosque, known for its pristine white architecture and peaceful ambiance. Explore the Marine Aquarium, which showcases colorful tropical fish and vibrant coral reefs. Don’t forget to visit the Kavaratti Lighthouse for panoramic views of the island and surrounding waters. ",
+      "additionalInfo": ["In the evening, enjoy a stroll along the white sandy beaches before returning to Agatti for overnight stay."]
+    },
+    {
+      "day": "Day 03 :",
+      "title": "Agatti Island Sightseeing",
+      "description": "Spend the day exploring Agatti Island, famous for its clear lagoons and coral reefs. Relax at Tinnakara Beach, perfect for sunbathing and swimming. Try snorkeling or a glass-bottom boat ride to admire the underwater marine life. Walk through local villages to experience island culture and buy souvenirs, or simply enjoy the tranquility of the island. End the day by watching a stunning sunset over the lagoon.",
+      "additionalInfo": ["End the day by watching a stunning sunset over the lagoon."]
+    },
+    {
+      "day": "Day 04 :",
+      "title": "Thinnakara Island & Bangaram Sandbank",
+      "description": "Take a day trip to Thinnakara Island, a serene island with pristine beaches and turquoise waters. Spend time swimming and relaxing in its peaceful surroundings. Later, visit Bangaram Sandbank, an uninhabited sandbank ideal for snorkeling, diving, and picnics. Enjoy the crystal-clear waters and panoramic views of the open sea. ",
+      "additionalInfo": ["Return to Agatti in the evening after a day filled with adventure and natural beauty."]
+    },
+    {
+      "day": "Day 05 :",
+      "title": "Departure Day",
+      "description": "Check out from your hotel in Agatti and transfer to Agatti Airport for your flight back. Before leaving, take a final walk along the beaches and lagoons, soaking in the serene atmosphere and reflecting on your memorable island trip.",
+      "additionalInfo": []
+    }
+  ],
+  "hotel": {
+    "name": "Hotel Details",
+    "amenities": [
+      "3* or 4* Best hotel"
+    ]
+  },
+   "flight": {
+    "name": "Flight Details",
+    "amenities": [
+      "Flight not included"
+    ]
+  },
+  "inclusionAndExclusion": {
+    "inclusions": [
+     "Three Night’s Accommodation in Agatti at suggested hotels or similar.",
+  "One Night Accommodation in Bangaram at suggested hotels or similar.",
+  "Daily breakfast except day 01.",
+  "All Meals (set menu) as per mentioned in the itinerary.",
+  "Entrance fees of all sightseeing places to visited from inside.",
+  "Travel by AC comfortable A/C coach as per the itinerary.",
+  "Return Airport transfers on Seat in Coach basis."
+    ],
+    "exclusions": [
+      "Three Night’s Accommodation in Agatti at suggested hotels or similar.",
+  "One Night Accommodation in Bangaram at suggested hotels or similar.",
+  "Daily breakfast except day 01.",
+  "All Meals (set menu) as per mentioned in the itinerary.",
+  "Entrance fees of all sightseeing places to visited from inside.",
+  "Travel by AC comfortable A/C coach as per the itinerary.",
+  "Return Airport transfers on Seat in Coach basis."
+    ]
+  },
+  "pleaseNote": {
+    "title": "Please Note",
+    "notes": [
+    "100% Cancellation on low cost carrier once booking confirmed.",
+  "100% Cancellation if hotels/entrances booked and paid in advanced during confirmation period and will be non refundable.",
+  "100% Cancellation during peak days or any trade fare.",
+  "100% Cancellation once visa payment is done.",
+  "For Group booking, please reconfirm the cancellation policy before confirmation.",
+  "Airline & hotel Cancellation policy will at time override the current cancellation policy listed."
+    ]
+  },
+  "conditions": {
+    "title": "Conditions",
+    "conditions": [
+       "Above rates based on today’s ROE. Any fluctuation will vary the cost at the time of confirmation and final payment made.",
+  "For your international Travel, The Passport of passengers should have the validity of minimum 6 (SIX) months (from the date of return) and two or more blank pages for visa stamp.",
+  "Physical condition of Passport is taken care by guest directly in case of E-Visa. Please ensure the passports are not damaged anywhere. In case of damaged passports, the passenger may not be allowed by the immigration or airline.",
+  "Airfare is subject to availability at the time of confirmation with the payment.",
+  "Hotel Rooms & Service are subject to availability at the time of confirmation with the payment.",
+  "In case of Non availability of Hotel Rooms a similar category Hotel will be provided.",
+  "Credit card payments are subject to 3% bank charges. Any fluctuations may vary the cost.",
+  "No Change in Itinerary once confirmed will be honored unless otherwise given in writing. This may incur additional charges based on the requirement.",
+  "No verbal commitments will be honored unless otherwise given in writing.",
+  "The offers are valid till for time being only & unless otherwise specified.",
+  "Extension of stay would be subject to availability and on pro-rata basis and as of best rate of the day.",
+  "Private vehicle mentioned in the quotes is based on the itinerary (Point to Point Service).",
+  "For all SIC tour (Seat in Coach) – there is always waiting time for pick up/drop. Also the pickup/drop points may vary city to city unless specified hotel in the quotes.",
+  "Any City Taxes to be paid directly at hotel unless specified in the quotes.",
+  "Entrances specified in the itinerary will be covered. Any extra services to be taken care by guest directly.",
+  "No amendments possible once land arrangements have been confirmed.",
+  "No refund for partly unutilized tickets. No refund for \"NO – SHOWS\" & Last moment cancellations.",
+  "Granting or rejecting visas and immigration clearance is the sole prerogative of the concerned sovereign governments and we can only facilitate in the entire process. We shall neither be responsible in case of non-granting of such documents. Even if the visas are rejected, cancellation charges / fees shall be payable by the Client. There will be no refund, if the Clients, or any member of his party, is unable to travel due to the said reasons."
+    ]
+  }
 }
 
 

@@ -168,6 +168,14 @@
               { "name": "Light & Sound Show", "link": "/bharat-dekho/andaman-tour-package" },
               { "name": "Cellular Jail", "link": "/bharat-dekho/andaman-tour-package" }
             ]
+          },
+           {
+            "heading": "Island Union Territory",
+               "link": "/bharat-dekho/lakshadweep",
+            "links": [
+              { "name": "Lakshadweep", "link": "/bharat-dekho/lakshadweep" }
+              
+            ]
           }
         ]
       },

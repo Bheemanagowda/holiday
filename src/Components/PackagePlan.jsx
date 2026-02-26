@@ -197,6 +197,7 @@ function PackagePlan() {
               name: "Lakshadweep",
               image: "/images/lakshadweep_intro.webp",
               description: "Flights . Hotels . Holidays",
+              link:"/bharat-dekho/lakshadweep"
               
             },
             {

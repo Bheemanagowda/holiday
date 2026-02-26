@@ -7156,10 +7156,10 @@
   }
 },
 {
-  "name": "Seychelles — Islands of Pure Tropical Beauty",
+  "name": "Seychelles — Islands of Endless Beauty",
   "slug": "seychelles-tour-package",
   "metaTitle": "Seychelles Tour Package | Pristine Beaches, Islands & Nature with Duniya Dekho",
-  "metaDescription": "Discover Seychelles with Duniya Dekho. Visit world-famous beaches, nature parks, granite islands, and pristine marine ecosystems.",
+  "metaDescription": "Discover the breathtaking beauty of Seychelles, a tropical island paradise in the Indian Ocean known for crystal-clear turquoise waters, white-sand beaches, granite rock formations, vibrant coral reefs, and lush green hills. Perfect for honeymooners, beach lovers, and nature enthusiasts seeking a peaceful getaway.",
 
   "bannerImages": [
     "/images/banners/seychelles/anse-lazio.webp",
@@ -7182,96 +7182,138 @@
        "/images/banners/seychelles/vallee-de-mai-nature-reserve.webp"
   ],
 
-  "duration": "03 Nights | 04 Days",
+  "duration": "05 Nights | 06 Days",
    "pdf": {
   "name": "Download PDF",
-  "url": ""
+  "url": "/pdf/seychelles-islands-of-endless-beauty.pdf"
       },
   "price": 49820,
 
-  "description": [
-    "Seychelles is a breathtaking archipelago known for white sand beaches, granite boulders, turquoise waters, and lush nature reserves.",
-    "Enjoy island tours, snorkeling, marine life experiences, and picture-perfect tropical landscapes."
-  ],
+ "description": [
+  "Seychelles is a breathtaking tropical island nation in the Indian Ocean, known for its crystal-clear turquoise waters, powdery white-sand beaches, and dramatic granite rock formations. Surrounded by vibrant coral reefs and lush green hills, the islands offer a perfect blend of natural beauty and tranquility. With its warm tropical climate, rich marine life, and relaxed island atmosphere, Seychelles is an ideal destination for beach lovers, honeymooners, and nature enthusiasts seeking a peaceful and scenic getaway."
+],
 
   "additionalInfo": [
     {
-      "name": "Geography and Climate",
-      "description": "Seychelles enjoys tropical warm weather year-round, ideal for beaches, marine excursions, and nature exploration."
-    }
+  "name": "Geography and Climate",
+  "description": "Seychelles is an island nation in the Indian Ocean, located northeast of Madagascar, and consists of 115 islands divided into granite islands (such as Mahe, Praslin, and La Digue) and coral islands. The country is famous for its white sandy beaches, turquoise waters, lush tropical forests, and unique granite rock formations. It has a tropical climate with warm temperatures throughout the year, usually ranging between 24°C and 32°C. The weather is generally humid with refreshing sea breezes. The northwest monsoon season (November to March) is warmer and wetter, while the southeast monsoon (May to September) brings cooler and drier conditions."
+}
   ],
 
   "itinerary": [
     {
       "day": "Day 01 :",
-      "title": "Arrival in Seychelles",
-      "description": "Arrive in Seychelles. Transfer to hotel. Day at leisure on the island.",
-      "additionalInfo": ["Overnight stay in Seychelles hotel"]
+      "title": "Arrival in Mahe – Transfer to Praslin",
+      "description": "Upon arrival at Mahe International Airport, you will proceed to the jetty to board the ferry to Praslin.The scenic ferry ride takes approximately 1 hour and 15 minutes, offering beautiful views of the Indian Ocean.On arrival in Praslin, transfer to your hotel and check in. Spend the rest of the day at leisure relaxing on the beach, enjoying the resort facilities, or exploring the nearby surroundings at your own pace",
+      "additionalInfo": ["Overnight stay in Praslin."]
     },
     {
       "day": "Day 02 :",
-      "title": "Mahe Island Tour",
-      "description": "Explore Victoria City, Mission Lodge viewpoint, Beau Vallon Beach, and local markets.",
-      "additionalInfo": ["Overnight stay in Seychelles hotel"]
+      "title": "Praslin – La Digue Island Boat & Bike Tour",
+      "description": "After breakfast, proceed for an exciting full-day excursion to La Digue Island. You will travel by boat from Praslin to La Digue, one of the most picturesque islands in Seychelles.Upon arrival, explore the island by bicycle, the most popular and charming way to discover La Digue.Visit the world-famous Anse Source d’Argent beach, known for its stunning granite rock formations and crystal-clear waters. You may also explore L’Union Estate and enjoy the relaxed island atmosphere.",
+      "additionalInfo": ["Later in the afternoon, return by boat to Praslin. Overnight stay in Praslin."]
     },
     {
       "day": "Day 03 :",
-      "title": "Praslin or La Digue Excursion (Optional)",
-      "description": "Visit famous beaches like Anse Lazio or Anse Source d’Argent with optional nature & marine experiences.",
-      "additionalInfo": ["Overnight stay in Seychelles hotel"]
+      "title": "Praslin – Visit Valle de Mai & Anse LazioL",
+      "description": "After breakfast, visit the UNESCO World Heritage Site, Valle de Mai Nature Reserve. This prehistoric forest is home to the rare Coco de Mer palm and unique wildlife species found only in Seychelles. Enjoy a guided walk through the lush tropical forest and learn about its fascinating ecosystem.Later, proceed to Anse Lazio, one of the most beautiful beaches in the world. Relax on the soft white sand, swim in the turquoise waters, or simply soak in the breathtaking scenery.",
+      "additionalInfo": ["Return to your hotel in the evening. Overnight stay in Praslin"]
     },
     {
       "day": "Day 04 :",
-      "title": "Departure",
-      "description": "Transfer to airport for return flight. Tour ends with island memories.",
-      "additionalInfo": []
+      "title": "Praslin to Mahe ",
+      "description": "After breakfast, check out from your hotel and transfer to the jetty for your ferry back to Mahe. The ferry ride takes approximately 1 hour and 15 minutes.Upon arrival in Mahe, transfer to your hotel and check in. Spend the remainder of the day at leisure.You may relax at the beach, explore local markets, or enjoy optional water activities.",
+      "additionalInfo": ["Overnight stay in Mahe."]
+    },
+      {
+      "day": "Day 05 :",
+      "title": "Mahe – Full Day Mahe Island Tour ",
+      "description": "After breakfast, proceed for a full-day guided tour of Mahe Island. Explore the capital city, Victoria,one of the smallest capitals in the world. Visit landmarks such as the Clock Tower, local market, and botanical gardens.Continue your journey through scenic mountain roads and coastal routes, stopping at panoramic view points for spectacular photo opportunities. Visit beautiful beaches such as Beau Vallon and enjoy the island’s natural beauty.",
+      "additionalInfo": ["Return to your hotel in the evening. Overnight stay in Mahe."]
+    },
+    {
+      "day": "Day 05 :",
+      "title": " Mahe – Departure ",
+      "description": "After breakfast, check out from your hotel. Depending on your flight schedule, you may have some free time for last-minute shopping or relaxation.",
+      "additionalInfo": [" Later, transfer to Mahe International Airport for your onward flight, carrying wonderful memories of your Seychelles holiday."]
     }
   ],
 
   "hotel": {
     "name": "Hotel details",
     "amenities": [
-      "Island Beach Resort in Seychelles",
-      "Beachfront Access",
-      "Swimming Pool & Marine Activities",
-      "Multi-Cuisine Restaurant"
+      "3* or 4* Best hotel"
+     
+    ]
+  },
+    "flight": {
+    "name": "Flight details",
+    "amenities": [
+      "Flight not included"
+     
     ]
   },
 
   "inclusionAndExclusion": {
     "inclusions": [
-      "03 Night’s Accommodation in Seychelles",
-      "Daily Breakfast",
-      "Return Airport Transfers",
-      "Island Tour (As per package)",
-      "Hotel & Tourism Taxes"
+      "Three Night’s Accommodation in Praslin at suggested hotels or similar.",
+      "Two Night’s Accommodation in Mahe at suggested hotels or similar.",
+      "Daily breakfast except day 01",
+      "All Meals (set menu) as per mentioned in the itinerary",
+      "Entrance fees of all sightseeing places to visited from inside",
+      "Travel by AC comfortable A/C coach as per the itinerary",
+      "Return Airport transfers on Seat in Coach basis."
     ],
     "exclusions": [
-      "International Airfare",
-      "Travel Insurance",
-      "Lunch & Dinner",
-      "Marine Activities & Excursions",
-      "Personal expenses (tips, drinks, laundry, etc.)",
-      "Early check-in & late check-out"
+     "Return & Internal Airfare",
+    "Airport Taxes",
+    "Visa",
+    "Any Entry Fees other than the specified itinerary",
+    "Tips to Driver and Guide - personal expense",
+    "High Season Surcharges as applicable",
+    "Use of vehicle other than the specified itinerary",
+    "Any item that is not mentioned in the above Tour Price includes",
+    "No Intercity surface transfers are included unless specified in the package",
+    "Expenses of personal nature (Example – Tipping, laundry & Telephone calls, Beverages etc)",
+    "Travel Insurance not included",
+    "5% GST",
+    "5% TCS"
     ]
   },
 
   "pleaseNote": {
     "title": "Please Note",
     "notes": [
-      "Optional excursions may have additional charges.",
-      "Ferry transfers to other islands subject to availability.",
-      "Peak season surcharges may apply."
+     "100% Cancellation on low cost carrier once booking confirmed",
+    "100% Cancellation if hotels/entrances booked and paid in advance during confirmation period and will be non refundable",
+    "100% Cancellation during peak days or any trade fare",
+    "100% Cancellation once visa payment is done",
+    "For Group booking, please reconfirm the cancellation policy before confirmation",
+    "Airline & hotel Cancellation policy will at time override the current cancellation policy listed"
     ]
   },
 
   "conditions": {
     "title": "Conditions",
     "conditions": [
-      "Airfare subject to availability at time of booking.",
-      "Hotels subject to availability; similar category may be provided.",
-      "No refund for unused services.",
-      "Credit card payments may attract 3% surcharge."
+     "Above rates based on today’s ROE. Any fluctuation will vary the cost at the time of confirmation and final payment made.",
+    "For your international Travel, The Passport of passengers should have the validity of minimum 6 (SIX) months (from the date of return) and two or more blank pages for visa stamp.",
+    "Physical condition of Passport is taken care by guest directly in case of E-Visa. Please ensure the passports are not damaged anywhere. In case of damaged passports, the passenger may not be allowed by the immigration or airline.",
+    "Airfare is subject to availability at the time of confirmation with the payment.",
+    "Hotel Rooms & Service are subject to availability at the time of confirmation with the payment.",
+    "In case of Non availability of Hotel Rooms a similar category Hotel will be provided.",
+    "Credit card payments are subject to 3% bank charges. Any fluctuations may vary the cost.",
+    "No Change in Itinerary once confirmed will be honored unless otherwise given in writing. This may incur additional charges based on the requirement.",
+    "No verbal commitments will be honored unless otherwise given in writing.",
+    "The offers are valid till for time being only & unless otherwise specified.",
+    "Extension of stay would be subject to availability and on pro-rata basis and as of best rate of the day.",
+    "Private vehicle mentioned in the quotes is based on the itinerary (Point to Point Service)",
+    "For all SIC tour (Seat in Coach) – there is always waiting time for pick up/drop. Also the pickup/drop points may vary city to city unless specified hotel in the quotes.",
+    "Any City Taxes to be paid directly at hotel unless specified in the quotes.",
+    "Entrances specified in the itinerary will be covered. Any extra services to be taken care by guest directly.",
+    "No amendments possible once land arrangements have been confirmed",
+    "No refund for partly unutilized tickets. No refund for \"NO – SHOWS\" & Last moment cancellations",
+    "Granting or rejecting visas and immigration clearance is the sole prerogative of the concerned sovereign governments and we can only facilitate in the entire process. We shall neither be responsible in case of non-granting of such documents. Even if the visas are rejected, cancellation charges / fees shall be payable by the Client. There will be no refund, if the Clients, or any member of his party, is unable to travel due to the said reasons."
     ]
   }
 },
@@ -11472,6 +11514,323 @@
   "Entrances specified in the itinerary will be covered. Any extra services to be taken care by guest directly.",
   "No amendments possible once land arrangements have been confirmed",
   "No refund for partly unutilized tickets. No refund for \"NO – SHOWS\" & Last moment cancellations",
+  "Granting or rejecting visas and immigration clearance is the sole prerogative of the concerned sovereign governments and we can only facilitate in the entire process. We shall neither be responsible in case of non-granting of such documents. Even if the visas are rejected, cancellation charges / fees shall be payable by the Client. There will be no refund, if the Clients, or any member of his party, is unable to travel due to the said reasons."
+    ]
+  }
+},
+{
+  "name": "Discover Switzerland – Beauty Beyond Imagination",
+  "slug": "discover-switzerland-beauty-beyond-imagination",
+  "metaTitle": "Discover Switzerland – Beauty Beyond Imagination | Switzerland Tour Package",
+  "metaDescription": "Discover Switzerland, a beautiful landlocked country in Central Europe known for the Alps, scenic train journeys, winter sports, clear lakes, charming cities, chocolate, cheese, watches, and rich cultural heritage.",
+
+ "bannerImages": [
+      "/images/banners/switzerland/interlaken.webp",
+    "/images/banners/switzerland/jungfraujoch.webp",
+    "/images/banners/switzerland/mount-rigi.webp",
+    "/images/banners/switzerland/zurich.webp",
+    "/images/banners/switzerland/zurich-to-lucerne.webp"
+  
+   
+    ],
+    "bannerLgImages": [
+     "/images/banners/switzerland/interlaken.webp",
+    "/images/banners/switzerland/jungfraujoch.webp",
+    "/images/banners/switzerland/mount-rigi.webp",
+    "/images/banners/switzerland/zurich.webp",
+    "/images/banners/switzerland/zurich-to-lucerne.webp"
+    ],
+  "duration": "06 Nights / 07 Days",
+    "pdf": {
+  "name": "Download PDF",
+  "url": "/pdf/switzerland.pdf"
+      },
+  "price": 189540,
+  "description": [
+    "Switzerland is a small, landlocked country in Central Europe, known for its stunning mountains, clear lakes, and charming cities. The country is famous for the Alps, scenic train journeys, winter sports, and its rich cultural heritage. Switzerland is also renowned for chocolate, cheese, and watches, making it a popular destination for tourists year-round. Its temperate climate varies by region, with snowy winters in the mountains and mild summers in the lowlands."
+  ],
+  "additionalInfo": [
+    {
+      "name": "Geography and Climate",
+      "description": "Switzerland is a small, landlocked country in Central Europe, bordered by Germany, France, Italy, Austria, and Liechtenstein. Its landscape includes the Alps, the Jura Mountains, and the Central Plateau, with over 1,500 lakes such as Lake Geneva and Lake Lucerne.The climate is temperate but varies with altitude: the Alps are cold with snow in winter, while the Plateau is warmer. The west and south are influenced by the Mediterranean, making them slightly milder. Switzerland is a year-round tourist destination, popular for skiing in winter, hiking in summer, scenic train journeys like the Glacier Express, and its charming cities, lakes, and famous chocolate, cheese, and watches. "
+    }
+  ],
+  "itinerary": [
+    {
+      "day": "Day 01 :",
+      "title": " Arrival in Zurich ",
+      "description": "Upon arriving in Zurich, the largest city in Switzerland, you can start by settling into your hotel and refreshing after your journey. Spend the afternoon exploring the Old Town (Altstadt), with its narrow streets, historic buildings, and charming squares. Walk along Bahnhofstrasse, one of the world’s most famous shopping streets, and enjoy the peaceful promenade along Lake Zurich. ",
+      "additionalInfo": ["In the evening, try traditional Swiss cuisine at a local restaurant, such as Zürcher Geschnetzeltes, a creamy veal dish that is a specialty of the region."]
+    },
+     {
+      "day": "Day 02 :",
+      "title": "Zurich to Lucerne",
+      "description": "Take a morning train from Zurich to Lucerne, which takes about one hour. Lucerne is a picturesque city famous for its medieval architecture and lakeside setting. Explore the iconic Chapel Bridge (Kapellbrücke), the Lion Monument, and the cobbled streets of the Old Town. If time permits, enjoy a relaxing boat cruise on Lake Lucerne, offering panoramic views of the surrounding mountains. ",
+      "additionalInfo": ["In the evening, dine at a lakeside restaurant while enjoying the Alpine scenery. "]
+    },
+    {
+      "day": "Day 03 :",
+      "title": "Mount Pilatus or Mount Rigi",
+      "description": "Dedicate today to one of Lucerne’s nearby mountains. You can choose Mount Pilatus, accessible via the world’s steepest cogwheel railway from Alpnachstad, or by cable car from Kriens. From the summit, enjoy breathtaking panoramic views of the Alps, Lake Lucerne, and surrounding valleys. ",
+      "additionalInfo": ["Alternatively, Mount Rigi, known as the “Queen of the Mountains,” offers easier hiking trails and similarly stunning vistas. After a day of mountain exploration, return to Lucerne for dinner and relaxation."]
+    },
+    {
+      "day": "Day 04 :",
+      "title": " Lucerne to Interlaken",
+      "description": "Take a scenic train ride from Lucerne to Interlaken, which takes approximately two hours. Interlaken, nestled between Lake Thun and Lake Brienz, is a hub for adventure sports and outdoor activities. Spend the afternoon strolling through Interlaken’s town center, walking along the Aare River, and taking in the views of the surrounding Jungfrau Alps. If you enjoy adventure, you can try activities such as paragliding or kayaking on the lakes.",
+      "additionalInfo": ["  In the evening, relax at a café while enjoying the tranquil mountain scenery."]
+    },
+    {
+      "day": "Day 05 :",
+      "title": "Jungfraujoch – Top of Europe ",
+      "description": "This day is dedicated to visiting Jungfraujoch, Europe’s highest railway station, often called the “Top of Europe.” Take the train from Interlaken to Lauterbrunnen, then transfer to Kleine Scheidegg before reaching Jungfraujoch. At the summit, you can explore the Ice Palace, enjoy panoramic views from the observation deck, and experience snow activities even in summer. ",
+      "additionalInfo": ["Return to Interlaken in the evening for a relaxing dinner and rest. "]
+    },
+    {
+      "day": "Day 06 :",
+      "title": " Interlaken to Zermatt ",
+      "description": "Take a morning train to Zermatt, a car-free village at the foot of the Matterhorn, Switzerland’s most iconic mountain. Spend the afternoon exploring Zermatt’s charming streets, visit the Matterhorn Museum, and enjoy the alpine atmosphere. For spectacular views, take the Gornergrat Railway to see the Matterhorn and surrounding peaks. ",
+      "additionalInfo": ["Evening is perfect for enjoying a cozy Swiss dinner in one of Zermatt’s traditional restaurants."]
+    },
+    {
+      "day": "Day 07 :",
+      "title": "Zermatt to Geneva / Departure",
+      "description": "On your final day, you can enjoy a short morning hike or capture some last photos of the Matterhorn. Then take the train to Geneva, which takes about three and a half hours. ",
+      "additionalInfo": ["If time permits, explore the Jet d’Eau, Geneva’s iconic fountain, stroll through the Old Town, and walk along the lakefront before heading to the airport for departure. "]
+    }
+
+    
+  ],
+  "hotel": {
+    "name": "Hotel details",
+    "amenities": [
+      "3* or 4* Best hotel"
+    ]
+  },
+  
+  "flight": {
+    "name": "Flight Details",
+    "amenities": [
+      "Flight not included"
+      ]
+    },
+
+  "inclusionAndExclusion": {
+    "inclusions": [
+    "One Night Accommodation in Zurich at suggested hotels or similar.",
+    "Two Night’s Accommodation in Lucerne at suggested hotels or similar.",
+    "Two Night’s Accommodation in Interlaken at suggested hotels or similar.",
+    "One Night Accommodation in Zermatt at suggested hotels or similar",
+    "Daily breakfast except day 01",
+    "All Meals (set menu) as per mentioned in the itinerary",
+    "Entrance fees of all sightseeing places to visited from inside",
+    "Travel by AC comfortable A/C coach as per the itinerary",
+    "Return Airport transfers on Seat in Coach basis."
+    ],
+    "exclusions": [
+     "One Night Accommodation in Zurich at suggested hotels or similar.",
+  "Two Night’s Accommodation in Lucerne at suggested hotels or similar.",
+  "Two Night’s Accommodation in Interlaken at suggested hotels or similar.",
+  "One Night Accommodation in Zermatt at suggested hotels or similar",
+  "Daily breakfast except day 01",
+  "All Meals (set menu) as per mentioned in the itinerary",
+  "Entrance fees of all sightseeing places to visited from inside",
+  "Travel by AC comfortable A/C coach as per the itinerary",
+  "Return Airport transfers on Seat in Coach basis."
+    ]
+  },
+  "pleaseNote": {
+    "title": "Please Note",
+    "notes": [
+   "100% Cancellation on low cost carrier once booking confirmed.",
+  "100% Cancellation if hotels/entrances booked and paid in advanced during confirmation period and will be non refundable.",
+  "100% Cancellation during peak days or any trade fare",
+  "100% Cancellation once visa payment is done",
+  "For Group booking, please reconfirm the cancellation policy before confirmation.",
+  "Airline & hotel Cancellation policy will at time override the current cancellation policy listed"
+    ]
+  },
+  "conditions": {
+    "title": "Conditions",
+    "conditions": [
+   "Above rates based on today’s ROE. Any fluctuation will vary the cost at the time of confirmation and final payment made.",
+  "For your international Travel, The Passport of passengers should have the validity of minimum 6 (SIX) months (from the date of return) and two or more blank pages for visa stamp.",
+  "Physical condition of Passport is taken care by guest directly in case of E-Visa. Please ensure the passports are not damaged anywhere. In case of damaged passports, the passenger may not be allowed by the immigration or airline.",
+  "Airfare is subject to availability at the time of confirmation with the payment.",
+  "Hotel Rooms & Service are subject to availability at the time of confirmation with the payment.",
+  "In case of Non availability of Hotel Rooms a similar category Hotel will be provided.",
+  "Credit card payments are subject to 3% bank charges. Any fluctuations may vary the cost.",
+  "No Change in Itinerary once confirmed will be honored unless otherwise given in writing. This may incur additional charges based on the requirement.",
+  "No verbal commitments will be honored unless otherwise given in writing.",
+  "The offers are valid till for time being only & unless otherwise specified.",
+  "Extension of stay would be subject to availability and on pro-rata basis and as of best rate of the day.",
+  "Private vehicle mentioned in the quotes is based on the itinerary (Point to Point Service)",
+  "For all SIC tour (Seat in Coach) – there is always waiting time for pick up/drop. Also the pickup/drop points may vary city to city unless specified hotel in the quotes.",
+  "Any City Taxes to be paid directly at hotel unless specified in the quotes.",
+  "Entrances specified in the itinerary will be covered. Any extra services to be taken care by guest directly.",
+  "No amendments possible once land arrangements have been confirmed",
+  "No refund for partly unutilized tickets. No refund for \"NO – SHOWS\" & Last moment cancellations",
+  "Granting or rejecting visas and immigration clearance is the sole prerogative of the concerned sovereign governments and we can only facilitate in the entire process. We shall neither be responsible in case of non-granting of such documents. Even if the visas are rejected, cancellation charges / fees shall be payable by the Client. There will be no refund, if the Clients, or any member of his party, is unable to travel due to the said reasons."
+    ]
+  }
+},
+{
+  "name": "From Rio’s Rhythms to the Heart of the Amazon - Brazil",
+  "slug": "rios-rhythms-to-the-heart-of-the-amazon-brazil",
+  "metaTitle": "From Rio’s Rhythms to the Heart of the Amazon - Brazil | Brazil Tour Package",
+  "metaDescription": "Explore Brazil’s highlights from vibrant Rio de Janeiro, featuring Christ the Redeemer, Sugarloaf Mountain, and lively beaches; witness the breathtaking Iguassu Falls on both Brazilian and Argentine sides; and experience the Amazon Rainforest from Manaus with river cruises, jungle walks, and rich wildlife encounters.",
+
+ "bannerImages": [
+      "/images/banners/brazil/argentine-sides.webp",
+    "/images/banners/brazil/iguassu-falls.webp",
+    "/images/banners/brazil/leisure.webp",
+    "/images/banners/brazil/rio-de-janeiro.webp",
+    "/images/banners/brazil/sugarloaf-mountain.webp"
+  
+   
+    ],
+    "bannerLgImages": [
+     "/images/banners/brazil/argentine-sides.webp",
+    "/images/banners/brazil/iguassu-falls.webp",
+    "/images/banners/brazil/leisure.webp",
+    "/images/banners/brazil/rio-de-janeiro.webp",
+    "/images/banners/brazil/sugarloaf-mountain.webp"
+    ],
+  "duration": "07 Nights / 08 Days",
+    "pdf": {
+  "name": "Download PDF",
+  "url": "/pdf/from-rios-rhythms-to-the-heart-of-the-amazon-south-america.pdf"
+      },
+  "price": 189540,
+  "description": [
+    "Explore Brazil’s highlights from the vibrant city of Rio de Janeiro with its iconic Christ the Redeemer, Sugarloaf Mountain, and lively beaches; witness the awe-inspiring Iguassu Falls on both the Brazilian and Argentine sides; and immerse yourself in the Amazon Rainforest from Manaus with river cruises, jungle walks, and encounters with local wildlife and communities."
+  ],
+  "additionalInfo": [
+    {
+      "name": "Geography and Climate",
+      "description": "Rio de Janeiro – coastal city with beaches, mountains (Corcovado & Sugarloaf), tropical climate, hot & humid; Iguassu Falls – border of Brazil & Argentina, surrounded by rainforest, subtropical climate, warm with frequent rain; Manaus/Amazon – heart of the Amazon Rainforest, rivers and dense jungle, equatorial climate, hot, humid, and rainy year-round. "
+    }
+  ],
+  "itinerary": [
+    {
+      "day": "Day 01 :",
+      "title": " Arrival in Rio de Janeiro ",
+      "description": "Upon arrival at Rio de Janeiro International Airport, you will be transferred to your hotel and assisted with check-in. The remainder of the day will be at leisure to relax after your journey. You may take an evening stroll along the famous Copacabana Beach promenade and enjoy the vibrant atmosphere of the city. Optional dinner at a traditional Brazilian churrascaria is recommended. ",
+      "additionalInfo": ["Overnight in Rio de Janeiro."]
+    },
+     {
+      "day": "Day 02 :",
+      "title": "Rio de Janeiro – Christ the Redeemer & Sugarloaf Mountain",
+      "description": "After breakfast, proceed for a full-day city tour of Rio. Visit the iconic Christ the Redeemer statue atop Corcovado Mountain and enjoy panoramic views of the city, beaches, and Guanabara Bay. Continue with an external visit to Maracanã Stadium, Sambadrome, and the Metropolitan Cathedral. Later, take a cable car ride to Sugarloaf Mountain for spectacular sunset views.",
+      "additionalInfo": ["Overnight in Rio de Janeiro."]
+    },
+    {
+      "day": "Day 03 :",
+      "title": "Rio de Janeiro – Culture & Leisure",
+      "description": "After breakfast, visit the colorful Selarón Steps and explore the charming Santa Teresa district, known for its colonial architecture and artistic vibe. You may also stop at scenic viewpoints for breathtaking city views. The afternoon is free to relax at Copacabana or Ipanema Beach. In the evening, you may enjoy samba music or explore Rio’s lively nightlife. ",
+      "additionalInfo": ["Overnight in Rio de Janeiro."]
+    },
+    {
+      "day": "Day 04 :",
+      "title": " Rio de Janeiro – Iguassu Falls ",
+      "description": "After breakfast, transfer to the airport for your flight to Foz do Iguaçu. Upon arrival, you will be transferred to your hotel and assisted with check-in. The rest of the day will be at leisure to relax or explore the surroundings. An optional cultural dinner show can be arranged in the evening.",
+      "additionalInfo": ["Overnight in Iguassu Falls."]
+    },
+    {
+      "day": "Day 05 :",
+      "title": "Iguassu Falls – Brazilian & Argentine Sides",
+      "description": "After breakfast, enjoy a full-day excursion to the magnificent Iguassu Falls. Begin on the Brazilian side, where walking trails offer panoramic views of the waterfall system. Later, cross to the Argentine side to explore the Upper and Lower Circuits and visit the impressive Devil’s Throat viewpoint. An optional boat ride can be taken for a closer and thrilling experience of the falls.",
+      "additionalInfo": ["Overnight in Iguassu Falls."]
+    },
+    {
+      "day": "Day 06 :",
+      "title": "Iguassu Falls – Manaus  ",
+      "description": "After breakfast, transfer to the airport for your flight to Manaus, the gateway to the Amazon Rainforest. Upon arrival, transfer to your hotel or jungle lodge and check in. Depending on arrival time, you may visit the famous Amazon Theatre or explore the local market area. The evening will be at leisure.",
+      "additionalInfo": ["Overnight in Manaus."]
+    },
+    {
+      "day": "Day 07 :",
+      "title": "Manaus – Amazon Experience",
+      "description": "After breakfast, proceed for a full-day Amazon excursion. Enjoy a boat ride on the Amazon River and witness the Meeting of the Waters, where two rivers flow side by side without mixing. You may also experience a guided jungle walk, wildlife spotting, and a visit to a local community. This day offers an authentic introduction to the rich biodiversity of the Amazon.",
+      "additionalInfo": ["Overnight in Manaus."]
+    },
+     {
+      "day": "Day 08 :",
+      "title": "Departure ",
+      "description": "After breakfast, you will have free time depending on your flight schedule. You may explore the nearby market for souvenirs or enjoy a short walk around the city. At the scheduled time, transfer to Manaus International Airport for your onward journey.",
+      "additionalInfo": ["Tour concludes with unforgettable memories of Brazil."]
+    }
+
+    
+  ],
+  "hotel": {
+    "name": "Hotel details",
+    "amenities": [
+      "3* or 4* Best hotel"
+    ]
+  },
+  
+  "flight": {
+    "name": "Flight Details",
+    "amenities": [
+      "Flight not included"
+      ]
+    },
+
+  "inclusionAndExclusion": {
+    "inclusions": [
+    "Three Night’s Accommodation in Rio de Janeiro at suggested hotels or similar.",
+  "Two Night’s Accommodation in Iguassu Falls at suggested hotels or similar.",
+  "Two Night’s Accommodation in Manaus at suggested hotels or similar.",
+  "Daily breakfast except day 01",
+  "All Meals (set menu) as per mentioned in the itinerary",
+  "Entrance fees of all sightseeing places to visited from inside",
+  "Travel by AC comfortable A/C coach as per the itinerary",
+  "Return Airport transfers on Seat in Coach basis."
+    ],
+    "exclusions": [
+     "One Night Accommodation in Zurich at suggested hotels or similar.",
+  "Two Night’s Accommodation in Lucerne at suggested hotels or similar.",
+  "Two Night’s Accommodation in Interlaken at suggested hotels or similar.",
+  "One Night Accommodation in Zermatt at suggested hotels or similar",
+  "Daily breakfast except day 01",
+  "All Meals (set menu) as per mentioned in the itinerary",
+  "Entrance fees of all sightseeing places to visited from inside",
+  "Travel by AC comfortable A/C coach as per the itinerary",
+  "Return Airport transfers on Seat in Coach basis."
+    ]
+  },
+  "pleaseNote": {
+    "title": "Please Note",
+    "notes": [
+"100% Cancellation on low cost carrier once booking confirmed.",
+  "100% Cancellation if hotels/entrances booked and paid in advanced during confirmation period and will be non refundable.",
+  "100% Cancellation during peak days or any trade fare.",
+  "100% Cancellation once visa payment is done.",
+  "For Group booking, please reconfirm the cancellation policy before confirmation.",
+  "Airline & hotel Cancellation policy will at time override the current cancellation policy listed."
+    ]
+  },
+  "conditions": {
+    "title": "Conditions",
+    "conditions": [
+   "Above rates based on today’s ROE. Any fluctuation will vary the cost at the time of confirmation and final payment made.",
+  "For your international Travel, The Passport of passengers should have the validity of minimum 6 (SIX) months (from the date of return) and two or more blank pages for visa stamp.",
+  "Physical condition of Passport is taken care by guest directly in case of E-Visa. Please ensure the passports are not damaged anywhere. In case of damaged passports, the passenger may not be allowed by the immigration or airline.",
+  "Airfare is subject to availability at the time of confirmation with the payment.",
+  "Hotel Rooms & Service are subject to availability at the time of confirmation with the payment.",
+  "In case of Non availability of Hotel Rooms a similar category Hotel will be provided.",
+  "Credit card payments are subject to 3% bank charges. Any fluctuations may vary the cost.",
+  "No Change in Itinerary once confirmed will be honored unless otherwise given in writing. This may incur additional charges based on the requirement.",
+  "No verbal commitments will be honored unless otherwise given in writing.",
+  "The offers are valid till for time being only & unless otherwise specified.",
+  "Extension of stay would be subject to availability and on pro-rata basis and as of best rate of the day.",
+  "Private vehicle mentioned in the quotes is based on the itinerary (Point to Point Service).",
+  "For all SIC tour (Seat in Coach) – there is always waiting time for pick up/drop. Also the pickup/drop points may vary city to city unless specified hotel in the quotes.",
+  "Any City Taxes to be paid directly at hotel unless specified in the quotes.",
+  "Entrances specified in the itinerary will be covered. Any extra services to be taken care by guest directly.",
+  "No amendments possible once land arrangements have been confirmed.",
+  "No refund for partly unutilized tickets. No refund for \"NO – SHOWS\" & Last moment cancellations.",
   "Granting or rejecting visas and immigration clearance is the sole prerogative of the concerned sovereign governments and we can only facilitate in the entire process. We shall neither be responsible in case of non-granting of such documents. Even if the visas are rejected, cancellation charges / fees shall be payable by the Client. There will be no refund, if the Clients, or any member of his party, is unable to travel due to the said reasons."
     ]
   }

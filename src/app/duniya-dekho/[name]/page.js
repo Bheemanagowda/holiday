@@ -293,10 +293,10 @@ export default function Page() {
                 <Cheading heading={destination.conditions.title} />
                 <div className="mt-5 space-y-4">
                   {destination.conditions.conditions.map((cond) => (
-                    <div key={uuidv4()} className="flex items-start gap-4">
-                      <div className="w-3 h-3 mt-[8px] bg-deep_green rounded-full" />
-                      <p>{cond}</p>
-                    </div>
+                    <div key={uuidv4()} className="flex items-start gap-3">
+  <div className="w-2.5 h-2.5 mt-2 bg-deep_green rounded-full shrink-0" />
+  <p className="leading-6">{cond}</p>
+</div>
                   ))}
                 </div>
               </div>

@@ -1,8 +1,10 @@
 import Link from "next/link";
 import React from "react";
-import { FaAngleRight } from "react-icons/fa";
 
-import { FaFacebookF, FaInstagram, FaYoutube, FaWhatsapp } from "react-icons/fa";
+
+import { FaFacebookF, FaInstagram, FaYoutube } from "react-icons/fa";
+
+
 
 function Footer() {
   return (
@@ -74,8 +76,8 @@ function Footer() {
             {/* Mobile WhatsApp */}
             <div className="flex justify-center gap-4 md:hidden z-50">
               <a href="https://wa.me/+919845248323" target="_blank" rel="noopener noreferrer">
-                <div className="p-2 bg-[#1FB141] rounded-full cursor-pointer">
-                  <FaWhatsapp color="white" size={25} />
+                <div className="p-2  rounded-full cursor-pointer">
+               <img src="/images/whatsapp.png" alt="whatsapp"  />
                 </div>
               </a>
             </div>

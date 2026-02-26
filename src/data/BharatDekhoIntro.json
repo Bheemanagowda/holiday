@@ -348,5 +348,18 @@
     ],
     "image": "/images/small/royal_rajasthan.webp",
     "slug": "/bharat-dekho/royal-rajasthan-tour-package"
+  },
+
+   {
+    "intro": " The Jewel of the Arabian Sea ",
+    "name": "Lakshadweep",
+    "duration": "04 Nights / 05 Days",
+    "price": 86400,
+    "description": [
+      "Agatti,Kavaratti Sightseeing Tour,Agatti Island Sightseeing",
+      "Thinnakara Island & Bangaram Sandbank"
+    ],
+    "image": "/images/banners/lakshadeep/agatti.webp",
+    "slug": "/bharat-dekho/lakshadweep"
   }
 ]
