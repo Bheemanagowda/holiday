@@ -75,6 +75,7 @@ function PackagePlan() {
               name: "Switzerland",
               image: "/images/switzerland_intro.webp",
               description: "Flights . Hotels . Holidays",
+                link:"/duniya-dekho/discover-switzerland-beauty-beyond-imagination",
                
               
             },
