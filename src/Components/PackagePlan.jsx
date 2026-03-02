@@ -102,6 +102,7 @@ function PackagePlan() {
               name: "Hampi",
               image: "/images/hampi_intro.webp",
               description: "Flights . Hotels . Holidays",
+                      link:"/bharat-dekho/hampi",
               
             },
             {

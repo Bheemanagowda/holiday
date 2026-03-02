@@ -378,14 +378,14 @@
   "slug": "/duniya-dekho/east-europe-tour-package"
 },
 {
-  "intro": "Korean Cultural Journey",
+  "intro": "Your Gateway to Korea’s Seasons",
   "name": "South Korea",
   "duration": "06 Nights / 07 Days",
   "price": 148540,
   "description": [
-    " Gyeongbokgung Palace, Bukchon Hanok Village",
-    " Myeongdong,Demilitarized Zone, Dorasan Observatory,Haeundae Beach, Jagalchi Fish Market,",
-    " Gamcheon Culture Village,Hallasan Mountain, Seongsan Sunrise Peak"
+    " Seoul,Royal Seoul Heritage,Hanbok Experience,Nami Island,Garden of Morning Calm   ",
+    " Seoul to Busan,Busan City Tour,Busan – Leisure Day,Seoul by KTX Bullet Train  "
+   
    
   ],
   "image": "/images/small/south-koria.webp",
@@ -423,9 +423,8 @@
   "duration": "06 Nights / 07 Days",
   "price": 122400,
   "description": [
-    "Kingdom Tower, Masmak Fort, National Museum",
-    " Corniche, Al-Balad Historic District, Floating Mosque",
-    "Madain Saleh (Al-Hijr Archaeological Site), UNESCO World Heritage,Desert Safari & Camel Ride Experience"  
+    "Riyadh,Hail,AlUla,Madinah,Jeddah"
+     
   ],
   "image": "/images/small/saudi-arabia.webp",
   "slug": "/duniya-dekho/saudi-arabia-tour-package"
@@ -518,14 +517,13 @@
 
 {
   "intro": "Island Paradise Escape",
-  "name": "Phuket & Krabi",
+  "name": "Phuket and Krabi Getaway ",
   "duration": "05 Nights / 06 Days",
   "price": 45000,
   "description": [
-    "Phuket: Patong Beach, Big Buddha, Old Town",
-    "Phi Phi Island Day Tour with Maya Bay",
-    "Krabi: Railay Beach, Ao Nang, Tiger Cave Temple",
-    "Optional: Four Islands Tour & Snorkeling Experience"
+    "Arrival and Krabi City Tour,Four Island Tour,",
+    "Krabi to Phuket with Tiger Kingdom Visit, Phi Phi Island Tour"
+    
   ],
   "image": "/images/small/phuket.webp",
   "slug": "/duniya-dekho/phuket-krabi-tour-package"
@@ -719,10 +717,10 @@
 {
   "intro": "Island of Dreams",
   "name": "Phuket-Island of Dreams",
-  "duration": "11 Nights / 12 Days",
+  "duration": "3 Nights /4 Days",
   "price": 215000,
   "description": [
-    "Fantasea Show , Phi Phi Island Tour","Phuket City Tour with Shopping"  ],
+    "Fantasea Show,Phi Phi Island Tour,Phuket City Tour with Shopping"  ],
   "image": "/images/banners/phuket-island/phi-phi-islands.webp",
   "slug": "/duniya-dekho/phuket-island-tour-package"
 },
@@ -912,6 +910,19 @@
   ],
   "image": "/images/banners/brazil/argentine-sides.webp",
   "slug": "/duniya-dekho/rios-rhythms-to-the-heart-of-the-amazon-brazil"
+},
+{
+  "intro": "Explore the Wild Heart of Norway   ",
+  "name": "Norway ",
+  "duration": "9 Nights / 10 Days",
+  "price": 21600,
+  "description": [
+    " Oslo,Oslo Museums & Views,Scenic Train to Bergen,Bergen & Fjord Cruise,Norway in a Nutshell Experience",
+    "Explore Ålesund,Visit Geirangerfjord,Fly to Tromsø,Arctic Adventure,Return to Oslo "    
+    
+  ],
+  "image": "/images/banners/brazil/argentine-sides.webp",
+  "slug": "/duniya-dekho/explore-the-wild-heart-of-norway"
 }
 
 

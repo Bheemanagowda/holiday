@@ -361,5 +361,17 @@
     ],
     "image": "/images/banners/lakshadeep/agatti.webp",
     "slug": "/bharat-dekho/lakshadweep"
+  },
+    {
+    "intro": " A UNESCO World Heritage Site ",
+    "name": "Hampi",
+    "duration": "03 Nights / 04 Days",
+    "price": 86400,
+    "description": [
+      "Agatti,Kavaratti Sightseeing Tour,Agatti Island Sightseeing",
+      "Thinnakara Island & Bangaram Sandbank"
+    ],
+    "image": "/images/banners/lakshadeep/agatti.webp",
+    "slug": "/bharat-dekho/hampi"
   }
 ]

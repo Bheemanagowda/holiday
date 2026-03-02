@@ -4180,10 +4180,10 @@
   }
 },
 {
-  "name": "South Korea — Where Heritage Meets Innovation & Natural Beauty",
+  "name": " South Korea : Your Gateway to Korea’s Seasons",
   "slug": "south-korea-tour-package",
   "metaTitle": "South Korea Tour Package | Seoul, Busan & Jeju with Duniya Dekho",
-  "metaDescription": "Explore South Korea with Duniya Dekho. Visit Seoul, Busan and Jeju. Experience vibrant cities, cultural landmarks, scenic landscapes, and Korean cuisine.",
+  "metaDescription": "Explore a diverse region of riverfront cities, crescent-shaped islands, forested gardens, and scenic coastal harbors. With varied climates and seasonal highlights like spring blooms and autumn foliage, it’s best visited in spring or fall for pleasant weather and stunning views.",
 
  "bannerImages": [
       "/images/banners/south-korea/busan.webp",
@@ -4207,17 +4207,20 @@
     ],
 
   "duration": "07 Nights | 08 Days",
+    "pdf": {
+  "name": "Download PDF",
+  "url": "/pdf/your-gateway-to-koreas-seasons-south-korea.pdf"
+      },
   "price": 185000,
 
   "description": [
-    "Discover South Korea’s blend of modern cities, ancient palaces, and breathtaking natural landscapes.",
-    "Experience bustling streets, traditional villages, coastal beauty, and authentic Korean cuisine."
+    "The region features a mix of landscapes, from a bustling city in the northwest along a major river surrounded by mountains, to a small crescent-shaped island with tree-lined avenues, a hilly landscaped garden amid forests, and a coastal city with beaches, mountains, and harbors. The climate varies from cold, dry winters and hot, humid summers inland, to milder winters and warm, humid summers along the coast, with occasional snow in winter. The best time to visit is generally in spring or autumn for pleasant weather, scenic views, and seasonal highlights such as flower blooms, autumn foliage, or winter light displays."
   ],
 
   "additionalInfo": [
     {
       "name": "Geography and Climate",
-      "description": "South Korea has a temperate climate with four distinct seasons. The country features mountains, coastlines, rivers, and vibrant urban centers."
+      "description": "Located in the northwest along a major river, surrounded by mountains, with cold, dry winters and hot, humid summers; best visited in spring or autumn.A small crescent-shaped island on a river with tree-lined avenues; cold winters with snow, mild summers; ideal in spring, autumn, or snowy winter.Hilly, landscaped garden surrounded by forests; cold, crisp winters, mild summers; best in spring for flowers or winter for light displays.Coastal city with beaches, mountains, and harbors; milder winters, warm humid summers, rare snow; best visited in spring or autumn."
     }
   ],
 
@@ -4225,49 +4228,49 @@
     {
       "day": "Day 01 :",
       "title": "Arrival in Seoul",
-      "description": "Arrive in Seoul. Free time to relax or explore nearby neighborhoods.",
-      "additionalInfo": ["Overnight stay in Seoul hotel"]
+      "description": "Arrive at Incheon International Airport, one of the world’s most efficient and modern airports. After clearing immigration, transfer to your hotel in Seoul by shared coach. Spend the day settling in and soaking up the city’s vibrant energy. Seoul perfectly blends modern skyscrapers with historic palaces and traditional neighborhoods. You can take a stroll around nearby areas or simply relax at your hotel.",
+      "additionalInfo": [" Overnight stay in Seoul."]
     },
     {
       "day": "Day 02 :",
-      "title": "Seoul City Tour",
-      "description": "Visit Gyeongbokgung Palace, Bukchon Hanok Village, and Insadong street.",
-      "additionalInfo": ["Overnight stay in Seoul hotel"]
+      "title": " Overnight stay in Seoul",
+      "description": "Begin your day exploring Gyeongbokgung Palace, the grandest of Seoul’s royal palaces, known for its beautiful architecture and the ceremonial changing of the guards. Dive deeper into Korean culture by trying on a Hanbok, the traditional Korean attire, which makes for a wonderful photo opportunity within the palace grounds. Later, visit Insadong, a neighborhood full of art galleries, traditional tea houses, and souvenir shops showcasing Korea’s rich heritage. ",
+      "additionalInfo": ["Return to your hotel for an overnight stay in Seoul."]
     },
     {
       "day": "Day 03 :",
-      "title": "DMZ Excursion",
-      "description": "Half-day tour to the Demilitarized Zone (DMZ) to learn about Korea’s history.",
-      "additionalInfo": ["Overnight stay in Seoul hotel"]
+      "title": "Nami Island & Garden of Morning Calm",
+      "description": "Today, enjoy a scenic day trip outside Seoul. Visit Nami Island, a picturesque island known for its tree-lined paths, lush scenery, and peaceful atmosphere. Continue to the Garden of Morning Calm, one of Korea’s most beautiful gardens, featuring themed landscapes, walking paths, and seasonal flowers. Both destinations offer excellent opportunities for photography and relaxation. ",
+      "additionalInfo": ["Return to Seoul in the evening for overnight stay."]
     },
     {
       "day": "Day 04 :",
-      "title": "Seoul → Busan",
-      "description": "Travel to Busan via KTX (high-speed train). Evening at Haeundae Beach.",
+      "title": "Seoul to Busan ",
+      "description": "After breakfast, check out from your hotel and travel to Busan, South Korea’s second-largest city. Busan is famous for its sandy beaches, seafood markets, and cultural charm. Upon arrival, check in at your hotel and enjoy some leisure time exploring the city at your own pace. Overnight stay in Busan.",
       "additionalInfo": ["Overnight stay in Busan hotel"]
     },
     {
       "day": "Day 05 :",
       "title": "Busan City Tour",
-      "description": "Visit Gamcheon Culture Village, Jagalchi Fish Market, and Haedong Yonggungsa Temple.",
-      "additionalInfo": ["Overnight stay in Busan hotel"]
+      "description": "Embark on a full-day tour of Busan. Begin with Haeundae Beach, known for its long sandy shores and vibrant seaside atmosphere. Visit Gamcheon Culture Village, a colorful hillside neighborhood adorned with murals, quaint cafes, and artisan shops. Explore Jagalchi Fish Market, Korea’s largest seafood market, where you can taste freshly prepared seafood delicacies. End the day with panoramic views from Busan Tower and a stroll in Yongdusan Park. ",
+      "additionalInfo": ["Return to your hotel for overnight stay"]
     },
     {
       "day": "Day 06 :",
-      "title": "Busan → Jeju Island",
-      "description": "Fly to Jeju Island. Visit Seongsan Ilchulbong (Sunrise Peak) and coastal sights.",
-      "additionalInfo": ["Overnight stay in Jeju hotel"]
+      "title": "Busan – Leisure Day",
+      "description": "Spend a relaxed day at your own pace. Options include lounging at Gwangalli Beach with its stunning night views, visiting Shinsegae Centum City, the world’s largest department store, or exploring the serene Haedong Yonggungsa Temple, a seaside temple perched on cliffs overlooking the ocean. ",
+      "additionalInfo": ["Overnight stay in Busan."]
     },
     {
       "day": "Day 07 :",
-      "title": "Jeju Island Tour",
-      "description": "Explore Jeju’s waterfalls, Hallasan National Park, and Jusangjeolli Cliffs.",
-      "additionalInfo": ["Overnight stay in Jeju hotel"]
+      "title": "Busan to Seoul by KTX Bullet Train ",
+      "description": "Check out from your hotel and board the KTX bullet train, a high-speed train that covers the distance to Seoul in about 2.5–3 hours. Upon arrival in Seoul, enjoy the evening at leisure. You can explore Myeongdong Shopping Street, famous for fashion and street food, or relax at your hotel. ",
+      "additionalInfo": ["Overnight stay in Seoul."]
     },
     {
       "day": "Day 08 :",
-      "title": "Departure",
-      "description": "Transfer to Jeju or Seoul airport for onward journey. Tour ends.",
+      "title": "Seoul – Departure",
+      "description": "After breakfast, check out from your hotel and transfer to Incheon International Airport for your flight back home. Take home beautiful memories of South Korea, from its royal heritage and modern cityscapes to scenic islands, gardens, and coastal charm.",
       "additionalInfo": []
     }
   ],
@@ -4275,52 +4278,79 @@
   "hotel": {
     "name": "Hotel details",
     "amenities": [
-      "Good 4* Hotel in Seoul",
-      "Good 4* Hotel in Busan",
-      "Good 4* Hotel in Jeju"
+      "3* or 4* Best hotel"
+      
+    ]
+  },
+   "flight": {
+    "name": "Flight details",
+    "amenities": [
+      "Flight not included"
+      
     ]
   },
 
   "inclusionAndExclusion": {
     "inclusions": [
-      "Two Night’s Accommodation in Seoul",
-      "Two Night’s Accommodation in Busan",
-      "Two Night’s Accommodation in Jeju",
-      "Daily breakfast except day 1",
-      "Seoul City Tour",
-      "DMZ Excursion",
-      "Busan City Tour",
-      "Jeju Island Tour",
-      "Airport transfers as per itinerary",
-      "KTX Train from Seoul to Busan"
+     "Four Night’s Accommodation in Seoul at suggested hotels or similar.",
+    "Three Night’s Accommodation in Busan at suggested hotels or similar.",
+    "Daily breakfast except on Day 01.",
+    "All meals (set menu) as mentioned in the itinerary.",
+    "Entrance fees for all sightseeing places to be visited from inside.",
+    "Travel by comfortable A/C coach as per the itinerary.",
+    "Return airport transfers on Seat-in-Coach basis."
     ],
     "exclusions": [
-      "International Airfare",
-      "Korean Visa Fees",
-      "Travel Insurance",
-      "Meals not mentioned",
-      "Personal expenses (tips, drinks, laundry, etc.)",
-      "Optional Excursions",
-      "Early check-in & late check-out"
+      "Return and internal airfare.",
+    "Airport taxes.",
+    "Visa.",
+    "Any entry fees other than those specified in the itinerary.",
+    "Tips to driver and guide, and personal expenses.",
+    "High season surcharges as applicable.",
+    "Use of vehicle other than as specified in the itinerary.",
+    "Any item not mentioned in the above tour price includes.",
+    "No intercity surface transfers are included unless specified in the package.",
+    "Expenses of a personal nature (e.g., tipping, laundry, telephone calls, beverages, etc.).",
+    "Lunch and dinner.",
+    "Travel insurance not included.",
+    "5% GST.",
+    "5% TCS."
     ]
   },
 
   "pleaseNote": {
     "title": "Please Note",
     "notes": [
-      "Itinerary sequence may change due to local events or weather.",
-      "Some attractions may operate with limited hours on weekends.",
-      "Peak holiday season may attract surcharges."
+     "100% cancellation charges for low-cost carriers once the booking is confirmed.",
+    "100% cancellation charges if hotels or entrances are booked and paid in advance during the confirmation period; these will be non-refundable.",
+    "100% cancellation charges during peak days or any trade fair period.",
+    "100% cancellation charges once visa payment is completed.",
+    "For group bookings, please reconfirm the cancellation policy before confirmation.",
+    "Airline and hotel cancellation policies may override the current cancellation policy listed above."
     ]
   },
 
   "conditions": {
     "title": "Conditions",
     "conditions": [
-      "Airfare subject to availability at time of booking.",
-      "Hotels subject to availability; similar category may be provided.",
-      "No refund for unused services.",
-      "Credit card payments may attract 3% surcharge."
+     "Above rates based on today’s ROE. Any fluctuation will vary the cost at the time of confirmation and final payment made.",
+    "For your international Travel, The Passport of passengers should have the validity of minimum 6 (SIX) months (from the date of return) and two or more blank pages for visa stamp.",
+    "Physical condition of Passport is taken care by guest directly in case of E-Visa. Please ensure the passports are not damaged anywhere. In case of damaged passports, the passenger may not be allowed by the immigration or airline.",
+    "Airfare is subject to availability at the time of confirmation with the payment.",
+    "Hotel Rooms & Service are subject to availability at the time of confirmation with the payment.",
+    "In case of Non availability of Hotel Rooms a similar category Hotel will be provided.",
+    "Credit card payments are subject to 3% bank charges. Any fluctuations may vary the cost.",
+    "No Change in Itinerary once confirmed will be honored unless otherwise given in writing. This may incur additional charges based on the requirement.",
+    "No verbal commitments will be honored unless otherwise given in writing.",
+    "The offers are valid till for time being only & unless otherwise specified.",
+    "Extension of stay would be subject to availability and on pro-rata basis and as of best rate of the day.",
+    "Private vehicle mentioned in the quotes is based on the itinerary (Point to Point Service)",
+    "For all SIC tour (Seat in Coach) – there is always waiting time for pick up/drop. Also the pickup/drop points may vary city to city unless specified hotel in the quotes.",
+    "Any City Taxes to be paid directly at hotel unless specified in the quotes.",
+    "Entrances specified in the itinerary will be covered. Any extra services to be taken care by guest directly.",
+    "No amendments possible once land arrangements have been confirmed",
+    "No refund for partly unutilized tickets. No refund for \"NO – SHOWS\" & Last moment cancellations",
+    "Granting or rejecting visas and immigration clearance is the sole prerogative of the concerned sovereign governments and we can only facilitate in the entire process. We shall neither be responsible in case of non-granting of such documents. Even if the visas are rejected, cancellation charges / fees shall be payable by the Client. There will be no refund, if the Clients, or any member of his party, is unable to travel due to the said reasons."
     ]
   }
 },{
@@ -4672,7 +4702,7 @@
   "name": "Saudi Arabia — Where History Meets Modern Marvels",
   "slug": "saudi-arabia-tour-package",
   "metaTitle": "Saudi Arabia Tour Package | Riyadh, Jeddah & AlUla with Duniya Dekho",
-  "metaDescription": "Explore Saudi Arabia with Duniya Dekho. Visit Riyadh, Jeddah and AlUla. Experience futuristic cities, ancient Nabatean heritage, deserts and Arabian hospitality.",
+  "metaDescription": "Discover the best of Saudi Arabia on a journey through Riyadh’s modern and traditional landmarks, the historic forts of Hail, the UNESCO-listed heritage and ancient rock art of AlUla, the spiritual beauty of Madinah, and the vibrant Red Sea charm of Jeddah. Experience breathtaking desert landscapes, mountains, valleys, and coastal scenery, all under the country’s warm, arid climate.",
 
   "bannerImages": [
       "/images/banners/sudhi-arebia/abha-&-asir-region.webp",
@@ -4696,17 +4726,22 @@
     ],
 
   "duration": "07 Nights | 08 Days",
+    "pdf": {
+  "name": "Download PDF",
+  "url": "/pdf/al-shallal-theme-park-saudi-arabia.pdf"
+      },
+  
+  
   "price": 122400,
 
   "description": [
-    "Discover Saudi Arabia’s blend of modern skylines, Red Sea heritage, and ancient archaeological marvels.",
-    "Experience Riyadh’s cultural evolution, Jeddah’s coastal lifestyle, and AlUla’s UNESCO desert wonders."
+    "Discover the best of Saudi Arabia on a journey through Riyadh’s modern and traditional landmarks, the historic forts of Hail, the UNESCO-listed heritage and ancient rock art of AlUla, the spiritual beauty of Madinah, and the vibrant Red Sea charm of Jeddah. Experience breathtaking desert landscapes, mountains, valleys, and coastal scenery, all under the country’s warm, arid climate."
   ],
 
   "additionalInfo": [
     {
       "name": "Geography and Climate",
-      "description": "Saudi Arabia features a desert climate with hot summers and mild winters. The landscape includes deserts, mountains, Red Sea coasts and historical oasis towns."
+      "description": "Saudi Arabia features diverse landscapes, from the deserts and plateaus of Riyadh and Hail to the sandstone valleys of AlUla, the historic Hejaz region of Madinah, and the coastal city of Jeddah on the Red Sea. The climate is mostly arid, with very hot summers, mild winters, and minimal rainfall. Inland areas are dry and hot, desert valleys have warm days and cool nights, and coastal regions are humid."
     }
   ],
 
@@ -4714,102 +4749,126 @@
     {
       "day": "Day 01 :",
       "title": "Arrival in Riyadh",
-      "description": "Arrive in Riyadh. Check-in and free time to relax.",
-      "additionalInfo": ["Overnight stay in Riyadh hotel"]
+      "description": "Arrive in Riyadh and check into your hotel. Begin your exploration with a full-day Riyadh city tour accompanied by an English-speaking guide. Visit the National Museum of Saudi Arabia to learn about the country’s history and culture, and stop by the King Abdulaziz Historical Center. Explore the Masmak Fort, a 19th-century fortress that played a key role in Saudi history. Take a stroll through the Riyadh souks and markets, such as Souq Al Zal, to experience traditional shopping and local crafts. End the day with a drive along Kingdom Centre Tower, where you can enjoy panoramic views of the city. ",
+      "additionalInfo": ["Return to your hotel for an overnight stay in Riyadh."]
     },
     {
       "day": "Day 02 :",
-      "title": "Riyadh City Tour",
-      "description": "Visit National Museum, Masmak Fortress and Kingdom Tower Sky Bridge.",
-      "additionalInfo": ["Overnight stay in Riyadh hotel"]
+      "title": "Riyadh",
+      "description": "Continue exploring Riyadh with your English-speaking guide. Start the day at the Kingdom Centre Tower Sky Bridge, enjoying panoramic views of the city and its modern skyline. Visit the Al Masmak Fortress, an iconic historical site, and learn about Riyadh’s role in the unification of Saudi Arabia. Explore the Diriyah area, the birthplace of the Saudi state, with its beautifully restored mud-brick architecture and cultural sites. Stop by the Riyadh galleries and souks to experience local markets, traditional crafts, and souvenirs. In the afternoon, visit the Wadi Hanifah, a scenic valley offering a glimpse of Riyadh’s natural landscape. End the day with dinner at a local restaurant featuring traditional Saudi cuisine.",
+      "additionalInfo": [" Return to your hotel for an overnight stay in Riyadh."]
     },
     {
       "day": "Day 03 :",
-      "title": "Edge of the World Excursion",
-      "description": "Drive to the spectacular 'Edge of the World' cliffs and enjoy panoramic views.",
-      "additionalInfo": ["Overnight stay in Riyadh hotel"]
+      "title": "Riyadh → Hail",
+      "description": "Take the train from Riyadh to Hail, enjoying the scenic desert landscapes along the journey. Upon arrival, check into your hotel and start exploring the city. Visit the historic Aarif Fort, a landmark that reflects Hail’s rich heritage and strategic importance in the region. Explore the surrounding Hail old town to see traditional architecture and experience local culture. If time permits, stroll through the Al Murabba Park or visit Qishlah Palace, another historical building that once served as a military fort. Enjoy dinner at a local restaurant featuring regional cuisine,",
+      "additionalInfo": ["And return to your hotel for an overnight stay in Hail."]
     },
     {
       "day": "Day 04 :",
-      "title": "Riyadh → AlUla",
-      "description": "Fly to AlUla. Evening free to explore.",
-      "additionalInfo": ["Overnight stay in AlUla hotel"]
+      "title": "Hail → AlUla",
+      "description": "travel from Hail to AlUla, enjoying the scenic desert and mountainous landscapes along the way. Upon arrival, start your exploration with the ancient Jubbah site, renowned for its rock art and petroglyphs dating back thousands of years, giving a fascinating glimpse into early human civilization in the Arabian Peninsula. Continue to the UNESCO World Heritage Site of Hegra (Madain Salih), where an English-speaking Rawi (guide) will take you through the Nabatean tombs, monumental sandstone facades, and well-preserved archaeological ruins. Take time to photograph the unique desert landscapes and learn about the history and culture of the Nabateans. End the day with a visit to Elephant Rock (Jebel Al Fil), a natural rock formation shaped like an elephant, set against the stunning desert backdrop, perfect for sunset views and photography. ",
+      "additionalInfo": ["Return to your hotel for dinner and overnight stay in AlUla."]
     },
     {
       "day": "Day 05 :",
-      "title": "AlUla UNESCO Tour (Mada'in Salih)",
-      "description": "Visit Hegra (Mada'in Salih), a UNESCO site with Nabatean rock-carved tombs similar to Petra.",
-      "additionalInfo": ["Overnight stay in AlUla hotel"]
+      "title": "AlUla → Madinah",
+      "description": "Travel from AlUla to Madinah, the holy city of Islam, and check into your hotel upon arrival. Begin your exploration with a guided tour of Madinah’s religious and historical sites, including the Prophet’s Mosque (Al-Masjid an-Nabawi), one of the most sacred sites in Islam. Take time to visit the Quba Mosque, the first mosque built in Islamic history, and Masjid al-Qiblatain, famous for its connection to the change of Qibla direction in early Islamic tradition. Explore the Old Madinah markets (souks) to experience local culture, traditional crafts, and Arabian hospitality. Learn about the city’s rich heritage and its significance in Islamic history. ",
+      "additionalInfo": ["In the evening, enjoy a traditional Saudi meal at a local restaurant before returning to your hotel for an overnight stay in Madinah."]
     },
     {
       "day": "Day 06 :",
-      "title": "AlUla → Jeddah",
-      "description": "Fly to Jeddah. Evening stroll at Corniche.",
-      "additionalInfo": ["Overnight stay in Jeddah hotel"]
+      "title": "Madinah → Jeddah",
+      "description": "Depart Madinah and travel to Jeddah. Spend the day on a full-day Jeddah city tour, exploring the historic districts, Corniche, and other key attractions. ",
+      "additionalInfo": ["Overnight stay in Jeddah."]
     },
     {
       "day": "Day 07 :",
-      "title": "Jeddah Old Town Tour",
-      "description": "Visit Al Balad UNESCO area, Floating Mosque and Red Sea waterfront.",
-      "additionalInfo": ["Overnight stay in Jeddah hotel"]
-    },
-    {
-      "day": "Day 08 :",
-      "title": "Departure",
-      "description": "Transfer to airport for onward journey. Tour ends.",
-      "additionalInfo": []
+      "title": "Departure from Jeddah",
+      "description": "Check out from your hotel and depart from Jeddah. After checking out from your hotel in Jeddah, plan ahead to travel to King Abdulaziz International Airport (JED) ",
+      "additionalInfo": [""]
     }
+   
   ],
 
   "hotel": {
     "name": "Hotel details",
     "amenities": [
-      "Good 4* Hotel in Riyadh",
-      "Good 4* Hotel in AlUla",
-      "Good 4* Hotel in Jeddah"
+      "3* or 4* Best hotel"
+      
+    ]
+  },
+    "flight": {
+    "name": "Flight details",
+    "amenities": [
+      "Flight not included"
+      
     ]
   },
 
   "inclusionAndExclusion": {
     "inclusions": [
-      "Three Night’s Accommodation in Riyadh",
-      "Two Night’s Accommodation in AlUla",
-      "Two Night’s Accommodation in Jeddah",
-      "Daily breakfast except day 1",
-      "Riyadh City Tour",
-      "Edge of the World Excursion",
-      "AlUla UNESCO Heritage Tour",
-      "Jeddah Old Town Tour",
-      "Domestic flights (Riyadh–AlUla–Jeddah)",
-      "Airport transfers as per itinerary"
+      "Two Nights Accommodation in Riyadh at suggested hotels or similar.",
+    "One Night Accommodation in Hail at suggested hotels or similar.",
+    "One Night Accommodation in AlUla at suggested hotels or similar.",
+    "One Night Accommodation in Madinah at suggested hotels or similar.",
+    "One Night Accommodation in Jeddah at suggested hotels or similar.",
+    "Daily breakfast except Day 01.",
+    "All meals (set menu) as mentioned in the itinerary.",
+    "Entrance fees to all sightseeing places visited from inside.",
+    "Travel by comfortable air-conditioned coach as per the itinerary.",
+    "Return airport transfers on seat-in-coach basis."
     ],
     "exclusions": [
-      "International Airfare",
-      "Saudi Visa Fees",
-      "Travel Insurance",
-      "Meals not mentioned",
-      "Personal expenses (tips, drinks, laundry, etc.)",
-      "Optional Activities",
-      "Early check-in & late check-out"
+       "Return and internal airfare.",
+    "Airport taxes.",
+    "Visa.",
+    "Any entry fees other than those specified in the itinerary.",
+    "Tips to driver and guide, and personal expenses.",
+    "High season surcharges as applicable.",
+    "Use of vehicle other than as specified in the itinerary.",
+    "Any item not mentioned in the above Tour Price Includes.",
+    "No intercity surface transfers are included unless specified in the package.",
+    "Expenses of a personal nature (e.g., tipping, laundry, telephone calls, beverages, etc.).",
+    "Travel insurance not included.",
+    "5% GST.",
+    "5% TCS."
     ]
   },
 
   "pleaseNote": {
     "title": "Please Note",
     "notes": [
-      "Itinerary sequence may change due to local events or weather.",
-      "Special permits may be required for some desert excursions.",
-      "Peak season may attract additional surcharges."
+       "100% cancellation charges will apply for low-cost carriers once the booking is confirmed.",
+    "100% cancellation charges will apply if hotels or entrance tickets are booked and paid in advance during the confirmation period; these will be non-refundable.",
+    "100% cancellation charges will apply during peak days or trade fairs.",
+    "100% cancellation charges will apply once the visa payment is completed.",
+    "For group bookings, please reconfirm the cancellation policy before confirmation.",
+    "Airline and hotel cancellation policies may override the above cancellation policy at the time of booking."
     ]
   },
 
   "conditions": {
     "title": "Conditions",
     "conditions": [
-      "Airfare subject to availability at time of booking.",
-      "Hotels subject to availability; similar category may be provided.",
-      "No refund for unused services.",
-      "Credit card payments may attract 3% surcharge."
+     "Above rates are based on today’s ROE. Any fluctuation may vary the cost at the time of confirmation and final payment.",
+  "For international travel, passengers’ passports must have a minimum validity of six (6) months from the date of return and at least two blank pages for visa stamping.",
+  "The physical condition of the passport must be ensured by the guest directly in case of an e-Visa. Please ensure the passport is not damaged anywhere, as damaged passports may result in denial by immigration or the airline.",
+  "Airfare is subject to availability at the time of confirmation along with payment.",
+  "Hotel rooms and services are subject to availability at the time of confirmation along with payment.",
+  "In case of non-availability of hotel rooms, a similar category hotel will be provided.",
+  "Credit card payments are subject to 3% bank charges. Any fluctuation may vary the cost.",
+  "No changes to the itinerary will be honored once confirmed unless provided in writing. Additional charges may apply based on the requirement.",
+  "No verbal commitments will be honored unless provided in writing.",
+  "The offers are valid for the time being only, unless otherwise specified.",
+  "Extension of stay will be subject to availability and charged on a pro-rata basis at the best available rate of the day.",
+  "The private vehicle mentioned in the quote is based on the itinerary (point-to-point service).",
+  "For all SIC (Seat in Coach) tours, there will be waiting time for pick-up and drop-off. Pickup and drop-off points may vary from city to city unless a specific hotel is mentioned in the quote.",
+  "Any city taxes must be paid directly at the hotel unless specified in the quote.",
+  "Only the entrances specified in the itinerary will be covered. Any additional services must be taken care of directly by the guest.",
+  "No amendments are possible once land arrangements have been confirmed.",
+  "No refund will be provided for partially unutilized tickets. No refund for 'No-Shows' or last-minute cancellations.",
+  "Granting or rejecting visas and immigration clearance is the sole prerogative of the concerned sovereign governments. We can only facilitate the process and shall not be responsible for non-granting of such documents. Even if visas are rejected, cancellation charges or fees will be payable by the client. There will be no refund if the client or any member of the party is unable to travel due to these reasons."
     ]
   }
 },{
@@ -5708,14 +5767,13 @@
   "price": 59400,
 
   "description": [
-    "Embark on a tropical paradise adventure to Phuket and Krabi, two of Thailand's most stunning destinations, where turquoise waters, powdery white sand beaches, and dramatic limestone cliffs await. This 5-night, 6-day journey promises breathtaking landscapes, crystal-clear waters, and unforgettable experiences that will leave you enchanted and inspired.",
-    "Get ready to immerse yourself in the warmth and hospitality of Thai culture, indulge in delicious local cuisine, and unwind in the tranquil atmosphere of these tropical paradises. Whether you're seeking relaxation, adventure, or a mix of both, Phuket and Krabi offer the ultimate getaway for travelers of all kinds."
+    "Embark on a tropical paradise adventure to Phuket and Krabi, two of Thailand's most stunning destinations, where turquoise waters, powdery white sand beaches, and dramatic limestone cliffs await. This 5-night, 6-day journey promises breathtaking landscapes, crystal-clear waters, and unforgettable experiences that will leave you enchanted and inspired.Get ready to immerse yourself in the warmth and hospitality of Thai culture, indulge in delicious local cuisine, and unwind in the tranquil atmosphere of these tropical paradises. Whether you're seeking relaxation, adventure, or a mix of both, Phuket and Krabi offer the ultimate getaway for travelers of all kinds."
   ],
 
   "additionalInfo": [
     {
       "name": "Geography and Climate",
-      "description": "Phuket and Krabi are located in southern Thailand, along the Andaman Sea coast. Phuket is Thailand's largest island, boasting stunning beaches, limestone cliffs, and lush forests. Krabi Province, meanwhile, is a mainland destination known for its dramatic limestone karsts, turquoise waters, and idyllic islands. The climate in Phuket and Krabi is tropical, with warm temperatures and high humidity year-round. The region experiences two main seasons: the dry season (November to April), characterized by clear skies and calm seas, and the wet season (May to October), marked by occasional rain showers and rougher seas."
+      "description": "Phuket and Krabi are located in southern Thailand, along the Andaman Sea coast. Phuket is Thailand's largest island, boasting stunning beaches, limestone cliffs, and lush forests. Krabi Province, meanwhile, is a mainland destination known for its dramatic limestone karsts, turquoise waters, and idyllic islands.The climate in Phuket and Krabi is tropical, with warm temperatures and high humidity year-round. The region experiences two main seasons: the dry season (November to April), characterized by clear skies and calm seas, and the wet season (May to October), marked by occasional rain showers and rougher seas."
     }
   ],
 
@@ -5741,7 +5799,7 @@
     {
       "day": "Day 04 :",
       "title": "Phi Phi Island Tour",
-      "description": "Embark on an unforgettable journey to the breathtaking Phi Phi Islands, one of Thailand's most iconic destinations. Take a ferry ride through the turquoise waters of the Andaman Sea, surrounded by limestone cliffs and picturesque beaches.Visit the stunning Maya Bay, made famous by the movie The Beach and explore the island's hidden coves, snorkel in the crystal-clear waters, and relax on the pristine beaches.",
+      "description": "Embark on an unforgettable journey to the breathtaking Phi Phi Islands, one of Thailand's most iconic destinations. Take a ferry ride through the turquoise waters of the Andaman Sea, surrounded by limestone cliffs and picturesque beaches.Visit the stunning Maya Bay, made famous by the movie. The Beach and explore the island's hidden coves, snorkel in the crystal-clear waters, and relax on the pristine beaches.",
       "additionalInfo": ["As the day comes to a close, return to Phuket and enjoy a relaxing overnight stay at your hotel."]
     },
     {
@@ -10195,26 +10253,26 @@
     {
       "day": "Day 01 :",
       "title": "Pattaya Arrival ",
-      "description": "Welcome to Pattaya.Upon arrival at Pattaya in Suvarnabhumi or DMK Airport, you'll be greeted by our friendly representative who will escort you to your hotel. Check-in to your comfortable accommodations and take some time to freshen up and relax. Spend the day at leisure, exploring the hotel's facilities or taking a stroll around the nearby area.",
-      "additionalInfo": ["As evening falls, get ready to be dazzled by the spectacular Alcazar Show, a world-famous cabaret featuring stunning costumes, mesmerizing music, and talented performers. This extravagant show is a must-see in Pattaya, and you're sure to be enthralled by its energy and glamour.","After the show, return to your hotel for a comfortable overnight stay, with memories of the Alcazar Show's magic lingering in your mind."]
+      "description": "Upon arrival at Pattaya in Suvarnabhumi or DMK Airport, you'll be greeted by our friendly representative who will escort you to your hotel. Check-in to your comfortable accommodations and take some time to freshen up and relax. Spend the day at leisure, exploring the hotel's facilities or taking a stroll around the nearby area.",
+      "additionalInfo": ["As evening falls, get ready to be dazzled by the spectacular Alcazar Show, a world-famous cabaret featuring stunning costumes, mesmerizing music, and talented performers. This extravagant show is a must-see in Pattaya, and you're sure to be enthralled by its energy and glamour.After the show, return to your hotel for a comfortable overnight stay, with memories of the Alcazar Show's magic lingering in your mind."]
     },
     {
       "day": "Day 02 :",
-      "title": "Coral Island Tour",
+      "title": "Coral Island Tour ",
       "description": "After a delicious breakfast, embark on an exciting excursion to Coral Island, a picturesque gem nestled off the coast of Pattaya. Spend the morning soaking up the sun, swimming in the crystal-clear waters, and snorkeling among the vibrant coral reefs. As you bask in the island's tranquility, indulge in a delightful lunch and recharge for the rest of the day.",
-      "additionalInfo": [" Return to your hotel in the afternoon, feeling refreshed and rejuvenated. The rest of the day is yours to unwind and relax, whether that means lounging by the pool, treating yourself to a spa treatment, ","or simply taking a leisurely stroll around the hotel's surroundings. As the evening unfolds, enjoy a peaceful overnight stay at your hotel, with memories of Coral Island's beauty lingering in your mind."]
+      "additionalInfo": [" Return to your hotel in the afternoon, feeling refreshed and rejuvenated. The rest of the day is yours to unwind and relax, whether that means lounging by the pool, treating yourself to a spa treatment, or simply taking a leisurely stroll around the hotel's surroundings. As the evening unfolds, enjoy a peaceful overnight stay at your hotel, with memories of Coral Island's beauty lingering in your mind."]
     },
     {
       "day": "Day 03 :",
       "title": "Safari World and Marine Park",
       "description": "Embark on an exciting journey from Pattaya to Bangkok, with a thrilling stopover at Safari World and Marine Park. After a hearty breakfast, check out from your hotel in Pattaya and begin your transfer to Bangkok.",
-      "additionalInfo": [" En route, visit Safari World, a drive-through wildlife park where you can get up close and personal with exotic animals from around the world. Next, explore the Marine Park, featuring a stunning array of marine life, including dolphins, seals, and colorful fish.","As the day draws to a close, continue your journey to Bangkok and check into your hotel. Spend the evening relaxing and rejuvenating, or explore the city's vibrant nightlife. ","Overnight stay at your hotel in Bangkok."]
+      "additionalInfo": [" En route, visit Safari World, a drive-through wildlife park where you can get up close and personal with exotic animals from around the world. Next, explore the Marine Park, featuring a stunning array of marine life, including dolphins, seals, and colorful fish.As the day draws to a close, continue your journey to Bangkok and check into your hotel. Spend the evening relaxing and rejuvenating, or explore the city's vibrant nightlife. Overnight stay at your hotel in Bangkok."]
     },
     {
       "day": "Day 04 :",
       "title": " City tour and shopping in Bangkok",
       "description": "Start your day with a delicious breakfast at your hotel, fueling up for an exciting city tour of Bangkok. Explore the city's iconic landmarks, including the majestic Grand Palace, the revered Wat Phra Kaew, and the stunning Wat Arun. Discover the rich history, culture, and architecture that make Bangkok a truly unique and fascinating city.",
-      "additionalInfo": ["As the day unfolds, move on to the shopping segment of your tour. Visit some of Bangkok's most famous markets and shopping malls, such as Indra Square, Water Pavilion. Indulge in some retail therapy, browsing through a vast array of goods, from fashion and accessories to souvenirs and local handicrafts.","After a day filled with culture, history, and shopping, return to your hotel for a relaxing overnight stay."]
+      "additionalInfo": ["As the day unfolds, move on to the shopping segment of your tour. Visit some of Bangkok's most famous markets and shopping malls, such as Indra Square, Water Pavilion. Indulge in some retail therapy, browsing through a vast array of goods, from fashion and accessories to souvenirs and local handicrafts.After a day filled with culture, history, and shopping, return to your hotel for a relaxing overnight stay."]
     },
     {
       "day": "Day 05 :",
@@ -10304,7 +10362,7 @@
 
 
 {
-  "name": "Phuket: Island of Dreams",
+  "name": "Phuket: Island of Dreams ",
   "slug": "phuket-island-tour-package",
   "metaTitle": "Phuket Tour Package | Beaches, Islands & Culture with Duniya Dekho",
   "metaDescription": "Discover Phuket with Duniya Dekho. Enjoy pristine beaches, island hopping, cultural landmarks, and tropical adventures.",
@@ -10325,7 +10383,7 @@
     "/images/banners/phuket-island/phuket-old-town.webp"
   ],
 
-  "duration": "4 Nights / 5 Days",
+  "duration": "3 Nights / 4 Days",
     "pdf": {
   "name": "Download PDF",
   "url": "/pdf/phuket-island-of-dreams-3-nights-4-days.pdf"
@@ -10346,7 +10404,7 @@
   "itinerary": [
     {
       "day": "Day 01 :",
-      "title": "Arrival and Fantasea Show",
+      "title": "Arrival and Fantasea Show ",
       "description": "Arrive at Phuket Airport, where our representative will greet and escort you to your hotel. Check-in to your hotel and freshen up.In the evening, experience the magic of Phuket's iconic Fantasea Show, a spectacular cultural performance showcasing Thailand's rich heritage and mythology.",
       "additionalInfo": ["Return to your hotel for a relaxing overnight stay."]
     },
@@ -11831,6 +11889,195 @@
   "Entrances specified in the itinerary will be covered. Any extra services to be taken care by guest directly.",
   "No amendments possible once land arrangements have been confirmed.",
   "No refund for partly unutilized tickets. No refund for \"NO – SHOWS\" & Last moment cancellations.",
+  "Granting or rejecting visas and immigration clearance is the sole prerogative of the concerned sovereign governments and we can only facilitate in the entire process. We shall neither be responsible in case of non-granting of such documents. Even if the visas are rejected, cancellation charges / fees shall be payable by the Client. There will be no refund, if the Clients, or any member of his party, is unable to travel due to the said reasons."
+    ]
+  }
+},{
+  
+  "name": "Explore the Wild Heart of Norway",
+  "slug": "explore-the-wild-heart-of-norway",
+  "metaTitle": "Explore the Wild Heart of Norway | Norway Tour Package",
+  "metaDescription": "Discover Norway’s breathtaking landscapes, from dramatic fjords and snow-capped mountains to scenic coastal villages and vibrant cities. Experience Northern Lights, glacier views, waterfalls, and unforgettable Arctic adventures on this immersive Norway tour package.",
+
+
+ "bannerImages": [
+      "/images/banners/brazil/argentine-sides.webp",
+    "/images/banners/brazil/iguassu-falls.webp",
+    "/images/banners/brazil/leisure.webp",
+    "/images/banners/brazil/rio-de-janeiro.webp",
+    "/images/banners/brazil/sugarloaf-mountain.webp"
+  
+   
+    ],
+    "bannerLgImages": [
+     "/images/banners/brazil/argentine-sides.webp",
+    "/images/banners/brazil/iguassu-falls.webp",
+    "/images/banners/brazil/leisure.webp",
+    "/images/banners/brazil/rio-de-janeiro.webp",
+    "/images/banners/brazil/sugarloaf-mountain.webp"
+    ],
+  "duration": "07 Nights / 08 Days",
+    "pdf": {
+  "name": "Download PDF",
+  "url": "/pdf/from-rios-rhythms-to-the-heart-of-the-amazon-south-america.pdf"
+      },
+  "price": 189540,
+  "description": [
+    "Norway is a stunning Scandinavian country of fjords, mountains, glaciers, and a rugged coastline dotted with charming villages. From vibrant cities like Oslo and Bergen to the Arctic wonders of Tromsø, Norway offers scenic train rides, fjord cruises, hiking, and natural phenomena like the Midnight Sun and Northern Lights. Its dramatic landscapes and diverse climate make it perfect for adventure, culture, and unforgettable experiences."
+  ],
+  "additionalInfo": [
+    {
+      "name": "Geography and Climate",
+      "description": "Norway is a long, narrow country in Northern Europe, stretching from the North Sea in the south to the Arctic Circle and beyond in the north, with dramatic landscapes including fjords, steep mountains, islands, and a rugged coastline dotted with fishing villages. The southern regions, including Oslo and Bergen, have a mild oceanic climate with warm summers (18–25°C) and cold, sometimes snowy winters (0–5°C), while the fjord regions like Flåm and Geiranger are cool in summer (15–22°C) and wet in winter. Northern Norway, including Tromsø, has a subarctic to Arctic climate, featuring cool summers (10–18°C) with 24-hour daylight and cold winters (-5 to -20°C) with long nights and the Northern Lights. Norway’s weather changes quickly, especially in the mountains and fjords, so layering and waterproof clothing are essential."
+    }
+  ],
+  "itinerary": [
+    {
+      "day": "Day 01 :",
+      "title": " Arrival in Oslo ",
+      "description": "Arrive in Oslo, Norway’s vibrant capital, known for its mix of modern architecture and historic sites. Begin your day by walking on the roof of the Oslo Opera House, a striking building that juts into the Oslofjord and offers panoramic views. Then, visit Vigeland Sculpture Park, the world’s largest sculpture park created by a single artist, featuring over 200 sculptures by Gustav Vigeland. Explore MUNCH to see iconic paintings like “The Scream” and other modern Norwegian art. ",
+      "additionalInfo": ["In the evening, wander the Grünerløkka district, full of street art, cafés, and lively nightlife.In the evening, wander the Grünerløkka district, full of street art, cafés, and lively nightlife."]
+    },
+     {
+      "day": "Day 02 :",
+      "title": "Oslo Museums & Views",
+      "description": "Spend the morning on Bygdøy Peninsula, often called Oslo’s “museum peninsula.” Visit the Viking Ship Museum to see remarkably preserved Viking ships and artifacts over 1,000 years old. Next, explore the Fram Museum, dedicated to polar exploration, and see the famous ship Fram that sailed both the Arctic and Antarctic. Finish the day with a sunset at Ekebergparken Sculpture Park, which combines art, history, and sweeping views over the Oslofjord.",
+      "additionalInfo": ["Morning light at Ekebergparken is perfect for photography."]
+    },
+    {
+      "day": "Day 03 :",
+      "title": "Scenic Train to Bergen",
+      "description": "Take the Bergen Railway, often called one of Europe’s most scenic train rides, passing through snow-capped mountains, fjords, and waterfalls. Upon arrival in Bergen, explore Bryggen, a UNESCO World Heritage site with colorful Hanseatic-era wooden buildings. Ride the Fløibanen funicular to Mount Fløyen for panoramic city and fjord views. Evening strolls around the harbor reveal lively cafés and restaurants serving fresh seafood. ",
+      "additionalInfo": ["Bring a light jacket; Bergen can be rainy even in summer."]
+    },
+    {
+      "day": "Day 04 :",
+      "title": " Bergen & Fjord Cruise ",
+      "description": "Visit the bustling Bergen Fish Market in the morning to sample local delicacies such as fresh shrimp, salmon, and traditional brown cheese. Later, take a fjord cruise through Sognefjord, Norway’s longest and deepest fjord, where sheer cliffs rise dramatically from the water and waterfalls cascade into the fjord. You may also spot small villages tucked into fjord-side valleys, accessible only by boat.",
+      "additionalInfo": ["Book a fjord cruise in advance; consider a small boat tour for a more intimate experience."]
+    },
+    {
+      "day": "Day 05 :",
+      "title": "Norway in a Nutshell Experience",
+      "description": "Travel from Bergen to Flåm via Voss, then cruise through the narrow Nærøyfjord, a UNESCO-listed fjord known for its steep cliffs and waterfalls. Continue on the Flåm Railway, a spectacular 20-kilometer train ride that winds through mountains, tunnels, and waterfalls. Overnight in Flåm or Gudvangen, where small village charm meets stunning natural scenery.",
+      "additionalInfo": ["Early morning departures offer calmer fjord waters for photography."]
+    },
+    {
+      "day": "Day 06 :",
+      "title": "Explore Ålesund",
+      "description": "Travel to Ålesund, a coastal town rebuilt in Art Nouveau style after a fire in 1904. Wander the streets to admire ornate facades and pastel-colored buildings. Climb 418 steps to the Aksla viewpoint for a panoramic view of the town, surrounding islands, and the Sunnmøre Alps. Ålesund also has a beautiful aquarium, the Atlanterhavsparken, which highlights marine life from the Norwegian coast.",
+      "additionalInfo": ["Sunset views from Aksla are especially magical."]
+    },
+    {
+      "day": "Day 07 :",
+      "title": "Visit Geirangerfjord",
+      "description": "Take a day trip to Geirangerfjord, one of Norway’s most famous fjords and a UNESCO World Heritage site. Marvel at the Seven Sisters Waterfall and the Suitor Waterfall across the fjord. Optional activities include RIB boat safaris for adrenaline-packed sightseeing or hiking trails that offer unforgettable fjord views.",
+      "additionalInfo": ["Bring waterproof clothing; spray from waterfalls can be intense."]
+    },
+     {
+      "day": "Day 08 :",
+      "title": "Fly to Tromsø ",
+      "description": "Fly north to Tromsø, the gateway to the Arctic. In summer, enjoy the Midnight Sun, while winter brings spectacular Northern Lights displays. Visit the striking Arctic Cathedral with its unique architecture inspired by ice and snow. Take the Fjellheisen cable car for panoramic views of Tromsø, fjords, and surrounding mountains.",
+      "additionalInfo": ["Tromsø is known as the “Paris of the North” for its cultural vibrancy; local cafés and breweries are worth exploring."]
+    },
+       {
+      "day": "Day 08 :",
+      "title": "Fly to Tromsø ",
+      "description": "Fly north to Tromsø, the gateway to the Arctic. In summer, enjoy the Midnight Sun, while winter brings spectacular Northern Lights displays. Visit the striking Arctic Cathedral with its unique architecture inspired by ice and snow. Take the Fjellheisen cable car for panoramic views of Tromsø, fjords, and surrounding mountains.",
+      "additionalInfo": ["Tromsø is known as the “Paris of the North” for its cultural vibrancy; local cafés and breweries are worth exploring."]
+    },
+    {
+      "day": "Day 09 :",
+      "title": "Arctic Adventure ",
+      "description": "Spend your day immersed in Arctic nature. Join a reindeer sledding and Sámi cultural experience, hike in the Lyngen Alps, or kayak along fjords to experience the serene beauty of the region. Wildlife spotting is excellent here; you might see sea eagles, seals, and even whales, depending on the season.",
+      "additionalInfo": ["Guided tours are recommended for safety and local knowledge in Arctic conditions."]
+    },
+     {
+      "day": "Day 10 :",
+      "title": "Return to Oslo ",
+      "description": "Fly back to Oslo for your departure. Take a last stroll along the Oslofjord or grab souvenirs before leaving. Your journey through Norway’s cities, fjords, mountains, and Arctic landscapes will leave lasting memories of the country’s natural beauty and cultural richness.",
+      "additionalInfo": [""]
+    }
+
+
+    
+  ],
+  "hotel": {
+    "name": "Hotel details",
+    "amenities": [
+      "3* or 4* Best hotel"
+    ]
+  },
+  
+  "flight": {
+    "name": "Flight Details",
+    "amenities": [
+      "Flight not included"
+      ]
+    },
+
+  "inclusionAndExclusion": {
+    "inclusions": [
+   "Two Nights Accommodation in Oslo at suggested hotels or similar.",
+  "Two Nights Accommodation in Bergen at suggested hotels or similar.",
+  "One Night Accommodation in Flåm/Gudvangen at suggested hotels or similar.",
+  "One Night Accommodation in Ålesund at suggested hotels or similar.",
+  "One Night Accommodation in Geirangerfjord at suggested hotels or similar.",
+  "Two Nights Accommodation in Tromsø at suggested hotels or similar.",
+  "Daily breakfast except Day 01.",
+  "All meals (set menu) as mentioned in the itinerary.",
+  "Entrance fees to all sightseeing places visited from inside.",
+  "Travel by comfortable air-conditioned coach as per the itinerary.",
+  "Return airport transfers on seat-in-coach basis."
+    ],
+    "exclusions": [
+     "Return and internal airfare.",
+  "Airport taxes.",
+  "Visa.",
+  "Any entry fees other than those specified in the itinerary.",
+  "Tips to driver and guide, and personal expenses.",
+  "High season surcharges as applicable.",
+  "Use of vehicle other than as specified in the itinerary.",
+  "Any item not mentioned in the above Tour Price Includes.",
+  "No intercity surface transfers are included unless specified in the package.",
+  "Expenses of a personal nature (e.g., tipping, laundry, telephone calls, beverages, etc.).",
+  "Lunch and dinner.",
+  "Travel insurance not included.",
+  "5% GST.",
+  "5% TCS."
+    ]
+  },
+  "pleaseNote": {
+    "title": "Please Note",
+    "notes": [
+"100% cancellation charges will apply for low-cost carriers once the booking is confirmed.",
+  "100% cancellation charges will apply if hotels or entrance tickets are booked and paid in advance during the confirmation period; these will be non-refundable.",
+  "100% cancellation charges will apply during peak days or trade fairs.",
+  "100% cancellation charges will apply once the visa payment is completed.",
+  "For group bookings, please reconfirm the cancellation policy before confirmation.",
+  "Airline and hotel cancellation policies may override the above cancellation policy at the time of booking."
+    ]
+  },
+  "conditions": {
+    "title": "Conditions",
+    "conditions": [
+  "Above rates based on today’s ROE. Any fluctuation will vary the cost at the time of confirmation and final payment made.",
+  "For your international Travel, The Passport of passengers should have the validity of minimum 6 (SIX) months (from the date of return) and two or more blank pages for visa stamp.",
+  "Physical condition of Passport is taken care by guest directly in case of E-Visa. Please ensure the passports are not damaged anywhere. In case of damaged passports, the passenger may not be allowed by the immigration or airline.",
+  "Airfare is subject to availability at the time of confirmation with the payment.",
+  "Hotel Rooms & Service are subject to availability at the time of confirmation with the payment.",
+  "In case of Non availability of Hotel Rooms a similar category Hotel will be provided.",
+  "Credit card payments are subject to 3% bank charges. Any fluctuations may vary the cost.",
+  "No Change in Itinerary once confirmed will be honored unless otherwise given in writing. This may incur additional charges based on the requirement.",
+  "No verbal commitments will be honored unless otherwise given in writing.",
+  "The offers are valid till for time being only & unless otherwise specified.",
+  "Extension of stay would be subject to availability and on pro-rata basis and as of best rate of the day.",
+  "Private vehicle mentioned in the quotes is based on the itinerary (Point to Point Service)",
+  "For all SIC tour (Seat in Coach) – there is always waiting time for pick up/drop. Also the pickup/drop points may vary city to city unless specified hotel in the quotes.",
+  "Any City Taxes to be paid directly at hotel unless specified in the quotes.",
+  "Entrances specified in the itinerary will be covered. Any extra services to be taken care by guest directly.",
+  "No amendments possible once land arrangements have been confirmed",
+  "No refund for partly unutilized tickets. No refund for \"NO – SHOWS\" & Last moment cancellations",
   "Granting or rejecting visas and immigration clearance is the sole prerogative of the concerned sovereign governments and we can only facilitate in the entire process. We shall neither be responsible in case of non-granting of such documents. Even if the visas are rejected, cancellation charges / fees shall be payable by the Client. There will be no refund, if the Clients, or any member of his party, is unable to travel due to the said reasons."
     ]
   }

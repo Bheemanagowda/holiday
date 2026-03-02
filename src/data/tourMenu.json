@@ -138,6 +138,14 @@
                   { "name": "Quaint Streets", "link": "/bharat-dekho/mysore-ooty-tour-package" }
             ]
           },
+            {
+            "heading": "Hampi",
+                 "link": "/bharat-dekho/hampi",
+            "links": [
+              { "name": "Hampi", "link": "/bharat-dekho/hampi" }
+             
+            ]
+          },
           {
             "heading": "Coorg & Kabini",
             "link": "/bharat-dekho/coorg-kabini-getaway-package",
@@ -459,7 +467,8 @@
           { "name": "Paris to Vienna ", "link": "/duniya-dekho/paris-to-vienna-tour-package" },
           { "name": "Istanbul & Antalya ", "link": "/duniya-dekho/istanbul-antalya-tour-package" },
             { "name": "Italy, Switzerland & France  ", "link": "/duniya-dekho/italy-switzerland-france-tour-package" },
-            { "name": "Italy, Switzerland & France  ", "link": "/duniya-dekho/italy-switzerland-france-tour-package" }
+            { "name": "Italy, Switzerland & France  ", "link": "/duniya-dekho/italy-switzerland-france-tour-package" },
+             { "name": "Norway  ", "link": "/duniya-dekho/explore-the-wild-heart-of-norway" }
       ]
       
     }
