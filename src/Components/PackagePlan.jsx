@@ -109,6 +109,7 @@ function PackagePlan() {
               name: "Delhi Agra",
               image: "/images/delhi_agra_intro.webp",
               description: "Flights . Hotels . Holidays",
+              link:"/bharat-dekho/golden-triangle-5n-6d"
               
             },
             {
