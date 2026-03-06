@@ -5,8 +5,7 @@
     "duration": "10 Nights / 11 Days",
     "price": 231987,
     "description": [
-      "Cape Town, Table Mountain, Cape Point,",
-      "Full Day Peninsula Tour, Oudtshoorn, Knysna, Sun City,Leisure Day,Pilanesberg Safari,Johannesburg"
+      "Cape Town, Table Mountain, Cape Point,Full Day Peninsula Tour, Oudtshoorn, Knysna, Sun City,Leisure Day,Pilanesberg Safari,Johannesburg"
     ],
     "image": "/images/small/south-africa.webp",
     "slug": "/duniya-dekho/south-africa-tour-package"
@@ -18,8 +17,7 @@
   "price": 215000,
  
   "description": [
-    "Cape Town,Cape Town City Tour & Table Mountain,Peninsula Tour",
-     "Sun City,Leisure,Johannesburg "
+    "Cape Town City Tour & Table Mountain,Peninsula Tour,Sun City,Leisure,Johannesburg"
   ],
   "image": "/images/small/cape-town.webp",
   "slug": "/duniya-dekho/cape-town-sun-city-tour-package"
@@ -31,7 +29,7 @@
     "duration": "3 Nights / 4 Days",
     "price": 106200,
     "description": [
-      "Arrival in Cairo, Pyramids, Museum, and Bazaar, ","Leisure Day in Cairo"
+      "Arrival in Cairo, Pyramids, Museum, and Bazaar, Leisure Day in Cairo"
     ],
     "image": "/images/small/egypt.webp",
     "slug": "/duniya-dekho/egypt-tour-package"
@@ -43,7 +41,7 @@
   "duration": "5 Nights / 6 Days",
   "price": 189540,
   "description": [
-    "Nairobi , Ol Pejeta Conservancy Adventure, Explore the Great Rift Valley Lakes , Masai Mara National Reserve Adventure,Immersive Masai Mara Experience"
+    "Nairobi, Ol Pejeta Conservancy Adventure, Explore the Great Rift Valley Lakes , Masai Mara National Reserve Adventure,Immersive Masai Mara Experience"
   ],
   "image": "/images/small/kenya.webp",
   "slug": "/duniya-dekho/kenya-victoria-falls-tour-package"
@@ -54,8 +52,7 @@
   "duration": "10 Nights / 11 Days",
   "price": 315900,
   "description": [
-    " Arusha, Lake Manyara National Park,Seronera,",
-    " Serengeti National Park,Game Drives in Serengeti,Tarangire National Park","Ngorongoro Crater, Zanzibar,Kiwengwa,Zanzibar,"
+    " Arusha,Lake Manyara National Park,Seronera,Serengeti National Park,Game Drives in Serengeti,Tarangire National Park","Ngorongoro Crater, Zanzibar,Kiwengwa,Zanzibar,"
   ],
   "image": "/images/small/tanzenia.webp",
   "slug": "/duniya-dekho/tanzania-tour-package"
@@ -254,7 +251,7 @@
   "duration": "07 Nights / 08 Days",
   "price": 210600,
   "description": [
-    "City of Light,Paris,Indulge,Lucerne,Switzerland",", Mt. Titlis Adventure and Lake Lucerne Cruise, Lucerne,Zurich, Vibrant Financial Hub"
+    "City of Light,Paris,Indulge,Lucerne,Switzerland","Mt. Titlis Adventure and Lake Lucerne Cruise, Lucerne,Zurich, Vibrant Financial Hub" 
   ],
   "image": "/images/small/swiss-paris.webp",
   "slug": "/duniya-dekho/swiss-paris-tour-package"
@@ -277,9 +274,9 @@
   "duration": "10 Nights / 11 Days",
   "price": 148540,
   "description": [
-    "Paris,Paris City Tour,Versailles & Disneyland Paris,Paris – Geneva ",
-    "Vevey,Bern,Lucerne,Mount Titlis,Engelberg Excursion,Jungfraujoch,Interlaken      ",
-    "Lucerne,Schaffhausen,Rhine Falls,Vaduz,Innsbruck,Innsbruck,Wattens,Salzburg,Hallein,Vienna   "
+    "Paris City Tour,Versailles & Disneyland Paris,Geneva ",
+    "Vevey,Bern,Lucerne,Mount Titlis,Engelberg Excursion,Jungfraujoch,Interlaken",
+    "Lucerne,Schaffhausen,Rhine Falls,Vaduz,Innsbruck,Wattens,Salzburg,Hallein,Vienna   "
     
   ],
   "image": "/images/small/austria-swiss-paris.webp",
@@ -522,7 +519,7 @@
   "price": 45000,
   "description": [
     "Arrival and Krabi City Tour,Four Island Tour,",
-    "Krabi to Phuket with Tiger Kingdom Visit, Phi Phi Island Tour"
+    "Krabi to Phuket with Tiger Kingdom Visit,Phi Phi Island Tour"
     
   ],
   "image": "/images/small/phuket.webp",
@@ -665,9 +662,7 @@
   "duration": "09 Nights / 10 Days",
   "price": 215000,
   "description": [
-    "City of Light,Timeless Charm of Paris,Journey to Lucerne, Switzerland,Mount Titlis and Lake Lucerne Adventure",
-    "Explore Switzerland at Leisure,Innsbruck, Austria,Discover the Magic of Swarovski Crystal World",
-    " Innsbruck to Vienna, the City of Music, Schönbrunn Palace"
+    "City of Light,Timeless Charm of Paris,Journey to Lucerne, Switzerland,Mount Titlis and Lake Lucerne Adventure","Explore Switzerland at Leisure,Innsbruck, Austria,Discover the Magic of Swarovski Crystal World"," Innsbruck to Vienna, the City of Music, Schönbrunn Palace"
   ],
   "image": "/images/small/paris-to-vienna.webp",
   "slug": "/duniya-dekho/paris-to-vienna-tour-package"

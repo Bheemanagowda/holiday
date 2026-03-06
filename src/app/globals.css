@@ -149,3 +149,10 @@ body::-webkit-scrollbar {
   }
 }
 
+.title-format {
+  text-transform: lowercase;
+}
+
+.title-format::first-letter {
+  text-transform: uppercase;
+}

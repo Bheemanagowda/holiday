@@ -24,11 +24,13 @@ function DestinationsPageIntro({ destinations }) {
      
 
       
-      <div>
-        {item?.description?.map((ele, i) => (
-          <p key={i} className="text-[#4B4B4B]">{ele}</p>
-        ))}
-      </div>
+   <div>
+  {item?.description?.map((ele, i) => (
+    <p key={i} className="text-[#4B4B4B] title-format">
+      {ele}
+    </p>
+  ))}
+</div>
     </div>
     <div className="mt-4 lg:mt-0 flex flex-col gap-3 lg:block items-start lg:items-center">
 
