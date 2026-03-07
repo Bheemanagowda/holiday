@@ -151,6 +151,7 @@ body::-webkit-scrollbar {
 
 .title-format {
   text-transform: lowercase;
+  text-align: left;
 }
 
 .title-format::first-letter {

@@ -217,7 +217,7 @@
     "/images/banners/egypt/hurghada.webp",
     "/images/banners/egypt/sharm-el-sheikh.webp"
   ],
-  "duration": "4 Nights / 4 Days",
+  "duration": "3 Nights / 4 Days",
   "pdf": {
     "name": "Download PDF",
     "url": "/pdf/egyptian-getaway-cairo-3-nights-4-days.pdf"
@@ -521,7 +521,7 @@
             "/images/banners/tanzania/tarangire-national-park.webp",
               "/images/banners/tanzania/zanzibar.webp"
     ],
-  "duration": "10 Nights  I  11 Days",
+  "duration": "7 Nights  /  8 Days",
        "pdf": {
   "name": "Download PDF",
   "url": "/pdf/wilds-of-tanzania-unforgettable-journey-10-nights-11-days.pdf"
@@ -540,80 +540,57 @@
   "itinerary": [
     {
       "day": "Day 01 :",
-      "title": "Arrival in Arusha",
-      "description": "Arrive at Kilimanjaro International Airport, where you'll be greeted by the warm Tanzanian hospitality. Transfer to Arusha, the vibrant 'Safari Capital' of northern Tanzania. Check-in to your hotel and spend the rest of the day at leisure, exploring this charming town on your own. Enjoy the local markets, cuisine, and scenic views, or simply relax at your hotel. Overnight in Arusha,",
-      "additionalInfo": ["ready to embark on your Tanzanian adventure"]
+      "title": "Arrival at Arusha ",
+      "description": "Upon arrival at Kilimanjaro International Airport, you will be warmly welcomed by your local representative and transferred to your hotel in Arusha. Nestled at the base of Mount Meru, Arusha is known as the gateway to Tanzania’s famous northern safari circuit. Spend the rest of the day at leisure to relax after your journey, enjoy the pleasant weather, and prepare for the exciting safari adventure ahead. ",
+      "additionalInfo": ["Overnight stay in Arusha."]
     },
     {
       "day": "Day 02 :",
-      "title": "Lake Manyara National Park",
-      "description": "After breakfast, check-out from your hotel in Arusha and transfer to Lake Manyara National Park, renowned for its stunning scenery and diverse wildlife habitats. Arrive in time for lunch and check-in to your hotel. In the afternoon, embark on a thrilling game drive within the park, exploring its lush forests, grasslands, and alkaline lakes. Keep an eye out for over 400 species of birds, as well as the park's famous residents, including:",
-      "additionalInfo": ["Large troops of baboons","Large troops of baboons",
-"Giraffes",
-"Zebras",
-"Wildebeest",
-"Impala",
-"Waterbuck",
-"Warthog",
-"Cape clawless otter",
-"Egyptian mongoose","Return to your hotel in the evening, surrounded by the park's breathtaking natural beauty. Overnight at the hotel in Lake Manyara National Park."
+      "title": "Arusha – Lake Manyara (1 Night)",
+      "description": "After breakfast, depart for Lake Manyara National Park for your first game drive. This beautiful park is famous for its tree-climbing lions, large troops of baboons, and pink flamingos along the lake shore. The park’s diverse landscapes include lush groundwater forests, open savannah, and the alkaline lake itself, attracting elephants, giraffes, hippos, and various bird species. Enjoy a picnic lunch inside the park followed by an afternoon game drive. Later, transfer to your lodge for dinner and overnight stay near Lake Manyara.",
+      "additionalInfo": ["overnight stay near Lake Manyara."
 
 ]
     },
     {
       "day": "Day 03 :",
-      "title": "Seronera, Serengeti National Park",
-      "description": "After breakfast, check-out from your hotel at Lake Manyara National Park and transfer to Seronera, a prime location in the central Serengeti. This region is renowned for its exceptional wildlife viewing opportunities, particularly during the Great Migration.Arrive in time for lunch at your camp and check-in to your hotel. In the afternoon, embark on a thrilling game drive within the Serengeti National Park, where you may witness:",
-      "additionalInfo": ["The Great Migration in all its glory","Large herds of wildebeest, zebras, and gazelles","Predators like lions, leopards, and cheetahs","Elephants, giraffes, and other iconic African wildlife","Return to your hotel in the evening, surrounded by the Serengeti's breathtaking landscapes. Overnight at the hotel in Seronera."]
+      "title": "Lake Manyara – Serengeti National Park (2 Nights)",
+      "description": "After breakfast, proceed towards the world-renowned Serengeti National Park. The journey itself is scenic, passing through the Ngorongoro highlands before entering the vast plains of the Serengeti. En route, enjoy a game drive as you may start spotting wildlife even before reaching your camp. The Serengeti is famous for its endless savannah, abundant predators like lions and cheetahs, and the Great Migration (seasonal). Arrive at your lodge or tented camp in the evening. ",
+      "additionalInfo": ["Dinner and overnight stay in Serengeti."]
     },
     {
       "day": "Day 04 :",
-      "title": " Full-Day Game Drives in Serengeti",
-      "description": "After breakfast, embark on an early morning game drive in the Serengeti National Park, where you'll have the opportunity to spot an array of wildlife, including:",
-      "additionalInfo": ["The Big Five: lions, leopards, elephants, buffalo, and rhinoceros","Large herds of wildebeest, zebras, and gazelles","Cheetahs, hyenas, and other predators","Enjoy a thrilling morning of safari adventures, taking in the stunning scenery and unforgettable wildlife encounters.","In the afternoon, enjoy another game drive, with a break for lunch at a scenic spot. Continue your safari adventures, spotting more wildlife and taking in the breathtaking views of the Serengeti.","Return to your hotel in the evening, filled with the memories of an incredible day in the wild. Overnight at the hotel in Seronera."]
+      "title": " Serengeti National Park",
+      "description": "Spend the entire day exploring the Serengeti with morning and afternoon game drives. Early morning safaris offer the best opportunity to witness predators in action, while the afternoon drive allows you to explore different regions of the park. Keep your camera ready to capture elephants, zebras, wildebeests, giraffes, leopards, and possibly a pride of lions resting under an acacia tree. Return to your camp for relaxation, dinner, and ",
+      "additionalInfo": ["overnight stay amidst the wild African landscape."]
     },
     {
       "day": "Day 05 :",
-      "title": "Ngorongoro Crater",
-      "description": "After breakfast, check-out from your hotel in Seronera and transfer to the Ngorongoro Crater, a breathtaking natural wonder and one of Africa's most popular safari destinations. This UNESCO-listed site is home to an incredible array of wildlife, including:",
-      "additionalInfo": ["The Big Five: lions, leopards, elephants, buffalo, and rhinoceros","Large herds of wildebeest, zebras, and gazelles","Cheetahs, hyenas, and other predators","Arrive in time for lunch and check-in to your hotel, situated within the crater. Spend the rest of the day at leisure, exploring the crater's stunning landscapes and diverse wildlife on your own. Take in the breathtaking views of the surrounding highlands and enjoy the tranquility of this unique natural wonder.","Overnight at the hotel in Ngorongoro Crater, surrounded by the crater's majestic scenery and abundant wildlife."]
+      "title": "Serengeti National Park – Ngorongoro Crater (1 Night)",
+      "description": "After breakfast, enjoy a final morning game drive in Serengeti before proceeding towards the Ngorongoro Conservation Area. The drive offers beautiful views of the highlands and Maasai villages along the way. Arrive at your lodge located on the crater rim, offering breathtaking views of the world’s largest intact volcanic caldera. Spend the evening at leisure enjoying the cool climate and spectacular sunset. ",
+      "additionalInfo": ["Dinner and overnight stay near Ngorongoro Crater."]
     },
     {
       "day": "Day 06 :",
-      "title": "Full-Day Game Drive in Ngorongoro Crater",
-      "description": "After breakfast, embark on a full-day game drive in the Ngorongoro Crater, with packed lunch boxes to fuel your adventure. Spend the day exploring the crater's diverse landscapes and spotting an incredible array of wildlife, including:",
-      "additionalInfo": ["The Big Five: lions, leopards, elephants, buffalo, and rhinoceros","Large herds of zebra and wildebeest","Cheetahs, hyenas, and other predators","A variety of bird species and other wildlife","Enjoy a thrilling day of safari adventures, taking in the stunning scenery and unforgettable wildlife encounters. Return to your hotel in the evening, filled with the memories of an incredible day in the Ngorongoro Crater.","Overnight at the hotel in Ngorongoro Crater, surrounded by the crater's majestic scenery and abundant wildlife."]
+      "title": "Ngorongoro Crater – Arusha – Zanzibar (2 Nights)",
+      "description": "After an early breakfast, descend into the Ngorongoro Crater for a half-day game drive. This UNESCO-listed site is home to an incredible concentration of wildlife, including black rhinos, lions, buffaloes, hippos, and flamingos. The crater floor provides one of the best opportunities to spot the “Big Five” in a single day. After the safari, drive back to Arusha and transfer to the airport for your flight to Zanzibar. Upon arrival, transfer to your beach resort. Relax and unwind by the turquoise waters of the Indian Ocean. ",
+      "additionalInfo": ["Overnight stay in Zanzibar."]
     },
     {
       "day": "Day 07 :",
-      "title": " Tarangire National Park",
-      "description": "After breakfast, check-out from your hotel in Ngorongoro Crater and transfer to Tarangire National Park, renowned for its:",
-      "additionalInfo": ["Spectacular baobab trees","Breathtaking views of the Maasai Steppe","Wondrous mountains to the south","Arrive in time for lunch and check-in to your hotel. In the afternoon, embark on a game drive within the park, exploring its diverse wildlife, including:","Large herds of elephants","Migratory wildebeest, zebra, and buffalo","Impala, gazelle, and hartebeest Lions, a common sight in the park","Impala, gazelle, and hartebeest Lions, a common sight in the park","Enjoy a thrilling afternoon of safari adventures, taking in the stunning scenery and unforgettable wildlife encounters. Return to your hotel in the evening, surrounded by the park's natural beauty.","Overnight at the hotel in Tarangire National Park"]
+      "title": " Zanzibar",
+      "description": "Enjoy a full day at leisure in Zanzibar. You may relax on the white sandy beaches, swim in the clear blue waters, or opt for optional activities such as a Spice Tour, Stone Town exploration, or a dhow sunset cruise. Zanzibar offers a perfect blend of African, Arab, and European influences reflected in its culture and architecture. Spend the evening enjoying a romantic beachside dinner. ",
+      "additionalInfo": ["Overnight stay in Zanzibar."]
     },
     {
       "day": "Day 08 :",
-      "title": "Transfer to Zanzibar",
-      "description": "Explore Stone Town, local markets, and cultural landmarks. Enjoy the tropical sunset and beachside activities.",
-      "additionalInfo": ["Overnight stay in Zanzibar hotel"]
-    },
-    {
-      "day": "Day 09 :",
-      "title": "Relaxation and Water Activities in Kiwengwa",
-      "description": "After breakfast, spend the day at leisure, exploring the charming surroundings of Kiwengwa on your own. Discover the local village, with its unique culture and way of life ,For the adventurous, Kiwengwa offers a range of exciting water-based activities, including:",
-      "additionalInfo": ["Snorkelling and diving in the crystal-clear waters","Kitesurfing for thrill-seekers","Boating and exploring the nearby islands","Relax on the stunning beaches, soak up the sun, or simply unwind in a tropical paradise. Overnight at the hotel in Kiwengwa, surrounded by the beauty of Zanzibar's coastline."]
-    },
-     {
-      "day": "Day 10 :",
-      "title": "Relaxation and Beach Time in Kiwengwa",
-      "description": "After breakfast, spend the day at leisure, indulging in the laid-back atmosphere of Kiwengwa. Treat yourself to a refreshing cocktail at a beachfront bar, and soak up the sun's warm rays.",
-      "additionalInfo": ["For those eager to explore the ocean's wonders, discover the fascinating underwater world that lies just offshore. Snorkel or dive among the coral reefs, and marvel at the vibrant marine life.","Unwind in a tropical paradise, where the rhythm of the waves and the warmth of the sun create the perfect setting for relaxation. ","Overnight at the hotel in Kiwengwa, surrounded by the beauty of Zanzibar's coastline."]
-    },
-      {
-      "day": "Day 11 :",
-      "title": "Relaxation and Beach Time in Kiwengwa",
-      "description": "After breakfast, check-out from your hotel in Kiwengwa and transfer to Zanzibar Airport for your departure flight.",
-      "additionalInfo": ["Reflect on the unforgettable experiences and memories made during your Tanzanian adventure, from the majestic wildlife of the Serengeti to the stunning beaches of Zanzibar.","Bid farewell to the islands and board your flight back home, carrying with you the warmth and hospitality of Tanzania"]
+      "title": ": Zanzibar – Departure",
+      "description": "After breakfast, enjoy some free time until your scheduled transfer to Zanzibar International Airport for your onward journey. ",
+      "additionalInfo": ["Depart with unforgettable memories of Tanzania’s spectacular wildlife and serene beaches."]
     }
+  
+   
+    
   ],
   "hotel": {
     "name": "Hotel details",
@@ -634,75 +611,67 @@
  
   "inclusionAndExclusion": {
     "inclusions": [
-      "One night accommodation in Arusha at suggested hotels or similar.",
-  "One night accommodation in Lake Manyara National Park at suggested hotels or similar.",
-  "Two nights accommodation in Seronera at suggested hotels or similar.",
-  "Two nights accommodation in Ngorongoro Crater at suggested hotels or similar.",
-  "One night accommodation in Tarangire National Park at suggested hotels or similar.",
-  "Three nights accommodation in Kiwengwa at suggested hotels or similar.",
-  "Daily breakfast at the hotel except on Day 1.",
-  "Meals as per itinerary.",
-  "Game drives in Lake Manyara National Park, Seronera, Ngorongoro Crater, and Tarangire National Park on a private basis.",
-  "Park entrance fees.",
-  "Services of an English-speaking driver/guide.",
-  "Arusha to Lake Manyara National Park transfer on a private basis.",
-  "Lake Manyara National Park to Seronera transfer on a private basis.",
-  "Seronera to Ngorongoro Crater transfer on a private basis.",
-  "Ngorongoro Crater to Tarangire National Park transfer on a private basis.",
-  "Return airport transfers on a private basis."
+    "One Night Accommodation in Arusha at Suggested hotels or Similar",
+    "One Night Accommodation in Lake Manyara National Park at Suggested hotels or Similar",
+    "Two Nights Accommodation in Serengeti National Park at Suggested hotels or Similar",
+    "One Night Accommodation in Ngorongoro Crater at Suggested hotels or Similar",
+    "Two Nights Accommodation in Zanzibar at Suggested hotels or Similar",
+    "Daily Breakfast at hotel except on Day 1",
+    "Entrance fees of all sightseeing places to be visited from inside",
+    "All Tips – Guide, Driver & Restaurant",
+    "Return Airport transfers on private basis"
     ],
     "exclusions": [
-     "Return & internal airfare.",
-  "Airport taxes.",
-  "City tax / tourist tax to be paid directly at the hotel.",
-  "Visa.",
-  "Porter fees at hotels and airports.",
-  "Any sightseeing or entry fees other than those specified in the itinerary.",
-  "Personal expenses such as laundry, telephone calls, room service, alcohol, beverages, minibar charges, etc.",
-  "High-season surcharges as applicable.",
-  "Use of vehicle other than the specified itinerary.",
-  "Cost of optional tours.",
-  "Any item not mentioned in the above tour price includes.",
-  "Any upgradation in hotel room category.",
-  "Lunch and dinner not included.",
-  "Travel insurance not included.",
-  "5% GST.",
-  "5% TCS."
+     "Return & Internal Airfare",
+    "Airport Taxes",
+    "City Tax / Tourist Tax will be extra and must be paid directly at the hotel",
+    "Visa",
+    "Porter fees at Hotels & Airports",
+    "Any sightseeing or entry fees other than the specified itinerary",
+    "Personal expenses such as laundry, telephone calls, room service, alcohol, beverages, mini bar charges, etc",
+    "High season surcharges as applicable",
+    "Use of vehicle other than the specified itinerary",
+    "Cost of optional tours",
+    "Any item that is not mentioned in the above tour price includes",
+    "Any upgradation in hotel room category",
+    "Lunch & Dinner not included",
+    "Travel insurance not included",
+    "5% GST",
+    "5% TCS"
     ]
   },
   "pleaseNote": {
     "title": "Please Note",
     "notes": [
-      "100% cancellation on low-cost carriers once the booking is confirmed.",
-  "100% cancellation if hotels or entrances are booked and paid in advance during the confirmation period, and the amount will be non-refundable.",
-  "100% cancellation during peak days or on any trade fare.",
-  "100% cancellation once visa payment is completed.",
-  "For group bookings, please reconfirm the cancellation policy before confirmation.",
-  "Airline and hotel cancellation policies may override the current cancellation policy listed above."
+       "100% cancellation on low cost carrier once booking is confirmed.",
+    "100% cancellation if hotels or entrances are booked and paid in advance during the confirmation period; these will be non-refundable.",
+    "100% cancellation during peak days or any trade fair.",
+    "100% cancellation once visa payment is completed.",
+    "For group bookings, please reconfirm the cancellation policy before confirmation.",
+    "Airline and hotel cancellation policies may override the current cancellation policy listed."
     ]
   },
   "conditions": {
     "title": "Conditions",
     "conditions": [
-      "Above rates are based on today’s ROE. Any fluctuation will vary the cost at the time of confirmation and final payment made.",
-  "For international travel, passengers’ passports must have a minimum validity of 6 (six) months from the date of return and must contain two or more blank pages for visa stamping.",
-  "In case of E-Visa, the physical condition of the passport is the responsibility of the guest.",
-  "Please ensure passports are not damaged. In case of damaged passports, passengers may not be allowed by immigration or the airline.",
-  "Airfare is subject to availability at the time of confirmation with payment.",
-  "Hotel rooms and services are subject to availability at the time of confirmation with payment.",
-  "In case of non-availability of hotel rooms, a similar category hotel will be provided.",
-  "Credit card payments are subject to 3% bank charges. Any fluctuations may vary the total cost.",
-  "No change in itinerary once confirmed will be honored unless otherwise given in writing. This may incur additional charges based on the requirement.",
-  "No verbal commitments will be honored unless otherwise given in writing.",
-  "The offers are valid for the time being only, unless otherwise specified.",
-  "Extension of stay is subject to availability and will be charged on a pro-rata basis at the best available rate of the day.",
-  "Private vehicle mentioned in the quotation is based on the itinerary (point-to-point service).",
-  "For all SIC (Seat-in-Coach) tours, there is always waiting time for pickup and drop. Pickup and drop points may vary from city to city unless a specific hotel is mentioned in the quotation.",
-  "Any city taxes must be paid directly at the hotel unless specified in the quotation.",
-  "Entrances specified in the itinerary will be covered. Any extra services must be taken care of by the guest directly.",
-  "No amendments are possible once land arrangements have been confirmed.",
-  "No refund will be provided for partly unutilized tickets, no-shows, or last-moment cancellations.",
-  "Granting or rejecting visas and immigration clearance is the sole prerogative of the concerned sovereign governments. We only facilitate the process and shall not be responsible for non-granting of such documents. Even if visas are rejected, cancellation charges or fees shall be payable by the client. There will be no refund if the client or any member of the party is unable to travel due to these reasons."
+       "Above rates based on today’s ROE. Any fluctuation will vary the cost at the time of confirmation and final payment made.",
+    "For your international Travel, The Passport of passengers should have the validity of minimum 6 (SIX) months (from the date of return) and two or more blank pages for visa stamp.",
+    "Physical condition of Passport is taken care by guest directly in case of E-Visa. Please ensure the passports are not damaged anywhere. In case of damaged passports the passenger may not be allowed by the immigration or airline.",
+    "Airfare is subject to availability at the time of confirmation with the payment.",
+    "Hotel Rooms & Service are subject to availability at the time of confirmation with the payment.",
+    "In case of Non availability of Hotel Rooms a similar category Hotel will be provided.",
+    "Credit card payments are subject to 3% bank charges. Any fluctuations may vary the cost.",
+    "No Change in Itinerary once confirmed will be honored unless otherwise given in writing. This may incur additional charges based on the requirement.",
+    "No verbal commitments will be honored unless otherwise given in writing.",
+    "The offers are valid till for time being only & unless otherwise specified.",
+    "Extension of stay would be subject to availability and on pro-rata basis and as of best rate of the day.",
+    "Private vehicle mentioned in the quotes is based on the itinerary(Point to Point Service)",
+    "For all SIC tour (Seat in Coach) – there is always waiting time for pick up/drop. Also the pickup/drop points may vary city to city unless specified hotel in the quotes.",
+    "Any City Taxes to be paid directly at hotel unless specified in the quotes.",
+    "Entrances specified in the itinerary will be covered. Any extra services to be taken care by guest directly.",
+    "No amendments possible once land arrangements have been confirmed",
+    "No refund for partly unutilized tickets. No refund for \"NO – SHOWS\" & Last moment cancellations",
+    "Granting or rejecting visas and immigration clearance is the sole prerogative of the concerned sovereign governments and we can only facilitate in the entire process. We shall neither be responsible in case of non-granting of such documents. Even if the visas are rejected, cancellation charges / fees shall be payable by the Client. There will be no refund, if the Clients, or any member of his party, is unable to travel due to the said reasons."
     ]
   }
 },
@@ -2532,7 +2501,7 @@
             "/images/banners/england-and-scotland-irland/stonehenge.webp"
     ],
 
-  "duration": "09 Nights  |  10 Days",
+  "duration": "14 Nights  |  15 Days",
     "pdf": {
   "name": "Download PDF",
   "url": "/pdf/england-scotland-ireland-14-nights-15-days.pdf"
@@ -8992,16 +8961,16 @@
   "metaDescription": "Explore the best of Sri Lanka with Duniya Dekho. Visit Kandy, Nuwara Eliya, Bentota, and Colombo while experiencing stunning landscapes, cultural heritage, and tropical beaches.",
 
   "bannerImages": [
+    "/images/banners/srilanka/colombo.webp",
     "/images/banners/srilanka/kandy.webp",
-    "/images/banners/srilanka/nuwara-eliya.webp",
     "/images/banners/srilanka/yala.webp",
-    "/images/banners/srilanka/colombo.webp"
+    "/images/banners/srilanka/yala-national-park.webp"
   ],
   "bannerLgImages": [
+    "/images/banners/srilanka/colombo.webp",
     "/images/banners/srilanka/kandy.webp",
-    "/images/banners/srilanka/nuwara-eliya.webp",
     "/images/banners/srilanka/yala.webp",
-    "/images/banners/srilanka/colombo.webp"
+    "/images/banners/srilanka/yala-national-park.webp"
   ],
   "duration": "5 Nights / 6 Days",
     "pdf": {

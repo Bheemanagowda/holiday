@@ -16,7 +16,7 @@ function Whatsapp() {
     p-2 bg-[#1FB141] rounded-full text-[32px] cursor-pointer z-50
     hover:scale-105 transition ease-in-out drop-shadow-2xl
 
-    hidden md:flex fixed right-4 bottom-[300px]
+    hidden md:flex fixed right-4 bottom-[200px]
   "
   onClick={handleClick}
 >
