@@ -5,7 +5,7 @@
     "duration": "10 Nights / 11 Days",
     "price": 231987,
     "description": [
-      "Cape Town, Table Mountain, Cape Point, Peninsula Tour, Oudtshoorn, Knysna, Sun City,Pilanesberg Safari, Johannesburg"
+      "Table Mountain, Cape Point, Peninsula Tour, Oudtshoorn, Knysna, Pilanesberg Safari, Johannesburg"
     ],
     "image": "/images/small/south-africa.webp",
     "slug": "/duniya-dekho/south-africa-tour-package"
@@ -65,7 +65,7 @@
   "duration": "9 Nights / 10 Days",
   "price":  230600,
   "description": [
-    "New York City, Statue of Liberty, Times Square, Washington D.C, Philadelphia, Las Vegas, Grand Canyon,Los Angeles, San Francisco, Golden Gate Bridge"],
+    "New York City, Washington D.C, Philadelphia, Las Vegas, Grand Canyon,Los Angeles, San Francisco"],
   "image": "/images/small/usa-east-west.webp",
   "slug": "/duniya-dekho/usa-east-west-tour-package"
 },
@@ -134,7 +134,7 @@
   "duration": "12 Nights / 13 Days",
   "price": 330300,
   "description": [
-    "Melbourne City Tour and Sky Deck, Great Ocean Road, Cairns, Kuranda Scenic Railway and Skyrail, Green Island, Sydney City Tour, Blue Mountain, Adelaide Kangaroo Island"
+    "Melbourne City Tour, Cairns, Green Island, Sydney City Tour, Blue Mountain, Adelaide Kangaroo Island"
  
   ],
   "image": "/images/small/aus.webp",
@@ -159,7 +159,7 @@
   "duration": "11 Nights / 12 Days",
   "price": 215000,
   "description": [
-    "Auckland, Waitomo, Matamata, Rotorua, Rotorua's Geothermal Wonders and Maori Culture, Christchurch, Glacier Region, Arthurs Pass, Queenstown, Milford Sound, Mt Cook / Tekapo "
+    "Auckland, Waitomo, Matamata, Rotorua, Christchurch, Glacier Region, Arthurs Pass, Queenstown, Milford Sound, Tekapo"
   ],
   "image": "/images/banners/newz/queenstown.webp",
   "slug": "/duniya-dekho/new-zealand-explorer-tour-package"
@@ -196,7 +196,7 @@
   "price": 215000,
   
   "description": [
-    "Reykjavik,Whale Watching,Blue Lagoon,Akureyri,Diamond Circle,Borgarnes,Snaefellsnes Peninsula,Lava Cave,Seljalandsfoss,Skógafoss,Black Sand Beach,Vik,Skaftafell National Park,Jökulsárlón Glacier Lagoon,Golden Circle,Keflavik   "
+    "Reykjavik,Whale Watching,Blue Lagoon,Akureyri,Borgarnes,Snaefellsnes Peninsula,Lava Cave,Seljalandsfoss"
   ],
   "image": "/images/small/northern-spain.webp",
   "slug": "/duniya-dekho/northern-lights-tour-package"
@@ -244,7 +244,7 @@
   "duration": "14 Nights / 15 Days",
   "price": 139680,
   "description": [
-    "London, Windsor, Oxford, Stonehenge, Swindon, Cardiff, Stratford-upon-Avon, Manchester, York, Lake District, Windermere, Gretna Green, Glasgow, Edinburgh, Kelpies, Dunkeld, Pitlochry, Loch Tummel, Glenturret Distillery, Glasgow, Belfast, Roscommon / Athlone, Cliffs of Moher, Dublin, Kildare "
+    "London, Windsor, Oxford, Stonehenge, Swindon, Cardiff, Stratford-upon-Avon, Manchester, York  "
    
   ],
   "image": "/images/small/england-scotland-irland.webp",
@@ -256,7 +256,7 @@
   "duration": "10 Nights / 11 Days",
   "price": 148540,
   "description": [
-    "Paris City Tour, Versailles & Disneyland Paris, Geneva, Vevey, Bern, Lucerne, Mount Titlis, Engelberg Excursion, Jungfraujoch, Interlaken, Schaffhausen, Rhine Falls, Vaduz, Innsbruck, Wattens, Salzburg, Hallein, Vienna."
+    "Paris City Tour, Geneva, Vevey, Bern, Lucerne, Mount Titlis, Engelberg Excursion, Jungfraujoch"
     
   ],
   "image": "/images/small/austria-swiss-paris.webp",
@@ -268,7 +268,7 @@
   "duration": "9 Nights / 10 Days",
   "price": 1890000,
   "description": [
-    "Rome City Tour, Colosseum, Trevi Fountain, Vatican City, Mount Titlis, Lucerne City Tour, Lake Lucerne, Paris City Tour, Eiffel Tower, Seine River Cruise"
+    "Rome City Tour, Colosseum, Trevi Fountain, Vatican City, Mount Titlis, Lucerne City Tour"
  
   ],
   "image": "/images/small/italy-swiss-paris.webp",
@@ -279,7 +279,7 @@
   "duration": "12 Nights / 13 Days",
   "price": 313956,
   "description": [
-    "Porto, Douro Valley, Fatima, Sintra, Lisbon, Algarve, Seville, Ronda, Costa del Sol, Mijas, Marbella, Granada, Toledo, Madrid, Valencia, Barcelona, Montserrat"
+    "Porto, Douro Valley, Fatima, Sintra, Lisbon, Algarve, Seville, Ronda"
     
   ],
   "image": "/images/small/spain-portugal.webp",
@@ -409,7 +409,7 @@
   "duration": "10 Nights / 11 Days",
   "price": 150300,
   "description": [
-    "Kuala Lumpur City Tour, Genting Highlands, Singapore, Sentosa Island, Universal Studios Singapore, Thailand, Pattaya's Coral Island and Nong Nooch Village, Bangkok City Tour and Safari World"
+    "Kuala Lumpur City Tour, Singapore, Sentosa Island, Universal Studios Singapore"
    
   ],
   "image": "/images/small/singapore-malaysia-&-tiland.webp",
@@ -421,7 +421,7 @@
   "duration": "04 Nights / 05 Days",
   "price": 71100,
   "description": [
-    "Singapore Night Safari, Singapore City Tour,","and Sentosa Island Universal Studios,","Gardens by the Bay,Singapore Zoo, Chinatown.","Singapore Flyer & River Cruise,"
+    "Singapore Night Safari, Singapore City Tour,and Sentosa Island Universal Studios,Gardens by the Bay"
    
   
   ],
@@ -436,10 +436,7 @@
   "duration": "04 Nights / 05 Days",
   "price": 28917,
   "description": [
-     "Grand Palace, Wat Arun, Floating Market,",
-    " Elephant Sanctuary or River Cruise",
-    "Phi Phi Islands, Patong Beach,",
-    "Coral Island Sanctuary, Phuket FantaSea Show,"
+     "Grand Palace, Wat Arun, Floating Market,Elephant Sanctuary,Phi Phi Islands"
     
   ],
   "image": "/images/small/thailand.webp",
@@ -600,7 +597,7 @@
   "duration": "09 Nights / 10 Days",
   "price": 215000,
   "description": [
-    "City of Light Paris, Lucerne, Switzerland, Mount Titlis and Lake Lucerne, Innsbruck, Austria, Swarovski Crystal World, Innsbruck, Vienna, Schönbrunn Palace"
+    "City of Light Paris, Lucerne, Switzerland, Innsbruck, Austria, Innsbruck, Vienna, Schönbrunn Palace"
   ],
   "image": "/images/small/paris-to-vienna.webp",
   "slug": "/duniya-dekho/paris-to-vienna-tour-package"
@@ -701,7 +698,7 @@
   "description": [
     "Kandy City Tour & Nuwara Eliya, Waterfalls & White Water Rafting, Madu River Boat Safari & Sea, Colombo's Charm"
   ],
-  "image": "/images/banners/srilanka/kandy.webp",
+  "image": "/images/banners/srilanka-higlights/kitulgala.webp",
   "slug": "/duniya-dekho/sri-lanka-highlights-tour-package"
 },
 {
@@ -712,7 +709,7 @@
   "description": [
     "Colombo & transfer, Kandy city tour and Pinnawala Elephant Orphanage, Nuwara Eliya sightseeing, Yala with wildlife safari,"
   ],
-  "image": "/images/small/srilanka.webp",
+  "image":  "/images/banners/srilanka-discover/colombo.webp",
   "slug": "/duniya-dekho/sri-lanka-discovery-tour-package"
 }
 ,
@@ -794,7 +791,7 @@
   "duration": "6 Nights / 7 Days",
   "price": 21600,
   "description": [
-    "Rome, Vatican City, Pisa, Venice, Vicenza, Lake Como, Lucerne / Zurich, Mt. Titlis, Engelberg, Jungfraujoch, Interlaken, Bern, Vevey, Geneva, Paris, Versailles."
+    "Rome, Vatican City, Pisa, Venice, Vicenza, Lake Como, Lucerne / Zurich, Mt."
     
   ],
   "image": "/images/banners/italy-switz-france/lake-como.webp",
@@ -845,7 +842,7 @@
     "Oslo Museums & Views,Bergen & Fjord Cruise,Nutshell,Ålesund,Visit Geirangerfjord,Fly to Tromsø,Arctic."    
     
   ],
-  "image": "/images/banners/brazil/argentine-sides.webp",
+  "image": "/images/banners/narway/aihole-sightseeing.webp",
   "slug": "/duniya-dekho/explore-the-wild-heart-of-norway"
 }
 

@@ -3842,7 +3842,7 @@
   }
 },
 {
-  "name": "East Europe — A Journey Through Beautiful Cities, Culture & History",
+  "name": "Best of Iceland",
   "slug": "iceland-tour-package",
   "metaTitle": "Iceland Tour Package | Reykjavik, Golden Circle & Blue Lagoon with Duniya Dekho",
   "metaDescription": "Discover Iceland with Duniya Dekho. Explore Reykjavik, Golden Circle, Blue Lagoon, glaciers, waterfalls and incredible Nordic landscapes.",
@@ -3866,66 +3866,65 @@
           "/images/banners/iceland/vatnajokull-national-park.webp"
     ],
 
-  "duration": "07 Nights | 08 Days",
+  "duration": "06 Nights | 07 Days",
   "pdf": {
   "name": "Download PDF",
-  "url": "/pdf/japan-7-nights-8-days.pdf"
+  "url": "/pdf/best-of-iceland.pdf"
       },
   "price": 198000,
 
   "description": [
-    "Experience Iceland’s spectacular natural wonders including geysers, waterfalls, volcanic terrain and glaciers.",
-    "Discover Reykjavik’s Nordic charm, relax in the Blue Lagoon and explore the famed Golden Circle route."
+    "Experience the stunning natural beauty of Iceland on this scenic journey covering the country’s most iconic attractions. Explore the breathtaking South Coast waterfalls, the famous Black Sand Beach, and the magical Jokulsarlon Glacier Lagoon. Relax at the world-renowned Blue Lagoon and discover the highlights of the Golden Circle including Thingvellir National Park, Geysir geothermal area, and Gullfoss waterfall. The adventure continues in North Iceland with whale watching and the spectacular Diamond Circle featuring Godafoss, Dettifoss, and Lake Myvatn."
   ],
 
   "additionalInfo": [
     {
       "name": "Geography and Climate",
-      "description": "Iceland features dramatic volcanic landscapes, geothermal fields, glaciers, and waterfalls with cool Nordic climate."
+      "description": "Iceland is an island country located in the North Atlantic Ocean near the Arctic Circle. It is known as the “Land of Fire and Ice” because it has both active volcanoes and large glaciers. The landscape includes mountains, lava fields, waterfalls, geysers, black sand beaches, and glaciers. Much of the population lives along the coastal areas.Iceland has a subarctic oceanic climate with cool summers and cold winters. Summer temperatures usually range between 10°C to 15°C, while winter temperatures are around -1°C to 4°C. The country experiences long daylight hours in summer and very short days in winter. Weather can change quickly with frequent wind and rain."
     }
   ],
 
   "itinerary": [
     {
       "day": "Day 01 :",
-      "title": "Arrival in Reykjavik",
-      "description": "Arrive in Reykjavik—capital of Iceland. Free time to stroll the harbour and Old Town.",
-      "additionalInfo": ["Overnight stay in Reykjavik hotel"]
+      "title": "Arrival in Reykjavik – South Coast – Vik ",
+      "description": "Arrive in Reykjavik and begin your journey along Iceland’s spectacular South Coast. Visit the beautiful Seljalandsfoss Waterfall, where you can walk behind the cascading water, followed by the powerful Skogafoss Waterfall. Continue to the famous Black Sand Beach at Reynisfjara, known for its dramatic basalt columns and crashing Atlantic waves. ",
+      "additionalInfo": ["After enjoying these natural wonders, proceed to the charming coastal village of Vik for an overnight stay."]
     },
     {
       "day": "Day 02 :",
-      "title": "Reykjavik City Tour",
-      "description": "Visit Hallgrímskirkja, Sun Voyager sculpture and Harpa Concert Hall.",
-      "additionalInfo": ["Overnight stay in Reykjavik hotel"]
+      "title": "Vik – Skaftafell National Park – Jokulsarlon Glacier Lagoon – Vik",
+      "description": "After breakfast, travel towards the stunning Skaftafell National Park, part of Vatnajökull National Park, known for its glaciers, scenic trails, and breathtaking landscapes. Continue to the magical Jokulsarlon Glacier Lagoon, where enormous icebergs float peacefully in the glacial waters. Nearby, visit the famous Diamond Beach, where sparkling ice fragments rest on the black volcanic sand. Later, ",
+      "additionalInfo": ["return to Vik for an overnight stay."]
     },
     {
       "day": "Day 03 :",
-      "title": "Golden Circle",
-      "description": "Explore Thingvellir National Park, Geysir Geothermal Field and Gullfoss Waterfall.",
-      "additionalInfo": ["Overnight stay in Reykjavik hotel"]
+      "title": "Vik – Blue Lagoon – Reykjavik (2 Nights)",
+      "description": "Depart from Vik and drive back towards Reykjavik. On the way, visit the world-renowned Blue Lagoon, a geothermal spa famous for its warm mineral-rich waters surrounded by lava fields. ",
+      "additionalInfo": ["Relax and enjoy the rejuvenating experience before continuing to the vibrant capital city Reykjavik for an overnight stay."]
     },
     {
       "day": "Day 04 :",
-      "title": "South Coast & Waterfalls",
-      "description": "Visit Seljalandsfoss & Skógafoss waterfalls and black sand beaches.",
-      "additionalInfo": ["Overnight stay in Reykjavik hotel"]
+      "title": "Reykjavik – Golden Circle Tour – Reykjavik",
+      "description": "Today experience Iceland’s most famous sightseeing route, the Golden Circle. Visit Thingvellir National Park, a UNESCO World Heritage Site where the Eurasian and North American tectonic plates meet. Continue to the Geysir Geothermal Area, home to bubbling hot springs and the erupting Strokkur geyser. End the tour at the magnificent Gullfoss Waterfall, one of Iceland’s most iconic natural attractions.",
+      "additionalInfo": [" Return to Reykjavik for the night."]
     },
     {
       "day": "Day 05 :",
-      "title": "Glacier & Ice Experience",
-      "description": "Optional glacier walk or snowmobiling excursion (weather dependent).",
-      "additionalInfo": ["Overnight stay in Reykjavik hotel"]
+      "title": "Reykjavik – Whale Watching – Akureyri (2 Nights)",
+      "description": "Begin the day with an exciting Whale Watching tour, where you may spot humpback whales, minke whales, and other marine life in the North Atlantic waters.",
+      "additionalInfo": [" Later travel north through Iceland’s scenic countryside towards Akureyri, often called the “Capital of North Iceland,” known for its picturesque harbor and charming town atmosphere."]
     },
     {
       "day": "Day 06 :",
-      "title": "Blue Lagoon Experience",
-      "description": "Relax in the iconic Blue Lagoon thermal spa surrounded by lava fields.",
-      "additionalInfo": ["Overnight stay in Reykjavik hotel"]
+      "title": "Akureyri – Diamond Circle – Akureyri",
+      "description": "Explore the highlights of the Diamond Circle, a spectacular sightseeing route in North Iceland. Visit the impressive Godafoss Waterfall, also known as the “Waterfall of the Gods.” Continue to the powerful Dettifoss Waterfall, Europe’s most powerful waterfall. Discover the unique landscapes of Lake Myvatn, famous for its volcanic craters, geothermal areas, and rich birdlife.",
+      "additionalInfo": [" Later return to Akureyri for the night."]
     },
     {
       "day": "Day 07 :",
-      "title": "Departure",
-      "description": "Transfer to airport for onward journey. Tour ends.",
+      "title": "Akureyri – Reykjavik – Departure",
+      "description": "After breakfast, travel back to Reykjavik enjoying the scenic Icelandic landscapes along the way. Upon arrival, proceed to the airport for your onward journey, carrying unforgettable memories of Iceland’s glaciers, waterfalls, volcanoes, and breathtaking natural beauty.",
       "additionalInfo": []
     }
   ],
@@ -3933,47 +3932,77 @@
   "hotel": {
     "name": "Hotel details",
     "amenities": [
-      "Good 4* Hotel in Reykjavik"
+      "3* or 4* Best hotel"
+    ]
+  },
+   "flight": {
+    "name": "Flight details",
+    "amenities": [
+      "Flight not included"
     ]
   },
 
   "inclusionAndExclusion": {
     "inclusions": [
-      "Six Night’s Accommodation in Reykjavik",
-      "Daily breakfast except day 1",
-      "Reykjavik City Tour",
-      "Golden Circle Excursion",
-      "Blue Lagoon Visit",
-      "South Coast Waterfall Tour",
-      "All airport transfers as per itinerary"
+     "Two Night’s Accommodation in Vik at suggested hotels or similar.",
+  "Two Night’s Accommodation in Reykjavik at suggested hotels or similar.",
+  "Two Night Accommodation in Akureyri at suggested hotels or similar.",
+  "Daily breakfast except day 01.",
+  "All Meals (set menu) as per mentioned in the itinerary.",
+  "Entrance fees of all sightseeing places to be visited from inside.",
+  "Travel by AC comfortable coach as per the itinerary.",
+  "Return Airport transfers on Seat in Coach basis."
     ],
     "exclusions": [
-      "International Airfare",
-      "Schengen Visa Fees",
-      "Travel Insurance",
-      "Meals not mentioned",
-      "Personal expenses (tips, drinks, laundry, etc.)",
-      "Optional glacier excursions",
-      "Early check-in & late check-out"
+      "Return & Internal Airfare",
+  "Airport Taxes",
+  "Visa",
+  "Any Entry Fees other than the specified itinerary",
+  "Tips to Driver and Guide - personal expense",
+  "High Season Surcharges as applicable",
+  "Use of vehicle other than the specified itinerary",
+  "Any item that is not mentioned in the above Tour Price includes",
+  "No Intercity surface transfers are included unless specified in the package.",
+  "Expenses of personal nature. Example – Tipping, laundry & Telephone calls, Beverages etc",
+  "Travel Insurance not included",
+  "5% GST",
+  "5% TCS"
     ]
   },
 
   "pleaseNote": {
     "title": "Please Note",
     "notes": [
-      "Weather may affect sightseeing sequence.",
-      "Some excursions depend on snow & glacier conditions.",
-      "Peak travel months may attract surcharges."
+      "100% Cancellation on low cost carrier once booking confirmed.",
+"100% Cancellation if hotels/entrances booked and paid in advanced during confirmation period and will be non refundable.",
+"100% Cancellation during peak days or any trade fare",
+"100% Cancellation once visa payment is done",
+"For Group booking, please reconfirm the cancellation policy before confirmation.",
+"Airline & hotel Cancellation policy will at time override the current cancellation policy listed"
     ]
   },
 
   "conditions": {
     "title": "Conditions",
     "conditions": [
-      "Airfare subject to availability at time of booking.",
-      "Hotels subject to availability; similar category may be provided.",
-      "No refund for unused services.",
-      "Credit card payments may attract 3% surcharge."
+      "Above rates based on today’s ROE. Any fluctuation will vary the cost at the time of confirmation and final payment made.",
+"For your international Travel, The Passport of passengers should have the validity of minimum 6 (SIX) months (from the date of return) and two or more blank pages for visa stamp.",
+"Physical condition of Passport is taken care by guest directly in case of E-Visa. Please ensure the passports are not damaged anywhere. In case of damaged passports, the passenger may not be allowed by the immigration or airline.",
+"Airfare is subject to availability at the time of confirmation with the payment.",
+"Hotel Rooms & Service are subject to availability at the time of confirmation with the payment.",
+"In case of Non availability of Hotel Rooms a similar category Hotel will be provided.",
+"Credit card payments are subject to 3% bank charges. Any fluctuations may vary the cost.",
+"No Change in Itinerary once confirmed will be honored unless otherwise given in writing. This may incur additional charges based on the requirement.",
+"No verbal commitments will be honored unless otherwise given in writing.",
+"The offers are valid till for time being only & unless otherwise specified.",
+"Extension of stay would be subject to availability and on pro-rata basis and as of best rate of the day.",
+"Private vehicle mentioned in the quotes is based on the itinerary (Point to Point Service).",
+"For all SIC tour (Seat in Coach) – there is always waiting time for pick up/drop. Also the pickup/drop points may vary city to city unless specified hotel in the quotes.",
+"Any City Taxes to be paid directly at hotel unless specified in the quotes.",
+"Entrances specified in the itinerary will be covered. Any extra services to be taken care by guest directly.",
+"No amendments possible once land arrangements have been confirmed.",
+"No refund for partly unutilized tickets. No refund for \"NO – SHOWS\" & Last moment cancellations.",
+"Granting or rejecting visas and immigration clearance is the sole prerogative of the concerned sovereign governments and we can only facilitate in the entire process. We shall neither be responsible in case of non-granting of such documents. Even if the visas are rejected, cancellation charges / fees shall be payable by the Client. There will be no refund, if the Clients, or any member of his party, is unable to travel due to the said reasons."
     ]
   }
 },
@@ -8801,16 +8830,18 @@
   "metaDescription": "Explore Sri Lanka’s cultural, natural, and wildlife wonders. Visit Kandy, Nuwara Eliya, Yala National Park, and Colombo with unforgettable experiences and warm Sri Lankan hospitality.",
 
   "bannerImages": [
-    "/images/banners/srilanka/kandy.webp",
-    "/images/banners/srilanka/nuwara-eliya.webp",
-    "/images/banners/srilanka/yala.webp",
-    "/images/banners/srilanka/colombo.webp"
+    "/images/banners/srilanka-discover/colombo.webp",
+    "/images/banners/srilanka-discover/kandy.webp",
+    "/images/banners/srilanka-discover/yala.webp",
+    "/images/banners/srilanka-discover/pinnawala-elephant-orphanage.webp",
+    "/images/banners/srilanka-discover/yala-with-wildlife-safari.webp"
   ],
   "bannerLgImages": [
-    "/images/banners/srilanka/kandy.webp",
-    "/images/banners/srilanka/nuwara-eliya.webp",
-    "/images/banners/srilanka/yala.webp",
-    "/images/banners/srilanka/colombo.webp"
+    "/images/banners/srilanka-discover/colombo.webp",
+    "/images/banners/srilanka-discover/kandy.webp",
+    "/images/banners/srilanka-discover/yala.webp",
+    "/images/banners/srilanka-discover/pinnawala-elephant-orphanage.webp",
+    "/images/banners/srilanka-discover/yala-with-wildlife-safari.webp"
   ],
 
   "duration": "4 Nights / 5 Days",
@@ -8961,16 +8992,18 @@
   "metaDescription": "Explore the best of Sri Lanka with Duniya Dekho. Visit Kandy, Nuwara Eliya, Bentota, and Colombo while experiencing stunning landscapes, cultural heritage, and tropical beaches.",
 
   "bannerImages": [
-    "/images/banners/srilanka/colombo.webp",
-    "/images/banners/srilanka/kandy.webp",
-    "/images/banners/srilanka/yala.webp",
-    "/images/banners/srilanka/yala-national-park.webp"
+    "/images/banners/srilanka-higlights/colombo-city.webp",
+    "/images/banners/srilanka-higlights/kitulgala.webp",
+    "/images/banners/srilanka-higlights/nuwara-eliya.webp",
+    "/images/banners/srilanka-higlights/peridenya-gardens-kandy-sri-lanka1.webp",
+    "/images/banners/srilanka-higlights/tea-plantation.webp"
   ],
   "bannerLgImages": [
-    "/images/banners/srilanka/colombo.webp",
-    "/images/banners/srilanka/kandy.webp",
-    "/images/banners/srilanka/yala.webp",
-    "/images/banners/srilanka/yala-national-park.webp"
+    "/images/banners/srilanka-higlights/colombo-city.webp",
+    "/images/banners/srilanka-higlights/kitulgala.webp",
+    "/images/banners/srilanka-higlights/nuwara-eliya.webp",
+    "/images/banners/srilanka-higlights/tea-plantation.webp",
+    "/images/banners/srilanka-higlights/peridenya-gardens-kandy-sri-lanka1.webp"
   ],
   "duration": "5 Nights / 6 Days",
     "pdf": {
@@ -11870,20 +11903,20 @@
 
 
  "bannerImages": [
-      "/images/banners/brazil/argentine-sides.webp",
-    "/images/banners/brazil/iguassu-falls.webp",
-    "/images/banners/brazil/leisure.webp",
-    "/images/banners/brazil/rio-de-janeiro.webp",
-    "/images/banners/brazil/sugarloaf-mountain.webp"
+      "/images/banners/narway/aihole-sightseeing.webp",
+    "/images/banners/narway/badami-and-aihole-sightseeing.webp",
+    "/images/banners/narway/badami-sightseeing.webp",
+    "/images/banners/narway/hampi-sightseeing.webp",
+    "/images/banners/narway/pattadakal.webp"
   
    
     ],
     "bannerLgImages": [
-     "/images/banners/brazil/argentine-sides.webp",
-    "/images/banners/brazil/iguassu-falls.webp",
-    "/images/banners/brazil/leisure.webp",
-    "/images/banners/brazil/rio-de-janeiro.webp",
-    "/images/banners/brazil/sugarloaf-mountain.webp"
+     "/images/banners/narway/aihole-sightseeing.webp",
+    "/images/banners/narway/badami-and-aihole-sightseeing.webp",
+    "/images/banners/narway/badami-sightseeing.webp",
+    "/images/banners/narway/hampi-sightseeing.webp",
+    "/images/banners/narway/pattadakal.webp"
     ],
   "duration": "07 Nights / 08 Days",
     "pdf": {
