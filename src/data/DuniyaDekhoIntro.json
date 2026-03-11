@@ -5,7 +5,7 @@
     "duration": "10 Nights / 11 Days",
     "price": 231987,
     "description": [
-      "Table Mountain, Cape Point, Peninsula Tour, Oudtshoorn, Knysna, Pilanesberg Safari, Johannesburg"
+      "Table Mountain, Cape Point, Peninsula Tour, Oudtshoorn, Knysna"
     ],
     "image": "/images/small/south-africa.webp",
     "slug": "/duniya-dekho/south-africa-tour-package"
@@ -100,7 +100,7 @@
   "duration": "12 Nights / 13 Days",
   "price": 603000,
   "description": [
-    "Rio de Janeiro, Christ the Redeemer, Sugarloaf Mountain,Buenos Aires City Tour, Tango Show,Iguazu Falls "
+    "Rio de Janeiro, Sugarloaf Mountain,Buenos Aires City Tour, Tango Show,Iguazu Falls "
   ],
   "image": "/images/small/south-america.webp",
   "slug": "/duniya-dekho/south-america-tour-package"
@@ -111,7 +111,7 @@
   "duration": "09 Nights / 07 Days",
   "price":410400,
   "description": [
-    " Vancouver, Revelstoke, Canmore Banff National Park,Columbia Icefield,Jasper National Park, Kamloops"
+    " Vancouver, Revelstoke,Columbia Icefield,Jasper National Park, Kamloops"
   ],
   "image": "/images/small/banff-national-park-alberta.webp",
   "slug": "/duniya-dekho/canada-tour-package"
@@ -122,7 +122,7 @@
   "duration": "07 Nights / 08 Days",
   "price": 330300,
   "description": [
-    "Melbourne, Yarra River Cruise, Skydeck,Grampians National Park Stawell and Ballarat, Great Ocean Road"
+    "Melbourne, Yarra River Cruise, Skydeck,Grampians National Park Stawell and Ballarat"
    
   ],
   "image": "/images/banners/aus/great-ocean-road-victoria.webp",
@@ -147,7 +147,7 @@
   "duration": "06 Nights / 07 Days",
   "price": 305100,
   "description": [
-    "Auckland,Hobbiton Movie Set,Rotorua's Geothermal Wonders & Maori Culture,Queenstown,Milford Sound Tour,Christchurch, Mt Cook"
+    "Auckland,Queenstown,Milford Sound Tour,Christchurch,Mt Cook"
   ],
   "image": "/images/small/newz.webp",
   "slug": "/duniya-dekho/new-zealand-tour-package"
@@ -159,7 +159,7 @@
   "duration": "11 Nights / 12 Days",
   "price": 215000,
   "description": [
-    "Auckland, Waitomo, Matamata, Rotorua, Christchurch, Glacier Region, Arthurs Pass, Queenstown, Milford Sound, Tekapo"
+    "Auckland, Waitomo, Matamata, Rotorua, Christchurch, Glacier Region"
   ],
   "image": "/images/banners/newz/queenstown.webp",
   "slug": "/duniya-dekho/new-zealand-explorer-tour-package"
@@ -170,7 +170,7 @@
   "duration": "12 Nights / 13 Days",
   "price": 290700,
   "description": [
-    "Amsterdam, Dutch Countryside Tour, Paris City Tour, Lucerne, Mount Titlis, Lake Lucerne, Switzerland, Leisure, Venice, Florence, Rome, Colosseum, Roman Forum Walking Tour,"
+    "Amsterdam, Dutch Countryside Tour, Paris City Tour, Lucerne, Mount Titlis, Lake Lucerne"
    
   ],
   "image": "/images/small/best-of-europe.webp",
@@ -196,7 +196,7 @@
   "price": 215000,
   
   "description": [
-    "Reykjavik,Whale Watching,Blue Lagoon,Akureyri,Borgarnes,Snaefellsnes Peninsula,Lava Cave,Seljalandsfoss"
+    "Reykjavik, Blue Lagoon, Akureyri, Borgarnes, Snaefellsnes Peninsula, Lava Cave"
   ],
   "image": "/images/small/northern-spain.webp",
   "slug": "/duniya-dekho/northern-lights-tour-package"
@@ -315,7 +315,7 @@
   "duration": "06 Nights / 07 Days",
   "price": 148540,
   "description": [
-    "Reykjavik City Tour, Hallgrímskirkja, Harpa Concert Hall, Thingvellir, Geysir, Gullfoss Waterfall, and Aurora Borealis."
+    "Reykjavik City Tour, Hallgrímskirkja, Harpa Concert Hall, Thingvellir, Geysir"
   ],
   "image": "/images/small/iceland.webp",
   "slug": "/duniya-dekho/iceland-tour-package"
@@ -326,7 +326,7 @@
   "duration": "07 Nights / 08 Days",
   "price": 148540,
   "description": [
-    "Budapest, Zagreb, Ljubljana, Bled, Vienna, Bratislava, Brno, Prague."
+    "Budapest, Zagreb, Ljubljana, Bled, Vienna, Bratislava, Brno, Prague"
     
   ],
   "image": "/images/small/east-europe.webp",
@@ -350,7 +350,7 @@
   "duration": "07 Nights / 08 Days",
   "price": 290000,
   "description": [
-    "Tokyo's, Hakone's, Mt. Fuji's Majestic Views, Hiroshima, Miyajima Island, Himeji Castle, Kyoto's, Fond Farewells"
+    "Tokyo's, Hakone's, Hiroshima, Miyajima Island, Himeji Castle, Kyoto's, Fond Farewells"
    
   ],
   "image": "/images/small/japan.webp",
@@ -385,7 +385,7 @@
   "duration": "4 Nights / 5 Days",
   "price": 81900,
   "description": [
-    "Dubai & Dhow Cruise, Dubai City Tour & Desert Safari, Leisure & Burj Khalifa Visit, Miracle Garden & Global Village Visit"
+    "Dubai & Dhow Cruise, Dubai City Tour & Desert Safari, Leisure & Burj Khalifa"
   ],
   "image": "/images/small/dubai-marina.webp",
   "slug": "/duniya-dekho/dubai-tour-package"
@@ -421,7 +421,7 @@
   "duration": "04 Nights / 05 Days",
   "price": 71100,
   "description": [
-    "Singapore Night Safari, Singapore City Tour,and Sentosa Island Universal Studios,Gardens by the Bay"
+    "Singapore Night Safari, Singapore City Tour, ","Sentosa, Gardens by the Bay"
    
   
   ],
@@ -436,7 +436,7 @@
   "duration": "04 Nights / 05 Days",
   "price": 28917,
   "description": [
-     "Grand Palace, Wat Arun, Floating Market,Elephant Sanctuary,Phi Phi Islands"
+     "Grand Palace, Wat Arun, Floating Market",",Elephant Sanctuary,Phi Phi Islands"
     
   ],
   "image": "/images/small/thailand.webp",
@@ -475,7 +475,7 @@
   "duration": "05 Nights / 06 Days",
   "price": 85400,
   "description": [
-    "Victoria Peak, Madame Tussauds, Ocean Park or Disneyland Senado Square, A-Ma Temple, Macau Tower, Venetian & Casino"
+    "Victoria Peak, Madame Tussauds, Ocean Park, A-Ma Temple, Macau Tower, Venetian & Casino"
   ],
   "image": "/images/small/hong-kong-and-macau.webp",
   "slug": "/duniya-dekho/hong-kong-macau-tour-package"
@@ -486,7 +486,7 @@
   "duration": "05 Nights / 06 Days",
   "price": 36146,
   "description": [
-    "Sunset Serenity,East Nusa Penida Island,Uluwatu Temple,Natural Wonders of Bedugul, Kintamani, Ubud's Natural Beauty"
+    "Sunset Serenity,East Nusa Penida Island,Uluwatu Temple, Bedugul, Kintamani, Ubud's"
  
   ],
   "image": "/images/small/bali.webp",
@@ -498,7 +498,7 @@
   "duration": "08 Nights / 08 Days",
   "price": 91310,
   "description": [
-    "Taipei City Tour, Sun Moon Lake, Kaohsiung, ","Kenting National Park, Taitung,East Coast, ","Whisky and Culture"
+    "Taipei City Tour, Sun Moon Lake, Kaohsiung, ","Kenting National Park, Taitung,","Whisky and Culture"
     
   ],
   "image": "/images/small/taiwan.webp",
@@ -536,7 +536,7 @@
   "duration": "7 Nights / 8 Days",
   "price": 120743,
   "description": [
-    "Beijing,Great Wall of China & Jade Factory,Beijing City Tour,Xi'an & Big Wild Goose Pagoda,Terra Cotta Warriors,Xi'an City,Shanghai City Tour"
+    "Great Wall of China,Beijing City Tour,Xi'an ,Terra Cotta Warriors,Xi'an City,Shanghai City Tour"
    
   ],
   "image": "/images/small/china.webp",
@@ -582,7 +582,7 @@
   "duration": "05 Nights / 06 Days",
   "price": 72980,
   "description": [
-    "Mahe,Praslin,La Digue Island Boat & Bike Tour,Visit Valle de Mai & Anse LazioLMahe, Mahe Island Tour "
+    "Mahe,Praslin,La Digue Island Boat,Valle de Mai & Anse LazioLMahe, Mahe Island Tour "
    
   ],
   "image": "/images/small/seychelles.webp",
@@ -623,7 +623,7 @@
   "duration": "6 Nights / 7 Days",
   "price": 215000,
   "description": [
-    "Cairo, Pyramids, Museum, Bazaar, Aswan, Nile Cruise Embarkation, Kom Ombo and Edfu Temples, Luxor's East Bank Wonders, Luxor's West Bank "
+    "Cairo, Pyramids, Museum, Bazaar, Aswan, Nile Cruise Embarkation, Kom Ombo and Edfu Temples "
   ],
   "image": "images/banners/sands-time/cairo.webp",
   "slug": "/duniya-dekho/sands-of-time-tour-package"
@@ -685,7 +685,7 @@
   "duration": "7 Nights / 8 Days",
   "price": 215000,
   "description": [
-    "Arusha, Lake Manyara National Park, Seronera, Serengeti National Park, Ngorongoro Crater, Tarangire National Park, Kilimanjaro"
+    "Arusha, Seronera, Serengeti National Park, Ngorongoro Crater,Kilimanjaro"
   ],
   "image": "/images/banners/safari-dreams-tanzania/arusha.webp",
   "slug": "/duniya-dekho/safari-dreams-tour-package"
@@ -696,7 +696,7 @@
   "duration": "5 Nights / 6 Days",
   "price": 215000,
   "description": [
-    "Kandy City Tour & Nuwara Eliya, Waterfalls & White Water Rafting, Madu River Boat Safari & Sea, Colombo's Charm"
+    "Kandy City Tour, Madu River Boat Safari & Sea, Colombo's Charm"
   ],
   "image": "/images/banners/srilanka-higlights/kitulgala.webp",
   "slug": "/duniya-dekho/sri-lanka-highlights-tour-package"
@@ -707,7 +707,7 @@
   "duration": "04 Nights / 5 Days",
   "price": 215000,
   "description": [
-    "Colombo & transfer, Kandy city tour and Pinnawala Elephant Orphanage, Nuwara Eliya sightseeing, Yala with wildlife safari,"
+    "Colombo, Kandy city tour, Nuwara Eliya sightseeing, Yala with wildlife safari,"
   ],
   "image":  "/images/banners/srilanka-discover/colombo.webp",
   "slug": "/duniya-dekho/sri-lanka-discovery-tour-package"
@@ -719,7 +719,7 @@
   "duration": "05 Nights / 06 Days",
   "price": 41990,
   "description": [
-    "Buddha Dordenma & Memorial Chorten,Dochu La Pass & Punakha Dzong,Taktsang Monastery Trek,National Museum of Bhutan,Scenic Valleys"
+    "Buddha Dordenma & Memorial Chorten,Dochu La Pass & Punakha Dzong,Taktsang Monastery Trek"
   
   ],
   "image": "/images/small/bhutan.webp",
@@ -815,7 +815,7 @@
   "duration": "06 Nights / 07 Days",
   "price": 21600,
   "description": [
-    " Zurich ,Lucerne,Mount Pilatus,Mount Rigi, Lucerne,Jungfraujoch,Europe, Interlaken ,Zermatt,Geneva"    
+    " Zurich ,Lucerne,Mount Pilatus,Mount Rigi, Lucerne,Jungfraujoch,Europe ,Zermatt,Geneva"    
     
   ],
   "image": "/images/banners/switzerland/interlaken.webp",
@@ -827,7 +827,7 @@
   "duration": "07 Nights / 08 Days",
   "price": 21600,
   "description": [
-    " Rio de Janeiro,– Christ the Redeemer & Sugarloaf Mountain,Culture & Leisure,Iguassu Falls ,Brazilian & Argentine Sides,Manaus,Amazon "    
+    " Rio de Janeiro,Culture & Leisure,Brazilian & Argentine Sides,Iguassu Falls,Manaus,Amazon Experience"    
     
   ],
   "image": "/images/banners/brazil/argentine-sides.webp",
@@ -839,7 +839,7 @@
   "duration": "9 Nights / 10 Days",
   "price": 21600,
   "description": [
-    "Oslo Museums & Views,Bergen & Fjord Cruise,Nutshell,Ålesund,Visit Geirangerfjord,Fly to Tromsø,Arctic."    
+    "Oslo Museums, Bergen & Fjord Cruise,Nutshell, Ålesund,Geirangerfjord, Tromsø, Arctic"    
     
   ],
   "image": "/images/banners/narway/aihole-sightseeing.webp",
