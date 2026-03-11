@@ -193,9 +193,9 @@
   }
 },
 {
-  "name": "Egyptian Getaway",
+  "name": "Royal Egypt ",
   "slug": "egypt-tour-package",
-  "metaTitle": "Egyptian Getaway Tour Package | Cairo, Luxor & Nile Cruise with Duniya Dekho",
+  "metaTitle": "Royal Egypt Tour Package | Cairo, Luxor & Nile Cruise with Duniya Dekho",
   "metaDescription": "Explore Egypt with Duniya Dekho. Visit Cairo, Giza Pyramids, Luxor, Valley of the Kings, and enjoy a luxurious Nile Cruise.",
   "bannerImages": [
     "/images/banners/egypt/abu-simbel.webp",
@@ -217,10 +217,10 @@
     "/images/banners/egypt/hurghada.webp",
     "/images/banners/egypt/sharm-el-sheikh.webp"
   ],
-  "duration": "3 Nights / 4 Days",
+  "duration": "8 Nights / 9 Days",
   "pdf": {
     "name": "Download PDF",
-    "url": "/pdf/egyptian-getaway-cairo-3-nights-4-days.pdf"
+    "url": "/pdf/royal-egypt-8-nights-9-days.pdf"
   },
   "price": 198500,
   "description": [
@@ -235,27 +235,57 @@
   "itinerary": [
     {
       "day": "Day 01 :",
-      "title": "Arrival in Cairo",
-      "description": "Arrive at Cairo International Airport, where you'll be greeted by our representative and transferred to your hotel in a private vehicle. Spend the rest of the day relaxing and acclimating to your surroundings.",
-      "additionalInfo": ["Overnight in Cairo"]
+      "title": "Arrival in Cairo – Transfer to Alexandria (1 Night)",
+      "description": "Upon arrival at Cairo International Airport, you will be warmly welcomed and assisted by our representative for immigration and baggage formalities. After meeting the driver, proceed by comfortable private vehicle to Alexandria, the historic Mediterranean city founded by Alexander the Great.Upon arrival, check in to your hotel and relax after your journey. Depending on your arrival time, you may take a short evening walk along the Corniche to enjoy the refreshing sea breeze and beautiful coastal views. ",
+      "additionalInfo": ["Overnight stay in Alexandria."]
     },
     {
       "day": "Day 02 :",
-      "title": "Pyramids, Museum, and Bazaar",
-      "description": "Embark on a fascinating exploration of Cairo's iconic landmarks. Visit the majestic Great Pyramids of Giza, one of the Seven Wonders of the Ancient World, and marvel at their sheer scale and history. Next, discover the treasures of the Egyptian Museum, home to the world's largest collection of ancient Egyptian artifacts, including the golden treasures of Tutankhamun. End the day with a vibrant visit to Khan El Khalili Bazaar, one of the oldest markets in the Middle East. ",
-      "additionalInfo": ["Return to your hotel for a relaxing overnight stay in Cairo"]
+      "title": "Overnight stay in Alexandria.",
+      "description": "After breakfast at the hotel, check out and proceed for a guided tour of Alexandria. Visit the famous Catacombs of Kom El Shoqafa, an ancient underground necropolis reflecting a blend of Egyptian, Greek, and Roman cultures. Continue to the Pompey’s Pillar and then visit the modern Bibliotheca Alexandrina, a magnificent library built in commemoration of the ancient Library of Alexandria.Enjoy a photo stop at the Citadel of Qaitbay, built on the site of the ancient Lighthouse of Alexandria (one of the Seven Wonders of the Ancient World).After completing the sightseeing tour, drive back to Cairo. Upon arrival, check in to your hotel and relax.",
+      "additionalInfo": [" Overnight stay in Cairo."]
     },
     {
       "day": "Day 03 :",
-      "title": "Leisure Day in Cairo",
-      "description": "Enjoy a relaxing day at leisure in Cairo, free to explore the city's many wonders on your own. Take a stroll along the Nile River, visit the Citadel of Cairo, or explore the city's many mosques and churches. Alternatively, indulge in some retail therapy at one of Cairo's modern shopping malls or traditional markets.",
-      "additionalInfo": [" Overnight in Cairo"]
+      "title": "Cairo Full-Day Sightseeing",
+      "description": "After breakfast, proceed for a full-day guided tour of Cairo. Visit the world-famous Pyramids of Giza, one of the Seven Wonders of the Ancient World, including the Great Pyramid of Khufu, the Pyramid of Khafre, and the Pyramid of Menkaure. Enjoy a panoramic photo stop and visit the iconic Great Sphinx.Continue your tour with a visit to the Egyptian Museum, home to thousands of ancient artifacts including the treasures of Tutankhamun.Later, explore the vibrant Khan El Khalili Bazaar, where you can shop for souvenirs, perfumes, spices, and traditional handicrafts. Return to the hotel in the evening.",
+      "additionalInfo": ["  Overnight stay in Cairo."]
     },
     {
       "day": "Day 04 :",
-      "title": " Departure from Cairo",
-      "description": "Bid farewell to Cairo and transfer to Cairo International Airport for your departure flight, bringing back memories of your incredible Egyptian adventure.",
-      "additionalInfo": [""]
+      "title": " Cairo – Aswan – Nile Cruise (3 Nights)",
+      "description": "After breakfast, transfer to Cairo Airport for your domestic flight to Aswan. Upon arrival, meet your local representative and transfer to the Nile Cruise for embarkation.After lunch on board, proceed for sightseeing in Aswan, including the High Dam, the Unfinished Obelisk, and a scenic boat ride to visit the beautiful Philae Temple dedicated to Goddess Isis.Return to the cruise and enjoy dinner on board. ",
+      "additionalInfo": ["Overnight stay on the Nile Cruise in Aswan."]
+    },
+     {
+      "day": "Day 05 :",
+      "title": " Cairo – Aswan – Nile Cruise (3 Nights)",
+      "description": "Early morning, you may opt for an excursion to the magnificent Abu Simbel Temples, known for their colossal statues of Ramses II. Return to the cruise for breakfast.Later, sail towards Kom Ombo and visit the unique Kom Ombo Temple, dedicated to the gods Sobek and Horus. Continue sailing to Edfu while enjoying the scenic views of rural Egypt along the Nile. Meals will be served on board. ",
+      "additionalInfo": ["Overnight stay on the Nile Cruise in Edfu."]
+    },
+     {
+      "day": "Day 06 :",
+      "title": " Cairo – Aswan – Nile Cruise (3 Nights)",
+      "description": "After breakfast, visit the Temple of Horus at Edfu, one of the best-preserved temples in Egypt. Return to the cruise and continue sailing towards Esna. Experience the crossing of the Esna Lock, an interesting highlight of the cruise journey.Proceed to Luxor while enjoying lunch and afternoon tea on board. Upon arrival in Luxor, enjoy dinner and evening entertainment on the cruise. ",
+      "additionalInfo": ["Overnight stay on the Nile Cruise in Luxor."]
+    },
+        {
+      "day": "Day 07 :",
+      "title": " Luxor – Disembark – Transfer to Hurghada (2 Nights)",
+      "description": "After breakfast, disembark from the cruise and proceed for Luxor sightseeing. Visit the Valley of the Kings, where the tombs of ancient Pharaohs were discovered. Continue to the Temple of Queen Hatshepsut and stop for photos at the Colossi of Memnon.Visit the impressive Karnak Temple Complex, one of the largest religious structures ever built.After completing the sightseeing tour, drive to Hurghada, a beautiful Red Sea resort destination. Upon arrival, check in to your hotel and relax. ",
+      "additionalInfo": ["Overnight stay in Hurghada."]
+    },
+       {
+      "day": "Day 08 :",
+      "title": "Hurghada Leisure Day",
+      "description": "After breakfast, enjoy a full day at leisure in Hurghada. Relax at the beach or by the hotel pool and enjoy the beautiful Red Sea coastline.You may choose optional activities such as snorkeling or scuba diving to explore vibrant coral reefs, a glass-bottom boat ride, or a desert safari adventure with quad biking and Bedouin camp experience. ",
+      "additionalInfo": ["Overnight stay in Hurghada."]
+    },
+    {
+      "day": "Day 09 :",
+      "title": "Hurghada – Cairo – Departure",
+      "description": "After breakfast, check out from the hotel and transfer to Cairo either by domestic flight or by road as per your schedule.",
+      "additionalInfo": ["Upon arrival in Cairo, proceed to the airport for your onward international flight with wonderful memories of your Egypt journey filled with history, culture, and scenic beauty."]
     }
   
   ],
@@ -273,60 +303,64 @@
   },
   "inclusionAndExclusion": {
     "inclusions": [
-      "Three nights Accommodation in Cairo at Suggested hotels or Similar.",
-  "Daily breakfast except Day 1.",
-  "Cairo City Tour on Private basis.",
-  "English speaking guide",
-  "Return Airport transfers on Private basis."
+"One night accommodation in Alexandria at Suggested hotels or Similar.",
+"Two nights accommodation in Cairo at Suggested hotels or Similar.",
+"Three nights accommodation in Nile Cruise.",
+"Two nights accommodation in Hurghada  at Suggested hotels or Similar.",
+"Daily breakfast except Day 1.",
+"Lunch and Dinner Included",
+"Sightseeing as per the itinerary ",
+"English speaking guide",
+"Return Airport transfers on Private basis."
+
     ],
     "exclusions": [
         "Return & Internal Airfare",
-  "Visa",
-  "Tips to Driver and Guide",
-  "Personal expense",
-  "Entry fees for Mummies room at Egyptian Museum, Solar Boat at Pyramids, Entry inside one of the Pyramids",
-  "High Season Surcharges as applicable",
-  "Use of vehicle other than the specified itinerary.",
-  "Any item that is not mentioned in the above Tour Price includes",
-  "Lunch & Dinner not included",
-  "Travel Insurance not included",
-  "5% GST",
-  "5% TCS"
+    "Visa",
+    "Tips to Driver and Guide",
+    "Personal expense",
+    "Entry fees for Mummies room at Egyptian Museum, Solar Boat at Pyramids, Entry inside one of the Pyramids",
+    "High Season Surcharges as applicable",
+    "Use of vehicle other than the specified itinerary",
+    "Any item that is not mentioned in the above Tour Price includes",
+    "Lunch & Dinner not included",
+    "Travel Insurance not included",
+    "5% GST",
+    "5% TCS"
     ]
   },
   "pleaseNote": {
     "title": "Please Note",
     "notes": [
-      "100% Cancellation on low cost carrier once booking confirmed.",
-  "100% Cancellation if hotels/entrances booked and paid in advance during confirmation period and will be non refundable.",
-  "100% Cancellation during peak days or any trade fare",
-  "100% Cancellation once visa payment is done",
-  "For Group booking, please reconfirm the cancellation policy before confirmation.",
-  "Airline & hotel Cancellation policy will at time override the current cancellation policy listed"
+       "100% Cancellation on low cost carrier once booking confirmed.",
+    "100% Cancellation if hotels/entrances booked and paid in advance during confirmation period and will be non refundable.",
+    "100% Cancellation during peak days or any trade fare.",
+    "100% Cancellation once visa payment is done.",
+    "For Group booking, please reconfirm the cancellation policy before confirmation.",
+    "Airline & hotel Cancellation policy will at time override the current cancellation policy listed."
     ]
   },
   "conditions": {
     "title": "Conditions",
     "conditions": [
-      "Above rates based on today’s ROE. Any fluctuation will vary the cost at the time of confirmation and final payment made.",
-  "For your international Travel, The Passport of passengers should have the validity of minimum 6 (SIX) months (from the date of return) and two or more blank pages for visa stamp.",
-  "Physical condition of Passport is taken care by guest directly in case of E-Visa.",
-  "Please ensure the passports are not damaged anywhere. In case of damaged passports the passenger may not be allowed by the immigration or airline.",
-  "Airfare is subject to availability at the time of confirmation with the payment.",
-  "Hotel Rooms & Service are subject to availability at the time of confirmation with the payment.",
-  "In case of Non availability of Hotel Rooms a similar category Hotel will be provided.",
-  "Credit card payments are subject to 3% bank charges. Any fluctuations may vary the cost.",
-  "No Change in Itinerary once confirmed will be honored unless otherwise given in writing. This may incur additional charges based on the requirement.",
-  "No verbal commitments will be honored unless otherwise given in writing.",
-  "The offers are valid till for time being only & unless otherwise specified.",
-  "Extension of stay would be subject to availability and on pro-rata basis and as of best rate of the day.",
-  "Private vehicle mentioned in the quotes is based on the itinerary(Point to Point Service)",
-  "For all SIC tour (Seat in Coach) – there is always waiting time for pick up/drop. Also the pickup/drop points may vary city to city unless specified hotel in the quotes.",
-  "Any City Taxes to be paid directly at hotel unless specified in the quotes.",
-  "Entrances specified in the itinerary will be covered. Any extra services to be taken care by guest directly.",
-  "No amendments possible once land arrangements have been confirmed",
-  "No refund for partly unutilized tickets. No refund for \"NO – SHOWS\" & Last moment cancellations",
-  "Granting or rejecting visas and immigration clearance is the sole prerogative of the concerned sovereign governments and we can only facilitate in the entire process. We shall neither be responsible in case of non-granting of such documents. Even if the visas are rejected, cancellation charges / fees shall be payable by the Client. There will be no refund, if the Clients, or any member of his party, is unable to travel due to the said reasons."
+    "Above rates based on today’s ROE. Any fluctuation will vary the cost at the time of confirmation and final payment made.",
+    "For your international Travel, The Passport of passengers should have the validity of minimum 6 (SIX) months (from the date of return) and two or more blank pages for visa stamp.",
+    "Physical condition of Passport is taken care by guest directly in case of E-Visa. Please ensure the passports are not damaged anywhere. In case of damaged passports the passenger may not be allowed by the immigration or airline.",
+    "Airfare is subject to availability at the time of confirmation with the payment.",
+    "Hotel Rooms & Service are subject to availability at the time of confirmation with the payment.",
+    "In case of Non availability of Hotel Rooms a similar category Hotel will be provided.",
+    "Credit card payments are subject to 3% bank charges. Any fluctuations may vary the cost.",
+    "No Change in Itinerary once confirmed will be honored unless otherwise given in writing. This may incur additional charges based on the requirement.",
+    "No verbal commitments will be honored unless otherwise given in writing.",
+    "The offers are valid till for time being only & unless otherwise specified.",
+    "Extension of stay would be subject to availability and on pro-rata basis and as of best rate of the day.",
+    "Private vehicle mentioned in the quotes is based on the itinerary(Point to Point Service)",
+    "For all SIC tour (Seat in Coach) – there is always waiting time for pick up/drop. Also the pickup/drop points may vary city to city unless specified hotel in the quotes.",
+    "Any City Taxes to be paid directly at hotel unless specified in the quotes.",
+    "Entrances specified in the itinerary will be covered. Any extra services to be taken care by guest directly.",
+    "No amendments possible once land arrangements have been confirmed",
+    "No refund for partly unutilized tickets. No refund for \"NO – SHOWS\" & Last moment cancellations",
+    "Granting or rejecting visas and immigration clearance is the sole prerogative of the concerned sovereign governments and we can only facilitate in the entire process. We shall neither be responsible in case of non-granting of such documents. Even if the visas are rejected, cancellation charges / fees shall be payable by the Client. There will be no refund, if the Clients, or any member of his party, is unable to travel due to the said reasons."
     ]
   }
 },
