@@ -82,12 +82,12 @@ function HotSelling() {
       link:"/duniya-dekho/vietnam-tour-package"
     },
     {
-      name: "Sweden",
-      duration: "9 Days | 8 Nights",
-      price: 344800,
+      name: "Turkey",
+      duration: "7 Days | 8 Nights",
+      price: 135000,
       facility: ["/images/icons/stay.webp", "/images/icons/food.webp", "/images/icons/transport.webp", "/images/icons/sightseeing.webp", "/images/icons/flight.webp"],
-      image: "/images/sweden_hot_selling.webp",
-      link:"/contact-us"
+      image: "/images/banners/turkey/antalya.webp",
+      link:"/duniya-dekho/turkey-tour-package"
     },
     {
       name: "Himachal",

@@ -170,6 +170,7 @@ function PackagePlan() {
               name: "Norway",
               image: "/images/norway_intro.webp",
               description: "Flights . Hotels . Holidays",
+              link:"/duniya-dekho/explore-the-wild-heart-of-norway"
               
             },
             {

@@ -14,7 +14,7 @@
   "intro": "South Africa :Sun City Adventure",
   "name": "Cape Town  ",
   "duration": "5 Nights / 6 Days",
-  "price": 215000,
+  "price": 82636,
  
   "description": [
     "Cape Town City Tour & Table Mountain,Peninsula Tour,Sun City,Leisure,Johannesburg"
@@ -26,8 +26,8 @@
   {
     "intro": "Ancient Wonders",
     "name": "Royal Egypt ",
-    "duration": "7 Nights / 8 Days",
-    "price": 106200,
+    "duration": "08 Nights / 09 Days",
+    "price": 140400,
     "description": [
       "Cairo, Alexandria,Aswan, Nile Cruise,Abu Simbel,Kom Ombo,Edfu,Luxor, Disembark,Hurghada    "
     ],
@@ -39,7 +39,7 @@
   "intro": "Wild Safaris & Majestic Falls",
   "name": "Wildlife Wonders of Kenya",
   "duration": "5 Nights / 6 Days",
-  "price": 189540,
+  "price": 208800,
   "description": [
     "Nairobi, Ol Pejeta Conservancy, Great Rift Valley Lakes , Masai Mara National Reserve,"
   ],
@@ -50,7 +50,7 @@
   "intro": "An Unforgettable Journey ",
   "name": "Wilds of Tanzania",
   "duration": "7 Nights / 8 Days",
-  "price": 315900,
+  "price": 370800,
   "description": [
     " Arusha, Lake Manyara, Serengeti National Park , Ngorongoro Crater,Zanzibar "
   ],
@@ -62,8 +62,8 @@
 {
   "intro": "American Panorama",
   "name": "USA - East & West ",
-  "duration": "9 Nights / 10 Days",
-  "price":  230600,
+  "duration": "10 Nights / 11 Days",
+  "price":  365400,
   "description": [
     "New York City, Washington D.C, Philadelphia, Las Vegas, Grand Canyon,Los Angeles, San Francisco"],
   "image": "/images/small/usa-east-west.webp",
@@ -86,7 +86,7 @@
   "intro": "American Panorama",
   "name": "USA - East Coast",
   "duration": "05 Nights / 06 Days",
-  "price": 180900,
+  "price": 148540,
   "description": [
     "New York City Tour,Washington DC City Tour, Niagara Falls "
     
@@ -98,7 +98,7 @@
   "intro": "Latin Adventure",
   "name": "South America",
   "duration": "12 Nights / 13 Days",
-  "price": 603000,
+  "price":795600,
   "description": [
     "Rio de Janeiro, Sugarloaf Mountain,Buenos Aires City Tour, Tango Show,Iguazu Falls "
   ],
@@ -108,8 +108,8 @@
 {
   "intro": "Maple Discovery",
   "name": "Canada",
-  "duration": "09 Nights / 07 Days",
-  "price":410400,
+  "duration": "09 Nights / 10 Days",
+  "price":285300,
   "description": [
     " Vancouver, Revelstoke,Columbia Icefield,Jasper National Park, Kamloops"
   ],
@@ -120,7 +120,7 @@
   "intro": "Adventure ",
   "name": "Australian Adventure",
   "duration": "07 Nights / 08 Days",
-  "price": 330300,
+  "price": 121252,
   "description": [
     "Melbourne, Yarra River Cruise, Skydeck,Grampians National Park Stawell and Ballarat"
    
@@ -132,7 +132,7 @@
   "intro": "Adventure",
   "name": "Australian Dream",
   "duration": "12 Nights / 13 Days",
-  "price": 330300,
+  "price": 217197,
   "description": [
     "Melbourne City Tour, Cairns, Green Island, Sydney City Tour, Blue Mountain, Adelaide Kangaroo Island"
  
@@ -145,7 +145,7 @@
   "intro": "Kiwi Explorer",
   "name": "Discover New Zealand",
   "duration": "06 Nights / 07 Days",
-  "price": 305100,
+  "price":169973,
   "description": [
     "Auckland,Queenstown,Milford Sound Tour,Christchurch,Mt Cook"
   ],
@@ -157,7 +157,7 @@
   "intro": "New Zealand Explorer",
   "name": "New Zealand ",
   "duration": "11 Nights / 12 Days",
-  "price": 215000,
+  "price": 226919,
   "description": [
     "Auckland, Waitomo, Matamata, Rotorua, Christchurch, Glacier Region"
   ],
@@ -168,7 +168,7 @@
   "intro": "Best of Europe",
   "name": "Europe Highlights",
   "duration": "12 Nights / 13 Days",
-  "price": 290700,
+  "price": 280800,
   "description": [
     "Amsterdam, Dutch Countryside Tour, Paris City Tour, Lucerne, Mount Titlis, Lake Lucerne"
    
@@ -181,7 +181,7 @@
   "intro": "Northern Spain & Cultural Adventure",
   "name": "Northern Spain Journey",
   "duration": "11 Nights / 12 Days",
-  "price": 215000,
+  "price": 320400,
   
   "description": [
     " Bilbao, Santillana del Mar, Picos de Europa Tour,Oviedo, Santiago de Compostela,Leon, Burgos"
@@ -193,7 +193,7 @@
   "intro": " Adventure",
   "name": "Northern Lights",
   "duration": "9 Nights / 10 Days",
-  "price": 215000,
+  "price": 220500,
   
   "description": [
     "Reykjavik, Blue Lagoon, Akureyri, Borgarnes, Snaefellsnes Peninsula, Lava Cave"
@@ -207,7 +207,7 @@
   "intro": "Mesmerizing Turkey",
   "name": "Turkey",
   "duration": "7 Nights / 08 Days",
-  "price":  160200,
+  "price":  135000,
   "description": [
     "Istanbul City Tour, Izmir and Kusadasi Wonders, Pamukkale & Ephesus Ancient Tour, Cappadocia "
   ],
@@ -217,8 +217,8 @@
 {
   "intro": "Istanbul heritage meets Antalya beauty",
   "name": "Istanbul & Antalya",
-  "duration": "4 Nights / 05 Days",
-  "price":  160200,
+  "duration": "05 Nights / 06 Days",
+  "price":  150300,
   "description": [
     "Istanbul City Tour,Antalya's Hidden Gems"
    
@@ -231,7 +231,7 @@
   "intro": "Swiss & Paris Delight",
   "name": "Paris & Swiss Delight",
   "duration": "07 Nights / 08 Days",
-  "price": 210600,
+  "price": 140400,
   "description": [
     "City of Light Paris,Lucerne, Switzerland, Mt. Titlis and Lake Lucerne Cruise, Zurich" 
   ],
@@ -242,7 +242,7 @@
   "intro": "Royal Britain & Enchanting Ireland ",
   "name": "England, Scotland & Ireland",
   "duration": "14 Nights / 15 Days",
-  "price": 139680,
+  "price": 290700,
   "description": [
     "London, Windsor, Oxford, Stonehenge, Swindon, Cardiff, Stratford-upon-Avon, Manchester, York  "
    
@@ -254,7 +254,7 @@
   "intro": "European Dreams",
   "name": "Austria, Swiss & Paris",
   "duration": "10 Nights / 11 Days",
-  "price": 148540,
+  "price": 260100,
   "description": [
     "Paris City Tour, Geneva, Vevey, Bern, Lucerne, Mount Titlis, Engelberg Excursion, Jungfraujoch"
     
@@ -277,7 +277,7 @@
   "intro": "Iberian Explorer",
   "name": "Spain & Portugal",
   "duration": "12 Nights / 13 Days",
-  "price": 313956,
+  "price": 313200,
   "description": [
     "Porto, Douro Valley, Fatima, Sintra, Lisbon, Algarve, Seville, Ronda"
     
@@ -288,8 +288,8 @@
 {
   "intro": "Capitals, Nature & Cruises",
   "name": "Scandinavia & Baltic Discovery",
-  "duration": "06 Nights / 07 Days",
-  "price": 148540,
+  "duration": "09 Nights / 10 Days",
+  "price": 285300,
   "description": [
     "Copenhagen, Oslo ,Geilo,Myrdal,Flam Gudvangen, Bergen, Stockholm,Helsinki Tallinn"
   ],
@@ -313,7 +313,7 @@
   "intro": "Land of Fire and Ice",
   "name": "Iceland",
   "duration": "06 Nights / 07 Days",
-  "price": 148540,
+  "price": 210600,
   "description": [
     "Reykjavik City Tour, Hallgrímskirkja, Harpa Concert Hall, Thingvellir, Geysir"
   ],
@@ -324,7 +324,7 @@
   "intro": "Eastern Europe Explorer",
   "name": "East Europe",
   "duration": "07 Nights / 08 Days",
-  "price": 148540,
+  "price": 140400,
   "description": [
     "Budapest, Zagreb, Ljubljana, Bled, Vienna, Bratislava, Brno, Prague"
     
@@ -335,8 +335,8 @@
 {
   "intro": "Your Gateway to Korea’s Seasons",
   "name": "South Korea",
-  "duration": "06 Nights / 07 Days",
-  "price": 148540,
+  "duration": "07 Nights / 08 Days",
+  "price": 160200,
   "description": [
     "Seoul, Royal Seoul Heritage, Hanbok, Nami Island, Garden of Morning Calm,Busan City Tour"
    
@@ -348,7 +348,7 @@
   "intro": "Land of the Rising Sun",
   "name": "Japan",
   "duration": "07 Nights / 08 Days",
-  "price": 290000,
+  "price": 280800,
   "description": [
     "Tokyo's, Hakone's, Hiroshima, Miyajima Island, Himeji Castle, Kyoto's, Fond Farewells"
    
@@ -359,8 +359,8 @@
 {
   "intro": "Oman Discovery",
   "name": "Oman",
-  "duration": "05 Nights / 06 Days",
-  "price": 85500,
+  "duration": "06 Nights / 07 Days",
+  "price": 95400,
   "description": [
     " Muscat City Tour, Dolphin,Whale Watching Tou,Wahiba Sands, Jabal Akhdar,Nizwa"
     
@@ -372,7 +372,7 @@
   "intro": "Historic & Cultural Arabia",
   "name": "Saudi Arabia",
   "duration": "06 Nights / 07 Days",
-  "price": 122400,
+  "price": 128700,
   "description": [
     "Riyadh,Hail,AlUla,Madinah,Jeddah"
      
@@ -383,7 +383,7 @@
   "intro": "Luxury & Desert Adventure",
   "name": "Dubai City Break",
   "duration": "4 Nights / 5 Days",
-  "price": 81900,
+  "price": 65700,
   "description": [
     "Dubai & Dhow Cruise, Dubai City Tour & Desert Safari, Leisure & Burj Khalifa"
   ],
@@ -394,7 +394,7 @@
   "intro": "Luxury & Desert Adventure",
   "name": "Dubai Delight",
   "duration": "5 Nights / 6 Days",
-  "price": 81900,
+  "price": 74700,
   "description": [
     "Dhow Cruise, Dubai City Tour & Burj Khalifa, Leisure & Desert Safari, Abu Dhabi City Tour & Ferrari World."
   ],
@@ -419,7 +419,7 @@
   "intro": "Modern City & Adventure Escape",
   "name": "Singapore Lion City Delight",
   "duration": "04 Nights / 05 Days",
-  "price": 71100,
+  "price": 65700,
   "description": [
     "Singapore Night Safari, Singapore City Tour, ","Sentosa, Gardens by the Bay"
    
@@ -448,7 +448,7 @@
   "intro": "Indochina Discovery",
   "name": "Vietnam & Cambodia",
   "duration": "08 Nights / 09 Days",
-  "price": 75600,
+  "price": 73800,
   "description": [
     "Hanoi, Ha Long Bay, Ho Chi Minh City Tour, Mekong Delta, Siem Reap, Angkor Thom and Angkor Wat"
 
@@ -462,7 +462,7 @@
   "intro": "Island Paradise Escape",
   "name": "Phuket and Krabi Getaway ",
   "duration": "05 Nights / 06 Days",
-  "price": 45000,
+  "price": 42300,
   "description": [
     "Krabi City Tour,Island Tour,Phuket with Tiger Kingdom Visit,Phi Phi Island Tour"
     
@@ -473,7 +473,7 @@
   "intro": "Asian Glamour Experience",
   "name": "Hong Kong & Macau",
   "duration": "05 Nights / 06 Days",
-  "price": 85400,
+  "price": 66600,
   "description": [
     "Victoria Peak, Madame Tussauds, Ocean Park, A-Ma Temple, Macau Tower, Venetian & Casino"
   ],
@@ -484,7 +484,7 @@
   "intro": "Uncovered",
   "name": "Bali",
   "duration": "05 Nights / 06 Days",
-  "price": 36146,
+  "price": 38700,
   "description": [
     "Sunset Serenity,East Nusa Penida Island,Uluwatu Temple, Bedugul, Kintamani, Ubud's"
  
@@ -495,8 +495,8 @@
 {
   "intro": "Scenic Island Discovery",
   "name": "Taiwan",
-  "duration": "08 Nights / 08 Days",
-  "price": 91310,
+  "duration": "07 Nights / 08 Days",
+  "price": 91800,
   "description": [
     "Taipei City Tour, Sun Moon Lake, Kaohsiung, ","Kenting National Park, Taitung,","Whisky and Culture"
     
@@ -520,8 +520,8 @@
 {
   "intro": "Magical Turkey Experience",
   "name": "Turkish Delight",
-  "duration": "3 Nights / 4 Days",
-  "price": 41990,
+  "duration": "4 Nights / 5 Days",
+  "price": 79200,
   "description": [
     "Istanbul City Tour, Fly to Izmir and Kusadasi,Ephesu"
     
@@ -534,7 +534,7 @@
   "intro": "Imperial Heritage & Modern Wonders",
   "name": "China",
   "duration": "7 Nights / 8 Days",
-  "price": 120743,
+  "price": 120600,
   "description": [
     "Great Wall of China,Beijing City Tour,Xi'an ,Terra Cotta Warriors,Xi'an City,Shanghai City Tour"
    
@@ -547,7 +547,7 @@
   "intro": "Exotic Beach Escape",
   "name": "Mauritius",
   "duration": "4 Nights / 5 Days",
-  "price": 44100,
+  "price": 36900,
   "description": [
     "Mauritius , North Island Tour,South Island Tour,Ile Aux Cerfs Island Excursion"
   ],
@@ -558,7 +558,7 @@
   "intro": "Luxury Overwater Escape",
   "name": "Maldives",
   "duration": "03 Nights / 04 Days",
-  "price": 107834,
+  "price": 110700,
   "description": [
     "Maldives,Leisure Day in Maldives,Island"
   ],
@@ -568,8 +568,8 @@
 {
   "intro": "Himalayan Happiness Journey",
   "name": "Magic of Bhutan",
-  "duration": "3 Nights / 4 Days",
-  "price": 41990,
+  "duration": "05 Nights / 06 Days",
+  "price": 45000,
   "description": [
     "Bhutan, Thimphu City Sightseeing, Paro"
   ],
@@ -580,7 +580,7 @@
   "intro": "Islands of Endless Beauty",
   "name": "Seychelles",
   "duration": "05 Nights / 06 Days",
-  "price": 72980,
+  "price": 115200,
   "description": [
     "Mahe,Praslin,La Digue Island Boat,Valle de Mai & Anse LazioLMahe, Mahe Island Tour "
    
@@ -595,7 +595,7 @@
   "intro": "European Cityscape Journey",
   "name": "Paris to Vienna",
   "duration": "09 Nights / 10 Days",
-  "price": 215000,
+  "price": 130500,
   "description": [
     "City of Light Paris, Lucerne, Switzerland, Innsbruck, Austria, Innsbruck, Vienna, Schönbrunn Palace"
   ],
@@ -610,7 +610,7 @@
   "intro": "European Cityscape Journey",
   "name": "Swiss Bliss",
   "duration": "04 Nights / 5 Days",
-  "price": 215000,
+  "price": 92700,
   "description": [
     "Zurich & Journey, Interlaken, Jungfraujoch, Lucerne, Mt. Titlis Excursion – Glacier & Cliff Walk"
   ],
@@ -621,7 +621,7 @@
   "intro": "An Egyptian Escape ",
   "name": "Sands of Time",
   "duration": "6 Nights / 7 Days",
-  "price": 215000,
+  "price": 107920,
   "description": [
     "Cairo, Pyramids, Museum, Bazaar, Aswan, Nile Cruise Embarkation, Kom Ombo and Edfu Temples "
   ],
@@ -648,7 +648,7 @@
   "intro": "Island of Dreams",
   "name": "Phuket-Island of Dreams",
   "duration": "3 Nights /4 Days",
-  "price": 215000,
+  "price": 28800,
   "description": [
     "Fantasea Show,Phi Phi Island Tour,Phuket City Tour"  ],
   "image": "/images/banners/phuket-island/phi-phi-islands.webp",
@@ -658,7 +658,7 @@
   "intro": "Thailand’s Perfect City & Beach Escape",
   "name": "Paradise Bangkok & Pattaya",
   "duration": "4 Nights / 5 Days",
-  "price": 215000,
+  "price": 26100,
   "description": [
     "Pattaya, Coral Island Tour, Safari World, Marine Park, City Tour, Bangkok"
   ],
@@ -670,7 +670,7 @@
   "intro": "Explore Portugal",
   "name": "Portugal Uncovered ",
   "duration": "6 Nights / 7 Days",
-  "price": 215000,
+  "price": 144400,
   "description": [
     "Lisbon,Porto,Porto Bound"
     
@@ -694,7 +694,7 @@
   "intro": "Sri Lanka Cultural & Nature Highlights",
   "name": "Sri Lanka Highlights",
   "duration": "5 Nights / 6 Days",
-  "price": 215000,
+  "price": 37800,
   "description": [
     "Kandy City Tour, Madu River Boat Safari & Sea, Colombo's Charm"
   ],
@@ -705,7 +705,7 @@
   "intro": "Sri Lanka Cultural & Wildlife Journey",
   "name": "Sri Lanka Discovery",
   "duration": "04 Nights / 5 Days",
-  "price": 215000,
+  "price": 34200,
   "description": [
     "Colombo, Kandy city tour, Nuwara Eliya sightseeing, Yala with wildlife safari,"
   ],
@@ -729,7 +729,7 @@
   "intro": "Cultural & Coastal Getaway",
   "name": "Sri Lanka",
   "duration": "04 Nights / 05 Days",
-  "price": 30466,
+  "price": 31500,
   "description": [
     "Colombo City Tour,Nuwara Eliya,Kitulgala,Kandy,Tea Plantation,Colombo,Peradeniya and Pinnawala"
     
@@ -755,7 +755,7 @@
   "intro": "Cultural & Scenic Adventure",
   "name": "Vietnam Discovery",
   "duration": "03 Nights / 04 Days",
-  "price": 25200,
+  "price": 27000,
   "description": [
     "Hanoi to Ha Long Bay,Ha Long Bay to Hanoi"
   ],
@@ -766,7 +766,7 @@
   "intro": "Southeast Asia Highlights",
   "name": "Singapore & Malaysia",
   "duration": "06 Nights / 07 Days",
-  "price": 95400,
+  "price": 118800,
   "description": [
     " Malaysia , Kuala Lumpur City Tour,Singapore, Universal Studios Singapore "
   ],
@@ -788,8 +788,8 @@
 {
   "intro": "Best of Europe Tour ",
   "name": "Italy, Switzerland & France ",
-  "duration": "6 Nights / 7 Days",
-  "price": 21600,
+  "duration": "10 Nights / 11 Days",
+  "price": 280800,
   "description": [
     "Rome, Vatican City, Pisa, Venice, Vicenza, Lake Como, Lucerne / Zurich, Mt."
     
@@ -800,14 +800,26 @@
 {
   "intro": "Athens & Iconic Greek Islands  ",
   "name": "Greece Getaway  ",
-  "duration": "10 Nights / 11 Days",
-  "price": 21600,
+  "duration": "06 Nights / 07 Days",
+  "price": 140400,
   "description": [
-    " Athens – Sightseeing, Mykonos – Exploration, Santorini – Sightseeing.  "    
+    " Athens – Sightseeing, Mykonos – Exploration, Santorini.  "    
     
   ],
   "image": "/images/banners/greece-gatway/athens.webp",
   "slug": "/duniya-dekho/greece-getaway-athens-mykonos-santorini"
+},
+{
+  "intro": "Hopping Adventure",
+  "name": "Greek Island ",
+  "duration": "07 Nights / 08 Days",
+  "price": 150300,
+  "description": [
+    " Athens city Tour, Mykonos,Island tour, Santorini,Athens.  "    
+    
+  ],
+  "image": "/images/banners/greece/corfu.webp",
+  "slug": "/duniya-dekho/greek-tour-package"
 },
 {
   "intro": "Beauty Beyond Imagination  ",
@@ -837,12 +849,12 @@
   "intro": "Explore the Wild Heart of Norway   ",
   "name": "Norway ",
   "duration": "9 Nights / 10 Days",
-  "price": 21600,
+  "price": 206100,
   "description": [
     "Oslo Museums, Bergen & Fjord Cruise,Nutshell, Ålesund,Geirangerfjord, Tromsø, Arctic"    
     
   ],
-  "image": "/images/banners/narway/aihole-sightseeing.webp",
+  "image": "/images/banners/narway/bergen-&-fjord-cruise.webp",
   "slug": "/duniya-dekho/explore-the-wild-heart-of-norway"
 }
 

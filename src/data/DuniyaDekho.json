@@ -29,7 +29,8 @@
   "name": "South Africa Tour Brochure",
   "url": "/pdf/south-africa-tour-package.pdf"
 },
-  "price": 231987,
+  "price": 231987
+,
   "description": [
     "Embark on an unforgettable 10-day adventure through South Africa, exploring its stunning landscapes, vibrant culture, and incredible wildlife. Begin in breathtaking Cape Town, where you'll spend three nights discovering iconic landmarks like Table Mountain and Cape of Good Hope. Next, travel to Oudtshoorn, the ostrich capital of the world, and Knysna, a charming coastal town on the scenic Garden Route. Then, head to Sun City, a luxurious resort nestled in the Pilanesberg Game Reserve, where you'll enjoy thrilling game drives and stunning natural beauty. Continue to Pilanesberg for two nights of safari adventures, before ending your journey in vibrant Johannesburg, where you'll spend one night exploring the city's rich history and culture.",
     "Travel along the stunning Garden Route, visit Stellenbosch & the Winelands, and enjoy the vibrant city life in Durban and Johannesburg. Experience the thrill of a safari in Kruger National Park, spotting Africa's Big Five in their natural habitat."
@@ -222,7 +223,7 @@
     "name": "Download PDF",
     "url": "/pdf/royal-egypt-8-nights-9-days.pdf"
   },
-  "price": 198500,
+  "price": 140400,
   "description": [
     "Explore the ancient wonders of Cairo, a city steeped in history and mystique. Discover the Pyramids of Giza, the last of the Seven Wonders of the Ancient World, and the majestic Sphinx. Visit the Egyptian Museum, home to the world's largest collection of ancient Egyptian artifacts, including the golden treasures of Tutankhamun. Wander through Islamic Cairo, exploring the Mosque of Muhammad Ali and the vibrant Khan el-Khalili bazaar, one of the oldest markets in the Middle East. Unravel the secrets of Cairo's rich past and immerse yourself in the city's vibrant culture."
   ],
@@ -396,7 +397,7 @@
   "name": "Download PDF",
   "url": "/pdf/wildlife-wonders-of-kenya-5-nights-6-days.pdf"
       },
-  "price": 189540,
+  "price": 208800,
   "description": [
     "Experience the ultimate African adventure on this unforgettable 6-day journey through Kenya's breathtaking landscapes and incredible wildlife. Witness the majesty of Africa's iconic animals, explore vibrant cultures, and marvel at the natural beauty of this captivating country. From the flamingo-filled Lake Nakuru to the Big Five of the Masai Mara, experience the thrill of Africa's incredible wildlife in their natural habitat."
   ],
@@ -560,7 +561,7 @@
   "name": "Download PDF",
   "url": "/pdf/wilds-of-tanzania-unforgettable-journey-10-nights-11-days.pdf"
       },
-  "price": 315900,
+  "price": 370800,
   "description": [
     "Tanzania is home to some of Africa's most breathtaking landscapes and wildlife reserves. In the north, Arusha serves as a gateway to several national parks, including Lake Manyara, known for its tree-climbing lions and stunning lake views. Seronera, located within the Serengeti National Park, offers unparalleled opportunities to witness the Great Migration. The Ngorongoro Conservation Area, a UNESCO World Heritage Site, boasts the world's largest intact caldera and an incredible array of wildlife. Tarangire National Park is famous for its majestic baobab trees and large elephant herds. Further east, Kiwengwa, on the island of Zanzibar, showcases pristine beaches, crystal-clear waters, and vibrant coral reefs, making Tanzania a paradise for nature lovers and adventure seekers alike."
     
@@ -739,7 +740,7 @@
   "name": "Download PDF",
   "url": ""
       },
-  "price": 230600,
+  "price": 365400,
   "description": [
     "Experience the best of the USA! Begin your journey on the East Coast with New York City and Washington DC, exploring iconic landmarks, museums, and vibrant city life.",
     "Then fly to the West Coast for Los Angeles and San Francisco, visiting Hollywood, Santa Monica, Golden Gate Bridge, and enjoying the scenic California coast. This tour offers a perfect blend of culture, history, and modern attractions."
@@ -1076,7 +1077,7 @@
   "name": "Download PDF",
   "url": "/pdf/usa-east-coast-getaway-5-nights-6-days.pdf"
       },
-  "price": 180900,
+  "price": 148540,
   "description": [
     "Embark on an unforgettable journey along the USA's stunning East Coast, exploring three iconic destinations. Spend two nights in vibrant New York City, taking in the bright lights of Times Square, strolling through Central Park, and visiting world-class museums like the Met. Next, head to our nation's capital, Washington DC, where you'll spend two nights discovering historic landmarks like the White House, Lincoln Memorial, and Smithsonian Institution. Finally, venture to breathtaking Niagara Falls, where you'll spend a relaxing night taking in the majestic views and scenic beauty of this natural wonder. This 5-night adventure offers a perfect blend of city excitement, history, and natural splendor, showcasing the best of the East Coast."
   ],
@@ -1255,7 +1256,7 @@
   "name": "Download PDF",
   "url": ""
       },
-  "price": 603000,
+  "price": 795600,
   "description": [
     "Discover the wonders of South America! Begin your journey in Rio de Janeiro, Brazil, visiting Copacabana Beach, Christ the Redeemer, and Sugarloaf Mountain.",
     "Travel to Buenos Aires, Argentina, to experience tango, local cuisine, and city culture. Explore Peru with a visit to Machu Picchu and Cusco’s historic sites. Conclude your journey in Santiago, Chile, exploring the Andes, vineyards, and cultural landmarks."
@@ -1437,7 +1438,7 @@
   "name": "Download PDF",
   "url": "/pdf/best-of-canada-9-nights-10-days.pdf"
       },
-  "price": 410400,
+  "price": 285300,
   "description": [
     "Experience the best of Canada on a journey through vibrant cities and breathtaking mountain landscapes. Explore Vancouver's Stanley Park, Granville Island, and scenic mountains, then head to Revelstoke for outdoor adventures like skiing and whitewater rafting. Discover Canmore's scenic trails and hiking routes in the Canadian Rockies, and visit Jasper National Park for stunning landscapes and wildlife viewing. Stop in Kamloops to enjoy the waterfront and outdoor activities, and visit Whistler's famous ski resort and pedestrian-friendly village. Finally, explore Victoria's historic Fairmont Empress Hotel, Butchart Gardens, and vibrant arts scene, showcasing the diversity and natural beauty of Canada."
    
@@ -1616,7 +1617,7 @@
   "name": "Download PDF",
   "url": "/pdf/australian-adventure-7-nights-8-days.pdf"
       },
-  "price":  330300,
+  "price":  121252,
   "description": [
     "Embark on an unforgettable adventure through the breathtaking landscapes of Australia, exploring the charming city of Melbourne, the stunning Great Ocean Road, and the majestic Grampians National Park. Begin in Melbourne, Victoria's vibrant capital, before winding your way along the iconic Great Ocean Road to Apollo Bay, with its pristine beaches and lush rainforests. Continue to Warrnambool, renowned for its whale watching opportunities and historic landmarks, and then on to Halls Gap, nestled in the heart of the Grampians National Park, where towering mountains, sparkling waterfalls, and an abundance of wildlife await. Return to Melbourne for a final night, reflecting on the unforgettable experiences and memories made during your journey through one of Australia's most stunning regions."
   ],
@@ -1789,7 +1790,7 @@
   "name": "Download PDF",
   "url": "/pdf/discover-new-zealand-6-nights-7-days.pdf"
       },
-  "price": 305100,
+  "price": 169973,
   "description": [
     "Embark on an unforgettable journey through New Zealand's diverse landscapes and cultures. Begin in Auckland, the City of Sails, where you'll spend a night surrounded by the harbor's stunning vistas. Next, travel to Rotorua, a geothermal wonderland, where you'll spend two nights immersed in Maori traditions and marveling at the region's unique landscapes. Then, fly to Queenstown, the Adventure Capital of the World, where you'll spend two nights surrounded by the majestic Southern Alps and pristine Lake Wakatipu. Finally, travel to Christchurch, the Garden City, where you'll spend a night exploring the city's vibrant arts scene, scenic parks, and historic landmarks, bringing your New Zealand adventure to a close."
   ],
@@ -2171,7 +2172,7 @@
   "name": "Download PDF",
   "url": "/pdf/best-of-turkey-7-nights-8-days.pdf"
       },
-  "price": 160200,
+  "price": 135000,
   "description": [
     "Embark on an unforgettable 8-day journey through Turkey, exploring the country's vibrant cities, ancient ruins, and breathtaking landscapes. This comprehensive itinerary takes you to the bustling streets of Istanbul, the ancient city of Ephesus, the natural wonders of Pamukkale, and the surreal landscapes of Cappadocia."
   ],
@@ -2362,7 +2363,7 @@
   "name": "Download PDF",
   "url": "/pdf/paris-swiss-delight-7-nights-8-days.pdf"
       },
-  "price": 210600,
+  "price": 140400,
   "description": [
     "Experience the best of Switzerland and Paris on this 7-night journey! Discover the romance and charm of Paris (3N), with its iconic landmarks like the Eiffel Tower, Notre-Dame Cathedral, and the Louvre Museum. Then, travel to Lucerne (3N), a picturesque Swiss city nestled between mountains and lakes, where you can admire the stunning Chapel Bridge, visit the Lion Monument, and take a scenic boat tour on Lake Lucerne. Finally, visit Zurich (1N), Switzerland's largest city, known for its sleek architecture, vibrant cultural scene, and stunning lake views, and explore its historic Old Town, famous Bahnhofstrasse shopping street, and diverse culinary offerings."
   ],
@@ -2540,7 +2541,7 @@
   "name": "Download PDF",
   "url": "/pdf/england-scotland-ireland-14-nights-15-days.pdf"
       },
-  "price": 189000,
+  "price": 290700,
 
   "description": [
     "This carefully curated 15-day journey offers an immersive exploration of the United Kingdom and Ireland, combining historic cities, royal landmarks, dramatic coastlines, and breathtaking countryside. The itinerary is designed to balance guided sightseeing with scenic drives and relaxed leisure time, allowing travelers to experience the cultural depth, architectural heritage, and natural beauty of five distinct regions. From the iconic streets of London and the literary towns of England to the misty Scottish Highlands and the rugged Cliffs of Moher, this tour delivers a seamless blend of history, culture, and scenic charm. Cross-border travel between England, Wales, Scotland, Northern Ireland, and the Republic of Ireland adds richness and diversity, making this itinerary ideal for travelers seeking a comprehensive and memorable European experience."
@@ -2763,7 +2764,7 @@
   "url": "/pdf/european-dreams-paris-switzerland-austria-10-nights-11-days.pdf"
       },
   
-  "price": 158000,
+  "price": 260100,
 
   "description": [
     "This exciting European itinerary combines the romance of Paris with the breathtaking alpine landscapes of Switzerland and the cultural elegance of Austria, along with a unique visit to Liechtenstein. From iconic landmarks, Versailles, and Disneyland Paris to scenic lakes, snow-capped mountains, Rhine Falls, and historic imperial cities, the journey offers a perfect blend of culture, nature, and leisure. Ideal for families, couples, and first-time travelers, this tour delivers a memorable and well-balanced European experience across four beautiful countries."
@@ -3129,7 +3130,7 @@
   "name": "Download PDF",
   "url": "/pdf/portugal-spain-highlights-13-days-of-culture-scenic-beauty-and-unforgettable-experience.pdf"
       },
-  "price": 313956,
+  "price": 313200,
 
   "description": [
     "Experience the charm of Porto, the vineyards of the Douro Valley, and the fairytale palaces of Sintra. Explore Lisbon’s vibrant streets, relax on Algarve’s golden beaches, and uncover Andalusia’s treasures in Seville, Granada, and the Costa del Sol. Conclude your journey with the cultural wonders of Toledo, Madrid, Valencia, and Barcelona, including a visit to the stunning Montserrat mountains."
@@ -3342,7 +3343,7 @@
   "name": "Download PDF",
   "url": "/pdf/scandinavia-baltic-discovery-capitals-nature-cruises.pdf"
       },
-  "price": 234500,
+  "price": 285300,
 
   "description": [
     "Discover the highlights of Northern Europe, from Copenhagen’s canals to Norway’s dramatic fjords, Stockholm’s archipelago, Helsinki’s charm, and Tallinn’s medieval streets. This journey blends cultural landmarks, scenic landscapes, and relaxing overnight cruises for an unforgettable experience."
@@ -3533,7 +3534,7 @@
   "name": "Download PDF",
   "url": "/pdf/greek-island-hopping-adventure-8-days.pdf"
       },
-  "price":  133838,
+  "price":  150300,
 
   "description": [
     "Experience the cradle of Western civilization in Athens, exploring iconic landmarks like the Acropolis and Parthenon. Island-hop to vibrant Mykonos, known for its stunning beaches, vibrant nightlife, and whitewashed houses. Finally, fall in love with breathtaking Santorini, famous for its picturesque whitewashed houses, blue-domed churches, and stunning sunsets, as you enjoy a romantic getaway in this Greek paradise.",
@@ -3716,7 +3717,7 @@
   "name": "Download PDF",
   "url": "/pdf/northern-lights-adventure.pdf"
       },
-  "price": 310500,
+  "price": 220500,
 
   "description": [
     "Experience the best of Iceland’s dramatic landscapes on this 10-day journey, from the vibrant capital of Reykjavik to the scenic fjords of Akureyri, the volcanic wonders of the Golden Circle and Snæfellsnes Peninsula, and the breathtaking glaciers, waterfalls, and black sand beaches along the South Coast. Explore geothermal hot springs, iconic waterfalls, glacial lagoons, and lava caves while enjoying the country’s unique natural beauty. With its cool, changeable climate, Iceland offers an unforgettable adventure of contrasts—fire and ice, mountains and coastlines, serenity and raw power—all in one extraordinary destination."
@@ -3905,7 +3906,7 @@
   "name": "Download PDF",
   "url": "/pdf/best-of-iceland.pdf"
       },
-  "price": 198000,
+  "price": 210600,
 
   "description": [
     "Experience the stunning natural beauty of Iceland on this scenic journey covering the country’s most iconic attractions. Explore the breathtaking South Coast waterfalls, the famous Black Sand Beach, and the magical Jokulsarlon Glacier Lagoon. Relax at the world-renowned Blue Lagoon and discover the highlights of the Golden Circle including Thingvellir National Park, Geysir geothermal area, and Gullfoss waterfall. The adventure continues in North Iceland with whale watching and the spectacular Diamond Circle featuring Godafoss, Dettifoss, and Lake Myvatn."
@@ -4069,7 +4070,7 @@
   "name": "Download PDF",
   "url": "/pdf/eastern-europe-7-nights-tour.pdf"
       },
-  "price": 215000,
+  "price": 140400,
 
   "description": [
     "This Central Europe trip covers Hungary, Croatia, Slovenia, Austria, Slovakia, and the Czech Republic, exploring vibrant cities, charming towns, and scenic landscapes. You’ll experience historic capitals like Budapest, Vienna, and Prague, picturesque spots like Lake Bled, and riverside cities along the Danube and Sava. In early spring, expect cool, mild weather with chances of light rain, making layered clothing ideal for comfortable travel."
@@ -4243,7 +4244,7 @@
   "name": "Download PDF",
   "url": "/pdf/your-gateway-to-koreas-seasons-south-korea.pdf"
       },
-  "price": 185000,
+  "price": 160200,
 
   "description": [
     "The region features a mix of landscapes, from a bustling city in the northwest along a major river surrounded by mountains, to a small crescent-shaped island with tree-lined avenues, a hilly landscaped garden amid forests, and a coastal city with beaches, mountains, and harbors. The climate varies from cold, dry winters and hot, humid summers inland, to milder winters and warm, humid summers along the coast, with occasional snow in winter. The best time to visit is generally in spring or autumn for pleasant weather, scenic views, and seasonal highlights such as flower blooms, autumn foliage, or winter light displays."
@@ -4417,7 +4418,7 @@
   "name": "Download PDF",
   "url": "/pdf/japan-7-nights-8-days.pdf"
       },
-  "price":  290000,
+  "price":  280800,
 
   "description": [
     "Experience an unforgettable journey through Japan, a land of vibrant culture, rich history, and breathtaking natural beauty. This 7 nights 8 days itinerary takes you on a thrilling adventure through Tokyo's neon streets, Kyoto's ancient temples, and Osaka's foodie paradise."
@@ -4593,7 +4594,7 @@
   "name": "Download PDF",
   "url": "/pdf/oman-discovery-5-nights-6-days.pdf"
       },
-  "price":  85500,
+  "price":  95400,
 
   "description": [
     "Embark on an unforgettable journey through Oman, a land of breathtaking beauty and rich heritage. Begin in Muscat, the capital city, where you'll spend three nights discovering the stunning architecture, bustling souks, and majestic mosques. Next, venture into the rugged dunes of Wahiba Sands, where you'll spend a night under the stars in a desert camp. Then, head to Jabal Akhdar, the 'Green Mountain', where you'll spend a night surrounded by lush valleys, ancient villages, and breathtaking views. Throughout your journey, experience the warm hospitality of the Omani people, and immerse yourself in the country's unique blend of traditional and modern cultur"
@@ -4757,14 +4758,14 @@
              "/images/banners/sudhi-arebia/taif.webp"
     ],
 
-  "duration": "07 Nights | 08 Days",
+  "duration": "06 Nights | 07 Days",
     "pdf": {
   "name": "Download PDF",
   "url": "/pdf/al-shallal-theme-park-saudi-arabia.pdf"
       },
   
   
-  "price": 122400,
+  "price": 128700,
 
   "description": [
     "Discover the best of Saudi Arabia on a journey through Riyadh’s modern and traditional landmarks, the historic forts of Hail, the UNESCO-listed heritage and ancient rock art of AlUla, the spiritual beauty of Madinah, and the vibrant Red Sea charm of Jeddah. Experience breathtaking desert landscapes, mountains, valleys, and coastal scenery, all under the country’s warm, arid climate."
@@ -4935,7 +4936,7 @@
   "name": "Download PDF",
   "url": "/pdf/dubai-city-break-4-nights-5-days.pdf"
       },
-  "price": 81900,
+  "price": 65700,
 
   "description": [
     "Experience the ultimate luxury and excitement of Dubai on our 4 Night 5 Days travel itinerary. Explore the city's iconic landmarks, immerse yourself in its vibrant culture, and indulge in its world-class amenities.","Discover the majestic Burj Khalifa, the world's tallest building, and marvel at the stunning Dubai Fountain Show. Take a thrilling desert safari, visit the iconic Palm Jumeirah, and explore the traditional souks.","Enjoy luxurious accommodations, savour delicious cuisine, and take advantage of our expert guides and hassle-free transfers. Whether you're looking for adventure, relaxation, or cultural immersion, our Dubai itinerary has something for everyone.","Join us on an unforgettable journey to Dubai and experience the ultimate in luxury and entertainment!"
@@ -5091,7 +5092,7 @@
   "name": "Download PDF",
   "url": "/pdf/singapore-malaysia-thailand-10-nights-11-days.pdf"
       },
-  "price": 110700,
+  "price": 150300,
 
   "description": [
     "Experience the vibrant tapestry of Southeast Asia on a thrilling journey through Malaysia, Singapore, and Thailand. From bustling cities to idyllic beaches, and from ancient temples to modern marvels, this incredible adventure has it all.",
@@ -5293,7 +5294,7 @@
   "name": "Download PDF",
   "url": "/pdf/singapore-malaysia-6-nights-7-days.pdf"
       },
-    "price": 95400,
+    "price": 118800,
 
 
   "description": [
@@ -5598,7 +5599,7 @@
   "name": "Download PDF",
   "url": "/pdf/wonders-of-vietnam-cambodia-8-nights-9-days.pdf"
       },
-  "price": 75600,
+  "price": 73800,
 
  "description": [
     "Discover the wonders of Vietnam and Cambodia on this unforgettable journey. Explore Vietnam's vibrant cities: Hanoi's rich history, Halong Bay's stunning landscapes, and Ho Chi Minh City's bustling streets. Then, venture into Cambodia and uncover the ancient secrets of Siem Reap's magnificent Angkor Wat temple complex. Experience the warmth of local hospitality, indulge in delicious cuisine, and create lifelong memories in these incredible destinations."
@@ -5796,7 +5797,7 @@
   "name": "Download PDF",
   "url": "/pdf/phuket-krabi-getaway-5-nights-6-days.pdf"
       },
-  "price": 59400,
+  "price": 42300,
 
   "description": [
     "Embark on a tropical paradise adventure to Phuket and Krabi, two of Thailand's most stunning destinations, where turquoise waters, powdery white sand beaches, and dramatic limestone cliffs await. This 5-night, 6-day journey promises breathtaking landscapes, crystal-clear waters, and unforgettable experiences that will leave you enchanted and inspired.Get ready to immerse yourself in the warmth and hospitality of Thai culture, indulge in delicious local cuisine, and unwind in the tranquil atmosphere of these tropical paradises. Whether you're seeking relaxation, adventure, or a mix of both, Phuket and Krabi offer the ultimate getaway for travelers of all kinds."
@@ -5962,7 +5963,7 @@
   "name": "Download PDF",
   "url": ""
       },
-  "price": 85400,
+  "price": 66600,
 
   "description": [
     "Experience the perfect blend of entertainment, skyline beauty, and cultural heritage in Hong Kong & Macau.",
@@ -6098,7 +6099,7 @@
   "name": "Download PDF",
   "url": "/pdf/bali-uncovered-5-nights-6-days.pdf"
       },
-  "price": 36146,
+  "price": 38700,
 
   "description": [
     "Bali, the 'Island of the Gods,' is a tropical paradise renowned for its stunning beaches, lush green landscapes, and rich cultural heritage. Located in the Indonesian archipelago, Bali offers a unique blend of traditional temples, vibrant markets, and luxurious resorts.",
@@ -6276,7 +6277,7 @@
   "name": "Download PDF",
   "url": "/pdf/taiwan-8-days.pdf"
       },
-  "price": 91310,
+  "price": 91800,
 
   "description": [
     "Explore the vibrant city of Taipei, known for its stunning skyline, bustling night markets, and iconic landmarks like Taipei 101. Experience the natural beauty of Taichung, with its scenic mountains and lush countryside. Visit Kaohsiung, a city surrounded by stunning harbor views and historic landmarks. Discover the pristine landscapes and indigenous culture of Taitung, and relax in the hot springs and scenic surroundings of Jiaoxi. This journey showcases the diversity and charm of Taiwan, from bustling cities to natural wonders."
@@ -6620,7 +6621,7 @@
   "name": "Download PDF",
   "url": "/pdf/bhutan-adventure-5-nights-6-days.pdf"
       },
-  "price": 41990,
+  "price": 45000,
 
   "description": [
     "Discover the mystical kingdom of Bhutan, a land of breathtaking beauty, pristine culture, and warm hospitality. Visit the charming cities of Thimphu, Punakha, and Paro, and immerse yourself in the country's unique blend of traditional and modern charm. Explore majestic fortress monasteries, ancient temples, and sacred sites, including the iconic Paro Taktsang (Tiger's Nest Monastery), and discover the vibrant culture, rich history, and stunning natural beauty of Bhutan, from lush valleys and towering mountains to picturesque villages and traditional farms, with a 5-night journey through Thimphu (2N), Punakha (1N), and Paro (2N)."
@@ -6791,7 +6792,7 @@
   "name": "Download PDF",
   "url": "/pdf/classic-china-journey-through-time-7-nights-8-days.pdf"
       },
-  "price": 120743,
+  "price": 31500,
 
   "description": [
     "Embark on an unforgettable journey through China's ancient history, vibrant culture, and breathtaking landscapes. Explore the iconic cities of Beijing, Xian, and Shanghai, each offering a unique glimpse into China's fascinating past and present.",
@@ -6974,7 +6975,7 @@
   "name": "Download PDF",
   "url": "/pdf/mauritius-4-nights-5-days.pdf"
       },
-  "price": 31068,
+  "price": 36900,
 
   "description": [
     "Discover the gem of the Indian Ocean - Mauritius! This tropical paradise is famous for its stunning beaches, crystal-clear waters, and coral reefs, with diverse landscapes ranging from lush forests to rugged mountains. Experience the unique blend of French, British, and African cultures, enjoy snorkeling, diving, and other water sports, and relax on pristine beaches, making Mauritius the perfect destination for adventure, relaxation, or romance."
@@ -7131,7 +7132,7 @@
   "name": "Download PDF",
   "url": "/pdf/maldives-3-nights-4-days.pdf"
       },
-  "price": 107834,
+  "price": 110700,
 
   "description": [
     "Escape to a tropical paradise in the Maldives, where luxurious beach villas overlook crystal-clear waters and pristine white sand beaches. Snorkel or dive among vibrant coral reefs and marine life, indulge in world-class spa treatments and fine dining experiences, and enjoy sunset cruises, fishing, and other water sports in a stunning Indian Ocean setting. Book your dream Maldives getaway and experience the ultimate in relaxation and luxury!"
@@ -7277,7 +7278,7 @@
   "name": "Download PDF",
   "url": "/pdf/seychelles-islands-of-endless-beauty.pdf"
       },
-  "price": 49820,
+  "price": 115200,
 
  "description": [
   "Seychelles is a breathtaking tropical island nation in the Indian Ocean, known for its crystal-clear turquoise waters, powdery white-sand beaches, and dramatic granite rock formations. Surrounded by vibrant coral reefs and lush green hills, the islands offer a perfect blend of natural beauty and tranquility. With its warm tropical climate, rich marine life, and relaxed island atmosphere, Seychelles is an ideal destination for beach lovers, honeymooners, and nature enthusiasts seeking a peaceful and scenic getaway."
@@ -7606,7 +7607,7 @@
   "name": "Download PDF",
   "url": "/pdf/langkawi-kuala-lumpur-6-nights-7-days.pdf"
       },
-  "price": 44100,
+  "price": 45900,
 
   "description": [
     "Malaysia: A Cultural and Natural Paradise Located in the heart of Southeast Asia, Malaysia is a vibrant and diverse country that offers a unique blend of culture, history, and natural beauty. From the bustling streets of Kuala Lumpur to the idyllic beaches of Penang, and from the ancient rainforests of Taman Negara to the majestic mountains of the Cameron Highlands, Malaysia has something for every kind of traveler.","With its rich cultural heritage, Malaysia is a melting pot of different ethnicities, religions, and traditions. The country's vibrant cities, such as Kuala Lumpur and Penang, offer a glimpse into its colonial past, while its rural areas provide a window into its indigenous culture. From the delicious street food to the colorful festivals, Malaysia is a country that is full of life and energy."
@@ -7918,7 +7919,7 @@
   "name": "Download PDF",
   "url": "/pdf/singapore-itx-4-nights-5-days.pdf"
       },
-  "price": 71100,
+  "price": 65700,
 
   "description": [
     "Experience the vibrant city-state of Singapore, a melting pot of cultures and cuisines. Explore iconic landmarks like Gardens by the Bay and Marina Bay Sands. Enjoy thrilling attractions like Universal Studios Singapore and Sentosa Island. Savor the flavors of Singapore's street food scene and indulge in world-class shopping. Discover the city's rich history and cultural heritage in this 5-day adventure."
@@ -8068,7 +8069,7 @@
   "name": "Download PDF",
   "url": "/pdf/vietnam-discovery-hanoi-ha-long-bay-3-nights-4-days.pdf"
       },
-  "price": 25200,
+  "price": 27000,
 
   "description": [
     "Experience an unforgettable journey through Vietnam's vibrant culture and breathtaking natural beauty. This itinerary takes you to Hanoi, the country's charming capital, and Ha Long Bay, a stunning UNESCO World Heritage Site. Explore Hanoi's Old Quarter, rich in history and culture, and cruise through Ha Long Bay's majestic limestone karsts and emerald waters. Discover ancient temples, pagodas, and historical landmarks, and indulge in delicious Vietnamese cuisine and local street food. Relax onboard a luxurious cruise in Ha Long Bay, and experience the warm hospitality of the Vietnamese people."
@@ -8226,7 +8227,7 @@
   "name": "Download PDF",
   "url": "/pdf/paris-to-vienna-9-nights-10-days.pdf"
       },
-  "price":  215000,
+  "price":  130500,
 
   "description": [
     "Embark on a thrilling journey through four captivating European cities, each steeped in history, culture, and natural beauty. Explore the City of Light, Paris, with its iconic landmarks and romantic atmosphere. Discover the charming Swiss town of Lucerne, nestled between mountains and lakes. Visit Innsbruck, the capital of Austria's Tyrol region, surrounded by breathtaking Alpine scenery. Finally, immerse yourself in the grandeur and elegance of Vienna, Austria's capital city."
@@ -8578,7 +8579,7 @@
   "name": "Download PDF",
   "url": "/pdf/swiss-bliss-4n-5d-interlaken-lucerne-getaway.pdf"
       },
-  "price": 41990,
+  "price": 79200,
 
   "description": [
     "Embark on an unforgettable 5-day journey through Turkey, exploring the vibrant cities, ancient ruins, and breathtaking landscapes of this incredible country."
@@ -8735,7 +8736,7 @@
   "name": "Download PDF",
   "url": "/pdf/swiss-bliss-4n-5d-interlaken-lucerne-getaway.pdf"
       },
-  "price": 107834,
+  "price": 92700,
 
   "description": [
     "Experience the breathtaking beauty of Switzerland on our 4 nights 5 days travel itinerary, exploring the picturesque towns of Interlaken and Lucerne.In Interlaken, surrounded by majestic mountains and serene lakes, enjoy a range of outdoor activities such as hiking, paragliding, or take a scenic boat tour on Lake Thun or Lake Brienz. Visit the top of Schilthorn Mountain for breathtaking views of the Eiger, Mönch, and Jungfrau mountains.In Lucerne, discover the city's charming old town, picturesque Chapel Bridge, and stunning Lion Monument. Take a scenic cruise on Lake Lucerne, surrounded by majestic mountains and lush greenery. Visit the nearby Mount Pilatus, with its breathtaking views of the surrounding landscape.Our Switzerland itinerary offers a perfect blend of natural beauty, outdoor adventure, and cultural exploration, making it an unforgettable experience for travelers. Join us on this incredible journey and discover the beauty, charm, and magic of Switzerland!"
@@ -8883,7 +8884,7 @@
   "name": "Download PDF",
   "url": "/pdf/sri-lanka-discovery-4-nights-5-days.pdf"
       },
-  "price": 0,
+  "price": 34200,
 
   "description": [
     "Explore Sri Lanka's cultural, natural, and wildlife wonders on this 4-night, 5-day adventure. Discover Kandy's ancient temples, Nuwara Eliya's stunning landscapes, and Yala's majestic wildlife.Experience the warmth of Sri Lankan hospitality, rich heritage, and breathtaking beauty. From scenic drives to wildlife encounters, and cultural immersion to modern delights, this journey promises lifelong memories."
@@ -9044,7 +9045,7 @@
   "name": "Download PDF",
   "url": "/pdf/sri-lanka-highlights-kandy-nuwara-eliya-bentota-colombo.pdf"
       },
-  "price": 189540,
+  "price": 37800,
   "description": [
     "Discover the essence of Sri Lanka on our 5 nights 6 days journey, exploring the country's rich cultural heritage, breathtaking natural beauty, and vibrant cities.Begin in Kandy, the cultural capital, and visit the sacred Temple of the Tooth, a UNESCO World Heritage Site. Experience the vibrant city's rich history, art, and architecture.Next, travel to Nuwara Eliya, the 'Little England' of Sri Lanka, and explore its picturesque landscapes, lush tea plantations, and colonial architecture.Then, head to Bentota, a tropical paradise on the west coast, and relax on its stunning beaches, take a scenic boat ride on the Bentota River, and indulge in water sports.Finally, end your journey in Colombo, the commercial capital, and discover its rich history, vibrant markets, and modern architecture.Our Sri Lanka itinerary offers a unique blend of culture, nature, and adventure, making it an unforgettable experience for travelers."
   ],
@@ -9220,8 +9221,7 @@
 
 
 
-  "price": 330300
-  ,
+  "price": 217197,
 
   "description": [
     "Experience the ultimate Australian adventure, exploring the country's diverse landscapes and vibrant cities. Begin in Melbourne, the cultural capital, where world-class restaurants, museums, and theaters await. Next, head to Cairns, the gateway to the breathtaking Great Barrier Reef and the lush Daintree Rainforest. Then, discover Sydney's iconic landmarks, such as the Opera House and Harbour Bridge, and soak up the sun on Bondi Beach. Finally, visit Adelaide, the food and wine capital, surrounded by picturesque vineyards and boasting a rich cultural heritage, with its elegant architecture and vibrant arts scene."
@@ -9432,7 +9432,7 @@
   "name": "Download PDF",
   "url": "/pdf/south-africa-5-nights-6-days.pdf"
       },
-  "price": 189540,
+  "price": 82636,
   "description": [
     "Discover the vibrant spirit of South Africa on this 5-day adventure. Begin in stunning Cape Town, where you'll spend three nights exploring the city's iconic landmarks, such as Table Mountain and Cape of Good Hope. Take in the breathtaking views of the Atlantic Ocean, visit the vibrant Bo-Kaap neighborhood, and sample some of the world's best wines in the nearby Winelands. Then, head to Sun City, a luxury resort nestled in the heart of the Pilanesberg Game Reserve, where you'll spend two nights surrounded by untamed African wilderness. Enjoy thrilling game drives, relax at the Valley of Waves, or try your luck at the casino – the perfect blend of adventure, relaxation, and luxury."
   ],
@@ -9588,7 +9588,7 @@
   "name": "Download PDF",
   "url": "/pdf/dubai-delight-5-nights-6-days-getaway.pdf"
       },
-  "price":  215000,
+  "price":  74700,
 
   "description": [
     "Embark on an unforgettable journey to the United Arab Emirates, where stunning landscapes, vibrant culture, and opulent luxury await. Our 5 Night 6 Days itinerary takes you on a thrilling adventure through Dubai and Abu Dhabi, showcasing the best of these two incredible cities.In Dubai, marvel at the majestic Burj Khalifa, the world's tallest building, and experience the stunning Dubai Fountain Show. Explore the iconic Palm Jumeirah, visit traditional souks, and indulge in thrilling desert safaris.","Next, journey to Abu Dhabi, the capital city of the UAE, where you'll discover a treasure trove of cultural and historical landmarks. Visit the breathtaking Sheikh Zayed Mosque, explore the iconic Louvre Abu Dhabi, and experience the thrilling rides and attractions of Ferrari World.Throughout your journey, enjoy luxurious accommodations, savour delicious cuisine, and take advantage of our expert guides and hassle-free transfers. Whether you're looking for adventure, relaxation, or cultural immersion, our Dubai and Abu Dhabi itinerary has something for everyone."
@@ -9752,7 +9752,7 @@
   "name": "Download PDF",
   "url": "/pdf/istanbul-antalya-4-nights-5-days.pdf"
       },
-  "price":  215000,
+  "price":  150300,
 
   "description": [
     "Uncover the treasures of Turkey! From the bustling streets of Istanbul to the sun-kissed beaches of Antalya, this journey offers a unique blend of culture, adventure, and relaxation."
@@ -9916,7 +9916,7 @@
   "name": "Download PDF",
   "url": "/pdf/kuala-lumpur-escapade-4-nights-5-days.pdf"
       },
-  "price": 21600,
+  "price": 30600,
 
   "description": [
     "Malaysia: A Cultural and Natural Paradise Located in the heart of Southeast Asia, Malaysia is a vibrant and diverse country that offers a unique blend of culture, history, and natural beauty. From the bustling streets of Kuala Lumpur to the idyllic beaches of Penang, and from the ancient rainforests of Taman Negara to the majestic mountains of the Cameron Highlands, Malaysia has something for every kind of traveler.",
@@ -10068,7 +10068,7 @@
   "name": "Download PDF",
   "url": "/pdf/new-zealand-explorer-11-nights-12-days.pdf"
       },
-  "price":  215000,
+  "price":  226919,
 
   "description": [
     "Embark on an unforgettable journey through New Zealand's breathtaking landscapes. Begin in Auckland, the City of Sails, before traveling to Rotorua, where Maori culture and geothermal wonders await. Next, fly to Christchurch, the Garden City, and then venture to the stunning Glacier Region, where towering mountains and glaciers reign supreme. Continue to picturesque Queenstown, the adventure capital of the world, and enjoy three nights surrounded by majestic mountains and serene lakes. Visit the serene Lake Tekapo and majestic Mt. Cook, before returning to Christchurch for a final night. This 11-day journey showcases the best of New Zealand's diverse natural beauty, unique culture, and adventure activities."
@@ -10271,7 +10271,7 @@
   "name": "Download PDF",
   "url": "/pdf/paradise-bangkok-pattaya-4-nights-5-days.pdf"
       },
-  "price": 21600,
+  "price": 26100,
 
   "description": [
     "Embark on an unforgettable journey to the vibrant cities of Bangkok and Pattaya, where ancient traditions meet modern charm. Immerse yourself in the rich cultural heritage, stunning architecture, and warm hospitality that Thailand has to offer. This 4-night, 5-day itinerary promises an exciting blend of culture, entertainment, and relaxation, carefully crafted to showcase the best of these two fascinating cities."
@@ -10424,7 +10424,7 @@
   "name": "Download PDF",
   "url": "/pdf/phuket-island-of-dreams-3-nights-4-days.pdf"
       },
-  "price": 21600,
+  "price": 28800,
 
   "description": [
     "Phuket, Thailand's largest island, is a tropical paradise renowned for its stunning beaches, crystal-clear waters, and vibrant nightlife. The island's lush forests, towering limestone cliffs, and picturesque villages create a breathtaking landscape. Phuket's iconic beaches, such as Patong, Kata, and Karon, offer powdery white sand and turquoise waters perfect for relaxation and water sports. The island's rich culture, delicious seafood, and lively markets add to its charm, making Phuket an unforgettable destination for travelers."
@@ -10574,7 +10574,7 @@
   "name": "Download PDF",
   "url": "/pdf/portugal-uncovered-7-day-tour.pdf"
       },
-  "price": 21600,
+  "price": 144000,
 
   "description": [
     "Experience the charm of Portugal, a country steeped in history and culture. Begin in Lisbon (3N), the picturesque capital, where historic trams wind through colorful neighborhoods, and majestic castles like São Jorge and Belém Tower stand tall. Explore the vibrant streets of Alfama, indulge in traditional Fado music, and savor delicious seafood. Then, head north to Porto (3N), a city renowned for its Port wine production, stunning riverfront, and iconic Luis I Bridge. Wander through the Ribeira district, visit the Porto Cathedral, and sample the famous wine in the cellars of Vila Nova de Gaia. Discover the rich heritage and natural beauty of Portugal, from the scenic Douro Valley to the stunning coastline."
@@ -10931,7 +10931,7 @@
   "name": "Download PDF",
   "url": "/pdf/sands-of-time-egyptian-escape-6-nights-7-days.pdf"
       },
-  "price": 189540,
+  "price":  107920,
   "description": [
     "Embark on an unforgettable journey through ancient Egypt, exploring the vibrant city of Cairo, cruising along the majestic Nile River, and uncovering the secrets of the pharaohs. Discover the iconic Pyramids of Giza, the Egyptian Museum's treasures, and the bustling streets of Islamic Cairo. Then, board a luxurious Nile Cruise and sail to Aswan and Luxor, visiting the magnificent temples of Philae, Kom Ombo, and Edfu, and the Valley of the Kings. Return to Cairo for a final night, bringing back memories of your incredible Egyptian adventure."
   ],
@@ -11093,7 +11093,7 @@
   ],
 
   "duration": "11 Nights / 12 Days",
-  "price":  215000,
+  "price":  320400,
 
   "description": [
     "Discover the rich cultural heritage and breathtaking landscapes of Northern Spain on this captivating journey. Begin in Bilbao (2N), a vibrant city renowned for its iconic Guggenheim Museum and delicious pintxos. Explore the stunning medieval town of Santillana del Mar (1N), with its well-preserved architecture and historic significance. Next, visit Oviedo (2N), the capital of Asturias, boasting an impressive cathedral and picturesque old town. Continue to Santiago de Compostela (2N), a revered pilgrimage site and UNESCO World Heritage Site, featuring the majestic Cathedral of Santiago. Travel to Leon (2N), a city steeped in history and home to the breathtaking Gothic cathedral. Visit Burgos (1N), with its stunning cathedral and rich history, before returning to Bilbao (1N) to conclude your journey, filled with unforgettable experiences and memories of Northern Spain's unique charm."
@@ -11291,7 +11291,7 @@
   "name": "Download PDF",
   "url": "/pdf/best-of-europe-tour-italy-switzerland-france-10n-11d-1.pdf"
       },
-  "price": 189540,
+  "price": 280800,
   "description": [
     "Discover the highlights of Italy, Switzerland, and France on this unforgettable European journey. Explore historic Rome and Vatican City, admire the Leaning Tower of Pisa, experience the romance of Venice, and enjoy the scenic beauty of Lake Como. Marvel at the Swiss Alps with excursions to Mt. Titlis and Jungfraujoch, while visiting charming cities like Lucerne, Interlaken, Bern, Vevey, and Geneva. Conclude your tour in Paris, with visits to Versailles, iconic city landmarks, and a fun-filled day at Disneyland Paris."
   ],
@@ -11477,7 +11477,7 @@
   "name": "Download PDF",
   "url": "/pdf/greece-gateway.pdf"
       },
-  "price": 189540,
+  "price": 140400,
   "description": [
     "This Greece itinerary offers a perfect blend of ancient history, vibrant island life, and breathtaking natural beauty. Begin your journey in Athens, the cradle of Western civilization, where iconic landmarks like the Acropolis and Parthenon showcase the country’s rich heritage. Continue to the cosmopolitan island of Mykonos, known for its charming whitewashed streets, beautiful beaches, and lively waterfront atmosphere. Conclude your trip in the stunning island of Santorini, famous for its dramatic volcanic caldera, blue-domed churches, and unforgettable sunsets. Combining cultural exploration, scenic landscapes, and relaxing island experiences, this journey presents the very best of Greece in one memorable trip."
   ],
@@ -11937,27 +11937,27 @@
 
 
  "bannerImages": [
-      "/images/banners/narway/aihole-sightseeing.webp",
-    "/images/banners/narway/badami-and-aihole-sightseeing.webp",
-    "/images/banners/narway/badami-sightseeing.webp",
-    "/images/banners/narway/hampi-sightseeing.webp",
-    "/images/banners/narway/pattadakal.webp"
+      "/images/banners/narway/bergen-&-fjord-cruise.webp",
+    "/images/banners/narway/nutshell.webp",
+    "/images/banners/narway/oslo.webp",
+    "/images/banners/narway/oslo-museums.webp",
+    "/images/banners/narway/scenic-train-to-bergen.webp"
   
    
     ],
     "bannerLgImages": [
-     "/images/banners/narway/aihole-sightseeing.webp",
-    "/images/banners/narway/badami-and-aihole-sightseeing.webp",
-    "/images/banners/narway/badami-sightseeing.webp",
-    "/images/banners/narway/hampi-sightseeing.webp",
-    "/images/banners/narway/pattadakal.webp"
+     "/images/banners/narway/bergen-&-fjord-cruise.webp",
+    "/images/banners/narway/nutshell.webp",
+    "/images/banners/narway/oslo.webp",
+    "/images/banners/narway/oslo-museums.webp",
+    "/images/banners/narway/scenic-train-to-bergen.webp"
     ],
   "duration": "07 Nights / 08 Days",
     "pdf": {
   "name": "Download PDF",
   "url": "/pdf/explore-the-wild-heart-of-norway.pdf"
       },
-  "price": 189540,
+  "price": 206100,
   "description": [
     "Norway is a stunning Scandinavian country of fjords, mountains, glaciers, and a rugged coastline dotted with charming villages. From vibrant cities like Oslo and Bergen to the Arctic wonders of Tromsø, Norway offers scenic train rides, fjord cruises, hiking, and natural phenomena like the Midnight Sun and Northern Lights. Its dramatic landscapes and diverse climate make it perfect for adventure, culture, and unforgettable experiences."
   ],
