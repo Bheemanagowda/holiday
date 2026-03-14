@@ -1,5 +1,5 @@
 import AboutHero from "../../Components/AboutHero";
-import CommonHeading from "../../Components/ReuseComponent/CommonHeading";
+
 import OurServiceCard from "../../Components/OurServiceCard";
 import { v4 as uuidv4 } from "uuid";
 import OurVisionAndMission from "../../Components/OurVisionAndMission";
@@ -73,10 +73,11 @@ function About(props) {
       
       <AboutHero />
       <div className="pt-8">
-        <CommonHeading
-          intro={"We offer a wide range of travel services, including"}
-          heading={"Our Services"}
-        />
+       <h1 className="font-secondary_font font-bold text-[36px]  text-center pt-4">
+  Meet The Founders
+</h1>
+     <div className="flex justify-center">
+  <img src="/images/brush.webp" className="w-20 py-1" alt="brush" /> </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 pt-3  lg:grid-cols-4 gap-3 lg:gap-6">
           {ourServices?.map((item,index) => (

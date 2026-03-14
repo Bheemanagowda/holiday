@@ -1,6 +1,6 @@
 import React from "react";
 
-function CommonHeading({ intro, heading, more }) {
+function CommonHeading({ intro, heading, more,  }) {
   return (
     <div className="text-center capitalize">
     
@@ -28,6 +28,7 @@ function CommonHeading({ intro, heading, more }) {
           {more}
         </h5>
       )}
+
     </div>
   );
 }

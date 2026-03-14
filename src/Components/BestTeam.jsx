@@ -2,7 +2,7 @@
 
 import React from "react";
 import BestTeamCard from "./BestTeamCard";
-import CommonHeading from "./ReuseComponent/CommonHeading";
+
 
 const teamMembers = [
   {
@@ -25,8 +25,13 @@ const BestTeam = () => {
   return (
     <div className="container mx-auto py-14 ">
       <div className="text-center mb-10">
-        <CommonHeading heading="Meet the Founders" />
-        <p className="text-gray-600 mt-2">
+  <h1 className="font-secondary_font font-bold text-[36px] pt-4">
+  Meet The Founders
+</h1>
+     <div className="flex justify-center">
+  <img src="/images/brush.webp" className="w-20 py-1" alt="brush" />
+</div>
+        <p className="pt-3 text-lg md:text-base xl:text-xl text-light_black_c capitalize">
       Every Destination Starts With Their Story
         </p>
       </div>

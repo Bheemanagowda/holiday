@@ -25,9 +25,9 @@ function BestTeamCard({ member, reverse }) {
         </h3>
 
       <h2 className="
-  text-[32px]
-  sm:text-[36px]
-  md:text-[44px]
+  text-[26px]
+  sm:text-[28px]
+  md:text-[33px]
 
   font-bold text-gray-800 leading-tight mb-4
 ">
@@ -36,7 +36,7 @@ function BestTeamCard({ member, reverse }) {
 
 
 
-  <p class="member-desc">
+  <p class="pt-3 text-lg md:text-base xl:text-xl text-light_black_c capitalize">
   {member.description}
 </p>
 
