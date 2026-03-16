@@ -6,25 +6,25 @@ const numbers = [
     title: "Reviews",
     value: 800,
     suffix: "+",
-    img: "/images/icons/new-icons/google.png",
+    img: "/images/icons/search.png",
   },
   {
     title: "Followers",
     value: 10000,
     suffix: "+",
-    img: "/images/icons/new-icons/insta.png",
+    img: "/images/icons/social.png",
   },
   {
     title: "Happy Customers",
     value: 4500,
     suffix: "+",
-    img: "/images/icons/new-icons/satisfy-customer.png",
+    img: "/images/icons/happy-face.png",
   },
   {
     title: "Countries Served",
     value: 35,
     suffix: "+",
-    img: "/images/icons/new-icons/countries.png",
+    img: "/images/icons/country.png",
   },
 ];
 
