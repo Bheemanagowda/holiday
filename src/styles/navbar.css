@@ -94,7 +94,7 @@
 
   
 }
-@media screen and (min-width: 1333px) and (max-width :1920px) {
+@media screen and (min-width: 1334px) and (max-width :1920px) {
   .navitem > a,
   .navitem > div {
     font-size: 18px !important;
