@@ -101,7 +101,7 @@ function Navbar() {
             {navdata.map((ele, index) => (
               <div
                 key={uuidv4()}
-               className={`navitem group px-2  ${ele.className || ""}`}
+               className={`navitem group px-4  ${ele.className || ""}`}
                 onMouseEnter={() => ele.type && setActiveMegaIndex(index)}
                 onMouseLeave={() => setActiveMegaIndex(null)}
               >
